@@ -55,7 +55,8 @@ Drive-pad: `07. MARKETING / 1. Social Media /`
    een goed script: persoonlijke feiten (waarom, hoe, wanneer), cijfers, wat er echt gebeurd is,
    welke beelden er al zijn. Schrijf pas daarna het script. Liever een paar gerichte vragen dan
    een script vol invulplekken.
-2. **Kort houden.** Ondernemingsvideo's maximaal 45 seconden, reclamevideo's maximaal 30 seconden.
+2. **Kort houden.** Elke video maximaal **45 seconden, eindbeeld (4 s) inbegrepen**.
+   Reclamevideo's liefst nog korter (± 30 seconden). Reken met ± 3 gesproken woorden per seconde.
    Eén boodschap per video; wat niet past, wordt een volgende video.
 
 ## Opbouw van een script

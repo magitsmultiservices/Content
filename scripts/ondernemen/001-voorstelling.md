@@ -2,14 +2,14 @@
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 60 seconden
+- **Lengte:** ± 38 seconden (met eindbeeld onder 45 s)
 - **Vorm:** Yelte praat recht in de camera, met korte beelden van het werk ertussen
 - **Bron:** eigen teksten van Yelte ("Intro dat ik had" en "Ideeën ondernemingsvideo's", video 1)
-- **Status:** klaar om op te nemen (cijfers in blok 1 eerst controleren)
+- **Status:** klaar om op te nemen (cijfer in blok 1 eerst controleren)
 
 ---
 
-## Hook (0–4 s)
+## Hook (0–6 s)
 Kies er één:
 
 1. "Aflevering 1. Ik ben 23 en ik probeer mijn eigen bedrijf op te richten. En je mag alles zien."
@@ -19,40 +19,34 @@ Kies er één:
 > Beeld: Yelte in of naast de camionette, dicht bij de camera.
 > Tekst op scherm: **Aflevering 1**
 
-## Blok 1 · De vraag (4–15 s)
-"Want de cijfers zijn hard. In 2024 stopten bijna [110.000] bedrijven ermee, en [11.000] daarvan gingen failliet.
-Klanten die afhaken omdat alles duurder wordt, energie en materiaal die je winst opeten, papierwerk…
+## Blok 1 · De vraag (6–13 s)
+"Want de cijfers zijn hard. In 2024 stopten bijna [110.000] bedrijven ermee.
 Dus: kan je vandaag nog van nul een bedrijf opbouwen?"
 
-> Beeld: Yelte in de camera. Cijfers groot in beeld.
+> Beeld: Yelte in de camera.
 > Tekst op scherm: **[110.000] bedrijven gestopt in 2024**
-> ⚠️ Cijfers en bron eerst controleren (bv. Statbel) voor we ze in beeld zetten.
+> ⚠️ Cijfer en bron eerst controleren (bv. Statbel) voor we het in beeld zetten.
 
-## Blok 2 · Wie ben ik (15–28 s)
-"Ik ben Yelte. Mijn bedrijf heet Magits Multiservices.
-Ik doe tuinonderhoud en rommelophaling, in Antwerpen, Mechelen en omstreken.
+## Blok 2 · Wie ben ik (13–22 s)
+"Ik ben Yelte. Mijn bedrijf heet Magits Multiservices: tuinonderhoud en rommelophaling, in Antwerpen, Mechelen en omstreken.
 Voorlopig sta ik er nog alleen voor."
 
 > Beeld: snelle shots: tuinwerk, rommelophaling, camionette, materiaal.
 > Tekst op scherm: **Tuin · Rommel**
 
-## Blok 3 · Wat je gaat zien (28–45 s)
-"En ik ga je niet alleen het eindresultaat tonen.
-Ik ga laten zien hoeveel dingen kosten, welke keuzes ik maak, waar ik geld in steek, of en wanneer ik iemand aanneem…
-welke fouten ik maak, en hoeveel er uiteindelijk écht overblijft.
-De ups én de downs."
+## Blok 3 · Wat je gaat zien (22–30 s)
+"Ik toon je alles: wat dingen kosten, welke keuzes ik maak, welke fouten, en wat er écht overblijft."
 
 > Beeld: laptop, planning, telefoon, een zware werkdag, een eindresultaat.
 > Tekst op scherm: **Kosten · Keuzes · Fouten · Groei**
 
-## Blok 4 · Waarom (45–55 s)
-"Ik doe dat omdat ik hoop dat het jonge mensen een duw geeft om hun eigen droom te bouwen.
-Want als het kan, wil ik dat jij ziet hóé."
+## Blok 4 · Waarom (30–35 s)
+"Zodat jij ziet hóé het kan, als je zelf iets wil starten."
 
 > Beeld: Yelte in de camera, rustig en direct.
 
-## Call-to-action (55–60 s)
-"Dit was aflevering 1. Wil je zien hoe het verder gaat? Volg dan zeker."
+## Call-to-action (35–38 s)
+"Dit was aflevering 1. Volg zeker mee."
 
 > Tekst op scherm: **Volg het hele verhaal**
 > Daarna: standaard zwart eindbeeld.
