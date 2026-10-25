@@ -8,6 +8,7 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
 - **Diensten:** tuinonderhoud, rommelophaling en klusjes
 - **Regio:** Antwerpen, Mechelen en omstreken
 - **Website:** magitsmultiservices.be
+- **Telefoon:** +32 492 88 44 24
 - **Handle:** Magitsmultiservices (Instagram, Facebook, TikTok, YouTube)
 - **Slogan:** Vakkundig · Netjes · Betrouwbaar
 - **Boodschap:** tuin, rommel en klusjes in één keer geregeld

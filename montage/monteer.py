@@ -32,7 +32,6 @@ LOGO = HUISSTIJL / "logo-wit.png"
 B, H, FPS = 1080, 1920, 30
 
 # Huisstijlkleuren (zie huisstijl/huisstijl.md). ASS gebruikt &HAABBGGRR.
-BOSGROEN = "154727"
 LIMOEN = "8CD742"
 DONKER = "0F1A14"
 
@@ -45,6 +44,8 @@ def ass_kleur(hexkleur, alpha="00"):
 WIT = "&H00FFFFFF"
 SLOGAN = "VAKKUNDIG · NETJES · BETROUWBAAR"
 HANDLE = "Volg @Magitsmultiservices"
+WEBSITE = "magitsmultiservices.be"
+TELEFOON = "+32 492 88 44 24"
 
 ASS_KOP = f"""[Script Info]
 ScriptType: v4.00+
@@ -58,6 +59,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Onder,Montserrat ExtraBold,82,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER, "80")},0,0,0,0,100,100,1,0,1,7,3,2,90,90,560,1
 Style: Titel,Montserrat Black,62,{ass_kleur(DONKER)},{WIT},{ass_kleur(LIMOEN)},{ass_kleur(LIMOEN)},0,0,0,0,100,100,1,0,3,20,0,8,90,90,250,1
 Style: Slogan,Montserrat Bold,44,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,2,0,1,0,0,5,60,60,0,1
+Style: Info,Montserrat Bold,54,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,1,0,1,0,0,5,60,60,0,1
 Style: Handle,Montserrat ExtraBold,58,{ass_kleur(LIMOEN)},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,0,0,1,0,0,5,60,60,0,1
 
 [Events]
@@ -112,20 +114,22 @@ def segment(clip, doel):
     return tot - van
 
 
-def eindbeeld(doel, werk, duur=3.0):
-    """Groen eindbeeld met logo, slogan en handle."""
+def eindbeeld(doel, werk, duur=4.0):
+    """Zwart eindbeeld met logo, slogan, website, telefoon en handle."""
     ass = werk / "eind.ass"
     ass.write_text(ASS_KOP
-                   + f"Dialogue: 0,{tijd(0.4)},{tijd(duur)},Slogan,,0,0,0,,{{\\pos(540,1330)\\fad(300,0)}}{SLOGAN}\n"
-                   + f"Dialogue: 0,{tijd(0.8)},{tijd(duur)},Handle,,0,0,0,,{{\\pos(540,1450)\\fad(300,0)}}{HANDLE}\n",
+                   + f"Dialogue: 0,{tijd(0.4)},{tijd(duur)},Slogan,,0,0,0,,{{\\pos(540,1230)\\fad(300,0)}}{SLOGAN}\n"
+                   + f"Dialogue: 0,{tijd(0.8)},{tijd(duur)},Info,,0,0,0,,{{\\pos(540,1390)\\fad(300,0)}}{WEBSITE}\n"
+                   + f"Dialogue: 0,{tijd(0.8)},{tijd(duur)},Info,,0,0,0,,{{\\pos(540,1480)\\fad(300,0)}}{TELEFOON}\n"
+                   + f"Dialogue: 0,{tijd(1.2)},{tijd(duur)},Handle,,0,0,0,,{{\\pos(540,1620)\\fad(300,0)}}{HANDLE}\n",
                    encoding="utf-8")
     run(["ffmpeg", "-y", "-v", "error",
-         "-f", "lavfi", "-i", f"color=c=0x{BOSGROEN}:s={B}x{H}:r={FPS}:d={duur}",
+         "-f", "lavfi", "-i", f"color=c=black:s={B}x{H}:r={FPS}:d={duur}",
          "-loop", "1", "-i", str(LOGO),
          "-f", "lavfi", "-i", "anullsrc=r=48000:cl=stereo",
          "-filter_complex",
          f"[1:v]scale=620:-1,format=rgba,fade=in:st=0:d=0.4:alpha=1[l];"
-         f"[0:v][l]overlay=(W-w)/2:330:shortest=1,"
+         f"[0:v][l]overlay=(W-w)/2:420:shortest=1,"
          f"ass={ass}:fontsdir={FONTS},format=yuv420p[v]",
          "-map", "[v]", "-map", "2:a", "-t", str(duur), *VIDEO_OPTS, *AUDIO_OPTS, str(doel)])
     return duur
