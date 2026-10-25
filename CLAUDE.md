@@ -15,11 +15,29 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
 - Het bedrijf is nieuw. Doel nummer één: nieuwe klanten bereiken.
 
 ## Twee soorten video's
-1. **Klanten** (`scripts/klanten/`): voor mensen in de regio die hulp zoeken.
+1. **Reclame** (`scripts/reclame/`): voor mensen in de regio die hulp zoeken.
    Bv. voor/na-beelden, tips, een dag op de werf. Spreek kijkers aan met "u".
+   CTA's uit het social-media-overzicht: "Stuur ons een foto voor een prijsinschatting",
+   "Stuur ons een bericht voor een offerte", "Ken je iemand die dit nodig heeft? Stuur deze video door." 
 2. **Ondernemen** (`scripts/ondernemen/`): voor een breed publiek, vooral jonge mensen
    die zelf een zaak willen starten. Yelte toont hoe hij werkt, met de ups én de downs.
-   Natuurlijke spreektaal, "je" mag hier.
+   Natuurlijke spreektaal, "je" mag hier. Reeksnaam: **Magits Groeit** (aflevering 1, 2, …).
+   Yelte is 23 en bouwt het bedrijf samen met goede vrienden en studenten.
+   Yelte heeft zelf al ideeën voor de reeks uitgeschreven in Drive (zie hieronder): vertrek daarvan.
+
+## Planning
+Per week: **2 ondernemingsvideo's + 1 reclamevideo**, op Instagram, TikTok en YouTube (Shorts).
+
+## Google Drive
+Drive-pad: `07. MARKETING / 1. Social Media /`
+- `Ondernemingsvideo's/Video <n>/` en `Reclamevideo's/Video <n>/`
+- In elke map `Video <n>`: Claude zet het script (Google Doc "Script - Video <n>") met een
+  opnamelijst. Yelte zet er zijn opnames in. Claude monteert en zet het eindresultaat
+  er pas in **na goedkeuring** van Yelte (bestandsnaam `FINAAL - Video <n>.mp4`).
+- Video <n> in Drive = `scripts/ondernemen/<nnn>-*.md` of `scripts/reclame/<nnn>-*.md` hier.
+- Bestaande documenten in `1. Social Media/Content/`: "Ideeën ondernemingsvideo's"
+  (uitgewerkte teksten voor de reeks), "Intro dat ik had", "01/2027 - Content planner",
+  en in `1. Social Media/`: "SOCIAL MEDIA OVERZICHT MAGITS" (doelgroepen, contentpijlers, CTA's).
 
 ## Schrijfregels
 - Altijd Nederlands (Vlaams), in natuurlijke spreektaal: korte zinnen, zoals je praat.
