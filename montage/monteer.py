@@ -47,7 +47,7 @@ HANDLE = "Volg @Magitsmultiservices"
 WEBSITE = "magitsmultiservices.be"
 TELEFOON = "+32 492 88 44 24"
 # Helpt de spraakherkenning om namen en vaktermen juist te schrijven.
-WOORDENSCHAT = ("Ik ben Yelte van Magits Multiservices: tuinonderhoud, rommelophaling en klusjes "
+WOORDENSCHAT = ("Ik ben Yelte van Magits Multiservices: tuinonderhoud en rommelophaling "
                 "in Antwerpen, Mechelen en omstreken.")
 
 ASS_KOP = f"""[Script Info]

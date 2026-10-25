@@ -1,4 +1,4 @@
-# Ondernemingsvideo 1 · Week 1
+# Ondernemingsvideo 1 · Aflevering 1
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
@@ -12,12 +12,12 @@
 ## Hook (0–4 s)
 Kies er één:
 
-1. "Week 1. Ik ben 23 en ik probeer mijn eigen bedrijf op te richten. En je mag alles zien."
-2. "Ondernemen. Is dat anno 2026 eigenlijk nog mogelijk? Ik ga het uitzoeken. Dit is week 1."
-3. "Week 1 van mijn eigen bedrijf. Of het lukt? Geen idee. Kijk maar mee."
+1. "Aflevering 1. Ik ben 23 en ik probeer mijn eigen bedrijf op te richten. En je mag alles zien."
+2. "Ondernemen. Is dat anno 2026 eigenlijk nog mogelijk? Ik ga het uitzoeken. Dit is aflevering 1."
+3. "Aflevering 1. Mijn eigen bedrijf: lukt het of niet? Geen idee. Kijk maar mee."
 
 > Beeld: Yelte in of naast de camionette, dicht bij de camera.
-> Tekst op scherm: **Week 1**
+> Tekst op scherm: **Aflevering 1**
 
 ## Blok 1 · De vraag (4–15 s)
 "Want de cijfers zijn hard. In 2024 stopten bijna [110.000] bedrijven ermee, en [11.000] daarvan gingen failliet.
@@ -52,9 +52,9 @@ Want als het kan, wil ik dat jij ziet hóé."
 > Beeld: Yelte in de camera, rustig en direct.
 
 ## Call-to-action (55–60 s)
-"Dit was week 1. Wil je zien hoe het verder gaat? Volg dan zeker."
+"Dit was aflevering 1. Wil je zien hoe het verder gaat? Volg dan zeker."
 
-> Tekst op scherm: **Volg mee vanaf week 1**
+> Tekst op scherm: **Volg het hele verhaal**
 > Daarna: standaard zwart eindbeeld.
 
 ---
@@ -82,7 +82,7 @@ Want als het kan, wil ik dat jij ziet hóé."
 - Laat 1 seconde stilte voor en na elke take. Dat knipt makkelijker.
 
 ## Caption
-> Week 1. Ik ben 23 en ik probeer mijn eigen bedrijf op te richten: Magits Multiservices. Kan je anno 2026 nog van nul een bedrijf opbouwen? Ik toon je alles: de kosten, de keuzes, de fouten en wat er écht overblijft.
-> Volg mee vanaf week 1. 👊
+> Aflevering 1. Ik ben 23 en ik probeer mijn eigen bedrijf op te richten: Magits Multiservices. Kan je anno 2026 nog van nul een bedrijf opbouwen? Ik toon je alles: de kosten, de keuzes, de fouten en wat er écht overblijft.
+> Volg het hele verhaal. 👊
 >
 > #ondernemen #eigenzaak #jongeondernemer #buildinpublic #zelfstandige
