@@ -1,4 +1,4 @@
-# Reclamevideo 1 · Tuin, rommel en klusjes in één keer geregeld
+# Reclamevideo 1 · Tuin en rommel in één keer geregeld
 
 - **Soort:** reclame (klanten in de regio, aanspreken met "u")
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
@@ -11,18 +11,18 @@
 ## Hook (0–3 s)
 Kies er één:
 
-1. "Garage vol, tuin verwilderd en nog een lijst klusjes? Wij regelen het in één keer."
+1. "Garage vol en tuin verwilderd? Wij regelen het in één keer."
 2. "Moet uw zolder, garage of woning leeg? Kijk even mee."
 3. "Zo ziet een tuin eruit voor Magits langskwam… en zo erna."
 
 > Beeld: snelle voor-beelden: volle garage, verwilderde tuin.
-> Tekst op scherm: **Tuin · Rommel · Klusjes**
+> Tekst op scherm: **Tuin · Rommel**
 
 ## Blok 1 · Wat we doen (3–12 s)
-"Magits Multiservices doet tuinonderhoud, rommelophaling en klusjes.
+"Magits Multiservices doet tuinonderhoud en rommelophaling.
 In Antwerpen, Mechelen en omstreken."
 
-> Beeld: per dienst één korte clip: haag snoeien, spullen in de camionette, een klus.
+> Beeld: per dienst één korte clip: haag snoeien, spullen in de camionette.
 
 ## Blok 2 · Hoe het werkt (12–20 s)
 "Stuur ons een foto van wat er moet gebeuren. Dan krijgt u snel een prijsinschatting.
@@ -43,14 +43,13 @@ Wij komen langs, doen het werk en laten alles netjes achter."
 - [ ] Voor- en na-beelden van een tuin (zelfde standpunt, liefst vanaf statief of vaste plek)
 - [ ] Voor- en na-beelden van een rommelophaling (garage, zolder of kamer)
 - [ ] Clips van het werk: snoeien, maaien, dragen, laden (3 tot 10 seconden elk)
-- [ ] Een klusje in actie
 - [ ] Een telefoon die een foto neemt van een tuin of rommel
 - [ ] De tekst ingesproken (in de camera of alleen geluid), elk blok apart
 
 Geen herkenbare klanten, huisnummers of nummerplaten in beeld zonder toestemming.
 
 ## Caption
-> Tuin, rommel en klusjes in één keer geregeld. Stuur ons een foto van wat er moet gebeuren, dan krijgt u snel een prijsinschatting.
+> Tuin en rommel in één keer geregeld. Stuur ons een foto van wat er moet gebeuren, dan krijgt u snel een prijsinschatting.
 > Actief in Antwerpen, Mechelen en omstreken. 📞 +32 492 88 44 24 · magitsmultiservices.be
 >
-> #tuinonderhoud #rommelophaling #antwerpen #mechelen #klusjes
+> #tuinonderhoud #rommelophaling #antwerpen #mechelen

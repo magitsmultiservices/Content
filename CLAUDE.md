@@ -5,13 +5,13 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
 ## Het bedrijf
 - **Naam:** Magits Multiservices
 - **Oprichter:** Yelte Magits
-- **Diensten:** tuinonderhoud, rommelophaling en klusjes
+- **Diensten:** tuinonderhoud en rommelophaling
 - **Regio:** Antwerpen, Mechelen en omstreken
 - **Website:** magitsmultiservices.be
 - **Telefoon:** +32 492 88 44 24
 - **Handle:** Magitsmultiservices (Instagram, Facebook, TikTok, YouTube)
 - **Slogan:** Vakkundig · Netjes · Betrouwbaar
-- **Boodschap:** tuin, rommel en klusjes in één keer geregeld
+- **Boodschap:** tuin en rommel in één keer geregeld
 - Het bedrijf is nieuw. Doel nummer één: nieuwe klanten bereiken.
 
 ## Twee soorten video's
@@ -21,8 +21,9 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
    "Stuur ons een bericht voor een offerte", "Ken je iemand die dit nodig heeft? Stuur deze video door." 
 2. **Ondernemen** (`scripts/ondernemen/`): voor een breed publiek, vooral jonge mensen
    die zelf een zaak willen starten. Yelte toont hoe hij werkt, met de ups én de downs.
-   Natuurlijke spreektaal, "je" mag hier. Reeksnaam: **Magits Groeit** (aflevering 1, 2, …).
-   Yelte is 23 en bouwt het bedrijf samen met goede vrienden en studenten.
+   Natuurlijke spreektaal, "je" mag hier. Geen reeksnaam en geen "aflevering 1, 2, …":
+   de invalshoek is "dag 1" van Yelte die zijn eigen bedrijf probeert op te richten.
+   Yelte is 23 en staat er voorlopig alleen voor (nog geen team).
    Yelte heeft zelf al ideeën voor de reeks uitgeschreven in Drive (zie hieronder): vertrek daarvan.
 
 ## Planning
