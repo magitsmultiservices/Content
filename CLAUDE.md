@@ -21,8 +21,9 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
    "Stuur ons een bericht voor een offerte", "Ken je iemand die dit nodig heeft? Stuur deze video door." 
 2. **Ondernemen** (`scripts/ondernemen/`): voor een breed publiek, vooral jonge mensen
    die zelf een zaak willen starten. Yelte toont hoe hij werkt, met de ups én de downs.
-   Natuurlijke spreektaal, "je" mag hier. Geen reeksnaam en geen "aflevering 1, 2, …":
-   de invalshoek is "dag 1" van Yelte die zijn eigen bedrijf probeert op te richten.
+   Natuurlijke spreektaal, "je" mag hier. Geen reeksnaam en geen "aflevering" of "dag":
+   de teller is "Week <n>" (week 1, week 2, …); beide ondernemingsvideo's van dezelfde week krijgen hetzelfde weeknummer.
+   Invalshoek: Yelte die zijn eigen bedrijf probeert op te bouwen.
    Yelte is 23 en staat er voorlopig alleen voor (nog geen team).
    Yelte heeft zelf al ideeën voor de reeks uitgeschreven in Drive (zie hieronder): vertrek daarvan.
 
