@@ -7,9 +7,9 @@ Afgeleid van de kleuren en het logo van de Magits-app. `montage/monteer.py` past
 |---|---|---|
 | Zwart | `#000000` | achtergrond eindbeeld (altijd) |
 | Bosgroen | `#154727` | reserve-accent |
-| Limoen | `#8CD742` | gesproken woord in ondertitels, tekstkaders, handle |
-| Donker | `#0F1A14` | rand rond ondertitels, tekst in limoen kader |
-| Wit | `#FFFFFF` | ondertitels, slogan, logo |
+| Limoen | `#8CD742` | gesproken woord in ondertitels, handle |
+| Donker | `#0F1A14` | rand rond ondertitels |
+| Wit | `#FFFFFF` | ondertitels, tekst bovenaan, slogan, logo |
 
 ## Lettertype: Montserrat
 - **ExtraBold**: ondertitels (hoofdletters) en handle
@@ -25,7 +25,8 @@ Bestanden in `huisstijl/fonts/` (Google Fonts, vrije SIL Open Font License).
 - Positie: onderste derde, hoog genoeg om niet onder de knoppen van TikTok/Reels te vallen.
 
 ## Tekst op het scherm
-- Bovenaan, donkere tekst in een limoengroen kader.
+- Bovenaan, **witte letters met een zwarte rand**, zonder kader en zonder groen.
+  (Keuze van Yelte: geen limoengroen kader meer, voor alle video's.)
 - Kort: maximaal 4 à 5 woorden. Emoji's worden weggelaten (die horen in de caption).
 
 ## Eindbeeld (4 s)

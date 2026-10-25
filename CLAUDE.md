@@ -63,6 +63,8 @@ Nieuwe ideeën gaan in `ideeen.md`.
 
 ## Montage
 - Huisstijl voor video: `huisstijl/huisstijl.md` (Montserrat, bosgroen `#154727`, limoen `#8CD742`).
+- Tekst bovenaan in beeld (cijfers, kernwoorden): **witte letters met zwarte rand, geen kader,
+  geen groen.** Dit geldt voor alle video's.
 - Montage gebeurt met `montage/monteer.py` (ffmpeg) op basis van een projectbestand in
   `montage/projecten/`. Zie `montage/README.md`.
 - Ruwe beelden staan in `media/<nummer>/`, eindbestanden in `output/`. Beide gaan niet in git

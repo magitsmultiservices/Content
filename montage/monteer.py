@@ -60,7 +60,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Onder,Montserrat ExtraBold,82,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER, "80")},0,0,0,0,100,100,1,0,1,7,3,2,90,90,560,1
-Style: Titel,Montserrat Black,62,{ass_kleur(DONKER)},{WIT},{ass_kleur(LIMOEN)},{ass_kleur(LIMOEN)},0,0,0,0,100,100,1,0,3,20,0,8,90,90,250,1
+Style: Titel,Montserrat Black,66,{WIT},{WIT},&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,6,0,8,90,90,250,1
 Style: Slogan,Montserrat Bold,44,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,2,0,1,0,0,5,60,60,0,1
 Style: Info,Montserrat Bold,54,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,1,0,1,0,0,5,60,60,0,1
 Style: Handle,Montserrat ExtraBold,58,{ass_kleur(LIMOEN)},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,0,0,1,0,0,5,60,60,0,1
