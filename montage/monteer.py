@@ -46,6 +46,9 @@ SLOGAN = "VAKKUNDIG · NETJES · BETROUWBAAR"
 HANDLE = "Volg @Magitsmultiservices"
 WEBSITE = "magitsmultiservices.be"
 TELEFOON = "+32 492 88 44 24"
+# Helpt de spraakherkenning om namen en vaktermen juist te schrijven.
+WOORDENSCHAT = ("Ik ben Yelte van Magits Multiservices: tuinonderhoud, rommelophaling en klusjes "
+                "in Antwerpen, Mechelen en omstreken.")
 
 ASS_KOP = f"""[Script Info]
 ScriptType: v4.00+
@@ -142,17 +145,22 @@ def transcriberen(clips, model="small"):
     except ImportError:
         sys.exit("Spraakherkenning ontbreekt: pip install faster-whisper (en zorg dat het model "
                  "gedownload kan worden), of geef een woordenbestand op bij 'ondertitels'.")
+    import numpy as np
     wm = WhisperModel(model, device="cpu", compute_type="int8")
     woorden, offset = [], 0.0
     for clip in clips:
         van, tot = clip.get("van", 0), clip["tot"]
-        segs, _ = wm.transcribe(str(ROOT / clip["bestand"]), language="nl", word_timestamps=True,
-                                clip_timestamps=[van, tot], vad_filter=True)
+        # ffmpeg haalt het geluid van het geknipte stuk op (16 kHz mono), zodat de tijden
+        # meteen relatief zijn tegenover het begin van de take.
+        pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", str(van), "-to", str(tot),
+                              "-i", str(ROOT / clip["bestand"]), "-vn", "-ac", "1", "-ar", "16000",
+                              "-f", "f32le", "-"], capture_output=True, check=True).stdout
+        segs, _ = wm.transcribe(np.frombuffer(pcm, np.float32), language="nl", word_timestamps=True,
+                                vad_filter=True, initial_prompt=WOORDENSCHAT)
         for s in segs:
             for w in s.words:
-                if van <= w.start < tot:
-                    woorden.append({"w": w.word.strip(), "start": offset + w.start - van,
-                                    "eind": offset + min(w.end, tot) - van})
+                woorden.append({"w": w.word.strip(), "start": offset + w.start,
+                                "eind": offset + min(w.end, tot - van)})
         offset += tot - van
     return woorden
 

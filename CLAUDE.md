@@ -47,6 +47,7 @@ Nieuwe ideeën gaan in `ideeen.md`.
   `montage/projecten/`. Zie `montage/README.md`.
 - Ruwe beelden staan in `media/<nummer>/`, eindbestanden in `output/`. Beide gaan niet in git
   (te groot); ze worden via Google Drive uitgewisseld.
+- Automatische ondertitels: `pip install faster-whisper` aan het begin van een sessie.
 - Werkwijze: takes bekijken (beelden + transcript), beste take per scriptblok kiezen,
   versprekingen en stiltes wegknippen, projectbestand maken, renderen, voorbeeldbeelden
   controleren en pas dan aan Yelte voorleggen.

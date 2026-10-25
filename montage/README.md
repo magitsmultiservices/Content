@@ -7,8 +7,13 @@ knippen, b-roll, ondertitels woord per woord, tekst in beeld, eindbeeld en genor
 ```
 python3 montage/monteer.py montage/projecten/<project>.json
 ```
-Nodig: `ffmpeg`. Voor automatische ondertitels ook `pip install faster-whisper`
-plus toegang om het spraakmodel te downloaden.
+Nodig: `ffmpeg`. Voor automatische ondertitels ook `pip install faster-whisper`.
+Het spraakmodel (`small`, ± 500 MB) wordt bij het eerste gebruik gedownload van huggingface.co;
+die domeinen (`huggingface.co`, `*.huggingface.co`, `*.hf.co`) staan toegelaten in de
+netwerkinstellingen van de cloudomgeving.
+
+Controleer het transcript altijd: namen en woorden kunnen verkeerd verstaan worden.
+Verbeter ze in `output/<video>.woorden.json`, zet `ondertitels` op dat bestand en render opnieuw.
 
 ## Projectbestand
 Zie `projecten/proef.json` voor een volledig voorbeeld.
