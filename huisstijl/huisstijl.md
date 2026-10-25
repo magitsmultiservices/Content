@@ -13,8 +13,7 @@ Afgeleid van de kleuren en het logo van de Magits-app. `montage/monteer.py` past
 
 ## Lettertype: Montserrat
 - **ExtraBold**: ondertitels (hoofdletters) en handle
-- **Black**: tekst bovenaan in beeld
-- **Bold**: slogan, website en telefoonnummer
+- **Bold**: tekst bovenaan in beeld, slogan, website en telefoonnummer
 - **Medium**: reserve, voor langere tekst
 
 Bestanden in `huisstijl/fonts/` (Google Fonts, vrije SIL Open Font License).
@@ -25,8 +24,10 @@ Bestanden in `huisstijl/fonts/` (Google Fonts, vrije SIL Open Font License).
 - Positie: onderste derde, hoog genoeg om niet onder de knoppen van TikTok/Reels te vallen.
 
 ## Tekst op het scherm
-- Bovenaan, **witte letters met een zwarte rand**, zonder kader en zonder groen.
+- Bovenaan, **witte letters met een dunne zwarte rand en een zachte schaduw**, zonder kader en zonder groen.
   (Keuze van Yelte: geen limoengroen kader meer, voor alle video's.)
+- Moet duidelijk anders ogen dan de ondertitels (gesproken tekst): **Montserrat Bold, gewone
+  hoofd- en kleine letters, wat extra letterafstand**. De ondertitels blijven ExtraBold in hoofdletters.
 - Kort: maximaal 4 à 5 woorden. Emoji's worden weggelaten (die horen in de caption).
 
 ## Eindbeeld (4 s)
