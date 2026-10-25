@@ -55,7 +55,8 @@ Drive-pad: `07. MARKETING / 1. Social Media /`
    een goed script: persoonlijke feiten (waarom, hoe, wanneer), cijfers, wat er echt gebeurd is,
    welke beelden er al zijn. Schrijf pas daarna het script. Liever een paar gerichte vragen dan
    een script vol invulplekken.
-2. **Lengte: 45 tot maximaal 70 seconden**, eindbeeld (4 s) inbegrepen. Reken met ± 3 gesproken
+2. **Lengte: maximaal 70 seconden**, eindbeeld (4 s) inbegrepen. Korter mag altijd, zolang er
+   **geen belangrijke informatie wegvalt**. Reken met ± 3 gesproken
    woorden per seconde. **Elke seconde moet tellen en interessant zijn:** geen opvulzinnen,
    geen herhaling; elke zin brengt iets nieuws (een feit, een keuze, een tip, spanning).
    Eén boodschap per video; wat niet past, wordt een volgende video.
