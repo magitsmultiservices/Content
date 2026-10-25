@@ -50,6 +50,14 @@ Drive-pad: `07. MARKETING / 1. Social Media /`
 - Geen gespeelde emotie of verzonnen tegenslagen. Toon alleen wat echt gebeurd is.
 - Geen klantgegevens of herkenbare klanten zonder toestemming.
 
+## Werkwijze voor een nieuw script
+1. **Eerst vragen, dan schrijven.** Stel Yelte vóór het uitwerken de vragen die nodig zijn voor
+   een goed script: persoonlijke feiten (waarom, hoe, wanneer), cijfers, wat er echt gebeurd is,
+   welke beelden er al zijn. Schrijf pas daarna het script. Liever een paar gerichte vragen dan
+   een script vol invulplekken.
+2. **Kort houden.** Ondernemingsvideo's maximaal 45 seconden, reclamevideo's maximaal 30 seconden.
+   Eén boodschap per video; wat niet past, wordt een volgende video.
+
 ## Opbouw van een script
 Gebruik de sjablonen in `sjablonen/`. Elk script bevat:
 - een hook (eerste 1 tot 3 seconden) met 2 à 3 alternatieven,
