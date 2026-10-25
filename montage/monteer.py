@@ -1,0 +1,260 @@
+#!/usr/bin/env python3
+"""Monteert een verticale video (9:16) in de huisstijl van Magits Multiservices.
+
+Gebruik:
+    python3 montage/monteer.py montage/projecten/001-voorstelling.json
+
+Het projectbestand (JSON) beschrijft:
+    clips        lijst van {"bestand", "van", "tot"}: de takes, in volgorde (bepalen de tijdlijn)
+    broll        optioneel, lijst van {"bestand", "van", "op", "duur"}: beelden over de tijdlijn heen
+                 (het geluid van de clips blijft lopen)
+    ondertitels  "auto" (spraakherkenning), een pad naar een woordenbestand (JSON), of weggelaten
+    teksten      optioneel, lijst van {"tekst", "van", "tot"}: tekst bovenaan in beeld
+    eindbeeld    true/false: logo, slogan en handle op het einde (standaard true)
+    uitvoer      pad van het eindbestand
+
+Een woordenbestand is een lijst van {"w": "woord", "start": s, "eind": s} in tijdlijntijd.
+Paden zijn relatief tegenover de root van deze repository.
+"""
+import json
+import re
+import shutil
+import subprocess
+import sys
+import tempfile
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+HUISSTIJL = ROOT / "huisstijl"
+FONTS = HUISSTIJL / "fonts"
+LOGO = HUISSTIJL / "logo-wit.png"
+
+B, H, FPS = 1080, 1920, 30
+
+# Huisstijlkleuren (zie huisstijl/huisstijl.md). ASS gebruikt &HAABBGGRR.
+BOSGROEN = "154727"
+LIMOEN = "8CD742"
+DONKER = "0F1A14"
+
+
+def ass_kleur(hexkleur, alpha="00"):
+    r, g, b = hexkleur[0:2], hexkleur[2:4], hexkleur[4:6]
+    return f"&H{alpha}{b}{g}{r}".upper()
+
+
+WIT = "&H00FFFFFF"
+SLOGAN = "VAKKUNDIG · NETJES · BETROUWBAAR"
+HANDLE = "Volg @Magitsmultiservices"
+
+ASS_KOP = f"""[Script Info]
+ScriptType: v4.00+
+PlayResX: {B}
+PlayResY: {H}
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Onder,Montserrat ExtraBold,82,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER, "80")},0,0,0,0,100,100,1,0,1,7,3,2,90,90,560,1
+Style: Titel,Montserrat Black,62,{ass_kleur(DONKER)},{WIT},{ass_kleur(LIMOEN)},{ass_kleur(LIMOEN)},0,0,0,0,100,100,1,0,3,20,0,8,90,90,250,1
+Style: Slogan,Montserrat Bold,44,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,2,0,1,0,0,5,60,60,0,1
+Style: Handle,Montserrat ExtraBold,58,{ass_kleur(LIMOEN)},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,0,0,1,0,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+"""
+
+# Emoji's kan libass niet in kleur tonen: weglaten in tekst op het scherm.
+EMOJI = re.compile("[\U0001F000-\U0001FAFF☀-➿️]")
+
+
+def run(cmd):
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    if r.returncode != 0:
+        sys.exit(f"Fout bij: {' '.join(map(str, cmd))}\n{r.stderr[-2000:]}")
+    return r.stdout
+
+
+def heeft_geluid(bestand):
+    out = run(["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries",
+               "stream=index", "-of", "csv=p=0", str(bestand)])
+    return bool(out.strip())
+
+
+def tijd(t):
+    t = max(t, 0)
+    h, rest = divmod(t, 3600)
+    m, s = divmod(rest, 60)
+    return f"{int(h)}:{int(m):02d}:{s:05.2f}"
+
+
+def ass_tekst(t):
+    return t.replace("\\", "").replace("{", "(").replace("}", ")")
+
+
+VULLEN = (f"scale={B}:{H}:force_original_aspect_ratio=increase,crop={B}:{H},"
+          f"setsar=1,fps={FPS},format=yuv420p")
+VIDEO_OPTS = ["-c:v", "libx264", "-preset", "fast", "-crf", "18", "-r", str(FPS)]
+AUDIO_OPTS = ["-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2"]
+
+
+def segment(clip, doel):
+    """Knipt één take en zet hem om naar 1080x1920, 30 fps, stereo 48 kHz."""
+    bron = ROOT / clip["bestand"]
+    van, tot = clip.get("van", 0), clip["tot"]
+    cmd = ["ffmpeg", "-y", "-v", "error", "-ss", str(van), "-to", str(tot), "-i", str(bron)]
+    if heeft_geluid(bron):
+        cmd += ["-map", "0:v:0", "-map", "0:a:0", "-af", "aresample=48000"]
+    else:
+        cmd += ["-f", "lavfi", "-i", "anullsrc=r=48000:cl=stereo",
+                "-map", "0:v:0", "-map", "1:a:0", "-shortest"]
+    run(cmd + ["-vf", VULLEN, *VIDEO_OPTS, *AUDIO_OPTS, str(doel)])
+    return tot - van
+
+
+def eindbeeld(doel, werk, duur=3.0):
+    """Groen eindbeeld met logo, slogan en handle."""
+    ass = werk / "eind.ass"
+    ass.write_text(ASS_KOP
+                   + f"Dialogue: 0,{tijd(0.4)},{tijd(duur)},Slogan,,0,0,0,,{{\\pos(540,1330)\\fad(300,0)}}{SLOGAN}\n"
+                   + f"Dialogue: 0,{tijd(0.8)},{tijd(duur)},Handle,,0,0,0,,{{\\pos(540,1450)\\fad(300,0)}}{HANDLE}\n",
+                   encoding="utf-8")
+    run(["ffmpeg", "-y", "-v", "error",
+         "-f", "lavfi", "-i", f"color=c=0x{BOSGROEN}:s={B}x{H}:r={FPS}:d={duur}",
+         "-loop", "1", "-i", str(LOGO),
+         "-f", "lavfi", "-i", "anullsrc=r=48000:cl=stereo",
+         "-filter_complex",
+         f"[1:v]scale=620:-1,format=rgba,fade=in:st=0:d=0.4:alpha=1[l];"
+         f"[0:v][l]overlay=(W-w)/2:330:shortest=1,"
+         f"ass={ass}:fontsdir={FONTS},format=yuv420p[v]",
+         "-map", "[v]", "-map", "2:a", "-t", str(duur), *VIDEO_OPTS, *AUDIO_OPTS, str(doel)])
+    return duur
+
+
+def transcriberen(clips, model="small"):
+    """Woorden met tijden via faster-whisper, omgezet naar tijdlijntijd."""
+    try:
+        from faster_whisper import WhisperModel
+    except ImportError:
+        sys.exit("Spraakherkenning ontbreekt: pip install faster-whisper (en zorg dat het model "
+                 "gedownload kan worden), of geef een woordenbestand op bij 'ondertitels'.")
+    wm = WhisperModel(model, device="cpu", compute_type="int8")
+    woorden, offset = [], 0.0
+    for clip in clips:
+        van, tot = clip.get("van", 0), clip["tot"]
+        segs, _ = wm.transcribe(str(ROOT / clip["bestand"]), language="nl", word_timestamps=True,
+                                clip_timestamps=[van, tot], vad_filter=True)
+        for s in segs:
+            for w in s.words:
+                if van <= w.start < tot:
+                    woorden.append({"w": w.word.strip(), "start": offset + w.start - van,
+                                    "eind": offset + min(w.end, tot) - van})
+        offset += tot - van
+    return woorden
+
+
+def groepeer(woorden, max_woorden=3, max_tekens=18, max_pauze=0.6):
+    """Korte ondertitelregels: hoogstens 3 woorden, splitsen op leestekens en pauzes."""
+    groepen, huidig = [], []
+    for w in woorden:
+        if huidig:
+            vorig = huidig[-1]
+            lengte = sum(len(x["w"]) + 1 for x in huidig) + len(w["w"])
+            if (len(huidig) >= max_woorden or lengte > max_tekens
+                    or re.search(r"[.,!?…:;]$", vorig["w"]) or w["start"] - vorig["eind"] > max_pauze):
+                groepen.append(huidig)
+                huidig = []
+        huidig.append(w)
+    if huidig:
+        groepen.append(huidig)
+    return groepen
+
+
+def ondertitel_regels(woorden):
+    """Eén regel per woord: de hele groep in beeld, het gesproken woord in limoengroen."""
+    events = []
+    for groep in groepeer(woorden):
+        for i, w in enumerate(groep):
+            eind = groep[i + 1]["start"] if i + 1 < len(groep) else w["eind"] + 0.15
+            delen = []
+            for j, x in enumerate(groep):
+                woord = ass_tekst(x["w"]).upper()
+                if j == i:
+                    woord = f"{{\\c{ass_kleur(LIMOEN)}\\fscx108\\fscy108}}{woord}{{\\c{WIT}\\fscx100\\fscy100}}"
+                delen.append(woord)
+            events.append([w["start"], eind, " ".join(delen)])
+    # Nooit twee regels tegelijk in beeld: elke regel stopt waar de volgende begint.
+    for huidig, volgend in zip(events, events[1:]):
+        huidig[1] = min(huidig[1], volgend[0])
+    return [f"Dialogue: 1,{tijd(s)},{tijd(e)},Onder,,0,0,0,,{t}" for s, e, t in events if e > s]
+
+
+def main():
+    if len(sys.argv) != 2:
+        sys.exit(__doc__)
+    project = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
+    uitvoer = ROOT / project.get("uitvoer", "output/video.mp4")
+    uitvoer.parent.mkdir(parents=True, exist_ok=True)
+
+    werk = Path(tempfile.mkdtemp(prefix="montage-"))
+    try:
+        print("1/4 Takes knippen en omzetten…")
+        segmenten, lengte = [], 0.0
+        for i, clip in enumerate(project["clips"]):
+            doel = werk / f"seg{i:03d}.mp4"
+            lengte += segment(clip, doel)
+            segmenten.append(doel)
+
+        print("2/4 Ondertitels…")
+        bron = project.get("ondertitels")
+        if bron == "auto":
+            woorden = transcriberen(project["clips"], project.get("model", "small"))
+            (uitvoer.with_suffix(".woorden.json")).write_text(
+                json.dumps(woorden, ensure_ascii=False, indent=1), encoding="utf-8")
+        elif bron:
+            woorden = json.loads((ROOT / bron).read_text(encoding="utf-8"))
+        else:
+            woorden = []
+        regels = ondertitel_regels(woorden)
+        for t in project.get("teksten", []):
+            tekst = ass_tekst(EMOJI.sub("", t["tekst"]).strip())
+            regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},Titel,,0,0,0,,{{\\fad(150,150)}}{tekst}")
+        ass = werk / "ondertitels.ass"
+        ass.write_text(ASS_KOP + "\n".join(regels) + "\n", encoding="utf-8")
+
+        print("3/4 Monteren…")
+        lijst = werk / "lijst.txt"
+        lijst.write_text("".join(f"file '{s}'\n" for s in segmenten), encoding="utf-8")
+        romp = werk / "romp.mp4"
+        run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lijst),
+             "-c", "copy", str(romp)])
+
+        invoer, filters, laatste = ["-i", str(romp)], [], "0:v"
+        for k, br in enumerate(project.get("broll", []), start=1):
+            invoer += ["-ss", str(br.get("van", 0)), "-t", str(br["duur"]), "-i", str(ROOT / br["bestand"])]
+            op, duur = br["op"], br["duur"]
+            filters.append(f"[{k}:v]{VULLEN},setpts=PTS-STARTPTS+{op}/TB[b{k}]")
+            filters.append(f"[{laatste}][b{k}]overlay=eof_action=pass:enable='between(t,{op},{op + duur})'[v{k}]")
+            laatste = f"v{k}"
+        filters.append(f"[{laatste}]ass={ass}:fontsdir={FONTS},format=yuv420p[v]")
+        hoofd = werk / "hoofd.mp4"
+        run(["ffmpeg", "-y", "-v", "error", *invoer, "-filter_complex", ";".join(filters),
+             "-map", "[v]", "-map", "0:a", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11",
+             *VIDEO_OPTS, *AUDIO_OPTS, str(hoofd)])
+
+        print("4/4 Eindbeeld en export…")
+        delen = [hoofd]
+        if project.get("eindbeeld", True):
+            delen.append(werk / "eind.mp4")
+            lengte += eindbeeld(delen[-1], werk)
+        lijst.write_text("".join(f"file '{d}'\n" for d in delen), encoding="utf-8")
+        run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lijst),
+             "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
+             *AUDIO_OPTS, "-movflags", "+faststart", str(uitvoer)])
+        print(f"Klaar: {uitvoer.relative_to(ROOT)} ({lengte:.1f} s)")
+    finally:
+        shutil.rmtree(werk, ignore_errors=True)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,43 @@
+{
+ "titel": "Proefmontage",
+ "uitvoer": "output/proef.mp4",
+ "clips": [
+  {
+   "bestand": "media/test/take1.mp4",
+   "van": 0,
+   "tot": 6
+  },
+  {
+   "bestand": "media/test/take2.mp4",
+   "van": 0.5,
+   "tot": 6
+  },
+  {
+   "bestand": "media/test/take3.mp4",
+   "van": 0,
+   "tot": 4.5
+  }
+ ],
+ "broll": [
+  {
+   "bestand": "media/test/werk.mp4",
+   "van": 0,
+   "op": 7,
+   "duur": 2
+  }
+ ],
+ "ondertitels": "media/test/woorden.json",
+ "teksten": [
+  {
+   "tekst": "Ik start mijn eigen zaak 👇",
+   "van": 0,
+   "tot": 3
+  },
+  {
+   "tekst": "Tuin · Rommel · Klusjes",
+   "van": 6,
+   "tot": 9
+  }
+ ],
+ "eindbeeld": true
+}

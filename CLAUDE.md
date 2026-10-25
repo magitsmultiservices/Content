@@ -39,3 +39,13 @@ Gebruik de sjablonen in `sjablonen/`. Elk script bevat:
 ## Bestandsnamen
 `scripts/<soort>/<nummer>-<onderwerp>.md`, bv. `scripts/ondernemen/001-voorstelling.md`.
 Nieuwe ideeën gaan in `ideeen.md`.
+
+## Montage
+- Huisstijl voor video: `huisstijl/huisstijl.md` (Montserrat, bosgroen `#154727`, limoen `#8CD742`).
+- Montage gebeurt met `montage/monteer.py` (ffmpeg) op basis van een projectbestand in
+  `montage/projecten/`. Zie `montage/README.md`.
+- Ruwe beelden staan in `media/<nummer>/`, eindbestanden in `output/`. Beide gaan niet in git
+  (te groot); ze worden via Google Drive uitgewisseld.
+- Werkwijze: takes bekijken (beelden + transcript), beste take per scriptblok kiezen,
+  versprekingen en stiltes wegknippen, projectbestand maken, renderen, voorbeeldbeelden
+  controleren en pas dan aan Yelte voorleggen.
