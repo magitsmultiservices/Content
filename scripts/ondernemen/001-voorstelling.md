@@ -13,19 +13,19 @@
 Kies er één:
 
 1. "Aflevering 1. Ik ben 23 en ik probeer mijn eigen bedrijf op te richten. En je mag alles zien."
-2. "Ondernemen. Is dat anno 2026 eigenlijk nog mogelijk? Ik ga het uitzoeken. Dit is aflevering 1."
+2. "Ondernemen. Is dat anno 2026 eigenlijk nog mogelijk? Ik ga het uitzoeken."
 3. "Aflevering 1. Mijn eigen bedrijf: lukt het of niet? Geen idee. Kijk maar mee."
 
 > Beeld: Yelte in of naast de camionette, dicht bij de camera.
-> Tekst op scherm: **Aflevering 1**
+> Tekst op scherm: **Ondernemen. Is dat anno 2026 eigenlijk nog mogelijk?**
 
 ## Blok 1 · De vraag (6–18 s)
-"Want de cijfers zijn hard. In 2024 stopten bijna [110.000] bedrijven ermee.
+"Want de cijfers zijn hard. In 2025 stopten bijna 117.000 bedrijven ermee.
 Alles wordt duurder, klanten haken af, en het papierwerk stopt nooit.
 Dus: kan je vandaag nog van nul een bedrijf opbouwen?"
 
 > Beeld: Yelte in de camera.
-> Tekst op scherm: **[110.000] bedrijven gestopt in 2024**
+> Tekst op scherm: **117.000 bedrijven gestopt in 2025**
 > ⚠️ Cijfer en bron eerst controleren (bv. Statbel) voor we het in beeld zetten.
 
 ## Blok 2 · Wie ben ik (18–27 s)
