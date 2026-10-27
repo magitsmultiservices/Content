@@ -1,0 +1,104 @@
+{
+ "titel": "Ondernemingsvideo 1 · Aflevering 1",
+ "uitvoer": "output/001-voorstelling.mp4",
+ "clips": [
+  {
+   "bestand": "media/001/IMG_2659.MOV",
+   "van": 1.2,
+   "tot": 5.5
+  },
+  {
+   "bestand": "media/001/IMG_2663.MOV",
+   "van": 0.6,
+   "tot": 6.0
+  },
+  {
+   "bestand": "media/001/IMG_2665.MOV",
+   "van": 0.75,
+   "tot": 9.0
+  },
+  {
+   "bestand": "media/001/IMG_2666.MOV",
+   "van": 0.65,
+   "tot": 8.95
+  },
+  {
+   "bestand": "media/001/IMG_2669.MOV",
+   "van": 0.45,
+   "tot": 6.6
+  }
+ ],
+ "broll": [
+  {
+   "bestand": "media/001/IMG_2671.MOV",
+   "van": 0.2,
+   "op": 9.7,
+   "duur": 3.7
+  },
+  {
+   "bestand": "media/001/att.MP4",
+   "van": 2.0,
+   "op": 13.4,
+   "duur": 2.0
+  },
+  {
+   "bestand": "media/001/20261026_095750.mp4",
+   "van": 0.2,
+   "op": 15.4,
+   "duur": 2.55
+  },
+  {
+   "bestand": "media/001/att.MP4",
+   "van": 6.5,
+   "op": 17.95,
+   "duur": 3.35
+  },
+  {
+   "bestand": "media/001/IMG_2673.MOV",
+   "van": 4.8,
+   "op": 21.3,
+   "duur": 1.7
+  },
+  {
+   "bestand": "media/001/IMG_2673.MOV",
+   "van": 0.5,
+   "op": 23.0,
+   "duur": 1.4
+  },
+  {
+   "bestand": "media/001/IMG_2674.MOV",
+   "van": 2.0,
+   "op": 24.4,
+   "duur": 1.85
+  }
+ ],
+ "ondertitels": "montage/projecten/001-voorstelling.woorden.json",
+ "teksten": [
+  {
+   "tekst": "Ondernemen. Is dat anno 2026 nog mogelijk?",
+   "van": 0.0,
+   "tot": 4.2
+  },
+  {
+   "tekst": "117.000 bedrijven gestopt in 2025",
+   "van": 7.6,
+   "tot": 9.7
+  },
+  {
+   "tekst": "Tuin · Rommel",
+   "van": 13.4,
+   "tot": 17.9
+  },
+  {
+   "tekst": "Kosten · Keuzes · Fouten · Groei",
+   "van": 21.3,
+   "tot": 26.2
+  },
+  {
+   "tekst": "Volg het hele verhaal",
+   "van": 30.0,
+   "tot": 32.4
+  }
+ ],
+ "eindbeeld": true
+}

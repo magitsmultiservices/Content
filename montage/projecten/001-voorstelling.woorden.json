@@ -1,0 +1,447 @@
+[
+ {
+  "w": "Ondernemen.",
+  "start": 0.26,
+  "eind": 0.7
+ },
+ {
+  "w": "Is",
+  "start": 0.98,
+  "eind": 1.2
+ },
+ {
+  "w": "dat",
+  "start": 1.2,
+  "eind": 1.32
+ },
+ {
+  "w": "anno",
+  "start": 1.32,
+  "eind": 1.5
+ },
+ {
+  "w": "2026",
+  "start": 2.02,
+  "eind": 2.32
+ },
+ {
+  "w": "nog",
+  "start": 2.32,
+  "eind": 2.5
+ },
+ {
+  "w": "mogelijk?",
+  "start": 2.5,
+  "eind": 2.88
+ },
+ {
+  "w": "Ik",
+  "start": 3.42,
+  "eind": 3.54
+ },
+ {
+  "w": "zoek",
+  "start": 3.54,
+  "eind": 3.76
+ },
+ {
+  "w": "het",
+  "start": 3.76,
+  "eind": 3.9
+ },
+ {
+  "w": "uit.",
+  "start": 3.9,
+  "eind": 4.02
+ },
+ {
+  "w": "De",
+  "start": 4.5,
+  "eind": 4.8
+ },
+ {
+  "w": "cijfers",
+  "start": 4.8,
+  "eind": 5.18
+ },
+ {
+  "w": "zijn",
+  "start": 5.18,
+  "eind": 5.34
+ },
+ {
+  "w": "hard.",
+  "start": 5.34,
+  "eind": 5.64
+ },
+ {
+  "w": "In",
+  "start": 6.02,
+  "eind": 6.14
+ },
+ {
+  "w": "2025",
+  "start": 6.66,
+  "eind": 6.96
+ },
+ {
+  "w": "stopte",
+  "start": 6.96,
+  "eind": 7.34
+ },
+ {
+  "w": "bijna",
+  "start": 7.64,
+  "eind": 7.94
+ },
+ {
+  "w": "117.000",
+  "start": 8.4,
+  "eind": 8.7
+ },
+ {
+  "w": "bedrijven",
+  "start": 8.7,
+  "eind": 9.18
+ },
+ {
+  "w": "ermee.",
+  "start": 9.18,
+  "eind": 9.42
+ },
+ {
+  "w": "Ik",
+  "start": 10.21,
+  "eind": 10.51
+ },
+ {
+  "w": "ben",
+  "start": 10.51,
+  "eind": 10.65
+ },
+ {
+  "w": "Yelte,",
+  "start": 10.65,
+  "eind": 10.97
+ },
+ {
+  "w": "mijn",
+  "start": 11.17,
+  "eind": 11.37
+ },
+ {
+  "w": "bedrijf",
+  "start": 11.37,
+  "eind": 11.83
+ },
+ {
+  "w": "heet",
+  "start": 11.83,
+  "eind": 12.03
+ },
+ {
+  "w": "Magits",
+  "start": 12.03,
+  "eind": 12.45
+ },
+ {
+  "w": "Multiservices,",
+  "start": 12.89,
+  "eind": 13.19
+ },
+ {
+  "w": "tuinonderhoud",
+  "start": 14.09,
+  "eind": 14.39
+ },
+ {
+  "w": "en",
+  "start": 14.39,
+  "eind": 14.63
+ },
+ {
+  "w": "rommelophaling",
+  "start": 14.99,
+  "eind": 15.29
+ },
+ {
+  "w": "in",
+  "start": 15.63,
+  "eind": 15.93
+ },
+ {
+  "w": "Antwerpen,",
+  "start": 15.93,
+  "eind": 16.43
+ },
+ {
+  "w": "Mechelen",
+  "start": 16.67,
+  "eind": 16.95
+ },
+ {
+  "w": "en",
+  "start": 16.95,
+  "eind": 17.23
+ },
+ {
+  "w": "omstreken.",
+  "start": 17.23,
+  "eind": 17.69
+ },
+ {
+  "w": "Ik",
+  "start": 18.14,
+  "eind": 18.58
+ },
+ {
+  "w": "toon",
+  "start": 18.58,
+  "eind": 18.74
+ },
+ {
+  "w": "je",
+  "start": 18.74,
+  "eind": 18.82
+ },
+ {
+  "w": "niet",
+  "start": 18.82,
+  "eind": 18.96
+ },
+ {
+  "w": "alleen",
+  "start": 18.96,
+  "eind": 19.22
+ },
+ {
+  "w": "het",
+  "start": 19.22,
+  "eind": 19.44
+ },
+ {
+  "w": "mooie",
+  "start": 19.44,
+  "eind": 19.72
+ },
+ {
+  "w": "eindresultaat,",
+  "start": 20.2,
+  "eind": 20.5
+ },
+ {
+  "w": "ik",
+  "start": 20.72,
+  "eind": 21.06
+ },
+ {
+  "w": "toon",
+  "start": 21.06,
+  "eind": 21.26
+ },
+ {
+  "w": "je",
+  "start": 21.26,
+  "eind": 21.34
+ },
+ {
+  "w": "wat",
+  "start": 21.34,
+  "eind": 21.48
+ },
+ {
+  "w": "dingen",
+  "start": 21.48,
+  "eind": 21.66
+ },
+ {
+  "w": "kosten,",
+  "start": 21.66,
+  "eind": 22.02
+ },
+ {
+  "w": "welke",
+  "start": 22.52,
+  "eind": 22.78
+ },
+ {
+  "w": "keuzes",
+  "start": 22.78,
+  "eind": 23.14
+ },
+ {
+  "w": "ik",
+  "start": 23.14,
+  "eind": 23.28
+ },
+ {
+  "w": "maak,",
+  "start": 23.28,
+  "eind": 23.6
+ },
+ {
+  "w": "welke",
+  "start": 23.82,
+  "eind": 24.04
+ },
+ {
+  "w": "fouten",
+  "start": 24.04,
+  "eind": 24.4
+ },
+ {
+  "w": "ik",
+  "start": 24.4,
+  "eind": 24.46
+ },
+ {
+  "w": "maak",
+  "start": 24.46,
+  "eind": 24.82
+ },
+ {
+  "w": "en",
+  "start": 24.82,
+  "eind": 24.94
+ },
+ {
+  "w": "wat",
+  "start": 24.94,
+  "eind": 25.06
+ },
+ {
+  "w": "er",
+  "start": 25.06,
+  "eind": 25.18
+ },
+ {
+  "w": "echt",
+  "start": 25.18,
+  "eind": 25.38
+ },
+ {
+  "w": "overblijft.",
+  "start": 25.72,
+  "eind": 26.02
+ },
+ {
+  "w": "Ik",
+  "start": 26.48,
+  "eind": 26.84
+ },
+ {
+  "w": "hoop",
+  "start": 26.84,
+  "eind": 26.98
+ },
+ {
+  "w": "dat",
+  "start": 26.98,
+  "eind": 27.16
+ },
+ {
+  "w": "het",
+  "start": 27.16,
+  "eind": 27.32
+ },
+ {
+  "w": "jonge",
+  "start": 27.32,
+  "eind": 27.52
+ },
+ {
+  "w": "mensen",
+  "start": 27.52,
+  "eind": 27.92
+ },
+ {
+  "w": "een",
+  "start": 27.92,
+  "eind": 28.22
+ },
+ {
+  "w": "duw",
+  "start": 28.22,
+  "eind": 28.4
+ },
+ {
+  "w": "geeft",
+  "start": 28.4,
+  "eind": 28.62
+ },
+ {
+  "w": "om",
+  "start": 28.62,
+  "eind": 28.84
+ },
+ {
+  "w": "hun",
+  "start": 28.84,
+  "eind": 28.98
+ },
+ {
+  "w": "eigen",
+  "start": 28.98,
+  "eind": 29.22
+ },
+ {
+  "w": "droom",
+  "start": 29.22,
+  "eind": 29.4
+ },
+ {
+  "w": "te",
+  "start": 29.4,
+  "eind": 29.6
+ },
+ {
+  "w": "bouwen.",
+  "start": 29.6,
+  "eind": 30.08
+ },
+ {
+  "w": "Want",
+  "start": 30.4,
+  "eind": 30.4
+ },
+ {
+  "w": "als",
+  "start": 30.4,
+  "eind": 30.52
+ },
+ {
+  "w": "ik",
+  "start": 30.52,
+  "eind": 30.64
+ },
+ {
+  "w": "het",
+  "start": 30.64,
+  "eind": 30.76
+ },
+ {
+  "w": "kan,",
+  "start": 30.76,
+  "eind": 31.28
+ },
+ {
+  "w": "kan",
+  "start": 31.42,
+  "eind": 31.56
+ },
+ {
+  "w": "jij",
+  "start": 31.56,
+  "eind": 31.74
+ },
+ {
+  "w": "het",
+  "start": 31.74,
+  "eind": 31.88
+ },
+ {
+  "w": "ook.",
+  "start": 31.88,
+  "eind": 32.02
+ }
+]
