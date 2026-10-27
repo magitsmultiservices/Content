@@ -77,12 +77,14 @@
   {
    "tekst": "Ondernemen. Is dat anno 2026 nog mogelijk?",
    "van": 0.0,
-   "tot": 4.2
+   "tot": 4.2,
+   "stijl": "hook"
   },
   {
-   "tekst": "117.000 bedrijven gestopt in 2025",
-   "van": 7.6,
-   "tot": 9.7
+   "tekst": "117.000",
+   "van": 7.55,
+   "tot": 9.7,
+   "stijl": "groot"
   },
   {
    "tekst": "Tuin · Rommel",
@@ -100,5 +102,6 @@
    "tot": 32.4
   }
  ],
- "eindbeeld": true
+ "eindbeeld": true,
+ "overgang": 0.25
 }

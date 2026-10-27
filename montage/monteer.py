@@ -61,6 +61,8 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Onder,Montserrat ExtraBold,82,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER, "80")},0,0,0,0,100,100,1,0,1,7,3,2,90,90,560,1
 Style: Titel,Montserrat Bold,62,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,3,0,1,3,5,8,90,90,250,1
+Style: Hook,Montserrat Bold,80,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,3,0,1,4,6,8,80,80,250,1
+Style: Groot,Montserrat Black,200,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,2,0,1,9,7,8,60,60,230,1
 Style: Slogan,Montserrat Bold,44,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,2,0,1,0,0,5,60,60,0,1
 Style: Info,Montserrat Bold,54,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,1,0,1,0,0,5,60,60,0,1
 Style: Handle,Montserrat ExtraBold,58,{ass_kleur(LIMOEN)},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,0,0,1,0,0,5,60,60,0,1
@@ -201,6 +203,46 @@ def ondertitel_regels(woorden):
     return [f"Dialogue: 1,{tijd(s)},{tijd(e)},Onder,,0,0,0,,{t}" for s, e, t in events if e > s]
 
 
+STIJLEN = {"titel": "Titel", "hook": "Hook", "groot": "Groot"}
+# Groot getal: komt klein op, schiet iets te groot door en zakt terug (pop).
+POP = "{\\fad(60,150)\\fscx40\\fscy40\\t(0,170,\\fscx112\\fscy112)\\t(170,290,\\fscx100\\fscy100)}"
+
+
+def beeldstukken(clips, broll, lengte):
+    """Deelt de tijdlijn op in opeenvolgende stukken beeld: (bestand, bronstart, tijdlijnstart, duur).
+
+    Waar b-roll ligt, komt het beeld uit de b-roll; elders uit de take. Zo kan elke overgang
+    een vloeiende overgang krijgen en flitst er nooit een beeldje van de take tussen.
+    """
+    rond = lambda x: round(x * FPS) / FPS
+    takes, t = [], 0.0
+    for c in clips:
+        duur = c["tot"] - c.get("van", 0)
+        takes.append((rond(t), rond(t + duur), ROOT / c["bestand"], c.get("van", 0)))
+        t += duur
+    lengte = rond(lengte)
+    grenzen = {0.0, lengte} | {a for a, _, _, _ in takes}
+    for br in broll:
+        grenzen |= {rond(br["op"]), min(rond(br["op"] + br["duur"]), lengte)}
+    grenzen = sorted(g for g in grenzen if 0 <= g <= lengte)
+    stukken = []
+    for a, b in zip(grenzen, grenzen[1:]):
+        if b - a <= 0:
+            continue
+        br = next((x for x in broll if rond(x["op"]) <= a < rond(x["op"] + x["duur"])), None)
+        if br:
+            bron = (ROOT / br["bestand"], br.get("van", 0) + a - rond(br["op"]))
+        else:
+            ta, _, bestand, van = next(x for x in takes if x[0] <= a < x[1])
+            bron = (bestand, van + a - ta)
+        vorig = stukken[-1] if stukken else None
+        if vorig and vorig[0] == bron[0] and abs(vorig[1] + vorig[3] - bron[1]) < 1e-3:
+            stukken[-1] = (vorig[0], vorig[1], vorig[2], vorig[3] + b - a)
+        else:
+            stukken.append((bron[0], bron[1], a, b - a))
+    return stukken
+
+
 def main():
     if len(sys.argv) != 2:
         sys.exit(__doc__)
@@ -230,7 +272,9 @@ def main():
         regels = ondertitel_regels(woorden)
         for t in project.get("teksten", []):
             tekst = ass_tekst(EMOJI.sub("", t["tekst"]).strip())
-            regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},Titel,,0,0,0,,{{\\fad(150,150)}}{tekst}")
+            stijl = STIJLEN[t.get("stijl", "titel")]
+            effect = POP if stijl == "Groot" else "{\\fad(150,150)}"
+            regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
         ass = werk / "ondertitels.ass"
         ass.write_text(ASS_KOP + "\n".join(regels) + "\n", encoding="utf-8")
 
@@ -241,13 +285,25 @@ def main():
         run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lijst),
              "-c", "copy", str(romp)])
 
-        invoer, filters, laatste = ["-i", str(romp)], [], "0:v"
-        for k, br in enumerate(project.get("broll", []), start=1):
-            invoer += ["-ss", str(br.get("van", 0)), "-t", str(br["duur"]), "-i", str(ROOT / br["bestand"])]
-            op, duur = br["op"], br["duur"]
-            filters.append(f"[{k}:v]{VULLEN},setpts=PTS-STARTPTS+{op}/TB[b{k}]")
-            filters.append(f"[{laatste}][b{k}]overlay=eof_action=pass:enable='between(t,{op},{op + duur})'[v{k}]")
-            laatste = f"v{k}"
+        invoer, filters = ["-i", str(romp)], []
+        stukken = beeldstukken(project["clips"], project.get("broll", []), lengte)
+        overgang = min(project.get("overgang", 0.25), *(st[3] for st in stukken))
+        totaal = 0.0
+        for k, (bestand, bron_van, _, duur) in enumerate(stukken, start=1):
+            # Elk stuk (behalve het eerste) begint 'overgang' vroeger: dat deel loopt over in het vorige.
+            extra = overgang if k > 1 else 0.0
+            start = max(bron_van - extra, 0.0)
+            beelden = round((duur + extra) * FPS)
+            invoer += ["-ss", f"{start:.3f}", "-t", f"{duur + extra + 1:.3f}", "-i", str(bestand)]
+            filters.append(f"[{k}:v]{VULLEN},setpts=PTS-STARTPTS,tpad=stop_mode=clone:stop_duration=2,"
+                           f"trim=end_frame={beelden},setpts=PTS-STARTPTS,settb=1/{FPS}[s{k}]")
+            if k == 1:
+                laatste = "s1"
+            else:
+                filters.append(f"[{laatste}][s{k}]xfade=transition=fade:duration={overgang}:"
+                               f"offset={totaal - overgang:.4f}[x{k}]")
+                laatste = f"x{k}"
+            totaal += duur
         filters.append(f"[{laatste}]ass={ass}:fontsdir={FONTS},format=yuv420p[v]")
         hoofd = werk / "hoofd.mp4"
         run(["ffmpeg", "-y", "-v", "error", *invoer, "-filter_complex", ";".join(filters),

@@ -30,6 +30,14 @@ Bestanden in `huisstijl/fonts/` (Google Fonts, vrije SIL Open Font License).
   hoofd- en kleine letters, wat extra letterafstand**. De ondertitels blijven ExtraBold in hoofdletters.
 - Kort: maximaal 4 à 5 woorden. Emoji's worden weggelaten (die horen in de caption).
 
+- **Hooktekst** (bovenaan tijdens de hook): zelfde stijl, maar groter (`"stijl": "hook"`).
+- **Belangrijk getal** (bv. 117.000): **alleen het getal**, heel groot (Montserrat Black), wit met
+  zwarte rand, met een korte pop-animatie (`"stijl": "groot"`). Geen extra woorden erbij.
+
+## Overgangen
+- Tussen alle beelden een korte vloeiende overgang (0,25 s, `"overgang"` in het projectbestand).
+  Nooit harde wissels waarbij er een beeldje van de take tussen flitst.
+
 ## Eindbeeld (4 s)
 Altijd een **zwarte** achtergrond met het witte logo (`logo-wit.png`, transparant), daaronder:
 - **VAKKUNDIG · NETJES · BETROUWBAAR**

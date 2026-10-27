@@ -23,7 +23,8 @@ Zie `projecten/proef.json` voor een volledig voorbeeld.
 | `clips` | takes in volgorde: `bestand`, `van`, `tot` (seconden in het bronbestand) |
 | `broll` | beelden over de tijdlijn: `bestand`, `van` (in bron), `op` (op tijdlijn), `duur` |
 | `ondertitels` | `"auto"` of pad naar een woordenbestand `[{"w","start","eind"}]` |
-| `teksten` | tekst bovenaan: `tekst`, `van`, `tot` (op tijdlijn) |
+| `teksten` | tekst bovenaan: `tekst`, `van`, `tot` (op tijdlijn), optioneel `stijl`: `titel` (standaard), `hook` (groter) of `groot` (groot getal met pop) |
+| `overgang` | duur van de vloeiende overgang tussen beelden in seconden (standaard 0.25) |
 | `eindbeeld` | `true` (standaard) of `false` |
 | `uitvoer` | pad van het eindbestand, bv. `output/001-voorstelling.mp4` |
 

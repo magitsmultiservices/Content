@@ -78,6 +78,8 @@ Nieuwe ideeën gaan in `ideeen.md`.
 - Tekst bovenaan in beeld (cijfers, kernwoorden): **witte letters met zwarte rand, geen kader,
   geen groen**, en zichtbaar anders dan de ondertitels (Bold, gewone letters, letterafstand,
   zachte schaduw). Dit geldt voor alle video's.
+- Hooktekst groter; een belangrijk getal staat **alleen als getal**, groot en opvallend in beeld.
+- Overgangen tussen beelden altijd vloeiend (korte overvloei), nooit een flits.
 - Montage gebeurt met `montage/monteer.py` (ffmpeg) op basis van een projectbestand in
   `montage/projecten/`. Zie `montage/README.md`.
 - Ruwe beelden staan in `media/<nummer>/`, eindbestanden in `output/`. Beide gaan niet in git
