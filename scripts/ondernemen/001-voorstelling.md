@@ -5,7 +5,7 @@
 - **Lengte:** ± 50 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met korte beelden van het werk ertussen
 - **Bron:** eigen teksten van Yelte ("Intro dat ik had" en "Ideeën ondernemingsvideo's", video 1)
-- **Status:** klaar om op te nemen (cijfer in blok 1 eerst controleren)
+- **Status:** opgenomen, klaar voor montage (cijfer in blok 1 nagekeken door Yelte)
 
 ---
 
@@ -26,7 +26,6 @@ Dus: kan je vandaag nog van nul een bedrijf opbouwen?"
 
 > Beeld: Yelte in de camera.
 > Tekst op scherm: **117.000 bedrijven gestopt in 2025**
-> ⚠️ Cijfer en bron eerst controleren (bv. Statbel) voor we het in beeld zetten.
 
 ## Blok 2 · Wie ben ik (18–27 s)
 "Ik ben Yelte. Mijn bedrijf heet Magits Multiservices: tuinonderhoud en rommelophaling, in Antwerpen, Mechelen en omstreken.
