@@ -47,68 +47,40 @@
   {
    "tekst": "Garage vol",
    "van": 0.0,
-   "tot": 1.45,
-   "stijl": "pop"
-  },
-  {
-   "tekst": "Moet leeg",
-   "van": 1.5,
    "tot": 2.9,
    "stijl": "pop"
   },
   {
    "tekst": "Antwerpen",
    "van": 3.1,
-   "tot": 6.5,
-   "stijl": "pop"
+   "tot": 6.5
   },
   {
-   "tekst": "Camionette vol",
+   "tekst": "Camionette + aanhangwagen vol",
    "van": 10.8,
-   "tot": 12.7,
-   "stijl": "pop"
-  },
-  {
-   "tekst": "+ aanhangwagen",
-   "van": 12.75,
-   "tot": 14.6,
-   "stijl": "pop"
+   "tot": 14.6
   },
   {
    "tekst": "1 rit",
    "van": 14.8,
-   "tot": 16.4,
+   "tot": 18.2,
    "stijl": "groot"
-  },
-  {
-   "tekst": "Naar het containerpark",
-   "van": 16.45,
-   "tot": 19.0,
-   "stijl": "pop"
   },
   {
    "tekst": "Garage leeg",
    "van": 19.2,
-   "tot": 20.6,
+   "tot": 21.0,
    "stijl": "pop"
   },
   {
    "tekst": "Netjes achtergelaten",
-   "van": 20.65,
-   "tot": 21.9,
-   "stijl": "pop"
+   "van": 21.05,
+   "tot": 22.0
   },
   {
-   "tekst": "Stuur ons een foto",
-   "van": 22.0,
-   "tot": 23.4,
-   "stijl": "pop"
-  },
-  {
-   "tekst": "Voor een prijsinschatting",
-   "van": 23.45,
-   "tot": 24.7,
-   "stijl": "pop"
+   "tekst": "Stuur ons een foto voor een prijsinschatting",
+   "van": 22.05,
+   "tot": 24.7
   }
  ],
  "eindbeeld": true

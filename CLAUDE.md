@@ -80,7 +80,7 @@ Nieuwe ideeën gaan in `ideeen.md`.
   zachte schaduw). Dit geldt voor alle video's.
 - Hooktekst groter; een belangrijk getal staat **alleen als getal**, groot en opvallend in beeld.
 - Overgangen tussen beelden altijd vloeiend (korte overvloei), nooit een flits.
-- Reclamevideo's: alle tekst bovenaan groot met pop-animatie (zoals "1 rit"), in korte stukjes.
+- Pop-animatie (zoals "1 rit") alleen voor de 2 à 3 sterkste momenten per video, niet voor alle tekst.
 - Montage gebeurt met `montage/monteer.py` (ffmpeg) op basis van een projectbestand in
   `montage/projecten/`. Zie `montage/README.md`.
 - Ruwe beelden staan in `media/<nummer>/`, eindbestanden in `output/`. Beide gaan niet in git
