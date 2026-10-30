@@ -10,19 +10,21 @@
 
 ---
 
+Alle tekst bovenaan verschijnt groot met een pop-animatie (stijl `pop`; "1 rit" in stijl `groot`).
+
 | Tijd | Beeld | Tekst bovenaan |
 |---|---|---|
-| 0–3 s | Voor: volle garage (licht vertraagd) | **Deze garage moet leeg** (hook) |
-| 3–11 s | Lege camionette → timelapse van het laden (20×) | Antwerpen · met 2 man |
-| 11–15 s | Zetel gaat de camionette in | Camionette + aanhangwagen vol |
-| 15–19 s | Volle camionette (zij- en achterkant) | **1 rit** (groot) → naar het containerpark |
-| 19–25 s | Na: lege garage (licht vertraagd) | Garage leeg. Netjes achtergelaten. → Stuur ons een foto voor een prijsinschatting |
+| 0–3 s | Voor: volle garage (licht vertraagd) | Garage vol → Moet leeg |
+| 3–11 s | Lege camionette → timelapse van het laden (20×) | Antwerpen |
+| 11–15 s | Zetel gaat de camionette in | Camionette vol → + aanhangwagen |
+| 15–19 s | Volle camionette (zij- en achterkant) | **1 rit** → Naar het containerpark |
+| 19–25 s | Na: lege garage (licht vertraagd) | Garage leeg → Netjes achtergelaten → Stuur ons een foto → Voor een prijsinschatting |
 | 25–29 s | Eindbeeld | logo, slogan, website, telefoon |
 
 Niet gebruikt: opname met een grijze personenwagen (onduidelijk van wie), stukken met nummerplaat of weerspiegeling.
 
 ## Caption
-> Volle garage in Antwerpen? Met 2 man, camionette en aanhangwagen in één rit leeggemaakt, en alles netjes naar het containerpark.
+> Volle garage in Antwerpen? Met camionette en aanhangwagen in één rit leeggemaakt, en alles netjes naar het containerpark.
 > Stuur ons een foto van wat er weg moet, dan krijgt u snel een prijsinschatting.
 > 📞 +32 492 88 44 24 · magitsmultiservices.be
 >

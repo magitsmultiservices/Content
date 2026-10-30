@@ -208,7 +208,13 @@ def ondertitel_regels(woorden):
     return [f"Dialogue: 1,{tijd(s)},{tijd(e)},Onder,,0,0,0,,{t}" for s, e, t in events if e > s]
 
 
-STIJLEN = {"titel": "Titel", "hook": "Hook", "groot": "Groot"}
+STIJLEN = {"titel": "Titel", "hook": "Hook", "groot": "Groot", "pop": "Groot"}
+
+
+def pop_grootte(tekst):
+    """Lettergrootte voor pop-tekst: kort = heel groot, langer = kleiner zodat het in beeld past."""
+    n = len(tekst)
+    return 200 if n <= 7 else 150 if n <= 11 else 120 if n <= 15 else 100 if n <= 20 else 84
 # Groot getal: komt klein op, schiet iets te groot door en zakt terug (pop).
 POP = "{\\fad(60,150)\\fscx40\\fscy40\\t(0,170,\\fscx112\\fscy112)\\t(170,290,\\fscx100\\fscy100)}"
 
@@ -280,7 +286,12 @@ def main():
         for t in project.get("teksten", []):
             tekst = ass_tekst(EMOJI.sub("", t["tekst"]).strip())
             stijl = STIJLEN[t.get("stijl", "titel")]
-            effect = POP if stijl == "Groot" else "{\\fad(150,150)}"
+            effect = "{\\fad(150,150)}"
+            if t.get("stijl") == "groot":
+                effect = POP
+            elif t.get("stijl") == "pop":
+                # Zelfde pop als 'groot', maar de lettergrootte past zich aan de lengte aan.
+                effect = POP.replace("{", "{\\fs" + str(pop_grootte(tekst)), 1)
             regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
         ass = werk / "ondertitels.ass"
         ass.write_text(ASS_KOP + "\n".join(regels) + "\n", encoding="utf-8")

@@ -34,6 +34,10 @@ Bestanden in `huisstijl/fonts/` (Google Fonts, vrije SIL Open Font License).
 - **Belangrijk getal** (bv. 117.000): **alleen het getal**, heel groot (Montserrat Black), wit met
   zwarte rand, met een korte pop-animatie (`"stijl": "groot"`). Geen extra woorden erbij.
 
+- **Reclamevideo's** (zonder ondertitels): **alle** tekst bovenaan in pop-stijl (`"stijl": "pop"`):
+  dik, groot, met de pop-animatie; de grootte past zich aan de lengte aan. Lange zinnen opsplitsen
+  in korte stukjes die na elkaar verschijnen (bv. "Garage vol" → "Moet leeg").
+
 ## Overgangen
 - Tussen alle beelden een korte vloeiende overgang (0,25 s, `"overgang"` in het projectbestand).
   Nooit harde wissels waarbij er een beeldje van de take tussen flitst.
