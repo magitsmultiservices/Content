@@ -1,0 +1,86 @@
+{
+ "titel": "Reclamevideo 1 · Garage leeghalen in Antwerpen",
+ "uitvoer": "output/reclame-001-garage.mp4",
+ "geluid": false,
+ "overgang": 0.25,
+ "clips": [
+  {
+   "bestand": "media/reclame-001/IMG_1178.MOV",
+   "van": 0,
+   "tot": 2.36,
+   "snelheid": 0.8
+  },
+  {
+   "bestand": "media/reclame-001/20261026_093514.mp4",
+   "van": 0,
+   "tot": 1.7
+  },
+  {
+   "bestand": "media/reclame-001/20261026_093609.mp4",
+   "van": 5,
+   "tot": 125,
+   "snelheid": 20
+  },
+  {
+   "bestand": "media/reclame-001/20261026_094551.mp4",
+   "van": 3.5,
+   "tot": 7.5
+  },
+  {
+   "bestand": "media/reclame-001/20261026_095750.mp4",
+   "van": 0.2,
+   "tot": 1.6
+  },
+  {
+   "bestand": "media/reclame-001/20261026_095750.mp4",
+   "van": 5.0,
+   "tot": 8.0
+  },
+  {
+   "bestand": "media/reclame-001/IMG_1180.MOV",
+   "van": 0,
+   "tot": 3.38,
+   "snelheid": 0.6
+  }
+ ],
+ "teksten": [
+  {
+   "tekst": "Deze garage moet leeg",
+   "van": 0.0,
+   "tot": 2.9,
+   "stijl": "hook"
+  },
+  {
+   "tekst": "Antwerpen · met 2 man",
+   "van": 3.1,
+   "tot": 10.5
+  },
+  {
+   "tekst": "Camionette + aanhangwagen vol",
+   "van": 10.8,
+   "tot": 14.6
+  },
+  {
+   "tekst": "1 rit",
+   "van": 14.8,
+   "tot": 16.4,
+   "stijl": "groot"
+  },
+  {
+   "tekst": "naar het containerpark",
+   "van": 16.45,
+   "tot": 19.0
+  },
+  {
+   "tekst": "Garage leeg. Netjes achtergelaten.",
+   "van": 19.2,
+   "tot": 21.9
+  },
+  {
+   "tekst": "Stuur ons een foto voor een prijsinschatting",
+   "van": 22.0,
+   "tot": 24.7
+  }
+ ],
+ "eindbeeld": true
+}

@@ -105,18 +105,23 @@ VIDEO_OPTS = ["-c:v", "libx264", "-preset", "fast", "-crf", "18", "-r", str(FPS)
 AUDIO_OPTS = ["-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2"]
 
 
-def segment(clip, doel):
-    """Knipt één take en zet hem om naar 1080x1920, 30 fps, stereo 48 kHz."""
+def segment(clip, doel, stil=False):
+    """Knipt één take en zet hem om naar 1080x1920, 30 fps, stereo 48 kHz.
+
+    'snelheid' versnelt (bv. 20 voor een timelapse) of vertraagt (bv. 0.6); dan valt het geluid weg.
+    """
     bron = ROOT / clip["bestand"]
     van, tot = clip.get("van", 0), clip["tot"]
+    snelheid = clip.get("snelheid", 1)
     cmd = ["ffmpeg", "-y", "-v", "error", "-ss", str(van), "-to", str(tot), "-i", str(bron)]
-    if heeft_geluid(bron):
+    if heeft_geluid(bron) and snelheid == 1 and not stil:
         cmd += ["-map", "0:v:0", "-map", "0:a:0", "-af", "aresample=48000"]
     else:
         cmd += ["-f", "lavfi", "-i", "anullsrc=r=48000:cl=stereo",
                 "-map", "0:v:0", "-map", "1:a:0", "-shortest"]
-    run(cmd + ["-vf", VULLEN, *VIDEO_OPTS, *AUDIO_OPTS, str(doel)])
-    return tot - van
+    run(cmd + ["-vf", f"setpts=(PTS-STARTPTS)/{snelheid}," + VULLEN, *VIDEO_OPTS, *AUDIO_OPTS,
+               "-t", f"{(tot - van) / snelheid:.3f}", str(doel)])
+    return (tot - van) / snelheid
 
 
 def eindbeeld(doel, werk, duur=4.0):
@@ -209,7 +214,7 @@ POP = "{\\fad(60,150)\\fscx40\\fscy40\\t(0,170,\\fscx112\\fscy112)\\t(170,290,\\
 
 
 def beeldstukken(clips, broll, lengte):
-    """Deelt de tijdlijn op in opeenvolgende stukken beeld: (bestand, bronstart, tijdlijnstart, duur).
+    """Deelt de tijdlijn op in opeenvolgende stukken beeld: (bestand, bronstart, tijdlijnstart, duur, snelheid).
 
     Waar b-roll ligt, komt het beeld uit de b-roll; elders uit de take. Zo kan elke overgang
     een vloeiende overgang krijgen en flitst er nooit een beeldje van de take tussen.
@@ -217,11 +222,12 @@ def beeldstukken(clips, broll, lengte):
     rond = lambda x: round(x * FPS) / FPS
     takes, t = [], 0.0
     for c in clips:
-        duur = c["tot"] - c.get("van", 0)
-        takes.append((rond(t), rond(t + duur), ROOT / c["bestand"], c.get("van", 0)))
+        snelheid = c.get("snelheid", 1)
+        duur = (c["tot"] - c.get("van", 0)) / snelheid
+        takes.append((rond(t), rond(t + duur), ROOT / c["bestand"], c.get("van", 0), snelheid))
         t += duur
     lengte = rond(lengte)
-    grenzen = {0.0, lengte} | {a for a, _, _, _ in takes}
+    grenzen = {0.0, lengte} | {x[0] for x in takes}
     for br in broll:
         grenzen |= {rond(br["op"]), min(rond(br["op"] + br["duur"]), lengte)}
     grenzen = sorted(g for g in grenzen if 0 <= g <= lengte)
@@ -231,15 +237,16 @@ def beeldstukken(clips, broll, lengte):
             continue
         br = next((x for x in broll if rond(x["op"]) <= a < rond(x["op"] + x["duur"])), None)
         if br:
-            bron = (ROOT / br["bestand"], br.get("van", 0) + a - rond(br["op"]))
+            bron = (ROOT / br["bestand"], br.get("van", 0) + a - rond(br["op"]), 1)
         else:
-            ta, _, bestand, van = next(x for x in takes if x[0] <= a < x[1])
-            bron = (bestand, van + a - ta)
+            ta, _, bestand, van, snelheid = next(x for x in takes if x[0] <= a < x[1])
+            bron = (bestand, van + (a - ta) * snelheid, snelheid)
         vorig = stukken[-1] if stukken else None
-        if vorig and vorig[0] == bron[0] and abs(vorig[1] + vorig[3] - bron[1]) < 1e-3:
-            stukken[-1] = (vorig[0], vorig[1], vorig[2], vorig[3] + b - a)
+        if (vorig and vorig[0] == bron[0] and vorig[4] == bron[2]
+                and abs(vorig[1] + vorig[3] * vorig[4] - bron[1]) < 1e-3):
+            stukken[-1] = (vorig[0], vorig[1], vorig[2], vorig[3] + b - a, vorig[4])
         else:
-            stukken.append((bron[0], bron[1], a, b - a))
+            stukken.append((bron[0], bron[1], a, b - a, bron[2]))
     return stukken
 
 
@@ -256,7 +263,7 @@ def main():
         segmenten, lengte = [], 0.0
         for i, clip in enumerate(project["clips"]):
             doel = werk / f"seg{i:03d}.mp4"
-            lengte += segment(clip, doel)
+            lengte += segment(clip, doel, stil=not project.get("geluid", True))
             segmenten.append(doel)
 
         print("2/4 Ondertitels…")
@@ -289,13 +296,13 @@ def main():
         stukken = beeldstukken(project["clips"], project.get("broll", []), lengte)
         overgang = min(project.get("overgang", 0.25), *(st[3] for st in stukken))
         totaal = 0.0
-        for k, (bestand, bron_van, _, duur) in enumerate(stukken, start=1):
+        for k, (bestand, bron_van, _, duur, snelheid) in enumerate(stukken, start=1):
             # Elk stuk (behalve het eerste) begint 'overgang' vroeger: dat deel loopt over in het vorige.
             extra = overgang if k > 1 else 0.0
-            start = max(bron_van - extra, 0.0)
+            start = max(bron_van - extra * snelheid, 0.0)
             beelden = round((duur + extra) * FPS)
-            invoer += ["-ss", f"{start:.3f}", "-t", f"{duur + extra + 1:.3f}", "-i", str(bestand)]
-            filters.append(f"[{k}:v]{VULLEN},setpts=PTS-STARTPTS,tpad=stop_mode=clone:stop_duration=2,"
+            invoer += ["-ss", f"{start:.3f}", "-t", f"{(duur + extra) * snelheid + 1:.3f}", "-i", str(bestand)]
+            filters.append(f"[{k}:v]setpts=(PTS-STARTPTS)/{snelheid},{VULLEN},setpts=PTS-STARTPTS,tpad=stop_mode=clone:stop_duration=2,"
                            f"trim=end_frame={beelden},setpts=PTS-STARTPTS,settb=1/{FPS}[s{k}]")
             if k == 1:
                 laatste = "s1"

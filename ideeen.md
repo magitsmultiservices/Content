@@ -10,7 +10,8 @@
 - [ ] Iets dat misliep deze week, en wat ik eruit leerde
 
 ## Reclame
-- [x] 001 · Tuin en rommel in één keer geregeld
+- [x] 001 · Garage leeghalen in Antwerpen (voor/na, timelapse)
+- [ ] Tuin en rommel in één keer geregeld (concept: `scripts/reclame/idee-tuin-en-rommel.md`)
 - [ ] Voor/na: verwilderde tuin opgeknapt
 - [ ] Rommelophaling: een volle garage in [x] uur leeg
 - [ ] 3 tips voor uw tuin in [seizoen]

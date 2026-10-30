@@ -20,10 +20,11 @@ Zie `projecten/proef.json` voor een volledig voorbeeld.
 
 | Veld | Betekenis |
 |---|---|
-| `clips` | takes in volgorde: `bestand`, `van`, `tot` (seconden in het bronbestand) |
+| `clips` | takes in volgorde: `bestand`, `van`, `tot` (seconden in het bronbestand), optioneel `snelheid` (bv. 20 = timelapse, 0.6 = vertraagd; geluid valt dan weg) |
 | `broll` | beelden over de tijdlijn: `bestand`, `van` (in bron), `op` (op tijdlijn), `duur` |
 | `ondertitels` | `"auto"` of pad naar een woordenbestand `[{"w","start","eind"}]` |
 | `teksten` | tekst bovenaan: `tekst`, `van`, `tot` (op tijdlijn), optioneel `stijl`: `titel` (standaard), `hook` (groter) of `groot` (groot getal met pop) |
+| `geluid` | `false` exporteert zonder geluid (bv. als er later muziek onder komt) |
 | `overgang` | duur van de vloeiende overgang tussen beelden in seconden (standaard 0.25) |
 | `eindbeeld` | `true` (standaard) of `false` |
 | `uitvoer` | pad van het eindbestand, bv. `output/001-voorstelling.mp4` |
