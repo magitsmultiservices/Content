@@ -78,7 +78,9 @@ Nieuwe ideeën gaan in `ideeen.md`.
 - Tekst bovenaan in beeld (cijfers, kernwoorden): **witte letters met zwarte rand, geen kader,
   geen groen**, en zichtbaar anders dan de ondertitels (Bold, gewone letters, letterafstand,
   zachte schaduw). Dit geldt voor alle video's.
-- Hooktekst groter; een belangrijk getal staat **alleen als getal**, groot en opvallend in beeld.
+- **Hook (bij elke video):** de hooktekst verschijnt **groot in het midden van het beeld als pop-up**;
+  tijdens de hook **nog geen ondertitels**, die starten pas daarna (projectveld `hook`).
+- Een belangrijk getal staat **alleen als getal**, groot en opvallend in beeld.
 - Overgangen tussen beelden altijd vloeiend (korte overvloei), nooit een flits.
 - Pop-animatie (zoals "1 rit") alleen voor de 2 à 3 sterkste momenten per video, niet voor alle tekst.
 - Montage gebeurt met `montage/monteer.py` (ffmpeg) op basis van een projectbestand in

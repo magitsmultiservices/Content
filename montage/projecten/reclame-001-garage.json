@@ -45,12 +45,6 @@
  ],
  "teksten": [
   {
-   "tekst": "Garage vol",
-   "van": 0.0,
-   "tot": 2.9,
-   "stijl": "pop"
-  },
-  {
    "tekst": "Antwerpen",
    "van": 3.1,
    "tot": 6.5
@@ -83,5 +77,9 @@
    "tot": 24.7
   }
  ],
- "eindbeeld": true
+ "eindbeeld": true,
+ "hook": {
+  "tekst": "Garage vol",
+  "tot": 2.9
+ }
 }

@@ -63,6 +63,7 @@ Style: Onder,Montserrat ExtraBold,82,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(
 Style: Titel,Montserrat Bold,62,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,3,0,1,3,5,8,90,90,250,1
 Style: Hook,Montserrat Bold,80,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,3,0,1,4,6,8,80,80,250,1
 Style: Groot,Montserrat Black,200,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,2,0,1,9,7,8,60,60,230,1
+Style: Midden,Montserrat Black,120,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,2,0,1,9,7,5,70,70,0,1
 Style: Slogan,Montserrat Bold,44,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,2,0,1,0,0,5,60,60,0,1
 Style: Info,Montserrat Bold,54,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,1,0,1,0,0,5,60,60,0,1
 Style: Handle,Montserrat ExtraBold,58,{ass_kleur(LIMOEN)},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,0,0,1,0,0,5,60,60,0,1
@@ -211,6 +212,12 @@ def ondertitel_regels(woorden):
 STIJLEN = {"titel": "Titel", "hook": "Hook", "groot": "Groot", "pop": "Groot"}
 
 
+def midden_grootte(tekst):
+    """Lettergrootte voor de hook in het midden: zo groot mogelijk, lange zinnen lopen over meerdere regels."""
+    n = len(tekst)
+    return 190 if n <= 8 else 150 if n <= 14 else 120 if n <= 24 else 104
+
+
 def pop_grootte(tekst):
     """Lettergrootte voor pop-tekst: kort = heel groot, langer = kleiner zodat het in beeld past."""
     n = len(tekst)
@@ -282,7 +289,15 @@ def main():
             woorden = json.loads((ROOT / bron).read_text(encoding="utf-8"))
         else:
             woorden = []
+        # Hook: groot in het midden met pop, en tijdens de hook nog geen ondertitels.
+        hook = project.get("hook")
+        if hook:
+            woorden = [w for w in woorden if w["start"] >= hook["tot"]]
         regels = ondertitel_regels(woorden)
+        if hook:
+            tekst = ass_tekst(EMOJI.sub("", hook["tekst"]).strip())
+            effect = POP.replace("{", "{\\fs" + str(midden_grootte(tekst)), 1)
+            regels.append(f"Dialogue: 3,{tijd(hook.get('van', 0))},{tijd(hook['tot'])},Midden,,0,0,0,,{effect}{tekst}")
         for t in project.get("teksten", []):
             tekst = ass_tekst(EMOJI.sub("", t["tekst"]).strip())
             stijl = STIJLEN[t.get("stijl", "titel")]

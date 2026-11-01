@@ -75,12 +75,6 @@
  "ondertitels": "montage/projecten/001-voorstelling.woorden.json",
  "teksten": [
   {
-   "tekst": "Ondernemen. Is dat anno 2026 nog mogelijk?",
-   "van": 0.0,
-   "tot": 4.2,
-   "stijl": "hook"
-  },
-  {
    "tekst": "117.000",
    "van": 7.55,
    "tot": 9.7,
@@ -103,5 +97,9 @@
   }
  ],
  "eindbeeld": true,
- "overgang": 0.25
+ "overgang": 0.25,
+ "hook": {
+  "tekst": "Ondernemen. Is dat anno 2026 nog mogelijk?",
+  "tot": 4.25
+ }
 }

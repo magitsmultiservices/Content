@@ -24,6 +24,9 @@ Bestanden in `huisstijl/fonts/` (Google Fonts, vrije SIL Open Font License).
 - Positie: onderste derde, hoog genoeg om niet onder de knoppen van TikTok/Reels te vallen.
 
 ## Tekst op het scherm
+- **Hook (elke video):** de hooktekst verschijnt **groot in het midden van het beeld** met de
+  pop-animatie (projectveld `"hook": {"tekst": ..., "tot": ...}`). **Tijdens de hook nog geen
+  ondertitels**; die beginnen pas na de hook.
 - Bovenaan, **witte letters met een dunne zwarte rand en een zachte schaduw**, zonder kader en zonder groen.
   (Keuze van Yelte: geen limoengroen kader meer, voor alle video's.)
 - Moet duidelijk anders ogen dan de ondertitels (gesproken tekst): **Montserrat Bold, gewone
