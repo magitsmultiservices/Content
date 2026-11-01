@@ -2,23 +2,21 @@
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 65 seconden (met eindbeeld)
+- **Lengte:** ± 67 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van tuinwerk en rommelophaling ertussen
 - **Bron:** antwoorden van Yelte (01/11/2026); feiten nagekeken op vlaanderen.be (zie onderaan)
-- **Status:** concept: Yelte kiest een hook en beslist over de optionele OVAM-zin
+- **Status:** concept: Yelte beslist nog over de optionele OVAM-zin
 
 ---
 
-## Hook (0–4 s)
-Groot in het midden als pop-up, nog geen ondertitels. Kies er één:
-
-1. "Aflevering 2. Een eigen zaak starten zonder groot startkapitaal? Zo deed ik het."
-2. "Aflevering 2. Dit werk neemt AI nooit van je over."
-3. "Aflevering 2. Tuinonderhoud én rommelophaling. Waarom eigenlijk allebei?"
+## Hook (0–6 s) · combinatie van hook 1 en 3, gekozen door Yelte
+"Aflevering 2. Tuinonderhoud én rommelophaling. Waarom allebei?
+En hoe start je zonder groot startkapitaal?"
 
 > Beeld: Yelte in de camera, dicht bij.
+> Groot in het midden als pop-up (nog geen ondertitels): **Tuin én rommel. Waarom allebei?**
 
-## Blok 1 · Het begin (4–12 s)
+## Blok 1 · Het begin (6–14 s)
 "Tuinonderhoud deed ik als vakantiewerk.
 Maar ik wilde een rommelophaalbedrijf starten.
 En toevallig passen die twee goed bij elkaar."
@@ -26,7 +24,7 @@ En toevallig passen die twee goed bij elkaar."
 > Beeld: Yelte in de camera, daarna kort tuinwerk en de volle camionette.
 > Tekst op scherm: **Van vakantiewerk naar eigen zaak**
 
-## Blok 2 · Makkelijk te starten (12–24 s)
+## Blok 2 · Makkelijk te starten (14–26 s)
 "Het mooie is: je hebt niet veel nodig om te beginnen.
 Een aanhangwagen en goed materiaal. Geen winkel, geen dure machines.
 En in Vlaanderen heb je zelfs geen diploma bedrijfsbeheer meer nodig."
@@ -35,7 +33,7 @@ En in Vlaanderen heb je zelfs geen diploma bedrijfsbeheer meer nodig."
 > Beeld: aanhangwagen, materiaal, Yelte aan het werk.
 > Tekst op scherm: **Weinig startkapitaal**
 
-## Blok 3 · Werk dat altijd nodig is (24–35 s)
+## Blok 3 · Werk dat altijd nodig is (26–37 s)
 "En het is werk dat altijd nodig is. Gras blijft groeien.
 En bij elke verhuis of opruiming komt er rommel vrij.
 Dat neemt AI niet van je over. Een robot komt jouw garage niet leegmaken."
@@ -43,7 +41,7 @@ Dat neemt AI niet van je over. Een robot komt jouw garage niet leegmaken."
 > Beeld: haag snoeien → volle garage → laden.
 > Tekst op scherm: **AI-proof** (pop)
 
-## Blok 4 · Samen nog sterker (35–48 s)
+## Blok 4 · Samen nog sterker (37–50 s)
 "En samen werken ze nog beter. Is het rustig in de tuin, dan haal ik rommel op. En omgekeerd.
 Maak ik een huis leeg, dan doe ik de tuin erbij.
 Voor de klant is alles in één keer in orde, bij één bedrijf."
@@ -51,14 +49,14 @@ Voor de klant is alles in één keer in orde, bij één bedrijf."
 > Beeld: lege garage → tuinwerk.
 > Tekst op scherm: **Alles in 1 keer** (pop)
 
-## Blok 5 · Wil jij ook starten? (48–59 s)
+## Blok 5 · Wil jij ook starten? (50–61 s)
 "Wil jij ook iets starten? Zoek werk dat iedereen nodig heeft en weinig kost om te beginnen.
 Ramen wassen. Auto's poetsen aan huis. Opritten en terrassen reinigen. Verhuishulp."
 
 > Beeld: Yelte in de camera.
 > Tekst op scherm, één voor één: **Ramen wassen** → **Auto's poetsen aan huis** → **Opritten reinigen** → **Verhuishulp**
 
-## Call-to-action (59–61 s)
+## Call-to-action (61–63 s)
 "Dit was aflevering 2. Volg zeker mee."
 
 > Tekst op scherm: **Volg het hele verhaal**
@@ -68,7 +66,7 @@ Ramen wassen. Auto's poetsen aan huis. Opritten en terrassen reinigen. Verhuishu
 
 ## Opnamelijst (wat ik nodig heb in de map)
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
-- [ ] Hook (de gekozen versie)
+- [ ] Hook
 - [ ] Blok 1 · Het begin
 - [ ] Blok 2 · Makkelijk te starten
 - [ ] Blok 3 · Werk dat altijd nodig is
