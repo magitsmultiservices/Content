@@ -29,7 +29,7 @@
 
 > Beeld: [...]
 
-## Call-to-action
+## Call-to-action (alleen reclamevideo's; ondernemingsvideo's eindigen zonder CTA)
 "[volg / vraag een offerte aan via magitsmultiservices.be / stuur een bericht]"
 
 > Eindbeeld: logo + **Vakkundig · Netjes · Betrouwbaar**

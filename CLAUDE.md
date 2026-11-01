@@ -28,6 +28,8 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
    **Vaste opbouw van elke aflevering:** eerst de hook, daarna altijd de vaste intro:
    "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
    (mag licht variëren, maar die boodschap komt er altijd meteen na de hook).
+   **Geen call-to-action** in ondernemingsvideo's (geen "Volg zeker mee", geen "Volg het hele verhaal"):
+   na het laatste blok meteen het standaard zwarte eindbeeld. Reclamevideo's houden wel een CTA.
    Yelte heeft zelf al ideeën voor de reeks uitgeschreven in Drive (zie hieronder): vertrek daarvan.
 
 ## Planning
@@ -69,7 +71,7 @@ Drive-pad: `07. MARKETING / 1. Social Media /`
 Gebruik de sjablonen in `sjablonen/`. Elk script bevat:
 - een hook (eerste 1 tot 3 seconden) met 2 à 3 alternatieven,
 - de tekst per blok, met regieaanwijzingen (beeld, tekst op scherm),
-- een call-to-action,
+- een call-to-action (alleen bij reclamevideo's),
 - een caption en hashtags per platform.
 
 ## Bestandsnamen

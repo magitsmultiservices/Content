@@ -46,12 +46,7 @@ Ik toon je wat dingen kosten, welke keuzes ik maak, welke fouten ik maak, en wat
 Want als het kan, wil ik dat jij ziet hóé."
 
 > Beeld: Yelte in de camera, rustig en direct.
-
-## Call-to-action (46–49 s)
-"Dit was aflevering 1. Volg zeker mee."
-
-> Tekst op scherm: **Volg het hele verhaal**
-> Daarna: standaard zwart eindbeeld.
+> Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
 
@@ -62,7 +57,6 @@ Want als het kan, wil ik dat jij ziet hóé."
 - [ ] Blok 2 · Wie ben ik
 - [ ] Blok 3 · Wat je gaat zien
 - [ ] Blok 4 · Waarom
-- [ ] Call-to-action
 
 **Beelden van het werk** (3 tot 10 seconden per clip, geen praten nodig):
 - [ ] Camionette (rijden, deuren open, laden)
@@ -79,6 +73,5 @@ Want als het kan, wil ik dat jij ziet hóé."
 
 ## Caption
 > Aflevering 1. Ik ben 23 en ik probeer mijn eigen bedrijf op te richten: Magits Multiservices. Kan je anno 2026 nog van nul een bedrijf opbouwen? Ik toon je alles: de kosten, de keuzes, de fouten en wat er écht overblijft.
-> Volg het hele verhaal. 👊
 >
 > #ondernemen #eigenzaak #jongeondernemer #buildinpublic #zelfstandige

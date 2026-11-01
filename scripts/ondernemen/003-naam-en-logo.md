@@ -2,7 +2,7 @@
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 63 seconden (met eindbeeld)
+- **Lengte:** ± 58 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met eerdere logoversies en drukwerk/kledij met het logo ertussen
 - **Bron:** antwoorden van Yelte (25/10/2026) en "Ideeën ondernemingsvideo's", video 34
 - **Status:** klaar om op te nemen
@@ -51,13 +51,7 @@ Want een AI-logo valt op. Mensen zien meteen dat je de simpele weg nam, en dat s
 
 > Beeld: Yelte in de camera, rustig en direct.
 > Tekst op scherm: **AI = hulpmiddel, geen ontwerper**
-
-## Call-to-action (54–59 s)
-"Binnenkort komt het ook op de camionette. Volg mee, dan zie je het resultaat."
-
-> Beeld: de zwarte camionette, nog zonder logo.
-> Tekst op scherm: **Volg het hele verhaal**
-> Daarna: standaard zwart eindbeeld.
+> Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
 
@@ -69,14 +63,12 @@ Want een AI-logo valt op. Mensen zien meteen dat je de simpele weg nam, en dat s
 - [ ] Blok 2 · Het logo
 - [ ] Blok 3 · Waar het staat
 - [ ] Blok 4 · De tip
-- [ ] Call-to-action
 
 **Beelden en bestanden:**
 - [ ] De eerdere versies van het logo (als bestand of screenshot, in volgorde: oudste eerst)
 - [ ] Visitekaartjes (in de hand of op tafel, 3 tot 5 seconden)
 - [ ] Flyers
 - [ ] Kledij met het logo (aan of opgevouwen)
-- [ ] De camionette, nog zonder logo (voor de call-to-action)
 
 Het huidige logo hoef je niet te filmen: dat zet ik er in de montage zelf in.
 
