@@ -148,41 +148,16 @@
  },
  "teksten": [
   {
-   "tekst": "Van vakantiewerk naar eigen zaak",
-   "van": 7.6,
-   "tot": 11.0
-  },
-  {
    "tekst": "Weinig startkapitaal",
    "van": 15.4,
-   "tot": 21.3
-  },
-  {
-   "tekst": "Mensenwerk",
-   "van": 29.6,
-   "tot": 31.4,
-   "stijl": "groot"
+   "tot": 17.8,
+   "stijl": "pop"
   },
   {
    "tekst": "Alles in 1 keer",
    "van": 41.0,
    "tot": 43.9,
    "stijl": "pop"
-  },
-  {
-   "tekst": "Ramen wassen",
-   "van": 49.75,
-   "tot": 50.7
-  },
-  {
-   "tekst": "Ramen wassen | Auto's poetsen",
-   "van": 50.7,
-   "tot": 51.6
-  },
-  {
-   "tekst": "Ramen wassen | Auto's poetsen | Opritten reinigen",
-   "van": 51.6,
-   "tot": 53.3
   }
  ],
  "eindbeeld": true

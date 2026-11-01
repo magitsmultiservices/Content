@@ -38,8 +38,9 @@ Bestanden in `huisstijl/fonts/` (Google Fonts, vrije SIL Open Font License).
   zwarte rand, met een korte pop-animatie (`"stijl": "groot"`). Geen extra woorden erbij.
 
 - **Pop-stijl** (`"stijl": "pop"`): dik, groot, met pop-animatie; grootte past zich aan de lengte aan.
-  **Spaarzaam gebruiken:** alleen voor de 2 à 3 sterkste momenten van een video (bv. "Garage vol",
-  "1 rit", "Garage leeg"). De rest blijft gewone tekst bovenaan.
+  **Weinig tekst bovenaan:** alleen de 2 à 3 sterkste momenten van een video krijgen tekst
+  (bv. "1 rit", "Garage leeg"), en die verschijnt **altijd met pop**. Geen andere tekst bovenaan:
+  wat gezegd wordt, staat al in de ondertitels.
 
 ## Overgangen
 - Tussen alle beelden een korte vloeiende overgang (0,25 s, `"overgang"` in het projectbestand).

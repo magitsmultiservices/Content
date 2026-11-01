@@ -87,7 +87,8 @@ Nieuwe ideeën gaan in `ideeen.md`.
   tijdens de hook **nog geen ondertitels**, die starten pas daarna (projectveld `hook`).
 - Een belangrijk getal staat **alleen als getal**, groot en opvallend in beeld.
 - Overgangen tussen beelden altijd vloeiend (korte overvloei), nooit een flits.
-- Pop-animatie (zoals "1 rit") alleen voor de 2 à 3 sterkste momenten per video, niet voor alle tekst.
+- **Weinig tekst bovenaan:** alleen de 2 à 3 sterkste momenten per video krijgen tekst, en die
+  verschijnt **altijd met pop-animatie** (zoals "1 rit"). De rest staat al in de ondertitels.
 - Montage gebeurt met `montage/monteer.py` (ffmpeg) op basis van een projectbestand in
   `montage/projecten/`. Zie `montage/README.md`.
 - Ruwe beelden staan in `media/<nummer>/`, eindbestanden in `output/`. Beide gaan niet in git

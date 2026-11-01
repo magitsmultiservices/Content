@@ -30,7 +30,6 @@ Maar ik wilde een rommelophaalbedrijf starten.
 En toevallig passen die twee goed bij elkaar."
 
 > Beeld: Yelte in de camera, daarna kort tuinwerk en de volle camionette.
-> Tekst op scherm: **Van vakantiewerk naar eigen zaak**
 
 ## Blok 2 · Makkelijk te starten (17–26 s)
 "Het mooie is: je hebt niet veel nodig om te beginnen.
@@ -39,7 +38,7 @@ En in Vlaanderen heb je zelfs geen diploma bedrijfsbeheer meer nodig."
 [optioneel, alleen als Yelte dit wil vermelden: "Wel belangrijk: voor rommel moet je geregistreerd zijn bij OVAM."]
 
 > Beeld: aanhangwagen, materiaal, Yelte aan het werk.
-> Tekst op scherm: **Weinig startkapitaal**
+> Tekst op scherm: **Weinig startkapitaal** (pop)
 
 ## Blok 3 · Werk dat altijd nodig is (26–38 s)
 "En het is werk dat altijd nodig is. Gras blijft groeien.
@@ -47,7 +46,6 @@ En bij elke verhuis of opruiming komt er rommel vrij.
 Dat neemt AI niet van je over. Een robot komt jouw garage niet leegmaken."
 
 > Beeld: haag snoeien → volle garage → laden.
-> Tekst op scherm: **Mensenwerk** (pop)
 
 ## Blok 4 · Samen nog sterker (38–50 s)
 "Is het rustig in de tuin, dan haal ik rommel op. En omgekeerd.
@@ -62,7 +60,6 @@ Voor de klant is alles in één keer in orde, bij één bedrijf."
 Ramen wassen. Auto's poetsen aan huis. Opritten en terrassen reinigen. Verhuishulp."
 
 > Beeld: Yelte in de camera.
-> Tekst op scherm, één voor één: **Ramen wassen** → **Auto's poetsen aan huis** → **Opritten reinigen** → **Verhuishulp**
 > Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
