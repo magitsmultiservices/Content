@@ -1,50 +1,64 @@
-# Ondernemingsvideo 2 · Aflevering 2: waarom tuin én rommel
+# Ondernemingsvideo 2 · Aflevering 2: makkelijk starten, werk dat altijd nodig is
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 47 seconden (met eindbeeld)
+- **Lengte:** ± 65 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van tuinwerk en rommelophaling ertussen
-- **Bron:** antwoorden van Yelte (01/11/2026)
-- **Status:** klaar om op te nemen
+- **Bron:** antwoorden van Yelte (01/11/2026); feiten nagekeken op vlaanderen.be (zie onderaan)
+- **Status:** concept: Yelte kiest een hook en beslist over de optionele OVAM-zin
 
 ---
 
-## Hook (0–4 s) · gekozen door Yelte
-"Aflevering 2. Tuinonderhoud én rommelophaling. Waarom eigenlijk allebei?"
+## Hook (0–4 s)
+Groot in het midden als pop-up, nog geen ondertitels. Kies er één:
 
-> Beeld: gesplitst scherm: links een haag snoeien, rechts de volle camionette.
-> Hook: groot in het midden als pop-up: **Tuinonderhoud én rommelophaling?** (geen ondertitels tijdens de hook)
+1. "Aflevering 2. Een eigen zaak starten zonder groot startkapitaal? Zo deed ik het."
+2. "Aflevering 2. Dit werk neemt AI nooit van je over."
+3. "Aflevering 2. Tuinonderhoud én rommelophaling. Waarom eigenlijk allebei?"
+
+> Beeld: Yelte in de camera, dicht bij.
 
 ## Blok 1 · Het begin (4–12 s)
 "Tuinonderhoud deed ik als vakantiewerk.
 Maar ik wilde een rommelophaalbedrijf starten.
 En toevallig passen die twee goed bij elkaar."
 
-> Beeld: Yelte in de camera, daarna kort de volle camionette.
+> Beeld: Yelte in de camera, daarna kort tuinwerk en de volle camionette.
 > Tekst op scherm: **Van vakantiewerk naar eigen zaak**
 
-## Blok 2 · Geen dode gaten (12–23 s)
-"Waarom dan niet alleen rommel? Omdat het ene de dode gaten van het andere opvult.
-Is het rustig in de tuin, dan haal ik rommel op. En omgekeerd."
+## Blok 2 · Makkelijk te starten (12–24 s)
+"Het mooie is: je hebt niet veel nodig om te beginnen.
+Een aanhangwagen en goed materiaal. Geen winkel, geen dure machines.
+En in Vlaanderen heb je zelfs geen diploma bedrijfsbeheer meer nodig."
+[optioneel, alleen als Yelte dit wil vermelden: "Wel belangrijk: voor rommel moet je geregistreerd zijn bij OVAM."]
 
-> Beeld: Yelte in de camera; bij "rustig in de tuin" een tuinbeeld, bij "rommel op" de timelapse van het laden.
-> Tekst op scherm: **Geen dode gaten**
+> Beeld: aanhangwagen, materiaal, Yelte aan het werk.
+> Tekst op scherm: **Weinig startkapitaal**
 
-## Blok 3 · Eén huishouden (23–34 s)
-"En het past mooi samen. Ik maak een huis leeg, en daarna doe ik de tuin erbij.
-Zelfde klant, zelfde adres. Voor de klant is alles in één keer in orde."
+## Blok 3 · Werk dat altijd nodig is (24–35 s)
+"En het is werk dat altijd nodig is. Gras blijft groeien.
+En bij elke verhuis of opruiming komt er rommel vrij.
+Dat neemt AI niet van je over. Een robot komt jouw garage niet leegmaken."
 
-> Beeld: lege garage → tuinwerk (illustratie; later te vervangen door een klus waar beide gebeurden).
+> Beeld: haag snoeien → volle garage → laden.
+> Tekst op scherm: **AI-proof** (pop)
+
+## Blok 4 · Samen nog sterker (35–48 s)
+"En samen werken ze nog beter. Is het rustig in de tuin, dan haal ik rommel op. En omgekeerd.
+Maak ik een huis leeg, dan doe ik de tuin erbij.
+Voor de klant is alles in één keer in orde, bij één bedrijf."
+
+> Beeld: lege garage → tuinwerk.
 > Tekst op scherm: **Alles in 1 keer** (pop)
 
-## Blok 4 · Wat de klant voelt (34–42 s)
-"Zo krijgen klanten het gevoel dat ze meer krijgen voor hun geld.
-En dat ze voor alles op één bedrijf kunnen rekenen."
+## Blok 5 · Wil jij ook starten? (48–59 s)
+"Wil jij ook iets starten? Zoek werk dat iedereen nodig heeft en weinig kost om te beginnen.
+Ramen wassen. Auto's poetsen aan huis. Opritten en terrassen reinigen. Verhuishulp."
 
-> Beeld: Yelte in de camera, rustig en direct.
-> Tekst op scherm: **1 bedrijf voor alles**
+> Beeld: Yelte in de camera.
+> Tekst op scherm, één voor één: **Ramen wassen** → **Auto's poetsen aan huis** → **Opritten reinigen** → **Verhuishulp**
 
-## Call-to-action (42–44 s)
+## Call-to-action (59–61 s)
 "Dit was aflevering 2. Volg zeker mee."
 
 > Tekst op scherm: **Volg het hele verhaal**
@@ -54,19 +68,19 @@ En dat ze voor alles op één bedrijf kunnen rekenen."
 
 ## Opnamelijst (wat ik nodig heb in de map)
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
-- [ ] Hook
+- [ ] Hook (de gekozen versie)
 - [ ] Blok 1 · Het begin
-- [ ] Blok 2 · Geen dode gaten
-- [ ] Blok 3 · Eén huishouden
-- [ ] Blok 4 · Wat de klant voelt
+- [ ] Blok 2 · Makkelijk te starten
+- [ ] Blok 3 · Werk dat altijd nodig is
+- [ ] Blok 4 · Samen nog sterker
+- [ ] Blok 5 · Wil jij ook starten?
 - [ ] Call-to-action
 
-Let op: camera op ooghoogte en een stap verder, zodat je hoofd en schouders in beeld zijn
-(bij video 1 stond de camera soms te dicht en zag je alleen je borst).
+Let op: camera op ooghoogte en een stap verder, zodat je hoofd en schouders in beeld zijn.
 
 **Beelden** (heb ik al: haag snoeien, garage vol/leeg, laden, volle camionette). Extra welkom:
-- [ ] Ander tuinwerk (gras maaien, blad ruimen) als afwisseling
-- [ ] Later: een klus waar je een huis leegmaakt én de tuin doet (voor/na), dan vervang ik de illustratie in blok 3
+- [ ] De aanhangwagen en je materiaal (haagschaar, grasmaaier, …), rustig in beeld
+- [ ] Ander tuinwerk (gras maaien, blad ruimen)
 
 ## Opnametips
 - Verticaal (9:16), daglicht van voren, rustige plek of dasspeldmicrofoon.
@@ -74,6 +88,16 @@ Let op: camera op ooghoogte en een stap verder, zodat je hoofd en schouders in b
 - Laat 1 seconde stilte voor en na elke take. Dat knipt makkelijker.
 
 ## Caption
-> Aflevering 2. Tuinonderhoud deed ik als vakantiewerk, maar ik wilde een rommelophaalbedrijf starten. Toevallig passen ze goed samen: ze vullen elkaars dode gaten op. Voor de klant is alles in één keer in orde, bij één bedrijf.
+> Aflevering 2. Tuinonderhoud deed ik als vakantiewerk, maar ik wilde een rommelophaalbedrijf starten. Weinig startkapitaal nodig, en werk dat altijd nodig blijft: dat neemt AI niet over. Samen vullen ze elkaars dode gaten op, en voor de klant is alles in één keer in orde.
+> Zelf iets starten? Denk aan ramen wassen, auto's poetsen aan huis, opritten reinigen of verhuishulp.
 >
 > #ondernemen #eigenzaak #jongeondernemer #rommelophaling #tuinonderhoud
+
+---
+
+## Bronnen (feiten nagekeken op 01/11/2026)
+- Basiskennis bedrijfsbeheer niet meer vereist in Vlaanderen sinds 1 september 2018:
+  https://www.vlaanderen.be/starten-met-een-onderneming/bedrijfsbeheer-en-beroepsbekwaamheid
+- Wie afval van derden inzamelt en vervoert, moet geregistreerd zijn bij OVAM (inzamelaar en vervoerder):
+  https://www.vlaanderen.be/registratie-als-inzamelaar-handelaar-of-makelaar-van-afvalstoffen en
+  https://www.vlaanderen.be/registratie-als-vervoerder-van-afvalstoffen
