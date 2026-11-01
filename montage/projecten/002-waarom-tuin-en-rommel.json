@@ -1,0 +1,189 @@
+{
+ "titel": "Ondernemingsvideo 2 · Aflevering 2",
+ "uitvoer": "output/002-waarom-tuin-en-rommel.mp4",
+ "overgang": 0.25,
+ "clips": [
+  {
+   "bestand": "media/002/IMG_2713.MOV",
+   "van": 1.9,
+   "tot": 4.95
+  },
+  {
+   "bestand": "media/002/IMG_2715.MOV",
+   "van": 0.2,
+   "tot": 4.5
+  },
+  {
+   "bestand": "media/002/IMG_2716.MOV",
+   "van": 1.7,
+   "tot": 9.6
+  },
+  {
+   "bestand": "media/002/IMG_2717.MOV",
+   "van": 0.6,
+   "tot": 8.85
+  },
+  {
+   "bestand": "media/002/IMG_2719.MOV",
+   "van": 1.15,
+   "tot": 11.3
+  },
+  {
+   "bestand": "media/002/IMG_2721.MOV",
+   "van": 0.95,
+   "tot": 4.95
+  },
+  {
+   "bestand": "media/002/IMG_2722.MOV",
+   "van": 0.45,
+   "tot": 6.9
+  },
+  {
+   "bestand": "media/002/IMG_2727.MOV",
+   "van": 1.2,
+   "tot": 6.1
+  },
+  {
+   "bestand": "media/002/IMG_2728.MOV",
+   "van": 0.6,
+   "tot": 5.0
+  }
+ ],
+ "broll": [
+  {
+   "bestand": "media/002/IMG_1184.MOV",
+   "van": 2.0,
+   "op": 13.0,
+   "duur": 1.1
+  },
+  {
+   "bestand": "media/reclame-001/20261026_095750.mp4",
+   "van": 5.0,
+   "op": 14.1,
+   "duur": 1.15
+  },
+  {
+   "bestand": "media/reclame-001/20261026_093514.mp4",
+   "van": 0.0,
+   "op": 15.25,
+   "duur": 2.6
+  },
+  {
+   "bestand": "media/reclame-001/20261026_110926.mp4",
+   "van": 10.4,
+   "op": 17.85,
+   "duur": 2.05
+  },
+  {
+   "bestand": "media/002/IMG_1189.MOV",
+   "van": 3.0,
+   "op": 19.9,
+   "duur": 1.5
+  },
+  {
+   "bestand": "media/001/IMG_2673.MOV",
+   "van": 0.5,
+   "op": 21.4,
+   "duur": 2.1
+  },
+  {
+   "bestand": "media/002/IMG_1184.MOV",
+   "van": 0.0,
+   "op": 23.5,
+   "duur": 3.0
+  },
+  {
+   "bestand": "media/reclame-001/IMG_1178.MOV",
+   "van": 0.0,
+   "op": 26.5,
+   "duur": 2.35
+  },
+  {
+   "bestand": "media/reclame-001/20261026_094551.mp4",
+   "van": 3.5,
+   "op": 28.85,
+   "duur": 2.05
+  },
+  {
+   "bestand": "media/reclame-001/20261026_093922.mp4",
+   "van": 0.0,
+   "op": 30.9,
+   "duur": 2.7
+  },
+  {
+   "bestand": "media/reclame-001/20261026_095750.mp4",
+   "van": 0.2,
+   "op": 33.6,
+   "duur": 1.4
+  },
+  {
+   "bestand": "media/002/IMG_1189.MOV",
+   "van": 10.0,
+   "op": 35.0,
+   "duur": 2.6
+  },
+  {
+   "bestand": "media/reclame-001/IMG_1180.MOV",
+   "van": 0.0,
+   "op": 37.6,
+   "duur": 1.8
+  },
+  {
+   "bestand": "media/001/att.MP4",
+   "van": 6.5,
+   "op": 39.4,
+   "duur": 1.8
+  },
+  {
+   "bestand": "media/002/IMG_1184.MOV",
+   "van": 6.0,
+   "op": 41.2,
+   "duur": 2.9
+  }
+ ],
+ "ondertitels": "montage/projecten/002-waarom-tuin-en-rommel.woorden.json",
+ "hook": {
+  "tekst": "Tuin én rommel. Waarom allebei?",
+  "tot": 3.05
+ },
+ "teksten": [
+  {
+   "tekst": "Van vakantiewerk naar eigen zaak",
+   "van": 7.6,
+   "tot": 11.0
+  },
+  {
+   "tekst": "Weinig startkapitaal",
+   "van": 15.4,
+   "tot": 21.3
+  },
+  {
+   "tekst": "Mensenwerk",
+   "van": 29.6,
+   "tot": 31.4,
+   "stijl": "groot"
+  },
+  {
+   "tekst": "Alles in 1 keer",
+   "van": 41.0,
+   "tot": 43.9,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Ramen wassen",
+   "van": 49.75,
+   "tot": 50.7
+  },
+  {
+   "tekst": "Ramen wassen | Auto's poetsen",
+   "van": 50.7,
+   "tot": 51.6
+  },
+  {
+   "tekst": "Ramen wassen | Auto's poetsen | Opritten reinigen",
+   "van": 51.6,
+   "tot": 53.3
+  }
+ ],
+ "eindbeeld": true
+}

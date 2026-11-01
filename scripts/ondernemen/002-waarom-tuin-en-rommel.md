@@ -5,7 +5,10 @@
 - **Lengte:** ± 63 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van tuinwerk en rommelophaling ertussen
 - **Bron:** antwoorden van Yelte (01/11/2026); feiten nagekeken op vlaanderen.be (zie onderaan)
-- **Status:** concept: Yelte beslist nog over de optionele OVAM-zin
+- **Status:** opgenomen en gemonteerd (± 57 s), wacht op goedkeuring
+- **Montage:** `montage/projecten/002-waarom-tuin-en-rommel.json`. Ingesproken hook zonder het stuk over
+  startkapitaal; OVAM-zin en "verhuishulp" niet ingesproken; take "Blijf zeker het hele proces volgen"
+  niet gebruikt (geen call-to-action). Blok 2, 3 en 4 zonder Yelte in beeld opgenomen: als voice-over over werkbeelden.
 
 ---
 
