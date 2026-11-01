@@ -16,6 +16,9 @@
 > Beeld: [wat zie je]
 > Tekst op scherm: **[korte tekst]**
 
+## Vaste intro (alleen ondernemingsvideo's, meteen na de hook)
+"Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
+
 ## [Blok 1] ([tijd])
 "[tekst]"
 

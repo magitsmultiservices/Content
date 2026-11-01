@@ -25,6 +25,9 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
    De teller is "Aflevering <n>" (aflevering 1, aflevering 2, …), één nummer per ondernemingsvideo.
    Invalshoek: Yelte die zijn eigen bedrijf probeert op te bouwen.
    Yelte is 23 en staat er voorlopig alleen voor (nog geen team).
+   **Vaste opbouw van elke aflevering:** eerst de hook, daarna altijd de vaste intro:
+   "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
+   (mag licht variëren, maar die boodschap komt er altijd meteen na de hook).
    Yelte heeft zelf al ideeën voor de reeks uitgeschreven in Drive (zie hieronder): vertrek daarvan.
 
 ## Planning
