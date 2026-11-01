@@ -2,7 +2,7 @@
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 58 seconden (met eindbeeld)
+- **Lengte:** ± 61 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met eerdere logoversies en drukwerk/kledij met het logo ertussen
 - **Bron:** antwoorden van Yelte (25/10/2026) en "Ideeën ondernemingsvideo's", video 34
 - **Status:** klaar om op te nemen
@@ -30,15 +30,15 @@ Ik twijfelde aan namen als 'Tuinen Magits' of 'Rommelophaal Magits'. Maar dan zi
 Met Multiservices kan ik later uitbreiden naar andere gebieden, onder dezelfde naam."
 
 > Beeld: Yelte in de camera.
-> Tekst op scherm: **Magits = mijn achternaam**
+> Tekst op scherm: **Magits = mijn achternaam** (pop)
 
 ## Blok 2 · Het logo (26–40 s)
 "Het logo heb ik zelf gemaakt, met AI als hulp.
 Maar hoe het eruit moest zien, wist ik al lang. AI zette mijn idee gewoon in beeld.
-Eerst was alles zwart-wit. Daarna kwam er groen bij, omdat dat de tuin benadrukt."
+Het logo zelf is zwart-wit, net als mijn camionette en visitekaartjes.
+Alleen in mijn teksten komt soms een groen accent, omdat dat de tuin benadrukt."
 
 > Beeld: eerdere versies van het logo na elkaar → het huidige logo.
-> Tekst op scherm: **Eerst zwart-wit, dan groen**
 
 ## Blok 3 · Waar het staat (40–43 s)
 "Vandaag staat het op mijn flyers, visitekaartjes en kledij."
@@ -50,7 +50,7 @@ Eerst was alles zwart-wit. Daarna kwam er groen bij, omdat dat de tuin benadrukt
 Want een AI-logo valt op. Mensen zien meteen dat je de simpele weg nam, en dat schrikt af."
 
 > Beeld: Yelte in de camera, rustig en direct.
-> Tekst op scherm: **AI = hulpmiddel, geen ontwerper**
+> Tekst op scherm: **AI = hulpmiddel** (pop)
 > Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
