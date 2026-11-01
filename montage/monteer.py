@@ -299,7 +299,8 @@ def main():
             effect = POP.replace("{", "{\\fs" + str(midden_grootte(tekst)), 1)
             regels.append(f"Dialogue: 3,{tijd(hook.get('van', 0))},{tijd(hook['tot'])},Midden,,0,0,0,,{effect}{tekst}")
         for t in project.get("teksten", []):
-            tekst = ass_tekst(EMOJI.sub("", t["tekst"]).strip())
+            # " | " in een tekst = nieuwe regel (bv. een lijst die onder elkaar opbouwt).
+            tekst = ass_tekst(EMOJI.sub("", t["tekst"]).strip()).replace(" | ", "\\N")
             stijl = STIJLEN[t.get("stijl", "titel")]
             effect = "{\\fad(150,150)}"
             if t.get("stijl") == "groot":
