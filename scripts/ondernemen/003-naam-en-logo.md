@@ -2,7 +2,7 @@
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 47 seconden (met eindbeeld)
+- **Lengte:** ± 44 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met zijn eerste tekening van het logo, het afgewerkte logo en drukwerk/kledij ertussen
 - **Doel:** beginnende ondernemers informeren en inspireren: hoe kies je een naam, hoe maak je een logo
 - **Bron:** antwoorden van Yelte (25/10 en 01/11/2026)
