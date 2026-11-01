@@ -22,28 +22,28 @@ Maar rommelophaling vind ik eigenlijk leuker."
 > Beeld: Yelte in de camera, daarna kort de volle camionette.
 > Tekst op scherm: **Van vakantiewerk naar rommel**
 
-## Blok 2 · Geen dode gaten (12–23 s)
+## Blok 2 · Geen dode gaten (10–21 s)
 "Waarom dan niet alleen rommel? Omdat het ene de dode gaten van het andere opvult.
 Is het rustig in de tuin, dan haal ik rommel op. En omgekeerd."
 
 > Beeld: Yelte in de camera; bij "rustig in de tuin" een tuinbeeld, bij "rommel op" de timelapse van het laden.
 > Tekst op scherm: **Geen dode gaten**
 
-## Blok 3 · Eén huishouden (23–34 s)
+## Blok 3 · Eén huishouden (21–32 s)
 "En het past mooi samen. Ik maak een huis leeg, en daarna doe ik de tuin erbij.
 Zelfde klant, zelfde adres. Voor de klant is alles in één keer in orde."
 
 > Beeld: lege garage → tuinwerk (illustratie; later te vervangen door een klus waar beide gebeurden).
 > Tekst op scherm: **Alles in 1 keer** (pop)
 
-## Blok 4 · Wat de klant voelt (34–42 s)
+## Blok 4 · Wat de klant voelt (32–40 s)
 "Zo krijgen klanten het gevoel dat ze meer krijgen voor hun geld.
 En dat ze voor alles op één bedrijf kunnen rekenen."
 
 > Beeld: Yelte in de camera, rustig en direct.
 > Tekst op scherm: **1 bedrijf voor alles**
 
-## Call-to-action (42–44 s)
+## Call-to-action (40–42 s)
 "Dit was aflevering 2. Volg zeker mee."
 
 > Tekst op scherm: **Volg het hele verhaal**
