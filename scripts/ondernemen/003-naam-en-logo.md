@@ -2,9 +2,10 @@
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 61 seconden (met eindbeeld)
-- **Vorm:** Yelte praat recht in de camera, met eerdere logoversies en drukwerk/kledij met het logo ertussen
-- **Bron:** antwoorden van Yelte (25/10/2026) en "Ideeën ondernemingsvideo's", video 34
+- **Lengte:** ± 47 seconden (met eindbeeld)
+- **Vorm:** Yelte praat recht in de camera, met zijn eerste tekening van het logo, het afgewerkte logo en drukwerk/kledij ertussen
+- **Doel:** beginnende ondernemers informeren en inspireren: hoe kies je een naam, hoe maak je een logo
+- **Bron:** antwoorden van Yelte (25/10 en 01/11/2026)
 - **Status:** klaar om op te nemen
 
 ---
@@ -12,65 +13,62 @@
 ## Hook (0–4 s)
 Kies er één:
 
-1. "Aflevering 3. Mijn logo is gemaakt met AI. Maar niet zoals je denkt."
-2. "Aflevering 3. Waarom mijn bedrijf gewoon mijn achternaam draagt."
-3. "Aflevering 3. Hoe kies je een naam en een logo voor je bedrijf?"
+1. "Aflevering 3. Mijn logo tekende ik eerst zelf. Daarna hielp AI."
+2. "Aflevering 3. Een naam en een logo voor je bedrijf. Zo pakte ik het aan."
 
 > Beeld: Yelte in de camera, dicht bij.
-> Groot in het midden als pop-up (nog geen ondertitels): korte versie van de gekozen hook, bv. **Logo met AI?**
+> Groot in het midden als pop-up (nog geen ondertitels): **Zelf getekend. AI afgewerkt.** (bij hook 1) of **Naam + logo** (bij hook 2)
 
 ## Vaste intro (4–10 s)
 "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
 
-> Beeld: Yelte in de camera, ontspannen. Geen tekst bovenaan.
+> Beeld: Yelte in de camera, ontspannen.
 
-## Blok 1 · De naam (10–26 s)
-"Magits, dat is mijn achternaam. Ik wil dat mensen weten dat ik het ben. Dat maakt het persoonlijk.
-Ik twijfelde aan namen als 'Tuinen Magits' of 'Rommelophaal Magits'. Maar dan zit je vast aan één ding.
-Met Multiservices kan ik later uitbreiden naar andere gebieden, onder dezelfde naam."
+## Blok 1 · De naam (10–19 s)
+"Mijn bedrijf draagt mijn achternaam. Zo weten klanten meteen wie ze voor zich hebben.
+En Multiservices, zodat ik later kan uitbreiden zonder een nieuwe naam."
 
 > Beeld: Yelte in de camera.
-> Tekst op scherm: **Magits = mijn achternaam** (pop)
+> Tekst op scherm: **Mijn achternaam** (pop)
 
-## Blok 2 · Het logo (26–40 s)
-"Het logo heb ik zelf gemaakt, met AI als hulp.
-Maar hoe het eruit moest zien, wist ik al lang. AI zette mijn idee gewoon in beeld.
-Het logo zelf is zwart-wit, net als mijn camionette en visitekaartjes.
-Alleen in mijn teksten komt soms een groen accent, omdat dat de tuin benadrukt."
+## Blok 2 · Het logo (19–29 s)
+"Het logo tekende ik eerst zelf, met de symbolen die ik in mijn hoofd had.
+Daarna heeft AI er een strak logo van gemaakt dat mooi oogt."
 
-> Beeld: eerdere versies van het logo na elkaar → het huidige logo.
+> Beeld: Yelte die tekent of zijn eerste tekening → overvloei naar het afgewerkte logo.
 
-## Blok 3 · Waar het staat (40–43 s)
-"Vandaag staat het op mijn flyers, visitekaartjes en kledij."
-
-> Beeld: snel na elkaar: flyer, visitekaartje, kledij.
-
-## Blok 4 · De tip (43–54 s)
-"Mijn tip: laat AI je logo niet ontwerpen. Gebruik het als hulpmiddel, niet als ontwerper.
-Want een AI-logo valt op. Mensen zien meteen dat je de simpele weg nam, en dat schrikt af."
+## Blok 3 · De tip (29–38 s)
+"Mijn tip: begin zelf, op papier. Jij weet waar je bedrijf voor staat.
+Laat AI het afwerken, niet bedenken."
 
 > Beeld: Yelte in de camera, rustig en direct.
-> Tekst op scherm: **AI = hulpmiddel** (pop)
+> Tekst op scherm: **Begin op papier** (pop)
+
+## Blok 4 · Hou het simpel (38–43 s)
+"En hou het simpel. Zwart-wit werkt overal: op flyers, visitekaartjes en kledij."
+
+> Beeld: snel na elkaar: flyer, visitekaartje, kledij.
 > Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
 
 ## Opnamelijst (wat ik nodig heb in de map)
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
-- [ ] Hook (alle drie de versies, dan kiezen we de beste)
+- [ ] Hook (de gekozen versie)
 - [ ] Vaste intro ("Hallo, ik ben Yelte…")
 - [ ] Blok 1 · De naam
 - [ ] Blok 2 · Het logo
-- [ ] Blok 3 · Waar het staat
-- [ ] Blok 4 · De tip
+- [ ] Blok 3 · De tip
+- [ ] Blok 4 · Hou het simpel
+
+Let op: camera altijd op jezelf, op ooghoogte, en het script buiten beeld.
 
 **Beelden en bestanden:**
-- [ ] De eerdere versies van het logo (als bestand of screenshot, in volgorde: oudste eerst)
-- [ ] Visitekaartjes (in de hand of op tafel, 3 tot 5 seconden)
-- [ ] Flyers
-- [ ] Kledij met het logo (aan of opgevouwen)
+- [ ] Je eerste tekening van het logo (foto of scan). Nog beter: een korte clip waarin je ze opnieuw natekent
+- [ ] Eventuele tussenversies (als bestand of screenshot)
+- [ ] Flyers, visitekaartjes en kledij met het logo (3 tot 5 seconden elk)
 
-Het huidige logo hoef je niet te filmen: dat zet ik er in de montage zelf in.
+Het afgewerkte logo hoef je niet te filmen: dat zet ik er in de montage zelf in.
 
 ## Opnametips
 - Verticaal (9:16), daglicht van voren, rustige plek of dasspeldmicrofoon.
@@ -78,6 +76,6 @@ Het huidige logo hoef je niet te filmen: dat zet ik er in de montage zelf in.
 - Laat 1 seconde stilte voor en na elke take. Dat knipt makkelijker.
 
 ## Caption
-> Aflevering 3. Mijn bedrijf draagt mijn achternaam, en mijn logo maakte ik zelf: met AI als hulpmiddel, niet als ontwerper. Binnenkort staat het ook op de camionette.
+> Aflevering 3. Mijn bedrijf draagt mijn achternaam, en het logo tekende ik eerst zelf op papier. AI maakte er daarna een strak logo van. Mijn tip voor wie start: begin zelf, en laat AI afwerken, niet bedenken.
 >
 > #ondernemen #eigenzaak #jongeondernemer #logo #branding
