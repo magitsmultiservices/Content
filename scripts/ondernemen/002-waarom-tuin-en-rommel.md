@@ -39,7 +39,7 @@ En bij elke verhuis of opruiming komt er rommel vrij.
 Dat neemt AI niet van je over. Een robot komt jouw garage niet leegmaken."
 
 > Beeld: haag snoeien → volle garage → laden.
-> Tekst op scherm: **AI-proof** (pop)
+> Tekst op scherm: **Mensenwerk** (pop)
 
 ## Blok 4 · Samen nog sterker (37–50 s)
 "En samen werken ze nog beter. Is het rustig in de tuin, dan haal ik rommel op. En omgekeerd.
