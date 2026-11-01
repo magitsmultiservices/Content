@@ -17,7 +17,7 @@
 En hoe start je zonder groot startkapitaal?"
 
 > Beeld: Yelte in de camera, dicht bij.
-> Groot in het midden als pop-up (nog geen ondertitels): **Tuin én rommel. Waarom allebei?**
+> Groot in het midden als pop-up (nog geen ondertitels): **Rommel én tuin. Waarom allebei?**
 
 ## Vaste intro (5–11 s)
 "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
