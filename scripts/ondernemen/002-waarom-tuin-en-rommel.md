@@ -2,7 +2,7 @@
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 65 seconden (met eindbeeld)
+- **Lengte:** ± 63 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van tuinwerk en rommelophaling ertussen
 - **Bron:** antwoorden van Yelte (01/11/2026); feiten nagekeken op vlaanderen.be (zie onderaan)
 - **Status:** concept: Yelte beslist nog over de optionele OVAM-zin
@@ -60,12 +60,7 @@ Ramen wassen. Auto's poetsen aan huis. Opritten en terrassen reinigen. Verhuishu
 
 > Beeld: Yelte in de camera.
 > Tekst op scherm, één voor één: **Ramen wassen** → **Auto's poetsen aan huis** → **Opritten reinigen** → **Verhuishulp**
-
-## Call-to-action (59–61 s)
-"Dit was aflevering 2. Volg zeker mee."
-
-> Tekst op scherm: **Volg het hele verhaal**
-> Daarna: standaard zwart eindbeeld.
+> Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
 
@@ -78,7 +73,6 @@ Ramen wassen. Auto's poetsen aan huis. Opritten en terrassen reinigen. Verhuishu
 - [ ] Blok 3 · Werk dat altijd nodig is
 - [ ] Blok 4 · Samen nog sterker
 - [ ] Blok 5 · Wil jij ook starten?
-- [ ] Call-to-action
 
 Let op: camera op ooghoogte en een stap verder, zodat je hoofd en schouders in beeld zijn.
 
