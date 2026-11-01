@@ -2,7 +2,9 @@
 
 ## Ondernemen
 - [x] 001 · Aflevering 1: voorstelling
-- [x] 002 · Aflevering 2: naam en logo
+- [x] 002 · Aflevering 2: waarom tuin én rommel
+- [x] 003 · Aflevering 3: naam en logo
+- [ ] 004 · Aflevering 4: de website (vragen gesteld, map Video 4 staat klaar)
 - Volgende afleveringen: zie Drive-document "Ideeën ondernemingsvideo's" (video 2 t/m 34)
 - [ ] Hoe ik mijn eerste klant vond
 - [ ] Wat kost het om een zaak te starten? (met echte cijfers: [kosten])

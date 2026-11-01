@@ -1,4 +1,4 @@
-# Ondernemingsvideo 2 · Aflevering 2: naam en logo
+# Ondernemingsvideo 3 · Aflevering 3: naam en logo
 
 - **Soort:** ondernemen (breed publiek)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
@@ -12,12 +12,12 @@
 ## Hook (0–4 s)
 Kies er één:
 
-1. "Aflevering 2. Mijn logo is gemaakt met AI. Maar niet zoals je denkt."
-2. "Aflevering 2. Waarom mijn bedrijf gewoon mijn achternaam draagt."
-3. "Aflevering 2. Hoe kies je een naam en een logo voor je bedrijf?"
+1. "Aflevering 3. Mijn logo is gemaakt met AI. Maar niet zoals je denkt."
+2. "Aflevering 3. Waarom mijn bedrijf gewoon mijn achternaam draagt."
+3. "Aflevering 3. Hoe kies je een naam en een logo voor je bedrijf?"
 
 > Beeld: Yelte in de camera, dicht bij.
-> Tekst op scherm: **Aflevering 2**
+> Tekst op scherm: **Aflevering 3**
 
 ## Blok 1 · De naam (4–19 s)
 "Magits, dat is mijn achternaam. Ik wil dat mensen weten dat ik het ben. Dat maakt het persoonlijk.
@@ -80,6 +80,6 @@ Het huidige logo hoef je niet te filmen: dat zet ik er in de montage zelf in.
 - Laat 1 seconde stilte voor en na elke take. Dat knipt makkelijker.
 
 ## Caption
-> Aflevering 2. Mijn bedrijf draagt mijn achternaam, en mijn logo maakte ik zelf: met AI als hulpmiddel, niet als ontwerper. Binnenkort staat het ook op de camionette.
+> Aflevering 3. Mijn bedrijf draagt mijn achternaam, en mijn logo maakte ik zelf: met AI als hulpmiddel, niet als ontwerper. Binnenkort staat het ook op de camionette.
 >
 > #ondernemen #eigenzaak #jongeondernemer #logo #branding
