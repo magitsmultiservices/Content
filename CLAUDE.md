@@ -42,6 +42,14 @@ Drive-pad: `07. MARKETING / 1. Social Media /`
   opnamelijst. Yelte zet er zijn opnames in. Claude monteert en zet het eindresultaat
   er pas in **na goedkeuring** van Yelte (bestandsnaam `FINAAL - Video <n>.mp4`).
 - Video <n> in Drive = `scripts/ondernemen/<nnn>-*.md` of `scripts/reclame/<nnn>-*.md` hier.
+- **Beeldmateriaal:**
+  - In de map `Video <n>` zet Yelte de opnames die specifiek voor die video zijn (praat-takes enz.).
+  - Algemeen beeldmateriaal staat in `07. MARKETING / BEELDMATERIAAL` (Drive-id `1IbnaYsbdZap7NhO-Iye2OahcBa0c19ZD`,
+    met submap "fotos en videos klantjes"). **Claude zoekt daar zelf** beelden die passen bij wat er gezegd
+    wordt (bv. een haag bij "tuinonderhoud") en gebruikt ze als werkbeelden, vooral waar er alleen gesproken
+    tekst is.
+  - Ook daar geldt: geen herkenbare klanten, huisnummers of nummerplaten in beeld zonder toestemming.
+  - Downloaden lukt alleen als de map gedeeld is als "Iedereen met de link · Kijker".
 - Bestaande documenten in `1. Social Media/Content/`: "Ideeën ondernemingsvideo's"
   (uitgewerkte teksten voor de reeks), "Intro dat ik had", "01/2027 - Content planner",
   en in `1. Social Media/`: "SOCIAL MEDIA OVERZICHT MAGITS" (doelgroepen, contentpijlers, CTA's).
