@@ -1,0 +1,109 @@
+{
+ "titel": "Ondernemingsvideo 3 · Aflevering 3",
+ "uitvoer": "output/003-naam-en-logo.mp4",
+ "overgang": 0.25,
+ "clips": [
+  {
+   "bestand": "media/003/IMG_2813.MOV",
+   "van": 0.7,
+   "tot": 3.5
+  },
+  {
+   "bestand": "media/003/IMG_2816.MOV",
+   "van": 0.45,
+   "tot": 3.95
+  },
+  {
+   "bestand": "media/003/IMG_2817.MOV",
+   "van": 1.5,
+   "tot": 3.95
+  },
+  {
+   "bestand": "media/003/IMG_2818.MOV",
+   "van": 1.0,
+   "tot": 5.3
+  },
+  {
+   "bestand": "media/003/IMG_2822.MOV",
+   "van": 0.5,
+   "tot": 4.25
+  },
+  {
+   "bestand": "media/003/IMG_2824.MOV",
+   "van": 0.8,
+   "tot": 3.75
+  },
+  {
+   "bestand": "media/003/IMG_2828.MOV",
+   "van": 0.8,
+   "tot": 4.25
+  },
+  {
+   "bestand": "media/003/logo-onthulling.mp4",
+   "van": 0,
+   "tot": 2.2
+  },
+  {
+   "bestand": "media/003/IMG_2833.MOV",
+   "van": 0.55,
+   "tot": 3.45
+  },
+  {
+   "bestand": "media/003/IMG_2834.MOV",
+   "van": 0.65,
+   "tot": 5.85
+  }
+ ],
+ "broll": [
+  {
+   "bestand": "media/003/IMG_2827.MOV",
+   "van": 0.5,
+   "op": 19.75,
+   "duur": 1.75
+  },
+  {
+   "bestand": "media/003/IMG_2825.MOV",
+   "van": 2.0,
+   "op": 21.5,
+   "duur": 1.7
+  },
+  {
+   "bestand": "media/003/IMG_2836.MOV",
+   "van": 0.0,
+   "op": 28.3,
+   "duur": 2.3
+  },
+  {
+   "bestand": "media/003/IMG_2835.MOV",
+   "van": 0.0,
+   "op": 30.6,
+   "duur": 2.9
+  }
+ ],
+ "ondertitels": "montage/projecten/003-naam-en-logo.woorden.json",
+ "hook": {
+  "tekst": "Logo gemaakt met AI, maar niet zoals je denkt.",
+  "tot": 2.8
+ },
+ "teksten": [
+  {
+   "tekst": "Magits",
+   "van": 9.8,
+   "tot": 12.9,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "AI werkte het af",
+   "van": 23.349999999999998,
+   "tot": 25.299999999999997,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Begin op papier",
+   "van": 25.5,
+   "tot": 28.2,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}

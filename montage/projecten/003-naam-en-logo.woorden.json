@@ -1,0 +1,572 @@
+[
+ {
+  "w": "Mijn",
+  "start": 0.0,
+  "eind": 0.32
+ },
+ {
+  "w": "logo",
+  "start": 0.32,
+  "eind": 0.5
+ },
+ {
+  "w": "is",
+  "start": 0.5,
+  "eind": 0.68
+ },
+ {
+  "w": "gemaakt",
+  "start": 0.68,
+  "eind": 0.94
+ },
+ {
+  "w": "met",
+  "start": 0.94,
+  "eind": 1.12
+ },
+ {
+  "w": "AI,",
+  "start": 1.12,
+  "eind": 1.48
+ },
+ {
+  "w": "maar",
+  "start": 1.78,
+  "eind": 1.9
+ },
+ {
+  "w": "niet",
+  "start": 1.9,
+  "eind": 2.1
+ },
+ {
+  "w": "zoals",
+  "start": 2.1,
+  "eind": 2.26
+ },
+ {
+  "w": "je",
+  "start": 2.26,
+  "eind": 2.44
+ },
+ {
+  "w": "denkt.",
+  "start": 2.44,
+  "eind": 2.64
+ },
+ {
+  "w": "Ik",
+  "start": 2.8,
+  "eind": 3.05
+ },
+ {
+  "w": "ben",
+  "start": 3.05,
+  "eind": 3.19
+ },
+ {
+  "w": "Yelte,",
+  "start": 3.19,
+  "eind": 3.55
+ },
+ {
+  "w": "ik",
+  "start": 3.85,
+  "eind": 3.93
+ },
+ {
+  "w": "heb",
+  "start": 3.93,
+  "eind": 4.01
+ },
+ {
+  "w": "een",
+  "start": 4.01,
+  "eind": 4.13
+ },
+ {
+  "w": "eigen",
+  "start": 4.13,
+  "eind": 4.29
+ },
+ {
+  "w": "bedrijf",
+  "start": 4.29,
+  "eind": 4.63
+ },
+ {
+  "w": "gestart",
+  "start": 4.63,
+  "eind": 4.97
+ },
+ {
+  "w": "en",
+  "start": 4.97,
+  "eind": 5.17
+ },
+ {
+  "w": "ik",
+  "start": 5.17,
+  "eind": 5.29
+ },
+ {
+  "w": "neem",
+  "start": 5.29,
+  "eind": 5.43
+ },
+ {
+  "w": "jullie",
+  "start": 5.43,
+  "eind": 5.59
+ },
+ {
+  "w": "mee",
+  "start": 5.59,
+  "eind": 5.75
+ },
+ {
+  "w": "in",
+  "start": 5.75,
+  "eind": 5.89
+ },
+ {
+  "w": "het",
+  "start": 5.89,
+  "eind": 6.03
+ },
+ {
+  "w": "proces.",
+  "start": 6.03,
+  "eind": 6.27
+ },
+ {
+  "w": "Alles",
+  "start": 6.3,
+  "eind": 6.74
+ },
+ {
+  "w": "begint",
+  "start": 6.74,
+  "eind": 7.16
+ },
+ {
+  "w": "bij",
+  "start": 7.16,
+  "eind": 7.42
+ },
+ {
+  "w": "een",
+  "start": 7.42,
+  "eind": 7.56
+ },
+ {
+  "w": "naam",
+  "start": 7.56,
+  "eind": 7.7
+ },
+ {
+  "w": "te",
+  "start": 7.7,
+  "eind": 7.8
+ },
+ {
+  "w": "kiezen",
+  "start": 7.8,
+  "eind": 8.06
+ },
+ {
+  "w": "voor",
+  "start": 8.06,
+  "eind": 8.26
+ },
+ {
+  "w": "je",
+  "start": 8.26,
+  "eind": 8.36
+ },
+ {
+  "w": "bedrijf.",
+  "start": 8.36,
+  "eind": 8.75
+ },
+ {
+  "w": "Mijn",
+  "start": 8.75,
+  "eind": 9.09
+ },
+ {
+  "w": "bedrijf",
+  "start": 9.09,
+  "eind": 9.47
+ },
+ {
+  "w": "draagt",
+  "start": 9.47,
+  "eind": 9.71
+ },
+ {
+  "w": "mijn",
+  "start": 9.71,
+  "eind": 9.85
+ },
+ {
+  "w": "achternaam,",
+  "start": 10.24,
+  "eind": 10.59
+ },
+ {
+  "w": "zo",
+  "start": 10.75,
+  "eind": 10.81
+ },
+ {
+  "w": "weten",
+  "start": 10.81,
+  "eind": 11.01
+ },
+ {
+  "w": "klanten",
+  "start": 11.01,
+  "eind": 11.37
+ },
+ {
+  "w": "meteen",
+  "start": 11.72,
+  "eind": 12.07
+ },
+ {
+  "w": "wie",
+  "start": 12.07,
+  "eind": 12.27
+ },
+ {
+  "w": "ze",
+  "start": 12.27,
+  "eind": 12.41
+ },
+ {
+  "w": "voor",
+  "start": 12.41,
+  "eind": 12.65
+ },
+ {
+  "w": "zich",
+  "start": 12.65,
+  "eind": 12.77
+ },
+ {
+  "w": "hebben.",
+  "start": 12.77,
+  "eind": 12.97
+ },
+ {
+  "w": "Multiservices",
+  "start": 13.53,
+  "eind": 13.95
+ },
+ {
+  "w": "omdat",
+  "start": 13.95,
+  "eind": 14.23
+ },
+ {
+  "w": "je",
+  "start": 14.23,
+  "eind": 14.39
+ },
+ {
+  "w": "dan",
+  "start": 14.39,
+  "eind": 14.55
+ },
+ {
+  "w": "later",
+  "start": 14.55,
+  "eind": 14.75
+ },
+ {
+  "w": "kan",
+  "start": 14.75,
+  "eind": 14.97
+ },
+ {
+  "w": "uitbreiden",
+  "start": 14.97,
+  "eind": 15.45
+ },
+ {
+  "w": "zonder",
+  "start": 15.45,
+  "eind": 15.79
+ },
+ {
+  "w": "een",
+  "start": 15.79,
+  "eind": 15.87
+ },
+ {
+  "w": "nieuwe",
+  "start": 15.87,
+  "eind": 16.03
+ },
+ {
+  "w": "naam",
+  "start": 16.03,
+  "eind": 16.23
+ },
+ {
+  "w": "te",
+  "start": 16.23,
+  "eind": 16.37
+ },
+ {
+  "w": "kiezen.",
+  "start": 16.37,
+  "eind": 16.71
+ },
+ {
+  "w": "Daarna",
+  "start": 16.9,
+  "eind": 17.26
+ },
+ {
+  "w": "kan",
+  "start": 17.26,
+  "eind": 17.44
+ },
+ {
+  "w": "je",
+  "start": 17.44,
+  "eind": 17.56
+ },
+ {
+  "w": "verder",
+  "start": 17.56,
+  "eind": 17.9
+ },
+ {
+  "w": "met",
+  "start": 17.9,
+  "eind": 18.08
+ },
+ {
+  "w": "een",
+  "start": 18.08,
+  "eind": 18.26
+ },
+ {
+  "w": "logo",
+  "start": 18.26,
+  "eind": 18.44
+ },
+ {
+  "w": "te",
+  "start": 18.44,
+  "eind": 18.62
+ },
+ {
+  "w": "ontwerpen",
+  "start": 18.62,
+  "eind": 19.0
+ },
+ {
+  "w": "voor",
+  "start": 19.0,
+  "eind": 19.18
+ },
+ {
+  "w": "je",
+  "start": 19.18,
+  "eind": 19.3
+ },
+ {
+  "w": "bedrijf.",
+  "start": 19.3,
+  "eind": 19.68
+ },
+ {
+  "w": "Het",
+  "start": 19.87,
+  "eind": 20.25
+ },
+ {
+  "w": "logo",
+  "start": 20.25,
+  "eind": 20.63
+ },
+ {
+  "w": "tekende",
+  "start": 20.63,
+  "eind": 20.77
+ },
+ {
+  "w": "ik",
+  "start": 20.77,
+  "eind": 20.87
+ },
+ {
+  "w": "eerst",
+  "start": 20.87,
+  "eind": 21.21
+ },
+ {
+  "w": "zelf",
+  "start": 21.21,
+  "eind": 21.45
+ },
+ {
+  "w": "met",
+  "start": 21.45,
+  "eind": 21.71
+ },
+ {
+  "w": "de",
+  "start": 21.71,
+  "eind": 21.95
+ },
+ {
+  "w": "symbolen",
+  "start": 21.95,
+  "eind": 22.33
+ },
+ {
+  "w": "die",
+  "start": 22.33,
+  "eind": 22.39
+ },
+ {
+  "w": "ik",
+  "start": 22.39,
+  "eind": 22.53
+ },
+ {
+  "w": "in",
+  "start": 22.53,
+  "eind": 22.59
+ },
+ {
+  "w": "mijn",
+  "start": 22.59,
+  "eind": 22.71
+ },
+ {
+  "w": "hoofd",
+  "start": 22.71,
+  "eind": 22.99
+ },
+ {
+  "w": "had.",
+  "start": 22.99,
+  "eind": 23.09
+ },
+ {
+  "w": "Jij",
+  "start": 25.4,
+  "eind": 25.67
+ },
+ {
+  "w": "weet",
+  "start": 25.67,
+  "eind": 25.85
+ },
+ {
+  "w": "immers",
+  "start": 25.85,
+  "eind": 26.15
+ },
+ {
+  "w": "het",
+  "start": 26.15,
+  "eind": 26.37
+ },
+ {
+  "w": "best",
+  "start": 26.37,
+  "eind": 26.79
+ },
+ {
+  "w": "waar",
+  "start": 26.79,
+  "eind": 27.03
+ },
+ {
+  "w": "je",
+  "start": 27.03,
+  "eind": 27.19
+ },
+ {
+  "w": "bedrijf",
+  "start": 27.19,
+  "eind": 27.67
+ },
+ {
+  "w": "om",
+  "start": 27.67,
+  "eind": 27.93
+ },
+ {
+  "w": "draait.",
+  "start": 27.93,
+  "eind": 28.19
+ },
+ {
+  "w": "En",
+  "start": 28.3,
+  "eind": 28.59
+ },
+ {
+  "w": "hou",
+  "start": 28.59,
+  "eind": 28.73
+ },
+ {
+  "w": "het",
+  "start": 28.73,
+  "eind": 28.89
+ },
+ {
+  "w": "simpel,",
+  "start": 29.2,
+  "eind": 29.55
+ },
+ {
+  "w": "zwart-wit",
+  "start": 29.81,
+  "eind": 30.19
+ },
+ {
+  "w": "werkt",
+  "start": 30.19,
+  "eind": 30.45
+ },
+ {
+  "w": "overal",
+  "start": 30.45,
+  "eind": 31.01
+ },
+ {
+  "w": "op",
+  "start": 31.01,
+  "eind": 31.27
+ },
+ {
+  "w": "flyers,",
+  "start": 31.27,
+  "eind": 31.79
+ },
+ {
+  "w": "visitekaartjes",
+  "start": 32.42,
+  "eind": 32.77
+ },
+ {
+  "w": "of",
+  "start": 32.77,
+  "eind": 33.03
+ },
+ {
+  "w": "kledij.",
+  "start": 33.03,
+  "eind": 33.35
+ }
+]
