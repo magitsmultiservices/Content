@@ -36,7 +36,17 @@
   {
    "bestand": "media/003/IMG_2828.MOV",
    "van": 0.8,
-   "tot": 4.6
+   "tot": 4.25
+  },
+  {
+   "bestand": "media/003/IMG_2830.MOV",
+   "van": 1.2,
+   "tot": 5.0
+  },
+  {
+   "bestand": "media/003/IMG_2831.MOV",
+   "van": 0.65,
+   "tot": 4.5
   },
   {
    "bestand": "media/003/IMG_2833.MOV",
@@ -54,31 +64,25 @@
    "bestand": "media/003/IMG_2827.MOV",
    "van": 0.5,
    "op": 19.75,
-   "duur": 1.25
+   "duur": 1.75
   },
   {
    "bestand": "media/003/IMG_2825.MOV",
    "van": 2.0,
-   "op": 21.0,
-   "duur": 1.0
-  },
-  {
-   "bestand": "media/003/logo-onthulling.mp4",
-   "van": 0,
-   "op": 22.0,
-   "duur": 1.55
+   "op": 21.5,
+   "duur": 1.7
   },
   {
    "bestand": "media/003/IMG_2835.MOV",
    "van": 0.0,
-   "op": 26.45,
-   "duur": 4.58
+   "op": 33.75,
+   "duur": 4.78
   },
   {
    "bestand": "media/003/IMG_2836.MOV",
    "van": 0.0,
-   "op": 31.03,
-   "duur": 1.07
+   "op": 38.53,
+   "duur": 0.87
   }
  ],
  "ondertitels": "montage/projecten/003-naam-en-logo.woorden.json",
@@ -94,15 +98,9 @@
    "stijl": "pop"
   },
   {
-   "tekst": "AI werkte het af",
-   "van": 22.1,
-   "tot": 23.45,
-   "stijl": "pop"
-  },
-  {
    "tekst": "Begin op papier",
-   "van": 23.65,
-   "tot": 26.35,
+   "van": 28.5,
+   "tot": 30.75,
    "stijl": "pop"
   }
  ],

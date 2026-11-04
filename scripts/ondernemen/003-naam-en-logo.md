@@ -6,12 +6,9 @@
 - **Vorm:** Yelte praat recht in de camera, met zijn eerste tekening van het logo, het afgewerkte logo en drukwerk/kledij ertussen
 - **Doel:** beginnende ondernemers informeren en inspireren: hoe kies je een naam, hoe maak je een logo
 - **Bron:** antwoorden van Yelte (25/10 en 01/11/2026)
-- **Status:** opgenomen en gemonteerd (± 37 s), wacht op goedkeuring
-- **Montage:** `montage/projecten/003-naam-en-logo.json`. Hook en pop "Magits" volgens Yelte's aanpassing in Drive.
-  "Daarna heeft AI er een strak logo van gemaakt" en de tip "begin op papier" niet ingesproken: opgevangen met
-  beeld (tekening → afgewerkt logo, pop "AI werkte het af") en pop "Begin op papier". Extra ingesproken:
-  "Alles begint bij een naam…" en "Daarna kan je verder met een logo…".
-
+- **Status:** opgenomen en gemonteerd (± 43 s), wacht op goedkeuring
+- **Montage:** `montage/projecten/003-naam-en-logo.json` (± 43 s). Hook en pop "Magits" volgens Yelte's aanpassing in Drive.
+  AI-zin en tip later apart ingesproken (IMG_2830, IMG_2831). Pop "Begin op papier" bij de tip.
 ---
 
 ## Hook (0–4 s)
