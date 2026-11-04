@@ -212,6 +212,24 @@ def ondertitel_regels(woorden):
 STIJLEN = {"titel": "Titel", "hook": "Hook", "groot": "Groot", "pop": "Groot"}
 
 
+def vaste_regels(tekst, max_tekens=20):
+    """Verdeelt tekst zelf over regels (ASS-regelbreuk \\N), bij voorkeur na een leesteken.
+
+    Een "\\n" in de tekst is een regelbreuk die de schrijver zelf koos.
+    """
+    if "\n" in tekst:
+        return "\\N".join(r.strip() for r in tekst.split("\n"))
+    regels, huidig = [], ""
+    for woord in tekst.split():
+        if huidig and (len(huidig) + 1 + len(woord) > max_tekens or re.search(r"[,.?!:]$", huidig)):
+            regels.append(huidig)
+            huidig = woord
+        else:
+            huidig = f"{huidig} {woord}".strip()
+    regels.append(huidig)
+    return "\\N".join(regels)
+
+
 def midden_grootte(tekst):
     """Lettergrootte voor de hook in het midden: zo groot mogelijk, lange zinnen lopen over meerdere regels."""
     n = len(tekst)
@@ -296,7 +314,11 @@ def main():
         regels = ondertitel_regels(woorden)
         if hook:
             tekst = ass_tekst(EMOJI.sub("", hook["tekst"]).strip())
-            effect = POP.replace("{", "{\\fs" + str(midden_grootte(tekst)), 1)
+            grootte = midden_grootte(tekst)
+            # Vaste regelbreuk (\q2 = niet zelf herverdelen): anders springt de tekst tussen
+            # regelverdelingen terwijl de pop-animatie hem groter en kleiner maakt.
+            tekst = vaste_regels(tekst.replace(" | ", "\n"), max_tekens=16 if grootte >= 150 else 20 if grootte >= 120 else 26)
+            effect = POP.replace("{", "{\\q2\\fs" + str(grootte), 1)
             regels.append(f"Dialogue: 3,{tijd(hook.get('van', 0))},{tijd(hook['tot'])},Midden,,0,0,0,,{effect}{tekst}")
         for t in project.get("teksten", []):
             # " | " in een tekst = nieuwe regel (bv. een lijst die onder elkaar opbouwt).
@@ -307,7 +329,7 @@ def main():
                 effect = POP
             elif t.get("stijl") == "pop":
                 # Zelfde pop als 'groot', maar de lettergrootte past zich aan de lengte aan.
-                effect = POP.replace("{", "{\\fs" + str(pop_grootte(tekst)), 1)
+                effect = POP.replace("{", "{\\q2\\fs" + str(pop_grootte(tekst)), 1)
             regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
         ass = werk / "ondertitels.ass"
         ass.write_text(ASS_KOP + "\n".join(regels) + "\n", encoding="utf-8")

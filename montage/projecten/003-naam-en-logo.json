@@ -36,12 +36,7 @@
   {
    "bestand": "media/003/IMG_2828.MOV",
    "van": 0.8,
-   "tot": 4.25
-  },
-  {
-   "bestand": "media/003/logo-onthulling.mp4",
-   "van": 0,
-   "tot": 2.2
+   "tot": 4.6
   },
   {
    "bestand": "media/003/IMG_2833.MOV",
@@ -51,7 +46,7 @@
   {
    "bestand": "media/003/IMG_2834.MOV",
    "van": 0.65,
-   "tot": 5.85
+   "tot": 6.3
   }
  ],
  "broll": [
@@ -59,25 +54,31 @@
    "bestand": "media/003/IMG_2827.MOV",
    "van": 0.5,
    "op": 19.75,
-   "duur": 1.75
+   "duur": 1.25
   },
   {
    "bestand": "media/003/IMG_2825.MOV",
    "van": 2.0,
-   "op": 21.5,
-   "duur": 1.7
+   "op": 21.0,
+   "duur": 1.0
   },
   {
-   "bestand": "media/003/IMG_2836.MOV",
-   "van": 0.0,
-   "op": 28.3,
-   "duur": 2.3
+   "bestand": "media/003/logo-onthulling.mp4",
+   "van": 0,
+   "op": 22.0,
+   "duur": 1.55
   },
   {
    "bestand": "media/003/IMG_2835.MOV",
    "van": 0.0,
-   "op": 30.6,
-   "duur": 2.9
+   "op": 26.45,
+   "duur": 4.58
+  },
+  {
+   "bestand": "media/003/IMG_2836.MOV",
+   "van": 0.0,
+   "op": 31.03,
+   "duur": 1.07
   }
  ],
  "ondertitels": "montage/projecten/003-naam-en-logo.woorden.json",
@@ -94,14 +95,14 @@
   },
   {
    "tekst": "AI werkte het af",
-   "van": 23.349999999999998,
-   "tot": 25.299999999999997,
+   "van": 22.1,
+   "tot": 23.45,
    "stijl": "pop"
   },
   {
    "tekst": "Begin op papier",
-   "van": 25.5,
-   "tot": 28.2,
+   "van": 23.65,
+   "tot": 26.35,
    "stijl": "pop"
   }
  ],
