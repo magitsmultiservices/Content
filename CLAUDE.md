@@ -49,6 +49,8 @@ Drive-pad: `07. MARKETING / 1. Social Media /`
     wordt (bv. een haag bij "tuinonderhoud") en gebruikt ze als werkbeelden, vooral waar er alleen gesproken
     tekst is.
   - Ook daar geldt: geen herkenbare klanten, huisnummers of nummerplaten in beeld zonder toestemming.
+  - **Nooit beelden van verschillende klussen mixen** in één video: een voor/na of verhaal over een klus
+    gebruikt alleen beelden van die ene klus.
   - Downloaden lukt alleen als de map gedeeld is als "Iedereen met de link · Kijker".
 - Bestaande documenten in `1. Social Media/Content/`: "Ideeën ondernemingsvideo's"
   (uitgewerkte teksten voor de reeks), "Intro dat ik had", "01/2027 - Content planner",
