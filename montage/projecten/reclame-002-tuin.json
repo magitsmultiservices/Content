@@ -10,19 +10,14 @@
    "tot": 3.0
   },
   {
-   "bestand": "media/reclame-002/20261030_080531.mp4",
-   "van": 0.5,
-   "tot": 3.5
-  },
-  {
-   "bestand": "media/reclame-002/20261030_080636.mp4",
-   "van": 0,
-   "tot": 2.3
-  },
-  {
    "bestand": "media/reclame-002/20261030_113230.mp4",
    "van": 0,
    "tot": 3.8
+  },
+  {
+   "bestand": "media/reclame-002/20261030_080531.mp4",
+   "van": 0.5,
+   "tot": 3.5
   },
   {
    "bestand": "media/reclame-002/20261030_113210.mp4",
@@ -30,14 +25,14 @@
    "tot": 4.35
   },
   {
+   "bestand": "media/reclame-002/20261030_080636.mp4",
+   "van": 0,
+   "tot": 2.3
+  },
+  {
    "bestand": "media/reclame-002/20261030_103646.mp4",
    "van": 0,
    "tot": 2.45
-  },
-  {
-   "bestand": "media/reclame-002/20261030_113154.mp4",
-   "van": 0,
-   "tot": 2.25
   },
   {
    "bestand": "media/reclame-002/20261030_113201.mp4",
@@ -52,14 +47,14 @@
  "teksten": [
   {
    "tekst": "Tuin opgefrist",
-   "van": 8.5,
-   "tot": 14.6,
+   "van": 3.2,
+   "tot": 6.7,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een foto | voor een prijsinschatting",
-   "van": 21.3,
-   "tot": 24.4,
+   "van": 19.05,
+   "tot": 22.15,
    "stijl": "pop"
   }
  ],
