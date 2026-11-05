@@ -50,7 +50,7 @@ Drive-pad: `07. MARKETING / 1. Social Media /`
     tekst is.
   - Ook daar geldt: geen herkenbare klanten, huisnummers of nummerplaten in beeld zonder toestemming.
   - Een **voor/na-video van een klus** (reclame) gebruikt alleen beelden van die ene klus, per plek eerst
-    voor en meteen na. In **ondernemingsvideo's** mogen werkbeelden van verschillende klussen wel gemengd
+    voor en meteen na, met **"Voor" en "Na"** bovenaan in beeld (pop). In **ondernemingsvideo's** mogen werkbeelden van verschillende klussen wel gemengd
     worden als illustratie bij wat er gezegd wordt.
   - Downloaden lukt alleen als de map gedeeld is als "Iedereen met de link · Kijker".
 - Bestaande documenten in `1. Social Media/Content/`: "Ideeën ondernemingsvideo's"

@@ -329,7 +329,7 @@ def main():
                 effect = POP
             elif t.get("stijl") == "pop":
                 # Zelfde pop als 'groot', maar de lettergrootte past zich aan de lengte aan.
-                effect = POP.replace("{", "{\\q2\\fs" + str(pop_grootte(tekst)), 1)
+                effect = POP.replace("{", "{\\q2\\fs" + str(t.get("grootte") or pop_grootte(tekst)), 1)
             regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
         ass = werk / "ondertitels.ass"
         ass.write_text(ASS_KOP + "\n".join(regels) + "\n", encoding="utf-8")

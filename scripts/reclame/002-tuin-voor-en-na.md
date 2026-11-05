@@ -11,14 +11,14 @@
 
 ---
 
-Per plek eerst het voor-beeld en meteen het na-beeld.
+Per plek eerst het voor-beeld en meteen het na-beeld, met **Voor** en **Na** bovenaan (pop).
 
 | Tijd | Beeld | Tekst |
 |---|---|---|
-| 0–3 s | Plantenbak bij de bank: voor | **Tuin toe aan een opfrisbeurt?** (hook, groot in het midden) |
-| 3–7 s | Plantenbak bij de bank: na | **Tuin opgefrist** (pop) |
-| 7–14 s | Border met de boom: voor → na (schors, nieuwe planten) | – |
-| 14–19 s | Ronde plantenbak: voor → na (heide) | – |
+| 0–3 s | Plantenbak bij de bank: voor | **Voor** + hook **Tuin toe aan een opfrisbeurt?** (groot in het midden) |
+| 3–7 s | Plantenbak bij de bank: na | **Na** |
+| 7–14 s | Border met de boom: voor → na (schors, nieuwe planten) | **Voor** → **Na** |
+| 14–19 s | Ronde plantenbak: voor → na (heide) | **Voor** → **Na** |
 | 19–22 s | Terras (na) | **Stuur ons een foto voor een prijsinschatting** (pop) |
 | 22–26 s | Eindbeeld | logo, slogan, website, telefoon |
 

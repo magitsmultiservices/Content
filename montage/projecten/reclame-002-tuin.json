@@ -46,10 +46,46 @@
  },
  "teksten": [
   {
-   "tekst": "Tuin opgefrist",
-   "van": 3.2,
+   "tekst": "Voor",
+   "van": 0.15,
+   "tot": 2.9,
+   "stijl": "pop",
+   "grootte": 140
+  },
+  {
+   "tekst": "Na",
+   "van": 3.15,
    "tot": 6.7,
-   "stijl": "pop"
+   "stijl": "pop",
+   "grootte": 140
+  },
+  {
+   "tekst": "Voor",
+   "van": 6.95,
+   "tot": 9.7,
+   "stijl": "pop",
+   "grootte": 140
+  },
+  {
+   "tekst": "Na",
+   "van": 9.95,
+   "tot": 14.05,
+   "stijl": "pop",
+   "grootte": 140
+  },
+  {
+   "tekst": "Voor",
+   "van": 14.3,
+   "tot": 16.35,
+   "stijl": "pop",
+   "grootte": 140
+  },
+  {
+   "tekst": "Na",
+   "van": 16.6,
+   "tot": 18.8,
+   "stijl": "pop",
+   "grootte": 140
   },
   {
    "tekst": "Stuur ons een foto | voor een prijsinschatting",
