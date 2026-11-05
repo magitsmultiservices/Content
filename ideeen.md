@@ -13,6 +13,7 @@
 
 ## Reclame
 - [x] 001 · Garage leeghalen in Antwerpen (voor/na, timelapse)
+- [x] 002 · Tuin voor en na (voortuin + binnentuin, beelden uit BEELDMATERIAAL)
 - [ ] Tuin en rommel in één keer geregeld (concept: `scripts/reclame/idee-tuin-en-rommel.md`)
 - [ ] Voor/na: verwilderde tuin opgeknapt
 - [ ] Rommelophaling: een volle garage in [x] uur leeg

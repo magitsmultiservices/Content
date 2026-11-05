@@ -1,0 +1,88 @@
+{
+ "titel": "Reclamevideo 2 · Tuin voor en na",
+ "uitvoer": "output/reclame-002-tuin.mp4",
+ "geluid": false,
+ "overgang": 0.25,
+ "clips": [
+  {
+   "bestand": "media/reclame-002/20261102_143526.mp4",
+   "van": 0,
+   "tot": 2.15
+  },
+  {
+   "bestand": "media/reclame-002/20261102_143513.mp4",
+   "van": 0.2,
+   "tot": 2.9
+  },
+  {
+   "bestand": "media/reclame-002/IMG_1185.MOV",
+   "van": 1.0,
+   "tot": 3.5
+  },
+  {
+   "bestand": "media/reclame-002/20261026_113640.mp4",
+   "van": 2.0,
+   "tot": 4.6
+  },
+  {
+   "bestand": "media/reclame-002/20261102_155912.mp4",
+   "van": 0,
+   "tot": 2.37
+  },
+  {
+   "bestand": "media/reclame-002/20261102_155908.mp4",
+   "van": 0,
+   "tot": 2.55
+  },
+  {
+   "bestand": "media/reclame-002/20261030_080542.mp4",
+   "van": 0,
+   "tot": 2.2
+  },
+  {
+   "bestand": "media/reclame-002/20261030_080636.mp4",
+   "van": 0,
+   "tot": 2.3
+  },
+  {
+   "bestand": "media/reclame-002/20261030_113217.mp4",
+   "van": 0,
+   "tot": 3.05
+  },
+  {
+   "bestand": "media/reclame-002/20261030_103646.mp4",
+   "van": 0,
+   "tot": 2.45
+  },
+  {
+   "bestand": "media/reclame-002/IMG_1193.MOV",
+   "van": 0,
+   "tot": 3.2
+  }
+ ],
+ "hook": {
+  "tekst": "Haag uit de hand gelopen?",
+  "tot": 2.15
+ },
+ "teksten": [
+  {
+   "tekst": "Strak en netjes",
+   "van": 10.15,
+   "tot": 14.77,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Tuin opgefrist",
+   "van": 19.57,
+   "tot": 24.77,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Stuur ons een foto | voor een prijsinschatting",
+   "van": 25.02,
+   "tot": 28.02,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}
