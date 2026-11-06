@@ -10,9 +10,9 @@
    "tot": 3.0
   },
   {
-   "bestand": "media/reclame-002/20261030_113230.mp4",
+   "bestand": "media/nieuw-1104/20261105_165357.mp4",
    "van": 0,
-   "tot": 3.8
+   "tot": 4.0
   },
   {
    "bestand": "media/reclame-002/20261030_080531.mp4",
@@ -35,6 +35,21 @@
    "tot": 2.45
   },
   {
+   "bestand": "media/nieuw-1104/20261104_142406.mp4",
+   "van": 0,
+   "tot": 2.5
+  },
+  {
+   "bestand": "media/nieuw-1104/20261105_165314.mp4",
+   "van": 0,
+   "tot": 2.08
+  },
+  {
+   "bestand": "media/nieuw-1104/20261105_165306.mp4",
+   "van": 0,
+   "tot": 2.18
+  },
+  {
    "bestand": "media/reclame-002/20261030_113201.mp4",
    "van": 0,
    "tot": 3.3
@@ -55,42 +70,56 @@
   {
    "tekst": "Na",
    "van": 3.15,
-   "tot": 6.7,
+   "tot": 6.9,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Voor",
-   "van": 6.95,
-   "tot": 9.7,
+   "van": 7.15,
+   "tot": 9.9,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Na",
-   "van": 9.95,
-   "tot": 14.05,
+   "van": 10.15,
+   "tot": 14.25,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Voor",
-   "van": 14.3,
-   "tot": 16.35,
+   "van": 14.5,
+   "tot": 16.55,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Na",
-   "van": 16.6,
-   "tot": 18.8,
+   "van": 16.8,
+   "tot": 19.0,
+   "stijl": "pop",
+   "grootte": 140
+  },
+  {
+   "tekst": "Voor",
+   "van": 19.25,
+   "tot": 21.5,
+   "stijl": "pop",
+   "grootte": 140
+  },
+  {
+   "tekst": "Na",
+   "van": 21.75,
+   "tot": 25.76,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Stuur ons een foto | voor een prijsinschatting",
-   "van": 19.05,
-   "tot": 22.15,
+   "van": 26.01,
+   "tot": 29.11,
    "stijl": "pop"
   }
  ],
