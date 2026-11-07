@@ -15,6 +15,21 @@
    "tot": 4.0
   },
   {
+   "bestand": "media/nieuw-1104/20261104_142406.mp4",
+   "van": 0,
+   "tot": 2.5
+  },
+  {
+   "bestand": "media/nieuw-1104/20261105_165314.mp4",
+   "van": 0,
+   "tot": 2.08
+  },
+  {
+   "bestand": "media/nieuw-1104/20261105_165306.mp4",
+   "van": 0,
+   "tot": 2.18
+  },
+  {
    "bestand": "media/reclame-002/20261030_080531.mp4",
    "van": 0.5,
    "tot": 3.5
@@ -35,21 +50,6 @@
    "tot": 2.45
   },
   {
-   "bestand": "media/nieuw-1104/20261104_142406.mp4",
-   "van": 0,
-   "tot": 2.5
-  },
-  {
-   "bestand": "media/nieuw-1104/20261105_165314.mp4",
-   "van": 0,
-   "tot": 2.08
-  },
-  {
-   "bestand": "media/nieuw-1104/20261105_165306.mp4",
-   "van": 0,
-   "tot": 2.18
-  },
-  {
    "bestand": "media/reclame-002/20261030_113201.mp4",
    "van": 0,
    "tot": 3.3
@@ -61,43 +61,49 @@
  },
  "teksten": [
   {
+   "tekst": "Opfrisbeurt gekregen",
+   "van": 3.15,
+   "tot": 6.9,
+   "stijl": "pop"
+  },
+  {
    "tekst": "Voor",
    "van": 7.15,
-   "tot": 9.9,
+   "tot": 9.4,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Na",
-   "van": 10.15,
-   "tot": 14.25,
+   "van": 9.65,
+   "tot": 13.66,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Voor",
-   "van": 14.5,
-   "tot": 16.55,
+   "van": 13.91,
+   "tot": 16.66,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Na",
-   "van": 16.8,
-   "tot": 19.0,
+   "van": 16.91,
+   "tot": 21.01,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Voor",
-   "van": 19.25,
-   "tot": 21.5,
+   "van": 21.26,
+   "tot": 23.31,
    "stijl": "pop",
    "grootte": 140
   },
   {
    "tekst": "Na",
-   "van": 21.75,
+   "van": 23.56,
    "tot": 25.76,
    "stijl": "pop",
    "grootte": 140
