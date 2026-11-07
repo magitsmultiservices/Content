@@ -13,8 +13,8 @@
 
 | Tijd | Beeld | Tekst |
 |---|---|---|
-| 0–3 s | Plantenbak bij de bank: voor (30/10) | **Voor** + hook **Tuin toe aan een opfrisbeurt?** (groot in het midden) |
-| 3–7 s | Plantenbak bij de bank: na (5/11) | **Na** |
+| 0–3 s | Plantenbak bij de bank: voor (30/10) | hook **Tuin in centrum Antwerpen** (groot in het midden) |
+| 3–7 s | Plantenbak bij de bank: na (5/11) | – (nog geen Voor/Na bij de eerste plek) |
 | 7–14 s | Border met de boom: voor → na (schors, nieuwe planten) | **Voor** → **Na** |
 | 14–19 s | Ronde plantenbak: voor → na (heide) | **Voor** → **Na** |
 | 19–26 s | Muur: vol dode klimop (4/11) → kaal en proper (5/11) | **Voor** → **Na** |
@@ -22,7 +22,7 @@
 | 29–33 s | Eindbeeld | logo, slogan, website, telefoon |
 
 ## Caption
-> Tuin toe aan een opfrisbeurt? Van nieuwe beplanting tot een muur vol klimop: wij maken uw tuin weer verzorgd.
+> Een tuin in het centrum van Antwerpen: van nieuwe beplanting tot een muur vol klimop. Ook uw tuin toe aan een opfrisbeurt?
 > Stuur ons een foto, dan krijgt u een prijsinschatting.
 > 📞 +32 492 88 44 24 · magitsmultiservices.be
 >

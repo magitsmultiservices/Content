@@ -56,24 +56,10 @@
   }
  ],
  "hook": {
-  "tekst": "Tuin toe aan een opfrisbeurt?",
+  "tekst": "Tuin in centrum | Antwerpen",
   "tot": 3.0
  },
  "teksten": [
-  {
-   "tekst": "Voor",
-   "van": 0.15,
-   "tot": 2.9,
-   "stijl": "pop",
-   "grootte": 140
-  },
-  {
-   "tekst": "Na",
-   "van": 3.15,
-   "tot": 6.9,
-   "stijl": "pop",
-   "grootte": 140
-  },
   {
    "tekst": "Voor",
    "van": 7.15,
