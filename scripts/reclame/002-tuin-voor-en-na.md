@@ -2,7 +2,7 @@
 
 - **Soort:** reclame (klanten in de regio, aanspreken met "u")
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 33 seconden (met eindbeeld)
+- **Lengte:** ± 31 seconden (met eindbeeld)
 - **Vorm:** voor/na van **één tuin**, per plek eerst voor en meteen na, met **Voor** en **Na** bovenaan (pop);
   enkel tekst in beeld, **zonder geluid**: Yelte zet er zelf muziek onder
 - **Beelden:** uit `07. MARKETING / BEELDMATERIAAL`, allemaal van dezelfde tuin: 30 oktober, 4 en 5 november
@@ -15,11 +15,11 @@
 |---|---|---|
 | 0–3 s | Plantenbak bij de bank: voor (30/10) | hook **Tuin in centrum Antwerpen** (groot in het midden) |
 | 3–7 s | Plantenbak bij de bank: na (5/11) | **Opfrisbeurt gekregen** (pop) |
-| 7–14 s | Muur: vol dode klimop (4/11) → kaal en proper (5/11) | **Voor** → **Na** |
-| 14–21 s | Border met de boom: voor → na (schors, nieuwe planten) | **Voor** → **Na** |
-| 21–26 s | Ronde plantenbak: voor → na (heide) | **Voor** → **Na** |
-| 26–29 s | Terras | **Stuur ons een foto voor een prijsinschatting** (pop) |
-| 29–33 s | Eindbeeld | logo, slogan, website, telefoon |
+| 7–12 s | Muur: vol dode klimop (4/11) → kaal en proper (5/11), één na-beeld | **Voor** → **Na** |
+| 12–19 s | Border met de boom: voor → na (schors, nieuwe planten) | **Voor** → **Na** |
+| 19–24 s | Ronde plantenbak: voor → na (heide) | **Voor** → **Na** |
+| 24–27 s | Terras | **Stuur ons een foto voor een prijsinschatting** (pop) |
+| 27–31 s | Eindbeeld | logo, slogan, website, telefoon |
 
 ## Caption
 > Een tuin in het centrum van Antwerpen: van nieuwe beplanting tot een muur vol klimop. Ook uw tuin toe aan een opfrisbeurt?
