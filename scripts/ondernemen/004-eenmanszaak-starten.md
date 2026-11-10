@@ -2,74 +2,76 @@
 
 - **Soort:** ondernemen (breed publiek), informatief: stap voor stap, niet te moeilijk. Start van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 70 seconden (met eindbeeld)
+- **Lengte:** ± 65 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop/telefoon (zonder persoonlijke gegevens) en werkbeelden
 - **Bron:** antwoorden van Yelte (10/11/2026) en opzoekwerk (tarieven 2026, zie onderaan)
-- **Status:** klaar om op te nemen (Yelte checkt: ± €400 per jaar = zijn sociale bijdragen in bijberoep)
+- **Status:** klaar om op te nemen (Yelte checkt: volgorde van de stappen en ± €400 per jaar)
+- **Toon:** vertellend, in de ik-vorm en de verleden tijd: Yelte vertelt hoe híj het geregeld heeft, alsof hij het aan een vriend uitlegt.
+  Elke stap haakt in op de vorige ("Eerst…", "Dan…", "Daarna…", "En als laatste…"), zodat de kijker meegaat in het verhaal.
 
 ---
 
 ## Hook (0–4 s)
 Kies er één:
 
-1. "Aflevering 4. Wat kost het écht om een eigen zaak te starten?"
-2. "Aflevering 4. Naam en logo zijn klaar. Nu het papierwerk."
-3. "Aflevering 4. Een eenmanszaak starten in België: dit moet je regelen."
+1. "Aflevering 4. Voor ik één klant mocht helpen, moest ik eerst dit regelen."
+2. "Aflevering 4. Wat kost het écht om een eigen zaak te starten?"
 
 > Beeld: Yelte in de camera, dicht bij.
-> Groot in het midden als pop-up (nog geen ondertitels): **Wat kost een eigen zaak?** (bij hook 1)
+> Groot in het midden als pop-up (nog geen ondertitels): **Eerst dit regelen** (bij hook 1) of **Wat kost een eigen zaak?** (bij hook 2)
 
-## Vaste intro (4–11 s)
+## Vaste intro (4–10 s)
 "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
 
-## Overzicht (11–17 s)
-"Vandaag zet ik alles kort op een rij. In de volgende afleveringen ga ik dieper in op elke stap."
+## Overzicht (10–15 s)
+"Vandaag het korte verhaal. In de volgende afleveringen ga ik dieper in op elke stap."
 
 > Beeld: Yelte in de camera.
 
-## Blok 1 · Bijberoep (17–19 s)
-"Eerst: ik ben gestart in bijberoep."
+## Blok 1 · Officieel zelfstandige worden (15–21 s)
+"Voor je één klant mag helpen, moet je officieel zelfstandige worden.
+Ik koos voor bijberoep."
 
 > Beeld: Yelte in de camera.
 
-## Blok 2 · Stap 1: een aparte rekening (19–23 s)
-"Stap één: open een aparte rekening voor je zaak."
+## Blok 2 · Eerst: een aparte rekening (21–25 s)
+"Eerst opende ik een aparte rekening, gescheiden van mijn eigen geld."
 
 > Beeld: bankapp of bankkaart (rekeningnummer niet leesbaar).
 
-## Blok 3 · Stap 2: je ondernemingsnummer (23–32 s)
-"Stap twee: je ondernemingsnummer. Dat vraag je aan bij een ondernemingsloket, zoals Acerta, Liantis of Xerius.
-Ik deed het via Acerta. Dat kost overal hetzelfde: 111,50 euro."
+## Blok 3 · Dan: het ondernemingsnummer (25–31 s)
+"Dan het ondernemingsnummer, via een ondernemingsloket zoals Acerta, Liantis of Xerius.
+Ik koos Acerta: 111,50 euro."
 
-> Beeld: laptop met de site van een ondernemingsloket.
+> Beeld: laptop met de site van Acerta.
 > Groot in beeld (getal): **€111,50**
 
-## Blok 4 · Stap 3: btw (32–42 s)
-"Stap drie: btw. Dat activeer je gratis via MyMinfin, of je loket doet het. Bij mij deed Acerta dat.
-Onder 25.000 euro per jaar kan je vrijgesteld worden.
+## Blok 4 · Meteen ook de btw (31–36 s)
+"Acerta activeerde ook mijn btw-nummer. Dat kan ook gratis zelf, via MyMinfin.
 Ik ben btw-plichtig."
 
 > Beeld: laptop met de site van Acerta of MyMinfin (zonder persoonlijke gegevens).
 
-## Blok 5 · Stap 4: sociaal verzekeringsfonds (42–54 s)
-"Stap vier: je sluit aan bij een sociaal verzekeringsfonds, zoals Acerta, Liantis, Xerius of Partena.
-In bijberoep betaal je minimum zo'n 100 euro per kwartaal.
-Voor mij is dat zo'n 400 euro per jaar."
+## Blok 5 · Daarna: het sociaal verzekeringsfonds (36–46 s)
+"Daarna het sociaal verzekeringsfonds, zoals Acerta, Liantis, Xerius of Partena.
+In bijberoep betaal je minimum zo'n 100 euro per kwartaal. Voor mij zo'n 400 euro per jaar."
 
 > Beeld: Yelte in de camera.
 > Groot in beeld (getal): **€100**
 
-## Blok 6 · Extra: verzekering (54–60 s)
-"En neem een verzekering burgerlijke aansprakelijkheid. Gaat er iets mis bij een klant, dan ben je gedekt."
+## Blok 6 · En als laatste: een verzekering (46–53 s)
+"En als laatste: een verzekering burgerlijke aansprakelijkheid.
+Want gaat er iets mis bij een klant, dan wil je gedekt zijn."
 
 > Beeld: werkbeelden (bv. haag snoeien, laden).
 
-## Blok 7 · Wat mij verraste (60–65 s)
-"Wat mij het meest verraste? Hoe duur het allemaal is, nog voor je één euro verdient."
+## Blok 7 · Wat mij verraste (53–59 s)
+"En weet je wat mij het meest verraste?
+Hoe duur het allemaal is, nog voor je één euro verdient."
 
-> Beeld: Yelte in de camera, rustig en direct.
+> Beeld: Yelte in de camera, rustig en direct. Korte pauze na de vraag.
 
-## Afsluiter (65–67 s) · op vraag van Yelte
+## Afsluiter (59–61 s) · op vraag van Yelte
 "Vragen? Stel ze gerust in de comments."
 
 > Beeld: Yelte in de camera.
@@ -81,8 +83,8 @@ Voor mij is dat zo'n 400 euro per jaar."
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
 - [ ] Hook (de gekozen versie)
 - [ ] Vaste intro ("Hallo, ik ben Yelte…")
-- [ ] Overzicht ("Vandaag zet ik alles kort op een rij…")
-- [ ] Blok 1 · Bijberoep
+- [ ] Overzicht ("Vandaag het korte verhaal…")
+- [ ] Blok 1 · Officieel zelfstandige worden
 - [ ] Blok 2 · Aparte rekening
 - [ ] Blok 3 · Ondernemingsnummer
 - [ ] Blok 4 · Btw
@@ -103,11 +105,12 @@ Werkbeelden voor blok 6 zoek ik zelf in BEELDMATERIAAL.
 ## Opnametips
 - Verticaal (9:16), daglicht van voren, rustige plek of dasspeldmicrofoon.
 - Je hoeft de tekst niet letterlijk te zeggen: zeg het in je eigen woorden.
+- Vertel het alsof je het aan een vriend uitlegt: rustig, in je eigen tempo.
 - Laat 1 seconde stilte voor en na elke take. Dat knipt makkelijker.
 - Scherm filmen: meldingen uit, geen persoonlijke gegevens in beeld.
 
 ## Caption
-> Aflevering 4. Een eenmanszaak starten in België, in 4 stappen:
+> Aflevering 4. Voor ik één klant mocht helpen, moest ik eerst officieel zelfstandige worden. Zo heb ik het geregeld:
 > 1. Aparte rekening voor je zaak
 > 2. Ondernemingsnummer via een ondernemingsloket (Acerta, Liantis, Xerius…): €111,50
 > 3. Btw activeren: gratis zelf via MyMinfin, of via je ondernemingsloket. Onder €25.000 per jaar kan je kiezen voor de vrijstelling
