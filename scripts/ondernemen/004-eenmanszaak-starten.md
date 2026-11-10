@@ -5,7 +5,8 @@
 - **Lengte:** ± 65 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop/telefoon (zonder persoonlijke gegevens) en werkbeelden
 - **Bron:** antwoorden van Yelte (10/11/2026) en opzoekwerk (tarieven 2026, zie onderaan)
-- **Status:** klaar om op te nemen (Yelte checkt: volgorde van de stappen en ± €400 per jaar)
+- **Status:** opgenomen en gemonteerd (± 61 s), wacht op goedkeuring
+- **Montage:** `montage/projecten/004-eenmanszaak-starten.json`. Yelte nam een eigen versie op (6 stappen, schermbeelden van ING, Acerta, MyMinfin en Google als beeld bij stap 2 tot 5). Take IMG_2886 ("In de volgende video's gaan we er dieper op in") niet gebruikt: IMG_2901 zegt hetzelfde op het einde. IMG_2893 gekozen boven IMG_2892 ("Kies een ondernemingsnummer"). Pops: "6 stappen", "Bijberoep", "Gratis via MyMinfin".
 - **Toon:** vertellend, in de ik-vorm en de verleden tijd: Yelte vertelt hoe híj het geregeld heeft, alsof hij het aan een vriend uitlegt.
   Elke stap haakt in op de vorige ("Eerst…", "Dan…", "Daarna…", "En als laatste…"), zodat de kijker meegaat in het verhaal.
 

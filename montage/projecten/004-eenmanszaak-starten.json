@@ -1,0 +1,99 @@
+{
+ "titel": "Ondernemingsvideo 4 · Aflevering 4",
+ "uitvoer": "output/004-eenmanszaak-starten.mp4",
+ "overgang": 0.25,
+ "clips": [
+  {
+   "bestand": "media/004/IMG_2881.MOV",
+   "van": 0.8,
+   "tot": 3.85
+  },
+  {
+   "bestand": "media/004/IMG_2882.MOV",
+   "van": 0.55,
+   "tot": 4.15
+  },
+  {
+   "bestand": "media/004/IMG_2883.MOV",
+   "van": 0.95,
+   "tot": 6.15
+  },
+  {
+   "bestand": "media/004/IMG_2888.MOV",
+   "van": 0.85,
+   "tot": 3.95
+  },
+  {
+   "bestand": "media/004/IMG_2888.MOV",
+   "van": 4.3,
+   "tot": 8.6
+  },
+  {
+   "bestand": "media/004/IMG_2889.MOV",
+   "van": 0.45,
+   "tot": 1.85
+  },
+  {
+   "bestand": "media/004/IMG_2891.MOV",
+   "van": 0.85,
+   "tot": 6.3
+  },
+  {
+   "bestand": "media/004/IMG_2893.MOV",
+   "van": 0.6,
+   "tot": 6.9
+  },
+  {
+   "bestand": "media/004/IMG_2895.MOV",
+   "van": 0.75,
+   "tot": 3.55
+  },
+  {
+   "bestand": "media/004/IMG_2896.MOV",
+   "van": 0.9,
+   "tot": 7.45
+  },
+  {
+   "bestand": "media/004/IMG_2897.MOV",
+   "van": 0.85,
+   "tot": 6.3
+  },
+  {
+   "bestand": "media/004/IMG_2898.MOV",
+   "van": 0.55,
+   "tot": 5.7
+  },
+  {
+   "bestand": "media/004/IMG_2901.MOV",
+   "van": 3.6,
+   "tot": 8.1
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/004-eenmanszaak-starten.woorden.json",
+ "hook": {
+  "tekst": "Wat moet je regelen | voor een eigen zaak?",
+  "tot": 2.95
+ },
+ "teksten": [
+  {
+   "tekst": "6 stappen",
+   "van": 7.9,
+   "tot": 10.5,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Bijberoep",
+   "van": 18.3,
+   "tot": 19.9,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Gratis via MyMinfin",
+   "van": 36.6,
+   "tot": 39.2,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}
