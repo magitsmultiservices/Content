@@ -22,49 +22,58 @@ Kies er één:
 ## Vaste intro (4–11 s)
 "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
 
-## Blok 1 · Hoofd- of bijberoep (11–16 s)
-"Eerst: hoofdberoep of bijberoep?
-Ik ben gestart in bijberoep. Dan betaal je veel minder sociale bijdragen."
+## Overzicht (11–17 s)
+"Vandaag zet ik alles kort op een rij. In de volgende afleveringen ga ik dieper in op elke stap."
 
 > Beeld: Yelte in de camera.
 
-## Blok 2 · Stap 1: een aparte rekening (16–20 s)
+## Blok 1 · Bijberoep (17–19 s)
+"Eerst: ik ben gestart in bijberoep."
+
+> Beeld: Yelte in de camera.
+
+## Blok 2 · Stap 1: een aparte rekening (19–23 s)
 "Stap één: open een aparte rekening voor je zaak."
 
 > Beeld: bankapp of bankkaart (rekeningnummer niet leesbaar).
 
-## Blok 3 · Stap 2: je ondernemingsnummer (20–29 s)
+## Blok 3 · Stap 2: je ondernemingsnummer (23–32 s)
 "Stap twee: je ondernemingsnummer. Dat vraag je aan bij een ondernemingsloket, zoals Acerta, Liantis of Xerius.
 Ik deed het via Acerta. Dat kost overal hetzelfde: 111,50 euro."
 
 > Beeld: laptop met de site van een ondernemingsloket.
 > Groot in beeld (getal): **€111,50**
 
-## Blok 4 · Stap 3: btw (29–40 s)
+## Blok 4 · Stap 3: btw (32–42 s)
 "Stap drie: btw. Dat activeer je gratis via MyMinfin, of je loket doet het. Bij mij deed Acerta dat.
 Onder 25.000 euro per jaar kan je vrijgesteld worden.
 Ik ben btw-plichtig."
 
 > Beeld: laptop met de site van Acerta of MyMinfin (zonder persoonlijke gegevens).
 
-## Blok 5 · Stap 4: sociaal verzekeringsfonds (40–57 s)
-"Stap vier: je sluit aan bij een sociaal verzekeringsfonds, zoals Acerta, Liantis, Xerius of Partena. Vaak dezelfde namen als de ondernemingsloketten.
+## Blok 5 · Stap 4: sociaal verzekeringsfonds (42–54 s)
+"Stap vier: je sluit aan bij een sociaal verzekeringsfonds, zoals Acerta, Liantis, Xerius of Partena.
 In bijberoep betaal je minimum zo'n 100 euro per kwartaal.
-Voor mij is dat zo'n 400 euro per jaar. In hoofdberoep is het al snel 900 euro per kwartaal."
+Voor mij is dat zo'n 400 euro per jaar."
 
 > Beeld: Yelte in de camera.
 > Groot in beeld (getal): **€100**
 
-## Blok 6 · Extra: verzekering (57–63 s)
+## Blok 6 · Extra: verzekering (54–60 s)
 "En neem een verzekering burgerlijke aansprakelijkheid. Gaat er iets mis bij een klant, dan ben je gedekt."
 
 > Beeld: werkbeelden (bv. haag snoeien, laden).
 
-## Blok 7 · Wat mij verraste (63–68 s)
+## Blok 7 · Wat mij verraste (60–65 s)
 "Wat mij het meest verraste? Hoe duur het allemaal is, nog voor je één euro verdient."
 
 > Beeld: Yelte in de camera, rustig en direct.
-> Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
+
+## Afsluiter (65–67 s) · op vraag van Yelte
+"Vragen? Stel ze gerust in de comments."
+
+> Beeld: Yelte in de camera.
+> Daarna meteen het standaard zwarte eindbeeld.
 
 ---
 
@@ -72,13 +81,15 @@ Voor mij is dat zo'n 400 euro per jaar. In hoofdberoep is het al snel 900 euro p
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
 - [ ] Hook (de gekozen versie)
 - [ ] Vaste intro ("Hallo, ik ben Yelte…")
-- [ ] Blok 1 · Hoofd- of bijberoep
+- [ ] Overzicht ("Vandaag zet ik alles kort op een rij…")
+- [ ] Blok 1 · Bijberoep
 - [ ] Blok 2 · Aparte rekening
 - [ ] Blok 3 · Ondernemingsnummer
 - [ ] Blok 4 · Btw
 - [ ] Blok 5 · Sociaal verzekeringsfonds
 - [ ] Blok 6 · Verzekering
 - [ ] Blok 7 · Wat mij verraste
+- [ ] Afsluiter ("Vragen? Stel ze gerust in de comments.")
 
 Let op: camera altijd op jezelf, op ooghoogte, en het script buiten beeld.
 
@@ -103,6 +114,7 @@ Werkbeelden voor blok 6 zoek ik zelf in BEELDMATERIAAL.
 > 4. Sociaal verzekeringsfonds (Acerta, Liantis, Xerius, Partena…): in bijberoep minimum ± €100 per kwartaal, in hoofdberoep ± €900
 > Tip: neem ook een verzekering burgerlijke aansprakelijkheid.
 > Bedragen 2026; check de exacte bedragen bij je eigen fonds.
+> In de volgende afleveringen ga ik dieper in op elke stap. Vragen? Stel ze gerust in de comments.
 >
 > #ondernemen #eigenzaak #jongeondernemer #eenmanszaak #zelfstandige
 
