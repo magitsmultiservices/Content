@@ -5,7 +5,10 @@
 - [x] 002 · Aflevering 2: waarom tuin én rommel
 - [x] 003 · Aflevering 3: naam en logo
 - [ ] 004 · Aflevering 4: een eenmanszaak starten in België (stappen en kosten)
-- [ ] 005 · Aflevering 5: de website (vragen gesteld, map Video 5 staat klaar)
+- [ ] 005 · Aflevering 5: hoofdberoep of bijberoep
+- [ ] 006 · Aflevering 6: btw uitgelegd
+- [ ] 007 · Aflevering 7: sociale bijdragen
+- [ ] 008 · Aflevering 8: de website (vragen gesteld, map Video 8 staat klaar)
 - Volgende afleveringen: zie Drive-document "Ideeën ondernemingsvideo's" (video 2 t/m 34)
 - [ ] Hoe ik mijn eerste klant vond
 - [ ] Wat kost het om een zaak te starten? (met echte cijfers: [kosten])
