@@ -102,6 +102,31 @@ def ass_tekst(t):
 
 VULLEN = (f"scale={B}:{H}:force_original_aspect_ratio=increase,crop={B}:{H},"
           f"setsar=1,fps={FPS},format=yuv420p")
+
+
+def vullen(zoom=1.0):
+    """Vult het verticale beeld; zoom > 1 snijdt in (bv. 1.1), handig om twee praat-takes na elkaar
+    te laten verschillen zodat de overgang geen dubbel gezicht toont."""
+    if zoom == 1:
+        return VULLEN
+    bz, hz = round(B * zoom / 2) * 2, round(H * zoom / 2) * 2
+    return (f"scale={bz}:{hz}:force_original_aspect_ratio=increase,crop={B}:{H},"
+            f"setsar=1,fps={FPS},format=yuv420p")
+
+
+def tekstbreedte(tekst, font, grootte, spatiering=0):
+    """Breedte in pixels van de langste regel (\\N = nieuwe regel), gemeten met het echte lettertype."""
+    from PIL import ImageFont
+    f = ImageFont.truetype(str(FONTS / font), grootte)
+    regels = re.sub(r"\{[^}]*\}", "", tekst).split("\\N")
+    return max(f.getlength(x) + spatiering * len(x) for x in regels)
+
+
+def passend(tekst, font, grootte, max_breedte, spatiering=0, rand=0):
+    """Grootste lettergrootte (hoogstens 'grootte') waarbij de tekst binnen max_breedte past."""
+    while grootte > 30 and tekstbreedte(tekst, font, grootte, spatiering) + 2 * rand > max_breedte:
+        grootte -= 2
+    return grootte
 VIDEO_OPTS = ["-c:v", "libx264", "-preset", "fast", "-crf", "18", "-r", str(FPS)]
 AUDIO_OPTS = ["-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2"]
 
@@ -116,11 +141,13 @@ def segment(clip, doel, stil=False):
     snelheid = clip.get("snelheid", 1)
     cmd = ["ffmpeg", "-y", "-v", "error", "-ss", str(van), "-to", str(tot), "-i", str(bron)]
     if heeft_geluid(bron) and snelheid == 1 and not stil:
-        cmd += ["-map", "0:v:0", "-map", "0:a:0", "-af", "aresample=48000"]
+        duur = (tot - van) / snelheid
+        cmd += ["-map", "0:v:0", "-map", "0:a:0", "-af",
+                f"aresample=48000,afade=t=in:d=0.03,afade=t=out:st={max(duur - 0.05, 0):.3f}:d=0.05"]
     else:
         cmd += ["-f", "lavfi", "-i", "anullsrc=r=48000:cl=stereo",
                 "-map", "0:v:0", "-map", "1:a:0", "-shortest"]
-    run(cmd + ["-vf", f"setpts=(PTS-STARTPTS)/{snelheid}," + VULLEN, *VIDEO_OPTS, *AUDIO_OPTS,
+    run(cmd + ["-vf", f"setpts=(PTS-STARTPTS)/{snelheid}," + vullen(clip.get("zoom", 1)), *VIDEO_OPTS, *AUDIO_OPTS,
                "-t", f"{(tot - van) / snelheid:.3f}", str(doel)])
     return (tot - van) / snelheid
 
@@ -202,7 +229,13 @@ def ondertitel_regels(woorden):
                 if j == i:
                     woord = f"{{\\c{ass_kleur(LIMOEN)}\\fscx108\\fscy108}}{woord}{{\\c{WIT}\\fscx100\\fscy100}}"
                 delen.append(woord)
-            events.append([w["start"], eind, " ".join(delen)])
+            tekst = " ".join(delen)
+            kaal = " ".join(ass_tekst(x["w"]).upper() for x in groep)
+            # Lange woorden (bv. AANSPRAKELIJKHEIDSVERZEKERING) kleiner zetten zodat alles in beeld blijft.
+            grootte = passend(kaal, "Montserrat-ExtraBold.ttf", 82, (B - 180) / 1.08, spatiering=1, rand=7)
+            if grootte < 82:
+                tekst = f"{{\\fs{grootte}}}" + tekst
+            events.append([w["start"], eind, tekst])
     # Nooit twee regels tegelijk in beeld: elke regel stopt waar de volgende begint.
     for huidig, volgend in zip(events, events[1:]):
         huidig[1] = min(huidig[1], volgend[0])
@@ -245,7 +278,7 @@ POP = "{\\fad(60,150)\\fscx40\\fscy40\\t(0,170,\\fscx112\\fscy112)\\t(170,290,\\
 
 
 def beeldstukken(clips, broll, lengte):
-    """Deelt de tijdlijn op in opeenvolgende stukken beeld: (bestand, bronstart, tijdlijnstart, duur, snelheid).
+    """Deelt de tijdlijn op in opeenvolgende stukken beeld: (bestand, bronstart, tijdlijnstart, duur, snelheid, zoom).
 
     Waar b-roll ligt, komt het beeld uit de b-roll; elders uit de take. Zo kan elke overgang
     een vloeiende overgang krijgen en flitst er nooit een beeldje van de take tussen.
@@ -255,7 +288,7 @@ def beeldstukken(clips, broll, lengte):
     for c in clips:
         snelheid = c.get("snelheid", 1)
         duur = (c["tot"] - c.get("van", 0)) / snelheid
-        takes.append((rond(t), rond(t + duur), ROOT / c["bestand"], c.get("van", 0), snelheid))
+        takes.append((rond(t), rond(t + duur), ROOT / c["bestand"], c.get("van", 0), snelheid, c.get("zoom", 1)))
         t += duur
     lengte = rond(lengte)
     grenzen = {0.0, lengte} | {x[0] for x in takes}
@@ -268,16 +301,16 @@ def beeldstukken(clips, broll, lengte):
             continue
         br = next((x for x in broll if rond(x["op"]) <= a < rond(x["op"] + x["duur"])), None)
         if br:
-            bron = (ROOT / br["bestand"], br.get("van", 0) + a - rond(br["op"]), 1)
+            bron = (ROOT / br["bestand"], br.get("van", 0) + a - rond(br["op"]), 1, br.get("zoom", 1))
         else:
-            ta, _, bestand, van, snelheid = next(x for x in takes if x[0] <= a < x[1])
-            bron = (bestand, van + (a - ta) * snelheid, snelheid)
+            ta, _, bestand, van, snelheid, zoom = next(x for x in takes if x[0] <= a < x[1])
+            bron = (bestand, van + (a - ta) * snelheid, snelheid, zoom)
         vorig = stukken[-1] if stukken else None
-        if (vorig and vorig[0] == bron[0] and vorig[4] == bron[2]
+        if (vorig and vorig[0] == bron[0] and vorig[4] == bron[2] and vorig[5] == bron[3]
                 and abs(vorig[1] + vorig[3] * vorig[4] - bron[1]) < 1e-3):
-            stukken[-1] = (vorig[0], vorig[1], vorig[2], vorig[3] + b - a, vorig[4])
+            stukken[-1] = (vorig[0], vorig[1], vorig[2], vorig[3] + b - a, vorig[4], vorig[5])
         else:
-            stukken.append((bron[0], bron[1], a, b - a, bron[2]))
+            stukken.append((bron[0], bron[1], a, b - a, bron[2], bron[3]))
     return stukken
 
 
@@ -318,6 +351,7 @@ def main():
             # Vaste regelbreuk (\q2 = niet zelf herverdelen): anders springt de tekst tussen
             # regelverdelingen terwijl de pop-animatie hem groter en kleiner maakt.
             tekst = vaste_regels(tekst.replace(" | ", "\n"), max_tekens=16 if grootte >= 150 else 20 if grootte >= 120 else 26)
+            grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 140) / 1.12, spatiering=2, rand=9)
             effect = POP.replace("{", "{\\q2\\fs" + str(grootte), 1)
             regels.append(f"Dialogue: 3,{tijd(hook.get('van', 0))},{tijd(hook['tot'])},Midden,,0,0,0,,{effect}{tekst}")
         for t in project.get("teksten", []):
@@ -329,7 +363,9 @@ def main():
                 effect = POP
             elif t.get("stijl") == "pop":
                 # Zelfde pop als 'groot', maar de lettergrootte past zich aan de lengte aan.
-                effect = POP.replace("{", "{\\q2\\fs" + str(t.get("grootte") or pop_grootte(tekst)), 1)
+                grootte = passend(tekst, "Montserrat-Black.ttf", t.get("grootte") or pop_grootte(tekst),
+                                  (B - 120) / 1.12, spatiering=2, rand=9)
+                effect = POP.replace("{", "{\\q2\\fs" + str(grootte), 1)
             regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
         ass = werk / "ondertitels.ass"
         ass.write_text(ASS_KOP + "\n".join(regels) + "\n", encoding="utf-8")
@@ -345,13 +381,13 @@ def main():
         stukken = beeldstukken(project["clips"], project.get("broll", []), lengte)
         overgang = min(project.get("overgang", 0.25), *(st[3] for st in stukken))
         totaal = 0.0
-        for k, (bestand, bron_van, _, duur, snelheid) in enumerate(stukken, start=1):
+        for k, (bestand, bron_van, _, duur, snelheid, zoom) in enumerate(stukken, start=1):
             # Elk stuk (behalve het eerste) begint 'overgang' vroeger: dat deel loopt over in het vorige.
             extra = overgang if k > 1 else 0.0
             start = max(bron_van - extra * snelheid, 0.0)
             beelden = round((duur + extra) * FPS)
             invoer += ["-ss", f"{start:.3f}", "-t", f"{(duur + extra) * snelheid + 1:.3f}", "-i", str(bestand)]
-            filters.append(f"[{k}:v]setpts=(PTS-STARTPTS)/{snelheid},{VULLEN},setpts=PTS-STARTPTS,tpad=stop_mode=clone:stop_duration=2,"
+            filters.append(f"[{k}:v]setpts=(PTS-STARTPTS)/{snelheid},{vullen(zoom)},setpts=PTS-STARTPTS,tpad=stop_mode=clone:stop_duration=2,"
                            f"trim=end_frame={beelden},setpts=PTS-STARTPTS,settb=1/{FPS}[s{k}]")
             if k == 1:
                 laatste = "s1"

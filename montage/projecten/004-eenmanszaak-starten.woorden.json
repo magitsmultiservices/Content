@@ -765,8 +765,13 @@
   "eind": 48.67999999999999
  },
  {
-  "w": "aansprakelijkheidsverzekering",
+  "w": "aansprakelijkheids-",
   "start": 48.67999999999999,
+  "eind": 49.48
+ },
+ {
+  "w": "verzekering",
+  "start": 49.48,
   "eind": 50.019999999999996
  },
  {

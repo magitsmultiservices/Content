@@ -1,7 +1,7 @@
 {
  "titel": "Ondernemingsvideo 4 · Aflevering 4",
  "uitvoer": "output/004-eenmanszaak-starten.mp4",
- "overgang": 0.25,
+ "overgang": 0.15,
  "clips": [
   {
    "bestand": "media/004/IMG_2881.MOV",
@@ -11,7 +11,8 @@
   {
    "bestand": "media/004/IMG_2882.MOV",
    "van": 0.55,
-   "tot": 4.15
+   "tot": 4.15,
+   "zoom": 1.12
   },
   {
    "bestand": "media/004/IMG_2883.MOV",
@@ -21,7 +22,8 @@
   {
    "bestand": "media/004/IMG_2888.MOV",
    "van": 0.85,
-   "tot": 3.95
+   "tot": 3.95,
+   "zoom": 1.12
   },
   {
    "bestand": "media/004/IMG_2888.MOV",
@@ -31,7 +33,8 @@
   {
    "bestand": "media/004/IMG_2889.MOV",
    "van": 0.45,
-   "tot": 1.85
+   "tot": 1.85,
+   "zoom": 1.12
   },
   {
    "bestand": "media/004/IMG_2891.MOV",
@@ -51,7 +54,8 @@
   {
    "bestand": "media/004/IMG_2896.MOV",
    "van": 0.9,
-   "tot": 7.45
+   "tot": 7.45,
+   "zoom": 1.12
   },
   {
    "bestand": "media/004/IMG_2897.MOV",
@@ -66,32 +70,33 @@
   {
    "bestand": "media/004/IMG_2901.MOV",
    "van": 3.6,
-   "tot": 8.1
+   "tot": 8.1,
+   "zoom": 1.12
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/004-eenmanszaak-starten.woorden.json",
  "hook": {
-  "tekst": "Wat moet je regelen | voor een eigen zaak?",
+  "tekst": "Wat moet je | regelen?",
   "tot": 2.95
  },
  "teksten": [
   {
    "tekst": "6 stappen",
-   "van": 7.9,
-   "tot": 10.5,
+   "van": 8.4,
+   "tot": 11.0,
    "stijl": "pop"
   },
   {
    "tekst": "Bijberoep",
-   "van": 18.3,
-   "tot": 19.9,
+   "van": 19.4,
+   "tot": 20.6,
    "stijl": "pop"
   },
   {
    "tekst": "Gratis via MyMinfin",
-   "van": 36.6,
-   "tot": 39.2,
+   "van": 38.9,
+   "tot": 41.6,
    "stijl": "pop"
   }
  ],

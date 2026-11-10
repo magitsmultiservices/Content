@@ -20,7 +20,7 @@ Zie `projecten/proef.json` voor een volledig voorbeeld.
 
 | Veld | Betekenis |
 |---|---|
-| `clips` | takes in volgorde: `bestand`, `van`, `tot` (seconden in het bronbestand), optioneel `snelheid` (bv. 20 = timelapse, 0.6 = vertraagd; geluid valt dan weg) |
+| `clips` | takes in volgorde: `bestand`, `van`, `tot` (seconden in het bronbestand), optioneel `snelheid` (bv. 20 = timelapse, 0.6 = vertraagd; geluid valt dan weg) en `zoom` (bv. 1.12: inzoomen, zodat twee praat-takes na elkaar verschillen en de overvloei geen dubbel gezicht toont) |
 | `broll` | beelden over de tijdlijn: `bestand`, `van` (in bron), `op` (op tijdlijn), `duur` |
 | `ondertitels` | `"auto"` of pad naar een woordenbestand `[{"w","start","eind"}]` |
 | `teksten` | tekst bovenaan: `tekst`, `van`, `tot` (op tijdlijn), optioneel `stijl`: `titel` (standaard), `hook` (groter), `groot` (groot getal met pop) of `pop` (pop-animatie, grootte volgens lengte); ` | ` in de tekst = nieuwe regel; optioneel `grootte` (lettergrootte) bij `pop` |
@@ -32,3 +32,6 @@ Zie `projecten/proef.json` voor een volledig voorbeeld.
 
 Bij `"auto"` wordt het transcript ook bewaard naast de video (`.woorden.json`), zodat
 foute woorden met de hand verbeterd kunnen worden en daarna opnieuw gerenderd.
+
+Teksten (hook, pop en ondertitels) worden automatisch kleiner gezet als ze anders buiten beeld zouden vallen.
+Zeer lange woorden splits je best in het woordenbestand (bv. `aansprakelijkheids-` + `verzekering`).
