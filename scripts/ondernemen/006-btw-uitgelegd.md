@@ -26,7 +26,7 @@ Kies er één:
 
 > Beeld: Yelte in de camera.
 
-## Blok 1 · De vrijstelling (14–35 s)
+## Blok 1 · Btw-nummer en vrijstelling (14–35 s)
 "Je btw-nummer activeer je gratis zelf via MyMinfin, of je laat het doen door je ondernemingsloket, zoals Acerta of Liantis, voor zo'n 60 euro.
 Verdien je minder dan 25.000 euro per jaar, dan mag je kiezen voor de vrijstellingsregeling.
 Je rekent geen btw aan en je doet geen btw-aangiftes. Maar de btw op wat je koopt, krijg je ook niet terug."
@@ -61,7 +61,7 @@ Facturen aan particulieren mogen nog gewoon als pdf."
 - [ ] Hook (de gekozen versie)
 - [ ] Vaste intro ("Hallo, ik ben Yelte…")
 - [ ] Link met aflevering 4
-- [ ] Blok 1 · De vrijstelling
+- [ ] Blok 1 · Btw-nummer en vrijstelling
 - [ ] Blok 2 · Btw-plichtig
 - [ ] Blok 3 · Wat kies je?
 - [ ] Blok 4 · Nieuw sinds 2026
