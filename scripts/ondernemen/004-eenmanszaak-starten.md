@@ -1,8 +1,8 @@
 # Ondernemingsvideo 4 · Aflevering 4: een eenmanszaak starten in België
 
-- **Soort:** ondernemen (breed publiek), informatief: stap voor stap, niet te moeilijk
+- **Soort:** ondernemen (breed publiek), informatief: stap voor stap, niet te moeilijk. Start van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 67 seconden (met eindbeeld)
+- **Lengte:** ± 69 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop/telefoon (zonder persoonlijke gegevens) en werkbeelden
 - **Bron:** antwoorden van Yelte (10/11/2026) en opzoekwerk (tarieven 2026, zie onderaan)
 - **Status:** klaar om op te nemen (Yelte checkt: ± €400 per jaar = zijn sociale bijdragen in bijberoep)
@@ -19,47 +19,48 @@ Kies er één:
 > Beeld: Yelte in de camera, dicht bij.
 > Groot in het midden als pop-up (nog geen ondertitels): **Wat kost een eigen zaak?** (bij hook 1)
 
-## Vaste intro (4–10 s)
+## Vaste intro (4–11 s)
 "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
 
-## Blok 1 · Hoofd- of bijberoep (10–17 s)
+## Blok 1 · Hoofd- of bijberoep (11–16 s)
 "Eerst: hoofdberoep of bijberoep?
 Ik ben gestart in bijberoep. Dan betaal je veel minder sociale bijdragen."
 
 > Beeld: Yelte in de camera.
 
-## Blok 2 · Stap 1: een aparte rekening (17–22 s)
-"Stap één: open een aparte rekening voor je zaak. Zo hou je privé en zaak gescheiden."
+## Blok 2 · Stap 1: een aparte rekening (16–20 s)
+"Stap één: open een aparte rekening voor je zaak."
 
 > Beeld: bankapp of bankkaart (rekeningnummer niet leesbaar).
 
-## Blok 3 · Stap 2: je ondernemingsnummer (22–32 s)
+## Blok 3 · Stap 2: je ondernemingsnummer (20–29 s)
 "Stap twee: je ondernemingsnummer. Dat vraag je aan bij een ondernemingsloket, zoals Acerta, Liantis of Xerius.
 Ik deed het via Acerta. Dat kost overal hetzelfde: 111,50 euro."
 
 > Beeld: laptop met de site van een ondernemingsloket.
 > Groot in beeld (getal): **€111,50**
 
-## Blok 4 · Stap 3: btw (32–43 s)
+## Blok 4 · Stap 3: btw (29–39 s)
 "Stap drie: btw. Dat activeer je gratis zelf via MyMinfin.
 Onder 25.000 euro per jaar mag je kiezen voor vrijstelling: dan reken je geen btw aan.
 Ik ben btw-plichtig."
 
 > Beeld: laptop met MyMinfin (zonder persoonlijke gegevens).
 
-## Blok 5 · Stap 4: sociaal verzekeringsfonds (43–53 s)
-"Stap vier: je sluit aan bij een sociaal verzekeringsfonds. In bijberoep is dat minimum zo'n 100 euro per kwartaal.
+## Blok 5 · Stap 4: sociaal verzekeringsfonds (39–56 s)
+"Stap vier: je sluit aan bij een sociaal verzekeringsfonds, zoals Acerta, Liantis, Xerius of Partena. Vaak dezelfde namen als de ondernemingsloketten.
+In bijberoep betaal je minimum zo'n 100 euro per kwartaal.
 Voor mij is dat zo'n 400 euro per jaar. In hoofdberoep is het al snel 900 euro per kwartaal."
 
 > Beeld: Yelte in de camera.
 > Groot in beeld (getal): **€100**
 
-## Blok 6 · Extra: verzekering (53–58 s)
+## Blok 6 · Extra: verzekering (56–62 s)
 "En neem een verzekering burgerlijke aansprakelijkheid. Gaat er iets mis bij een klant, dan ben je gedekt."
 
 > Beeld: werkbeelden (bv. haag snoeien, laden).
 
-## Blok 7 · Wat mij verraste (58–62 s)
+## Blok 7 · Wat mij verraste (62–67 s)
 "Wat mij het meest verraste? Hoe duur het allemaal is, nog voor je één euro verdient."
 
 > Beeld: Yelte in de camera, rustig en direct.
@@ -99,7 +100,7 @@ Werkbeelden voor blok 6 zoek ik zelf in BEELDMATERIAAL.
 > 1. Aparte rekening voor je zaak
 > 2. Ondernemingsnummer via een ondernemingsloket (Acerta, Liantis, Xerius…): €111,50
 > 3. Btw activeren via MyMinfin (gratis). Onder €25.000 per jaar kan je kiezen voor de vrijstelling
-> 4. Sociaal verzekeringsfonds: in bijberoep minimum ± €100 per kwartaal, in hoofdberoep ± €900
+> 4. Sociaal verzekeringsfonds (Acerta, Liantis, Xerius, Partena…): in bijberoep minimum ± €100 per kwartaal, in hoofdberoep ± €900
 > Tip: neem ook een verzekering burgerlijke aansprakelijkheid.
 > Bedragen 2026; check de exacte bedragen bij je eigen fonds.
 >

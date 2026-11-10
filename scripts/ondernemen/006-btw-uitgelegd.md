@@ -2,14 +2,14 @@
 
 - **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 55 seconden (met eindbeeld)
+- **Lengte:** ± 67 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, factuur zonder klantgegevens) en werkbeelden
 - **Bron:** Yelte is btw-plichtig (10/11/2026); regels 2026 opgezocht (zie onderaan)
 - **Status:** klaar om op te nemen
 
 ---
 
-## Hook (0–4 s)
+## Hook (0–3 s)
 Kies er één:
 
 1. "Aflevering 6. Btw-plichtig of vrijgesteld: wat kies je?"
@@ -18,30 +18,36 @@ Kies er één:
 > Beeld: Yelte in de camera, dicht bij.
 > Groot in het midden als pop-up (nog geen ondertitels): **Btw: plichtig of vrijgesteld?**
 
-## Vaste intro (4–10 s)
+## Vaste intro (3–9 s)
 "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
 
-## Blok 1 · De vrijstelling (10–20 s)
-"Verdien je minder dan 25.000 euro per jaar, dan mag je kiezen voor de vrijstellingsregeling.
+## Link met aflevering 4 (9–14 s)
+"In aflevering 4 zag je de 4 stappen om te starten. Vandaag: btw."
+
+> Beeld: Yelte in de camera.
+
+## Blok 1 · De vrijstelling (14–35 s)
+"Je btw-nummer activeer je gratis zelf via MyMinfin, of je laat het doen door je ondernemingsloket, zoals Acerta of Liantis, voor zo'n 60 euro.
+Verdien je minder dan 25.000 euro per jaar, dan mag je kiezen voor de vrijstellingsregeling.
 Je rekent geen btw aan en je doet geen btw-aangiftes. Maar de btw op wat je koopt, krijg je ook niet terug."
 
 > Beeld: Yelte in de camera.
 > Groot in beeld (getal): **€25.000**
 
-## Blok 2 · Btw-plichtig (20–33 s)
+## Blok 2 · Btw-plichtig (35–46 s)
 "Ik ben btw-plichtig. Dan zet je btw op je facturen, meestal 21 procent.
 Die geef je meestal per kwartaal aan via MyMinfin. En de btw op je aankopen, zoals materiaal of brandstof, mag je aftrekken."
 
 > Beeld: laptop met MyMinfin of een factuur (zonder klantgegevens).
 > Groot in beeld (getal): **21%**
 
-## Blok 3 · Wat kies je? (33–46 s)
+## Blok 3 · Wat kies je? (46–57 s)
 "Wat kies je? Koop je veel materiaal of werk je vooral voor bedrijven, dan is btw-plichtig vaak interessanter.
 Werk je vooral voor particulieren en koop je weinig, dan is de vrijstelling eenvoudiger."
 
 > Beeld: werkbeelden (materiaal, camionette).
 
-## Blok 4 · Nieuw sinds 2026 (46–58 s)
+## Blok 4 · Nieuw sinds 2026 (57–65 s)
 "En let op: sinds 2026 moet je facturen aan andere bedrijven elektronisch versturen, via Peppol.
 Facturen aan particulieren mogen nog gewoon als pdf."
 
@@ -54,6 +60,7 @@ Facturen aan particulieren mogen nog gewoon als pdf."
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
 - [ ] Hook (de gekozen versie)
 - [ ] Vaste intro ("Hallo, ik ben Yelte…")
+- [ ] Link met aflevering 4
 - [ ] Blok 1 · De vrijstelling
 - [ ] Blok 2 · Btw-plichtig
 - [ ] Blok 3 · Wat kies je?
@@ -67,6 +74,7 @@ Let op: camera altijd op jezelf, op ooghoogte, en het script buiten beeld. Werkb
 
 ## Caption
 > Aflevering 6. Btw: plichtig of vrijgesteld?
+> Btw-nummer: gratis zelf via MyMinfin, of via je ondernemingsloket (± €60).
 > Vrijstelling (onder €25.000 per jaar): geen btw aanrekenen, geen btw-aangiftes, maar ook geen btw terug op je aankopen.
 > Btw-plichtig: btw op je facturen (meestal 21%), aangifte meestal per kwartaal, en btw op aankopen mag je aftrekken.
 > Sinds 2026: facturen aan andere Belgische bedrijven elektronisch via Peppol.
