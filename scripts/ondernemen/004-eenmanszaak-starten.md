@@ -2,7 +2,7 @@
 
 - **Soort:** ondernemen (breed publiek), informatief: stap voor stap, niet te moeilijk. Start van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 69 seconden (met eindbeeld)
+- **Lengte:** ± 70 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop/telefoon (zonder persoonlijke gegevens) en werkbeelden
 - **Bron:** antwoorden van Yelte (10/11/2026) en opzoekwerk (tarieven 2026, zie onderaan)
 - **Status:** klaar om op te nemen (Yelte checkt: ± €400 per jaar = zijn sociale bijdragen in bijberoep)
@@ -40,14 +40,14 @@ Ik deed het via Acerta. Dat kost overal hetzelfde: 111,50 euro."
 > Beeld: laptop met de site van een ondernemingsloket.
 > Groot in beeld (getal): **€111,50**
 
-## Blok 4 · Stap 3: btw (29–39 s)
-"Stap drie: btw. Dat activeer je gratis zelf via MyMinfin.
-Onder 25.000 euro per jaar mag je kiezen voor vrijstelling: dan reken je geen btw aan.
+## Blok 4 · Stap 3: btw (29–40 s)
+"Stap drie: btw. Dat activeer je gratis via MyMinfin, of je loket doet het. Bij mij deed Acerta dat.
+Onder 25.000 euro per jaar kan je vrijgesteld worden.
 Ik ben btw-plichtig."
 
-> Beeld: laptop met MyMinfin (zonder persoonlijke gegevens).
+> Beeld: laptop met de site van Acerta of MyMinfin (zonder persoonlijke gegevens).
 
-## Blok 5 · Stap 4: sociaal verzekeringsfonds (39–56 s)
+## Blok 5 · Stap 4: sociaal verzekeringsfonds (40–57 s)
 "Stap vier: je sluit aan bij een sociaal verzekeringsfonds, zoals Acerta, Liantis, Xerius of Partena. Vaak dezelfde namen als de ondernemingsloketten.
 In bijberoep betaal je minimum zo'n 100 euro per kwartaal.
 Voor mij is dat zo'n 400 euro per jaar. In hoofdberoep is het al snel 900 euro per kwartaal."
@@ -55,12 +55,12 @@ Voor mij is dat zo'n 400 euro per jaar. In hoofdberoep is het al snel 900 euro p
 > Beeld: Yelte in de camera.
 > Groot in beeld (getal): **€100**
 
-## Blok 6 · Extra: verzekering (56–62 s)
+## Blok 6 · Extra: verzekering (57–63 s)
 "En neem een verzekering burgerlijke aansprakelijkheid. Gaat er iets mis bij een klant, dan ben je gedekt."
 
 > Beeld: werkbeelden (bv. haag snoeien, laden).
 
-## Blok 7 · Wat mij verraste (62–67 s)
+## Blok 7 · Wat mij verraste (63–68 s)
 "Wat mij het meest verraste? Hoe duur het allemaal is, nog voor je één euro verdient."
 
 > Beeld: Yelte in de camera, rustig en direct.
@@ -99,7 +99,7 @@ Werkbeelden voor blok 6 zoek ik zelf in BEELDMATERIAAL.
 > Aflevering 4. Een eenmanszaak starten in België, in 4 stappen:
 > 1. Aparte rekening voor je zaak
 > 2. Ondernemingsnummer via een ondernemingsloket (Acerta, Liantis, Xerius…): €111,50
-> 3. Btw activeren via MyMinfin (gratis). Onder €25.000 per jaar kan je kiezen voor de vrijstelling
+> 3. Btw activeren: gratis zelf via MyMinfin, of via je ondernemingsloket. Onder €25.000 per jaar kan je kiezen voor de vrijstelling
 > 4. Sociaal verzekeringsfonds (Acerta, Liantis, Xerius, Partena…): in bijberoep minimum ± €100 per kwartaal, in hoofdberoep ± €900
 > Tip: neem ook een verzekering burgerlijke aansprakelijkheid.
 > Bedragen 2026; check de exacte bedragen bij je eigen fonds.

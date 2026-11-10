@@ -2,9 +2,9 @@
 
 - **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 67 seconden (met eindbeeld)
+- **Lengte:** ± 69 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, factuur zonder klantgegevens) en werkbeelden
-- **Bron:** Yelte is btw-plichtig (10/11/2026); regels 2026 opgezocht (zie onderaan)
+- **Bron:** Yelte is btw-plichtig, Acerta activeerde zijn btw-nummer (10/11/2026); regels 2026 opgezocht (zie onderaan)
 - **Status:** klaar om op te nemen
 
 ---
@@ -26,28 +26,28 @@ Kies er één:
 
 > Beeld: Yelte in de camera.
 
-## Blok 1 · Btw-nummer en vrijstelling (14–35 s)
-"Je btw-nummer activeer je gratis zelf via MyMinfin, of je laat het doen door je ondernemingsloket, zoals Acerta of Liantis, voor zo'n 60 euro.
+## Blok 1 · Btw-nummer en vrijstelling (14–37 s)
+"Je btw-nummer activeer je gratis zelf via MyMinfin, of je laat het doen door je ondernemingsloket, zoals Acerta of Liantis, voor zo'n 60 euro. Bij mij deed Acerta het.
 Verdien je minder dan 25.000 euro per jaar, dan mag je kiezen voor de vrijstellingsregeling.
 Je rekent geen btw aan en je doet geen btw-aangiftes. Maar de btw op wat je koopt, krijg je ook niet terug."
 
 > Beeld: Yelte in de camera.
 > Groot in beeld (getal): **€25.000**
 
-## Blok 2 · Btw-plichtig (35–46 s)
+## Blok 2 · Btw-plichtig (37–48 s)
 "Ik ben btw-plichtig. Dan zet je btw op je facturen, meestal 21 procent.
 Die geef je meestal per kwartaal aan via MyMinfin. En de btw op je aankopen, zoals materiaal of brandstof, mag je aftrekken."
 
 > Beeld: laptop met MyMinfin of een factuur (zonder klantgegevens).
 > Groot in beeld (getal): **21%**
 
-## Blok 3 · Wat kies je? (46–57 s)
+## Blok 3 · Wat kies je? (48–59 s)
 "Wat kies je? Koop je veel materiaal of werk je vooral voor bedrijven, dan is btw-plichtig vaak interessanter.
 Werk je vooral voor particulieren en koop je weinig, dan is de vrijstelling eenvoudiger."
 
 > Beeld: werkbeelden (materiaal, camionette).
 
-## Blok 4 · Nieuw sinds 2026 (57–65 s)
+## Blok 4 · Nieuw sinds 2026 (59–67 s)
 "En let op: sinds 2026 moet je facturen aan andere bedrijven elektronisch versturen, via Peppol.
 Facturen aan particulieren mogen nog gewoon als pdf."
 
