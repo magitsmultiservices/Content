@@ -63,6 +63,7 @@ Style: Onder,Montserrat ExtraBold,82,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(
 Style: Titel,Montserrat Bold,62,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,3,0,1,3,5,8,90,90,250,1
 Style: Hook,Montserrat Bold,80,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,3,0,1,4,6,8,80,80,250,1
 Style: Groot,Montserrat Black,200,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,2,0,1,9,7,8,60,60,230,1
+Style: Kader,Montserrat Black,200,{WIT},{WIT},&H1A000000,&H00000000,0,0,0,0,100,100,2,0,3,22,0,8,60,60,230,1
 Style: Midden,Montserrat Black,120,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,2,0,1,9,7,5,70,70,0,1
 Style: Slogan,Montserrat Bold,44,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,2,0,1,0,0,5,60,60,0,1
 Style: Info,Montserrat Bold,54,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,1,0,1,0,0,5,60,60,0,1
@@ -259,7 +260,8 @@ def ondertitel_regels(woorden):
     return [f"Dialogue: 1,{tijd(s)},{tijd(e)},Onder,,0,0,0,,{t}" for s, e, t in events if e > s]
 
 
-STIJLEN = {"titel": "Titel", "hook": "Hook", "groot": "Groot", "pop": "Groot"}
+# Tekst bovenaan (groot getal en pop) staat op een zwart kader (stijl Kader, BorderStyle 3).
+STIJLEN = {"titel": "Titel", "hook": "Hook", "groot": "Kader", "pop": "Kader"}
 
 
 def vaste_regels(tekst, max_tekens=20):
@@ -371,7 +373,7 @@ def main():
             # Vaste regelbreuk (\q2 = niet zelf herverdelen): anders springt de tekst tussen
             # regelverdelingen terwijl de pop-animatie hem groter en kleiner maakt.
             tekst = vaste_regels(tekst.replace(" | ", "\n"), max_tekens=16 if grootte >= 150 else 20 if grootte >= 120 else 26)
-            grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 140) / 1.12, spatiering=2, rand=9)
+            grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 70) / 1.12, spatiering=2, rand=9)
             effect = POP.replace("{", "{\\q2\\fs" + str(grootte), 1)
             regels.append(f"Dialogue: 3,{tijd(hook.get('van', 0))},{tijd(hook['tot'])},Midden,,0,0,0,,{effect}{tekst}")
         for t in project.get("teksten", []):
@@ -385,9 +387,9 @@ def main():
                 # Zelfde pop als 'groot', maar de lettergrootte past zich aan de lengte aan.
                 # Alle pop-teksten even groot (POP_GROOTTE); past het niet op één regel, dan over twee.
                 grootte = t.get("grootte") or POP_GROOTTE
-                if "\\N" not in tekst and tekstbreedte(tekst, "Montserrat-Black.ttf", grootte, 2) + 18 > (B - 120) / 1.12:
+                if "\\N" not in tekst and tekstbreedte(tekst, "Montserrat-Black.ttf", grootte, 2) + 44 > (B - 120) / 1.12:
                     tekst = vaste_regels(tekst, max_tekens=max(8, len(tekst) // 2 + 1))
-                grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 120) / 1.12, spatiering=2, rand=9)
+                grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 120) / 1.12, spatiering=2, rand=22)
                 effect = POP.replace("{", "{\\q2\\fs" + str(grootte), 1)
             regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
         ass = werk / "ondertitels.ass"
