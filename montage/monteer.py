@@ -63,7 +63,8 @@ Style: Onder,Montserrat ExtraBold,82,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(
 Style: Titel,Montserrat Bold,62,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,3,0,1,3,5,8,90,90,250,1
 Style: Hook,Montserrat Bold,80,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,3,0,1,4,6,8,80,80,250,1
 Style: Groot,Montserrat Black,200,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,2,0,1,9,7,8,60,60,230,1
-Style: Kader,Montserrat Black,200,{WIT},{WIT},&H1A000000,&H00000000,0,0,0,0,100,100,2,0,3,22,0,8,60,60,230,1
+Style: Kader,Montserrat Black,200,{WIT},{WIT},&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,0,5,60,60,0,1
+Style: Vorm,Arial,20,&H1A000000,&H1A000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Midden,Montserrat Black,120,{WIT},{WIT},&H00000000,&H66000000,0,0,0,0,100,100,2,0,1,9,7,5,70,70,0,1
 Style: Slogan,Montserrat Bold,44,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,2,0,1,0,0,5,60,60,0,1
 Style: Info,Montserrat Bold,54,{WIT},{WIT},{ass_kleur(DONKER)},{ass_kleur(DONKER)},0,0,0,0,100,100,1,0,1,0,0,5,60,60,0,1
@@ -289,6 +290,16 @@ def midden_grootte(tekst):
 
 
 POP_GROOTTE = 120
+KADER_X, KADER_Y, KADER_TOP = 44, 14, 220   # binnenmarge van het zwarte kader en afstand tot de bovenrand
+
+
+def afgeronde_vorm(b, h, r):
+    """ASS-tekening (\\p1) van een rechthoek met afgeronde hoeken; r = h/2 geeft een pilvorm."""
+    k = r * 0.5523  # bezier-benadering van een kwartcirkel
+    return (f"m {r:.0f} 0 l {b - r:.0f} 0 b {b - r + k:.0f} 0 {b:.0f} {r - k:.0f} {b:.0f} {r:.0f} "
+            f"l {b:.0f} {h - r:.0f} b {b:.0f} {h - r + k:.0f} {b - r + k:.0f} {h:.0f} {b - r:.0f} {h:.0f} "
+            f"l {r:.0f} {h:.0f} b {r - k:.0f} {h:.0f} 0 {h - r + k:.0f} 0 {h - r:.0f} "
+            f"l 0 {r:.0f} b 0 {r - k:.0f} {r - k:.0f} 0 {r:.0f} 0")
 
 
 def pop_grootte(tekst):
@@ -389,8 +400,25 @@ def main():
                 grootte = t.get("grootte") or POP_GROOTTE
                 if "\\N" not in tekst and tekstbreedte(tekst, "Montserrat-Black.ttf", grootte, 2) + 44 > (B - 120) / 1.12:
                     tekst = vaste_regels(tekst, max_tekens=max(8, len(tekst) // 2 + 1))
-                grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 120) / 1.12, spatiering=2, rand=22)
+                grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 120) / 1.12, spatiering=2, rand=44)
                 effect = POP.replace("{", "{\\q2\\fs" + str(grootte), 1)
+            if stijl == "Kader":
+                # Zwarte achtergrond met afgeronde (ovale) hoeken, getekend als vorm achter de tekst.
+                # Tekst en vorm hebben hetzelfde middelpunt, zodat de pop-animatie ze samen laat groeien.
+                grootte = grootte if t.get("stijl") == "pop" else 200
+                if "\\fs" not in effect:
+                    effect = effect.replace("{", "{\\fs" + str(grootte), 1)
+                n = tekst.count("\\N") + 1
+                regelhoogte = grootte * 1.22
+                breedte = tekstbreedte(tekst, "Montserrat-Black.ttf", grootte, 2) + 2 * KADER_X
+                hoogte = n * regelhoogte + 2 * KADER_Y
+                midden_y = KADER_TOP + hoogte / 2
+                vorm = afgeronde_vorm(breedte, hoogte, min(hoogte / 2, 70))
+                regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},Vorm,,0,0,0,,"
+                              f"{effect.replace('{', '{\\an5\\pos(540,' + f'{midden_y:.0f}' + ')\\p1', 1)}{vorm}")
+                effect = effect.replace("{", "{\\an5\\pos(540," + f"{midden_y:.0f}" + ")", 1)
+                regels.append(f"Dialogue: 3,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
+                continue
             regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
         ass = werk / "ondertitels.ass"
         ass.write_text(ASS_KOP + "\n".join(regels) + "\n", encoding="utf-8")

@@ -91,7 +91,7 @@ Nieuwe ideeën gaan in `ideeen.md`.
 
 ## Montage
 - Huisstijl voor video: `huisstijl/huisstijl.md` (Montserrat, bosgroen `#154727`, limoen `#8CD742`).
-- Tekst bovenaan in beeld (cijfers, kernwoorden): **witte letters op een zwart kader, geen groen**,
+- Tekst bovenaan in beeld (cijfers, kernwoorden): **witte letters op een zwart kader met afgeronde (ovale) hoeken, geen groen**,
   en zichtbaar anders dan de ondertitels (gewone letters, letterafstand). Alle teksten bovenaan
   zijn even groot; te lang voor één regel = twee regels. Dit geldt voor alle video's.
 - Ondertitels hebben in de hele video dezelfde lettergrootte.

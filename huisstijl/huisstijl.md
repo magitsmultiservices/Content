@@ -27,7 +27,7 @@ Bestanden in `huisstijl/fonts/` (Google Fonts, vrije SIL Open Font License).
 - **Hook (elke video):** de hooktekst verschijnt **groot in het midden van het beeld** met de
   pop-animatie (projectveld `"hook": {"tekst": ..., "tot": ...}`). **Tijdens de hook nog geen
   ondertitels**; die beginnen pas na de hook.
-- Bovenaan, **witte letters op een zwart kader** (stijl `Kader` in monteer.py), zonder groen.
+- Bovenaan, **witte letters op een zwart kader met afgeronde, ovale hoeken** (stijl `Kader` + getekende vorm in monteer.py), zonder groen.
   (Keuze van Yelte, 11/11/2026: zwarte achtergrond achter de tekst bovenaan, voor alle video's.)
 - Moet duidelijk anders ogen dan de ondertitels (gesproken tekst): **Montserrat Bold, gewone
   hoofd- en kleine letters, wat extra letterafstand**. De ondertitels blijven ExtraBold in hoofdletters.
