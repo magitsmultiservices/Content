@@ -200,14 +200,32 @@ def transcriberen(clips, model="small"):
     return woorden
 
 
-def groepeer(woorden, max_woorden=3, max_tekens=18, max_pauze=0.6):
-    """Korte ondertitelregels: hoogstens 3 woorden, splitsen op leestekens en pauzes."""
+ONDER_FONT, ONDER_MAX = "Montserrat-ExtraBold.ttf", 82
+ONDER_BREEDTE = (B - 180) / 1.08   # ruimte voor ondertitels, met marge voor het vergrote groene woord
+
+
+def ondertitel_grootte(woorden):
+    """Eén lettergrootte voor alle ondertitels van de video: het langste woord moet passen."""
+    return min([ONDER_MAX] + [passend(ass_tekst(w["w"]).upper(), ONDER_FONT, ONDER_MAX, ONDER_BREEDTE, 1, 7)
+                              for w in woorden])
+
+
+def groepeer(woorden, max_woorden=3, max_tekens=18, max_pauze=0.6, grootte=None):
+    """Korte ondertitelregels: hoogstens 3 woorden, splitsen op leestekens en pauzes.
+
+    Met 'grootte' bepaalt de echte breedte in pixels of een woord er nog bij past (in plaats van max_tekens).
+    """
     groepen, huidig = [], []
     for w in woorden:
         if huidig:
             vorig = huidig[-1]
             lengte = sum(len(x["w"]) + 1 for x in huidig) + len(w["w"])
-            if (len(huidig) >= max_woorden or lengte > max_tekens
+            if grootte:
+                kandidaat = " ".join(ass_tekst(x["w"]).upper() for x in huidig + [w])
+                te_breed = tekstbreedte(kandidaat, ONDER_FONT, grootte, 1) + 14 > ONDER_BREEDTE
+            else:
+                te_breed = lengte > max_tekens
+            if (len(huidig) >= max_woorden or te_breed
                     or re.search(r"[.,!?…:;]$", vorig["w"]) or w["start"] - vorig["eind"] > max_pauze):
                 groepen.append(huidig)
                 huidig = []
@@ -220,7 +238,9 @@ def groepeer(woorden, max_woorden=3, max_tekens=18, max_pauze=0.6):
 def ondertitel_regels(woorden):
     """Eén regel per woord: de hele groep in beeld, het gesproken woord in limoengroen."""
     events = []
-    for groep in groepeer(woorden):
+    # Overal dezelfde lettergrootte; lange woorden bepalen die voor de hele video.
+    grootte = ondertitel_grootte(woorden) if woorden else ONDER_MAX
+    for groep in groepeer(woorden, max_tekens=99, grootte=grootte):
         for i, w in enumerate(groep):
             eind = groep[i + 1]["start"] if i + 1 < len(groep) else w["eind"] + 0.15
             delen = []
@@ -230,10 +250,7 @@ def ondertitel_regels(woorden):
                     woord = f"{{\\c{ass_kleur(LIMOEN)}\\fscx108\\fscy108}}{woord}{{\\c{WIT}\\fscx100\\fscy100}}"
                 delen.append(woord)
             tekst = " ".join(delen)
-            kaal = " ".join(ass_tekst(x["w"]).upper() for x in groep)
-            # Lange woorden (bv. AANSPRAKELIJKHEIDSVERZEKERING) kleiner zetten zodat alles in beeld blijft.
-            grootte = passend(kaal, "Montserrat-ExtraBold.ttf", 82, (B - 180) / 1.08, spatiering=1, rand=7)
-            if grootte < 82:
+            if grootte < ONDER_MAX:
                 tekst = f"{{\\fs{grootte}}}" + tekst
             events.append([w["start"], eind, tekst])
     # Nooit twee regels tegelijk in beeld: elke regel stopt waar de volgende begint.
@@ -267,6 +284,9 @@ def midden_grootte(tekst):
     """Lettergrootte voor de hook in het midden: zo groot mogelijk, lange zinnen lopen over meerdere regels."""
     n = len(tekst)
     return 190 if n <= 8 else 150 if n <= 14 else 120 if n <= 24 else 104
+
+
+POP_GROOTTE = 120
 
 
 def pop_grootte(tekst):
@@ -363,8 +383,11 @@ def main():
                 effect = POP
             elif t.get("stijl") == "pop":
                 # Zelfde pop als 'groot', maar de lettergrootte past zich aan de lengte aan.
-                grootte = passend(tekst, "Montserrat-Black.ttf", t.get("grootte") or pop_grootte(tekst),
-                                  (B - 120) / 1.12, spatiering=2, rand=9)
+                # Alle pop-teksten even groot (POP_GROOTTE); past het niet op één regel, dan over twee.
+                grootte = t.get("grootte") or POP_GROOTTE
+                if "\\N" not in tekst and tekstbreedte(tekst, "Montserrat-Black.ttf", grootte, 2) + 18 > (B - 120) / 1.12:
+                    tekst = vaste_regels(tekst, max_tekens=max(8, len(tekst) // 2 + 1))
+                grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 120) / 1.12, spatiering=2, rand=9)
                 effect = POP.replace("{", "{\\q2\\fs" + str(grootte), 1)
             regels.append(f"Dialogue: 2,{tijd(t['van'])},{tijd(t['tot'])},{stijl},,0,0,0,,{effect}{tekst}")
         ass = werk / "ondertitels.ass"
