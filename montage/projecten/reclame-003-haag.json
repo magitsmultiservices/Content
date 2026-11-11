@@ -1,0 +1,69 @@
+{
+ "titel": "Reclamevideo 3 · voorbeeld",
+ "uitvoer": "output/reclame-003-voorbeeld.mp4",
+ "overgang": 0.25,
+ "geluid": false,
+ "clips": [
+  {
+   "bestand": "media/reclame-003/20261110_100151.mp4",
+   "van": 1.0,
+   "tot": 4.0
+  },
+  {
+   "bestand": "media/reclame-003/20261110_101809.mp4",
+   "van": 0.0,
+   "tot": 6.0
+  },
+  {
+   "bestand": "media/reclame-003/20261110_104844.mp4",
+   "van": 4.0,
+   "tot": 9.0
+  },
+  {
+   "bestand": "media/reclame-003/20261110_124330.mp4",
+   "van": 10.0,
+   "tot": 13.0
+  },
+  {
+   "bestand": "media/reclame-003/20261110_125754.mp4",
+   "van": 5.0,
+   "tot": 8.0
+  },
+  {
+   "bestand": "media/reclame-003/20261110_104523.mp4",
+   "van": 0.2,
+   "tot": 4.0
+  },
+  {
+   "bestand": "media/reclame-003/20261110_104538.mp4",
+   "van": 0.5,
+   "tot": 4.5
+  },
+  {
+   "bestand": "media/reclame-003/20261110_104531.mp4",
+   "van": 0.5,
+   "tot": 4.0
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/reclame-003-haag.woorden.json",
+ "hook": {
+  "tekst": "Uw tuin klaar | voor de winter?",
+  "tot": 3.0
+ },
+ "teksten": [
+  {
+   "tekst": "Na",
+   "van": 20.2,
+   "tot": 23.7,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Stuur ons een foto",
+   "van": 26.0,
+   "tot": 31.2,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}

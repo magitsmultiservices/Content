@@ -1,0 +1,347 @@
+[
+ {
+  "w": "Zo",
+  "start": 0.2,
+  "eind": 0.47
+ },
+ {
+  "w": "maakt",
+  "start": 0.5,
+  "eind": 0.77
+ },
+ {
+  "w": "u",
+  "start": 0.8,
+  "eind": 1.07
+ },
+ {
+  "w": "uw",
+  "start": 1.1,
+  "eind": 1.37
+ },
+ {
+  "w": "tuin",
+  "start": 1.4,
+  "eind": 1.67
+ },
+ {
+  "w": "klaar",
+  "start": 1.7,
+  "eind": 1.97
+ },
+ {
+  "w": "voor",
+  "start": 2.0,
+  "eind": 2.27
+ },
+ {
+  "w": "de",
+  "start": 2.3,
+  "eind": 2.57
+ },
+ {
+  "w": "winter.",
+  "start": 2.6,
+  "eind": 2.87
+ },
+ {
+  "w": "Deze",
+  "start": 3.2,
+  "eind": 3.62
+ },
+ {
+  "w": "beukenhaag",
+  "start": 3.65,
+  "eind": 4.07
+ },
+ {
+  "w": "kreeg",
+  "start": 4.1,
+  "eind": 4.52
+ },
+ {
+  "w": "een",
+  "start": 4.55,
+  "eind": 4.97
+ },
+ {
+  "w": "snoeibeurt.",
+  "start": 5.0,
+  "eind": 5.42
+ },
+ {
+  "w": "Strak",
+  "start": 5.45,
+  "eind": 5.87
+ },
+ {
+  "w": "en",
+  "start": 5.9,
+  "eind": 6.32
+ },
+ {
+  "w": "recht,",
+  "start": 6.35,
+  "eind": 6.77
+ },
+ {
+  "w": "van",
+  "start": 6.8,
+  "eind": 7.22
+ },
+ {
+  "w": "onder",
+  "start": 7.25,
+  "eind": 7.67
+ },
+ {
+  "w": "tot",
+  "start": 7.7,
+  "eind": 8.12
+ },
+ {
+  "w": "boven.",
+  "start": 8.15,
+  "eind": 8.57
+ },
+ {
+  "w": "Het",
+  "start": 9.2,
+  "eind": 9.59
+ },
+ {
+  "w": "snoeisel",
+  "start": 9.62,
+  "eind": 10.01
+ },
+ {
+  "w": "ruimen",
+  "start": 10.04,
+  "eind": 10.42
+ },
+ {
+  "w": "we",
+  "start": 10.45,
+  "eind": 10.84
+ },
+ {
+  "w": "meteen",
+  "start": 10.87,
+  "eind": 11.26
+ },
+ {
+  "w": "op,",
+  "start": 11.29,
+  "eind": 11.68
+ },
+ {
+  "w": "en",
+  "start": 11.71,
+  "eind": 12.1
+ },
+ {
+  "w": "we",
+  "start": 12.13,
+  "eind": 12.52
+ },
+ {
+  "w": "voeren",
+  "start": 12.55,
+  "eind": 12.93
+ },
+ {
+  "w": "alles",
+  "start": 12.96,
+  "eind": 13.35
+ },
+ {
+  "w": "af.",
+  "start": 13.38,
+  "eind": 13.77
+ },
+ {
+  "w": "En",
+  "start": 14.3,
+  "eind": 14.72
+ },
+ {
+  "w": "het",
+  "start": 14.75,
+  "eind": 15.17
+ },
+ {
+  "w": "herfstblad?",
+  "start": 15.2,
+  "eind": 15.62
+ },
+ {
+  "w": "Dat",
+  "start": 15.65,
+  "eind": 16.07
+ },
+ {
+  "w": "blazen",
+  "start": 16.1,
+  "eind": 16.52
+ },
+ {
+  "w": "we",
+  "start": 16.55,
+  "eind": 16.97
+ },
+ {
+  "w": "weg,",
+  "start": 17.0,
+  "eind": 17.42
+ },
+ {
+  "w": "van",
+  "start": 17.45,
+  "eind": 17.87
+ },
+ {
+  "w": "het",
+  "start": 17.9,
+  "eind": 18.32
+ },
+ {
+  "w": "gras",
+  "start": 18.35,
+  "eind": 18.77
+ },
+ {
+  "w": "en",
+  "start": 18.8,
+  "eind": 19.22
+ },
+ {
+  "w": "uit",
+  "start": 19.25,
+  "eind": 19.67
+ },
+ {
+  "w": "de",
+  "start": 19.7,
+  "eind": 20.12
+ },
+ {
+  "w": "borders.",
+  "start": 20.15,
+  "eind": 20.57
+ },
+ {
+  "w": "Het",
+  "start": 21.0,
+  "eind": 21.37
+ },
+ {
+  "w": "resultaat:",
+  "start": 21.4,
+  "eind": 21.77
+ },
+ {
+  "w": "een",
+  "start": 21.8,
+  "eind": 22.17
+ },
+ {
+  "w": "nette",
+  "start": 22.2,
+  "eind": 22.57
+ },
+ {
+  "w": "tuin,",
+  "start": 22.6,
+  "eind": 22.97
+ },
+ {
+  "w": "klaar",
+  "start": 23.0,
+  "eind": 23.37
+ },
+ {
+  "w": "voor",
+  "start": 23.4,
+  "eind": 23.77
+ },
+ {
+  "w": "de",
+  "start": 23.8,
+  "eind": 24.17
+ },
+ {
+  "w": "winter.",
+  "start": 24.2,
+  "eind": 24.57
+ },
+ {
+  "w": "Ook",
+  "start": 25.0,
+  "eind": 25.43
+ },
+ {
+  "w": "uw",
+  "start": 25.46,
+  "eind": 25.88
+ },
+ {
+  "w": "haag",
+  "start": 25.91,
+  "eind": 26.34
+ },
+ {
+  "w": "of",
+  "start": 26.37,
+  "eind": 26.8
+ },
+ {
+  "w": "tuin",
+  "start": 26.83,
+  "eind": 27.26
+ },
+ {
+  "w": "laten",
+  "start": 27.29,
+  "eind": 27.71
+ },
+ {
+  "w": "doen?",
+  "start": 27.74,
+  "eind": 28.17
+ },
+ {
+  "w": "Stuur",
+  "start": 28.2,
+  "eind": 28.63
+ },
+ {
+  "w": "ons",
+  "start": 28.66,
+  "eind": 29.08
+ },
+ {
+  "w": "een",
+  "start": 29.11,
+  "eind": 29.54
+ },
+ {
+  "w": "foto",
+  "start": 29.57,
+  "eind": 30.0
+ },
+ {
+  "w": "voor",
+  "start": 30.03,
+  "eind": 30.46
+ },
+ {
+  "w": "een",
+  "start": 30.49,
+  "eind": 30.91
+ },
+ {
+  "w": "prijsinschatting.",
+  "start": 30.94,
+  "eind": 31.37
+ }
+]
