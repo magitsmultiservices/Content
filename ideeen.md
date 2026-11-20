@@ -24,4 +24,4 @@
 - [ ] Rommelophaling: een volle garage in [x] uur leeg
 - [ ] 3 tips voor uw tuin in [seizoen]
 
-- Reclame 003 · Haag snoeien en herfstblad ruimen (beelden 10/11/2026, voice-over) → map Reclamevideo's/Video 3
+- Reclame 003 · "Deze week heb ik…": beukenhaag snoeien (beelden 10/11/2026, voice-over) → map Reclamevideo's/Video 3

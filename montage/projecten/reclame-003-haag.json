@@ -1,7 +1,7 @@
 {
- "titel": "Reclamevideo 3 · voorbeeld",
+ "titel": "Reclamevideo 3 · Deze week heb ik… (voorbeeld)",
  "uitvoer": "output/reclame-003-voorbeeld.mp4",
- "overgang": 0.25,
+ "overgang": 0.2,
  "geluid": false,
  "clips": [
   {
@@ -10,19 +10,20 @@
    "tot": 4.0
   },
   {
-   "bestand": "media/reclame-003/20261110_101809.mp4",
-   "van": 0.0,
-   "tot": 6.0
+   "bestand": "media/reclame-003/20261110_100139.mp4",
+   "van": 0.3,
+   "tot": 3.5
   },
   {
-   "bestand": "media/reclame-003/20261110_104844.mp4",
-   "van": 4.0,
-   "tot": 9.0
+   "bestand": "media/reclame-003/20261110_101809.mp4",
+   "van": 0.0,
+   "tot": 6.1
   },
   {
    "bestand": "media/reclame-003/20261110_124330.mp4",
-   "van": 10.0,
-   "tot": 13.0
+   "van": 4.0,
+   "tot": 52.0,
+   "snelheid": 8
   },
   {
    "bestand": "media/reclame-003/20261110_125754.mp4",
@@ -48,20 +49,26 @@
  "broll": [],
  "ondertitels": "montage/projecten/reclame-003-haag.woorden.json",
  "hook": {
-  "tekst": "Uw tuin klaar | voor de winter?",
-  "tot": 3.0
+  "tekst": "Deze week: | een beukenhaag",
+  "tot": 2.9
  },
  "teksten": [
   {
+   "tekst": "Voor",
+   "van": 3.0,
+   "tot": 6.0,
+   "stijl": "pop"
+  },
+  {
    "tekst": "Na",
-   "van": 20.2,
-   "tot": 23.7,
+   "van": 21.3,
+   "tot": 25.0,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een foto",
-   "van": 26.0,
-   "tot": 31.2,
+   "van": 29.1,
+   "tot": 32.5,
    "stijl": "pop"
   }
  ],
