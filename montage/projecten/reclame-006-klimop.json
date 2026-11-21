@@ -1,0 +1,87 @@
+{
+ "titel": "Reclamevideo 6 · Deze week: klimop (voorbeeld)",
+ "uitvoer": "output/reclame-006-voorbeeld.mp4",
+ "overgang": 0.2,
+ "geluid": false,
+ "clips": [
+  {
+   "bestand": "media/rv6/20261117_113427.mp4",
+   "van": 0.3,
+   "tot": 3.3
+  },
+  {
+   "bestand": "media/rv6/20261117_113436.mp4",
+   "van": 0.5,
+   "tot": 3.5
+  },
+  {
+   "bestand": "media/rv6/20261117_113427.mp4",
+   "van": 4.5,
+   "tot": 7.5
+  },
+  {
+   "bestand": "media/rv6/20261117_113746.mp4",
+   "van": 2.0,
+   "tot": 6.0
+  },
+  {
+   "bestand": "media/rv6/20261117_113746.mp4",
+   "van": 6.0,
+   "tot": 60.0,
+   "snelheid": 12
+  },
+  {
+   "bestand": "media/rv6/20261117_121033.mp4",
+   "van": 0.0,
+   "tot": 1.95
+  },
+  {
+   "bestand": "media/rv6/20261117_121001.mp4",
+   "van": 0.0,
+   "tot": 1.95
+  },
+  {
+   "bestand": "media/rv6/20261117_123516.mp4",
+   "van": 0.5,
+   "tot": 33.0,
+   "snelheid": 8
+  },
+  {
+   "bestand": "media/rv6/20261117_121004.mp4",
+   "van": 0.0,
+   "tot": 3.6
+  },
+  {
+   "bestand": "media/rv6/20261117_121125.mp4",
+   "van": 0.0,
+   "tot": 5.5
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/reclame-006-klimop.woorden.json",
+ "hook": {
+  "tekst": "Deze week: | klimop weg",
+  "tot": 2.9
+ },
+ "teksten": [
+  {
+   "tekst": "Voor",
+   "van": 3.0,
+   "tot": 5.8,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Na",
+   "van": 25.5,
+   "tot": 29.0,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Stuur ons een foto",
+   "van": 30.5,
+   "tot": 34.4,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}
