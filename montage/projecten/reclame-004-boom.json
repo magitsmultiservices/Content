@@ -1,0 +1,77 @@
+{
+ "titel": "Reclamevideo 4 · Deze week: grote boom (voorbeeld)",
+ "uitvoer": "output/reclame-004-voorbeeld.mp4",
+ "overgang": 0.2,
+ "geluid": false,
+ "clips": [
+  {
+   "bestand": "media/rv4/IMG_1252.mp4",
+   "van": 0.0,
+   "tot": 2.2,
+   "snelheid": 0.65
+  },
+  {
+   "bestand": "media/rv4/foto_20261109_152257.mp4",
+   "van": 0,
+   "tot": 4.2
+  },
+  {
+   "bestand": "media/rv4/20261109_152300.mp4",
+   "van": 0.0,
+   "tot": 4.2,
+   "snelheid": 0.7
+  },
+  {
+   "bestand": "media/rv4/foto_20261109_165817.mp4",
+   "van": 0,
+   "tot": 5.0
+  },
+  {
+   "bestand": "media/rv4/20261116_105707.mp4",
+   "van": 2.0,
+   "tot": 5.5
+  },
+  {
+   "bestand": "media/rv4/foto_20261114_102457.mp4",
+   "van": 0,
+   "tot": 2.8
+  },
+  {
+   "bestand": "media/rv4/foto_20261114_111407.mp4",
+   "van": 0,
+   "tot": 4.3
+  },
+  {
+   "bestand": "media/rv4/foto_20261114_102500.mp4",
+   "van": 0,
+   "tot": 5.5
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/reclame-004-boom.woorden.json",
+ "hook": {
+  "tekst": "Deze week: | een grote boom",
+  "tot": 3.28
+ },
+ "teksten": [
+  {
+   "tekst": "Voor",
+   "van": 3.48,
+   "tot": 7.43,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Na",
+   "van": 24.98,
+   "tot": 29.03,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Stuur ons een foto",
+   "van": 29.28,
+   "tot": 34.53,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}

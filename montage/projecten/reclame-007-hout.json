@@ -1,0 +1,93 @@
+{
+ "titel": "Reclamevideo 7 · Deze week: hout kappen (voorbeeld)",
+ "uitvoer": "output/reclame-007-voorbeeld.mp4",
+ "overgang": 0.2,
+ "geluid": false,
+ "clips": [
+  {
+   "bestand": "media/rv7/20261118_152311.mp4",
+   "van": 20.0,
+   "tot": 22.8
+  },
+  {
+   "bestand": "media/rv4/foto_20261109_165817.mp4",
+   "van": 0,
+   "tot": 1.8
+  },
+  {
+   "bestand": "media/rv4/20261116_105707.mp4",
+   "van": 2.0,
+   "tot": 5.5
+  },
+  {
+   "bestand": "media/rv4/20261118_162226.mp4",
+   "van": 0.0,
+   "tot": 2.6
+  },
+  {
+   "bestand": "media/rv7/20261118_153310.mp4",
+   "van": 0.0,
+   "tot": 73.0,
+   "snelheid": 20
+  },
+  {
+   "bestand": "media/rv7/20261120_130304.mp4",
+   "van": 0.0,
+   "tot": 126.0,
+   "snelheid": 40
+  },
+  {
+   "bestand": "media/rv7/20261118_162150.mp4",
+   "van": 0.0,
+   "tot": 3.0
+  },
+  {
+   "bestand": "media/rv7/20261120_122451.mp4",
+   "van": 0.0,
+   "tot": 13.0,
+   "snelheid": 4
+  },
+  {
+   "bestand": "media/rv7/20261120_123817.mp4",
+   "van": 0.0,
+   "tot": 3.0
+  },
+  {
+   "bestand": "media/rv7/20261120_132313.mp4",
+   "van": 0.0,
+   "tot": 3.6
+  },
+  {
+   "bestand": "media/rv7/20261120_132301.mp4",
+   "van": 0.5,
+   "tot": 5.0
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
+ "hook": {
+  "tekst": "Deze week: | hout kappen",
+  "tot": 2.7
+ },
+ "teksten": [
+  {
+   "tekst": "Voor",
+   "van": 2.9,
+   "tot": 7.95,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Na",
+   "van": 23.85,
+   "tot": 30.2,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Stuur ons een bericht",
+   "van": 30.45,
+   "tot": 34.7,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}

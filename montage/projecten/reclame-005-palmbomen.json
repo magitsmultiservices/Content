@@ -1,0 +1,97 @@
+{
+ "titel": "Reclamevideo 5 · Deze week: palmbomen (voorbeeld)",
+ "uitvoer": "output/reclame-005-voorbeeld.mp4",
+ "overgang": 0.2,
+ "geluid": false,
+ "clips": [
+  {
+   "bestand": "media/rv5/20261116_143134.mp4",
+   "van": 0.0,
+   "tot": 3.6
+  },
+  {
+   "bestand": "media/rv5/20261116_130245.mp4",
+   "van": 0.0,
+   "tot": 2.6
+  },
+  {
+   "bestand": "media/rv5/20261116_133446.mp4",
+   "van": 0.0,
+   "tot": 2.4
+  },
+  {
+   "bestand": "media/rv5/20261116_134218.mp4",
+   "van": 1.0,
+   "tot": 4.5
+  },
+  {
+   "bestand": "media/rv5/20261116_130245.mp4",
+   "van": 3.0,
+   "tot": 250.0,
+   "snelheid": 50
+  },
+  {
+   "bestand": "media/rv5/20261116_130834.mp4",
+   "van": 0.0,
+   "tot": 2.1
+  },
+  {
+   "bestand": "media/rv5/20261116_144216.mp4",
+   "van": 0.0,
+   "tot": 8.0,
+   "snelheid": 2.5
+  },
+  {
+   "bestand": "media/rv5/20261116_144243.mp4",
+   "van": 0.0,
+   "tot": 3.0
+  },
+  {
+   "bestand": "media/rv5/20261116_130827.mp4",
+   "van": 0.0,
+   "tot": 1.66
+  },
+  {
+   "bestand": "media/rv5/20261116_144228.mp4",
+   "van": 0.0,
+   "tot": 3.0
+  },
+  {
+   "bestand": "media/rv5/20261116_144236.mp4",
+   "van": 0.0,
+   "tot": 3.3
+  },
+  {
+   "bestand": "media/rv5/foto_20261116_130844.mp4",
+   "van": 0,
+   "tot": 3.0
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/reclame-005-palmbomen.woorden.json",
+ "hook": {
+  "tekst": "Deze week: | palmbomen",
+  "tot": 3.5
+ },
+ "teksten": [
+  {
+   "tekst": "Voor",
+   "van": 3.7,
+   "tot": 8.45,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Na",
+   "van": 25.44,
+   "tot": 29.85,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Stuur ons een foto",
+   "van": 30.1,
+   "tot": 36.15,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}

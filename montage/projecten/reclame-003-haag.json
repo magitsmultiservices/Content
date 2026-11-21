@@ -1,74 +1,96 @@
 {
- "titel": "Reclamevideo 3 · Deze week heb ik… (voorbeeld)",
+ "titel": "Reclamevideo 3 · Deze week: beukenhaag (voorbeeld)",
  "uitvoer": "output/reclame-003-voorbeeld.mp4",
  "overgang": 0.2,
  "geluid": false,
  "clips": [
   {
-   "bestand": "media/reclame-003/20261110_100151.mp4",
+   "bestand": "media/rv3/20261110_100151.mp4",
    "van": 1.0,
-   "tot": 4.0
+   "tot": 4.2
   },
   {
-   "bestand": "media/reclame-003/20261110_100139.mp4",
+   "bestand": "media/rv3/20261110_100139.mp4",
    "van": 0.3,
    "tot": 3.5
   },
   {
-   "bestand": "media/reclame-003/20261110_101809.mp4",
-   "van": 0.0,
-   "tot": 6.1
+   "bestand": "media/rv3/20261110_095203.mp4",
+   "van": 1.0,
+   "tot": 3.5
   },
   {
-   "bestand": "media/reclame-003/20261110_124330.mp4",
+   "bestand": "media/rv3/20261110_091931.mp4",
+   "van": 0.5,
+   "tot": 3.0
+  },
+  {
+   "bestand": "media/rv3/20261110_101809.mp4",
+   "van": 0.5,
+   "tot": 4.0
+  },
+  {
+   "bestand": "media/rv3/20261110_101408.mp4",
+   "van": 2.0,
+   "tot": 232.0,
+   "snelheid": 50
+  },
+  {
+   "bestand": "media/rv3/20261110_104154.mp4",
+   "van": 0.0,
+   "tot": 198.0,
+   "snelheid": 40
+  },
+  {
+   "bestand": "media/rv3/20261110_124330.mp4",
    "van": 4.0,
    "tot": 52.0,
-   "snelheid": 8
+   "snelheid": 16
   },
   {
-   "bestand": "media/reclame-003/20261110_125754.mp4",
+   "bestand": "media/rv3/20261110_125754.mp4",
    "van": 5.0,
-   "tot": 8.0
+   "tot": 7.5
   },
   {
-   "bestand": "media/reclame-003/20261110_104523.mp4",
+   "bestand": "media/rv3/20261110_104523.mp4",
    "van": 0.2,
    "tot": 4.0
   },
   {
-   "bestand": "media/reclame-003/20261110_104538.mp4",
+   "bestand": "media/rv3/20261110_104538.mp4",
    "van": 0.5,
    "tot": 4.5
   },
   {
-   "bestand": "media/reclame-003/20261110_104531.mp4",
-   "van": 0.5,
-   "tot": 4.0
+   "bestand": "media/rv3/20261110_104531.mp4",
+   "van": 0.3,
+   "tot": 5.5
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-003-haag.woorden.json",
  "hook": {
   "tekst": "Deze week: | een beukenhaag",
-  "tot": 2.9
+  "tot": 3.1
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.0,
-   "tot": 6.0,
+   "van": 3.3,
+   "tot": 8.75,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 21.3,
-   "tot": 25.0,
+   "van": 30.05,
+   "tot": 37.6,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een foto",
-   "van": 29.1,
-   "tot": 32.5,
+   "van": 37.85,
+   "tot": 42.8,
    "stijl": "pop"
   }
  ],
