@@ -25,10 +25,10 @@
    "tot": 2.6
   },
   {
-   "bestand": "media/rv7/20261118_153310.mp4",
-   "van": 0.0,
-   "tot": 73.0,
-   "snelheid": 20
+   "bestand": "media/rv7/20261118_152601.mp4",
+   "van": 2.0,
+   "tot": 348.0,
+   "snelheid": 60
   },
   {
    "bestand": "media/rv7/20261120_130304.mp4",
@@ -78,14 +78,14 @@
   },
   {
    "tekst": "Na",
-   "van": 23.85,
-   "tot": 30.2,
+   "van": 25.97,
+   "tot": 32.32,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een bericht",
-   "van": 30.45,
-   "tot": 34.7,
+   "van": 32.57,
+   "tot": 36.82,
    "stijl": "pop"
   }
  ],
