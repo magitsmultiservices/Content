@@ -177,52 +177,72 @@
  {
   "w": "Dus:",
   "start": 13.0,
-  "eind": 13.6
+  "eind": 13.69
  },
  {
   "w": "losknippen,",
-  "start": 13.63,
-  "eind": 14.23
+  "start": 13.72,
+  "eind": 14.4
  },
  {
   "w": "lostrekken,",
-  "start": 14.26,
-  "eind": 14.86
+  "start": 14.43,
+  "eind": 15.12
  },
  {
   "w": "stam",
-  "start": 14.89,
-  "eind": 15.49
+  "start": 15.15,
+  "eind": 15.84
  },
  {
   "w": "per",
-  "start": 15.52,
-  "eind": 16.12
+  "start": 15.87,
+  "eind": 16.55
  },
  {
   "w": "stam.",
-  "start": 16.15,
-  "eind": 16.75
+  "start": 16.58,
+  "eind": 17.27
  },
  {
-  "w": "Ook",
-  "start": 16.78,
-  "eind": 17.38
+  "w": "Het",
+  "start": 17.5,
+  "eind": 17.71
  },
  {
-  "w": "al",
-  "start": 17.41,
-  "eind": 18.01
+  "w": "regent,",
+  "start": 17.74,
+  "eind": 17.95
  },
  {
-  "w": "regent",
-  "start": 18.04,
-  "eind": 18.64
+  "w": "maar",
+  "start": 17.98,
+  "eind": 18.18
  },
  {
-  "w": "het.",
-  "start": 18.67,
-  "eind": 19.27
+  "w": "het",
+  "start": 18.21,
+  "eind": 18.42
+ },
+ {
+  "w": "werk",
+  "start": 18.45,
+  "eind": 18.66
+ },
+ {
+  "w": "gaat",
+  "start": 18.69,
+  "eind": 18.89
+ },
+ {
+  "w": "gewoon",
+  "start": 18.92,
+  "eind": 19.13
+ },
+ {
+  "w": "door.",
+  "start": 19.16,
+  "eind": 19.37
  },
  {
   "w": "Daarna",

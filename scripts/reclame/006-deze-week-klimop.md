@@ -29,9 +29,15 @@ Kies er één:
 > Beeld: close-up van de klimop op de stam.
 
 ## Blok 3 · Tijdens
-"Dus: losknippen, lostrekken, stam per stam. Ook al regent het."
+"Dus: losknippen, lostrekken, stam per stam."
 
 > Beeld: lostrekken en knippen (normaal), daarna versneld.
+
+## Blok 3b · In de regen
+"Het regent, maar het werk gaat gewoon door."
+
+> Beeld: Yelte met de kap op in de regen (selfie 20261117_121033). Deze zin spreek je in als voice-over
+> (of zeg hem in de camera in de regen, dan gebruik ik die opname).
 
 ## Blok 4 · Opkuisen
 "Daarna alles opkuisen, zodat er niets blijft liggen."
@@ -59,6 +65,7 @@ Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en i
 - [ ] Blok 1 · Voor
 - [ ] Blok 2 · Waarom
 - [ ] Blok 3 · Tijdens
+- [ ] Blok 3b · In de regen
 - [ ] Blok 4 · Opkuisen
 - [ ] Blok 5 · Na
 - [ ] Call-to-action
@@ -67,10 +74,9 @@ Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en i
 - **Welke opnames:** zeg me welke datum of bestanden de klimop zijn; ik kon de nieuwe beelden nog niet openen.
 - **Regen in beeld:** een shot waar je de regen echt ziet (druppels, natte jas, plassen), dat is het sterke punt van deze video.
 - **Voor en na vanaf dezelfde plek**, en een close-up van het lostrekken (dat geluid en die beweging zijn sterk).
-- **Feiten:** hoeveel bomen, waarom de klant de klimop weg wilde, en of je alles afgevoerd hebt. Klopt de zin "maakt een boom zwaar en verstopt wat er onder zit" voor jou, of liever weglaten?
+- **Feiten:** hoeveel bomen, waarom de klant de klimop weg wilde, en of je alles afgevoerd hebt. De zin "maakt een boom zwaar en verstopt wat er onder zit" klopt (bevestigd door Yelte).
 
 ## Wat ik nog zou willen zien/horen in de camera (optioneel)
-- In de regen, kort in de camera: "Het regent, maar de klant rekent op ons. Dus we gaan door." (± 5 s, alleen als je dat zo wil zeggen).
 - Op het einde, nat maar klaar: één zin over hoe het ging.
 
 ## Caption
