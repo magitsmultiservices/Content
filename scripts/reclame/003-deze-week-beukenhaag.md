@@ -3,7 +3,7 @@
 - **Soort:** reclame (mensen in de regio die hulp zoeken), formaat "Deze week heb ik…": Yelte vertelt in de ik-vorm
   over één klus, de kijker spreekt hij aan met "u" in de call-to-action.
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts, Facebook
-- **Lengte:** ± 35 seconden (met eindbeeld)
+- **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
 - **Beelden:** alleen de beukenhaag van 10/11/2026 (BEELDMATERIAAL), in deze volgorde: vóór → tijdens (normaal én versneld)
   → opruimen (normaal én versneld) → na. "Voor" en "Na" bovenaan in beeld (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
@@ -12,43 +12,35 @@
 
 ---
 
-## Hook (0–3 s)
-Kies er één:
+## Hook
+"Deze week heb ik deze beukenhaag onder handen genomen."
 
-1. "Deze week heb ik deze beukenhaag onder handen genomen."
-2. "Deze week: één beukenhaag, van begin tot eind."
-3. "Zo snoei je een beukenhaag. Dit deed ik deze week."
-
-> Beeld: de haag vóór het snoeien.
 > Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Deze week: | een beukenhaag**
 
-## Blok 1 · Voor (3–6 s)
-"Zo zag hij eruit toen ik begon."
+## Blok 1 · Voor
+"Zo zag hij eruit toen ik begon. Lange scheuten, alle kanten op."
 
-> Beeld: de haag vóór het snoeien, tweede standpunt.
 > Tekst bovenaan (pop): **Voor**
 
-## Blok 2 · Tijdens (6–15 s)
-"Ik snoeide de zijkanten en de bovenkant. Met de ladder, zodat alles mooi recht wordt."
+## Blok 2 · Leuk om te weten
+"Leuk om te weten: een beuk houdt zijn bruine bladeren vast in de winter. Daarom blijft een beukenhaag het hele jaar dicht."
 
-> Beeld: snoeien op de ladder (normaal), daarna het snoeien versneld.
+## Blok 3 · Tijdens + tip
+"Ik snoeide de zijkanten en de bovenkant, met de ladder. Mijn tip: maak de haag bovenaan iets smaller dan onderaan. Zo krijgt ook de onderkant licht, en blijft die mooi vol."
 
-## Blok 3 · Opruimen (15–24 s)
+## Blok 4 · Opruimen
 "Daarna alles opruimen. Het snoeisel in de kruiwagen, en het herfstblad weggeblazen."
 
-> Beeld: snoeisel in de kruiwagen (versneld), bladblazer op de rug (versneld), bladblazer in de hand (normaal).
-
-## Blok 4 · Na (24–29 s)
+## Blok 5 · Na
 "En zo ziet hij er nu uit. Strak, netjes en klaar voor de winter."
 
-> Beeld: de haag na het snoeien, twee standpunten.
 > Tekst bovenaan (pop): **Na**
 
-## Call-to-action (29–33 s)
+## Call-to-action
 "Ook een haag die een snoeibeurt nodig heeft? Stuur ons een foto voor een prijsinschatting."
 
-> Beeld: laatste beeld van de haag.
 > Tekst bovenaan (pop): **Stuur ons een foto**
+
 > Daarna het standaard eindbeeld (4 s).
 
 ---
@@ -57,9 +49,10 @@ Kies er één:
 **Inspreken** (alleen geluid; filmen met de telefoon mag, het beeld gebruik ik niet):
 - [ ] Hook (de gekozen versie)
 - [ ] Blok 1 · Voor
-- [ ] Blok 2 · Tijdens
-- [ ] Blok 3 · Opruimen
-- [ ] Blok 4 · Na
+- [ ] Blok 2 · Leuk om te weten
+- [ ] Blok 3 · Tijdens + tip
+- [ ] Blok 4 · Opruimen
+- [ ] Blok 5 · Na
 - [ ] Call-to-action
 
 Tips: rustige plek binnen, telefoon op ± 20 cm van je mond, elk blok apart en gerust 2 à 3 keer.

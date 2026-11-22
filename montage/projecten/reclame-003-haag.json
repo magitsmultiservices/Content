@@ -7,33 +7,43 @@
   {
    "bestand": "media/rv3/20261110_100151.mp4",
    "van": 1.0,
-   "tot": 4.2
+   "tot": 4.6
   },
   {
    "bestand": "media/rv3/20261110_100139.mp4",
    "van": 0.3,
-   "tot": 3.5
+   "tot": 3.6
   },
   {
    "bestand": "media/rv3/20261110_095203.mp4",
-   "van": 1.0,
-   "tot": 3.5
+   "van": 0.5,
+   "tot": 1.8
+  },
+  {
+   "bestand": "media/rv3/20261110_101809.mp4",
+   "van": 0.0,
+   "tot": 6.1
+  },
+  {
+   "bestand": "media/rv3/20261110_100151.mp4",
+   "van": 6.0,
+   "tot": 7.83
   },
   {
    "bestand": "media/rv3/20261110_091931.mp4",
    "van": 0.5,
-   "tot": 3.0
-  },
-  {
-   "bestand": "media/rv3/20261110_101809.mp4",
-   "van": 0.5,
-   "tot": 4.0
+   "tot": 4.5
   },
   {
    "bestand": "media/rv3/20261110_101408.mp4",
-   "van": 2.0,
-   "tot": 232.0,
-   "snelheid": 50
+   "van": 40.0,
+   "tot": 44.0
+  },
+  {
+   "bestand": "media/rv3/20261110_101408.mp4",
+   "van": 50.0,
+   "tot": 182.0,
+   "snelheid": 45
   },
   {
    "bestand": "media/rv3/20261110_104154.mp4",
@@ -60,37 +70,37 @@
   {
    "bestand": "media/rv3/20261110_104538.mp4",
    "van": 0.5,
-   "tot": 4.5
+   "tot": 1.97
   },
   {
    "bestand": "media/rv3/20261110_104531.mp4",
-   "van": 0.3,
-   "tot": 5.5
+   "van": 0.2,
+   "tot": 5.52
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-003-haag.woorden.json",
  "hook": {
   "tekst": "Deze week: | een beukenhaag",
-  "tot": 3.1
+  "tot": 3.5
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.3,
-   "tot": 8.75,
+   "van": 3.7,
+   "tot": 8.05,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 30.05,
-   "tot": 37.6,
+   "van": 37.61,
+   "tot": 42.63,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een foto",
-   "van": 37.85,
-   "tot": 42.8,
+   "van": 42.88,
+   "tot": 47.95,
    "stijl": "pop"
   }
  ],

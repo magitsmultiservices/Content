@@ -7,7 +7,7 @@
   {
    "bestand": "media/rv5/20261116_143134.mp4",
    "van": 0.0,
-   "tot": 3.6
+   "tot": 4.27
   },
   {
    "bestand": "media/rv5/20261116_130245.mp4",
@@ -17,18 +17,28 @@
   {
    "bestand": "media/rv5/20261116_133446.mp4",
    "van": 0.0,
-   "tot": 2.4
+   "tot": 1.67
+  },
+  {
+   "bestand": "media/rv5/20261116_135117.mp4",
+   "van": 0.0,
+   "tot": 7.6
   },
   {
    "bestand": "media/rv5/20261116_134218.mp4",
    "van": 1.0,
-   "tot": 4.5
+   "tot": 5.0
   },
   {
    "bestand": "media/rv5/20261116_130245.mp4",
    "van": 3.0,
    "tot": 250.0,
-   "snelheid": 50
+   "snelheid": 45
+  },
+  {
+   "bestand": "media/rv5/20261116_134107.mp4",
+   "van": 0.0,
+   "tot": 1.6
   },
   {
    "bestand": "media/rv5/20261116_130834.mp4",
@@ -44,7 +54,7 @@
   {
    "bestand": "media/rv5/20261116_144243.mp4",
    "van": 0.0,
-   "tot": 3.0
+   "tot": 1.0
   },
   {
    "bestand": "media/rv5/20261116_130827.mp4",
@@ -54,7 +64,7 @@
   {
    "bestand": "media/rv5/20261116_144228.mp4",
    "van": 0.0,
-   "tot": 3.0
+   "tot": 2.27
   },
   {
    "bestand": "media/rv5/20261116_144236.mp4",
@@ -64,32 +74,32 @@
   {
    "bestand": "media/rv5/foto_20261116_130844.mp4",
    "van": 0,
-   "tot": 3.0
+   "tot": 2.97
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-005-palmbomen.woorden.json",
  "hook": {
   "tekst": "Deze week: | palmbomen",
-  "tot": 3.5
+  "tot": 4.17
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.7,
-   "tot": 8.45,
+   "van": 4.37,
+   "tot": 8.39,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 25.44,
-   "tot": 29.85,
+   "van": 33.63,
+   "tot": 37.31,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een foto",
-   "van": 30.1,
-   "tot": 36.15,
+   "van": 37.56,
+   "tot": 43.58,
    "stijl": "pop"
   }
  ],

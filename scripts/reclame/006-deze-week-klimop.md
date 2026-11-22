@@ -2,7 +2,7 @@
 
 - **Soort:** reclame, formaat "Deze week heb ik…": Yelte vertelt in de ik-vorm over één klus; de kijker spreekt hij aan met "u" in de call-to-action.
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts, Facebook
-- **Lengte:** ± 30 à 35 seconden (met eindbeeld)
+- **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
 - **Beelden:** nog te bepalen (BEELDMATERIAAL, waarschijnlijk 16 of 17/11/2026). Alleen beelden van deze ene klus: voor → tijdens (normaal én versneld) → opruimen → na, met "Voor" en "Na" bovenaan (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
 - **Status:** tekst klaar om in te spreken; montage zodra de beelden binnen zijn. Zie "Wat nog ontbreekt".
@@ -10,50 +10,37 @@
 ---
 
 ## Hook
-Kies er één:
-
-1. "Deze week: klimop van bomen trekken. In de regen."
-2. "Regen? Het werk gaat gewoon door."
+"Deze week: klimop van bomen trekken. In de regen."
 
 > Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Deze week: | klimop weg**
 
 ## Blok 1 · Voor
 "Zo zagen de bomen eruit: de stammen helemaal ingepakt door klimop."
 
-> Beeld: de bomen vol klimop.
 > Tekst bovenaan (pop): **Voor**
 
-## Blok 2 · Waarom
-"Klimop lijkt onschuldig, maar het maakt een boom zwaar en verstopt wat er onder zit."
+## Blok 2 · Waarom (leuk om te weten)
+"Leuk om te weten: klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit."
 
-> Beeld: close-up van de klimop op de stam.
+## Blok 3 · Tijdens + tip
+"Dus: losknippen, lostrekken, stam per stam. Mijn tip: knip de klimop onderaan de stam door. Wat erboven groeit, sterft dan vanzelf af."
 
-## Blok 3 · Tijdens
-"Dus: losknippen, lostrekken, stam per stam."
-
-> Beeld: lostrekken en knippen (normaal), daarna versneld.
-
-## Blok 3b · In de regen
+## Blok 4 · In de regen
 "Het regent, maar het werk gaat gewoon door."
 
-> Beeld: Yelte met de kap op in de regen (selfie 20261117_121033). Deze zin spreek je in als voice-over
-> (of zeg hem in de camera in de regen, dan gebruik ik die opname).
+## Blok 5 · Opkuisen
+"Daarna alles opkuisen en afvoeren, zodat er niets blijft liggen."
 
-## Blok 4 · Opkuisen
-"Daarna alles opkuisen, zodat er niets blijft liggen."
-
-> Beeld: opkuisen en laden (versneld).
-
-## Blok 5 · Na
+## Blok 6 · Na
 "En zo staan ze er nu bij. De stammen weer vrij."
 
-> Beeld: de stammen na het werk.
 > Tekst bovenaan (pop): **Na**
 
 ## Call-to-action
 "Ook bomen of muren vol klimop? Stuur ons een foto voor een prijsinschatting."
 
 > Tekst bovenaan (pop): **Stuur ons een foto**
+
 > Daarna het standaard eindbeeld (4 s).
 
 ---
@@ -63,11 +50,11 @@ Alleen geluid: rustige plek binnen, telefoon op ± 20 cm van je mond, elk blok a
 Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en ik pas de tekst aan.
 - [ ] Hook (de gekozen versie)
 - [ ] Blok 1 · Voor
-- [ ] Blok 2 · Waarom
-- [ ] Blok 3 · Tijdens
-- [ ] Blok 3b · In de regen
-- [ ] Blok 4 · Opkuisen
-- [ ] Blok 5 · Na
+- [ ] Blok 2 · Waarom (leuk om te weten)
+- [ ] Blok 3 · Tijdens + tip
+- [ ] Blok 4 · In de regen
+- [ ] Blok 5 · Opkuisen
+- [ ] Blok 6 · Na
 - [ ] Call-to-action
 
 ## Wat nog ontbreekt

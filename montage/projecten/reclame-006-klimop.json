@@ -7,22 +7,23 @@
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 0.3,
-   "tot": 3.3
+   "tot": 3.9
   },
   {
    "bestand": "media/rv6/20261117_113436.mp4",
    "van": 0.5,
-   "tot": 3.5
+   "tot": 4.77
+  },
+  {
+   "bestand": "media/rv6/20261117_113746.mp4",
+   "van": 0.0,
+   "tot": 6.0
   },
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 4.5,
-   "tot": 7.5
-  },
-  {
-   "bestand": "media/rv6/20261117_113746.mp4",
-   "van": 2.0,
-   "tot": 6.0
+   "tot": 7.7,
+   "snelheid": 0.6
   },
   {
    "bestand": "media/rv6/20261117_113746.mp4",
@@ -31,14 +32,20 @@
    "snelheid": 12
   },
   {
-   "bestand": "media/rv6/20261117_121033.mp4",
+   "bestand": "media/rv6/20261117_121001.mp4",
    "van": 0.0,
    "tot": 1.95
   },
   {
-   "bestand": "media/rv6/20261117_121001.mp4",
+   "bestand": "media/rv6/20261117_121004.mp4",
    "van": 0.0,
-   "tot": 1.95
+   "tot": 1.48
+  },
+  {
+   "bestand": "media/rv6/20261117_121033.mp4",
+   "van": 0.0,
+   "tot": 1.95,
+   "snelheid": 0.6
   },
   {
    "bestand": "media/rv6/20261117_123516.mp4",
@@ -47,39 +54,45 @@
    "snelheid": 8
   },
   {
-   "bestand": "media/rv6/20261117_121004.mp4",
+   "bestand": "media/rv6/20261117_124937.mp4",
    "van": 0.0,
-   "tot": 3.6
+   "tot": 110.0,
+   "snelheid": 25
+  },
+  {
+   "bestand": "media/rv6/20261117_123221.mp4",
+   "van": 0.0,
+   "tot": 4.27
   },
   {
    "bestand": "media/rv6/20261117_121125.mp4",
    "van": 0.0,
-   "tot": 5.5
+   "tot": 4.93
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-006-klimop.woorden.json",
  "hook": {
   "tekst": "Deze week: | klimop weg",
-  "tot": 2.9
+  "tot": 3.5
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.0,
-   "tot": 5.8,
+   "van": 3.7,
+   "tot": 7.72,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 25.5,
-   "tot": 29.0,
+   "van": 38.95,
+   "tot": 42.97,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een foto",
-   "van": 30.5,
-   "tot": 34.4,
+   "van": 43.22,
+   "tot": 47.9,
    "stijl": "pop"
   }
  ],

@@ -1,5 +1,5 @@
 {
- "titel": "Reclamevideo 7 · Deze week: hout kappen (voorbeeld)",
+ "titel": "Reclamevideo 7 · Deze week: brandhout klieven (voorbeeld)",
  "uitvoer": "output/reclame-007-voorbeeld.mp4",
  "overgang": 0.2,
  "geluid": false,
@@ -7,22 +7,67 @@
   {
    "bestand": "media/rv7/20261118_152311.mp4",
    "van": 20.0,
-   "tot": 22.8
+   "tot": 24.27
   },
   {
-   "bestand": "media/rv4/foto_20261109_165817.mp4",
-   "van": 0,
-   "tot": 1.8
+   "bestand": "media/rv4/IMG_1252.mp4",
+   "van": 0.0,
+   "tot": 2.2
   },
   {
    "bestand": "media/rv4/20261116_105707.mp4",
    "van": 2.0,
-   "tot": 5.5
+   "tot": 6.07
   },
   {
-   "bestand": "media/rv4/20261118_162226.mp4",
-   "van": 0.0,
-   "tot": 2.6
+   "bestand": "media/rv7/20261118_153931.mp4",
+   "van": 11.13,
+   "tot": 12.48
+  },
+  {
+   "bestand": "media/rv7/20261118_153310.mp4",
+   "van": 12.02,
+   "tot": 13.37
+  },
+  {
+   "bestand": "media/rv4/20261118_162624.mp4",
+   "van": 123.14,
+   "tot": 124.49
+  },
+  {
+   "bestand": "media/rv7/20261118_152601.mp4",
+   "van": 54.08,
+   "tot": 55.43
+  },
+  {
+   "bestand": "media/rv7/20261118_153310.mp4",
+   "van": 37.01,
+   "tot": 38.36
+  },
+  {
+   "bestand": "media/rv4/20261118_162624.mp4",
+   "van": 239.35,
+   "tot": 240.7
+  },
+  {
+   "bestand": "media/rv7/20261118_153931.mp4",
+   "van": 30.06,
+   "tot": 31.41
+  },
+  {
+   "bestand": "media/rv7/20261118_153310.mp4",
+   "van": 13.81,
+   "tot": 15.16
+  },
+  {
+   "bestand": "media/rv7/20261118_152601.mp4",
+   "van": 163.12,
+   "tot": 164.47
+  },
+  {
+   "bestand": "media/rv7/20261118_153310.mp4",
+   "van": 45.8,
+   "tot": 47.15
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
@@ -33,7 +78,7 @@
   {
    "bestand": "media/rv7/20261120_130304.mp4",
    "van": 0.0,
-   "tot": 126.0,
+   "tot": 60.0,
    "snelheid": 40
   },
   {
@@ -44,8 +89,23 @@
   {
    "bestand": "media/rv7/20261120_122451.mp4",
    "van": 0.0,
-   "tot": 13.0,
+   "tot": 13.28,
    "snelheid": 4
+  },
+  {
+   "bestand": "media/rv7/20261118_162141.mp4",
+   "van": 0.0,
+   "tot": 1.8
+  },
+  {
+   "bestand": "media/rv7/20261118_162134.mp4",
+   "van": 0.0,
+   "tot": 2.2
+  },
+  {
+   "bestand": "media/rv7/foto_20261118_160011.mp4",
+   "van": 0,
+   "tot": 1.0
   },
   {
    "bestand": "media/rv7/20261120_123817.mp4",
@@ -55,37 +115,37 @@
   {
    "bestand": "media/rv7/20261120_132313.mp4",
    "van": 0.0,
-   "tot": 3.6
+   "tot": 3.62
   },
   {
    "bestand": "media/rv7/20261120_132301.mp4",
    "van": 0.5,
-   "tot": 5.0
+   "tot": 6.1
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
  "hook": {
-  "tekst": "Deze week: | hout kappen",
-  "tot": 2.7
+  "tekst": "Brandhout | voor het goede doel",
+  "tot": 4.17
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 2.9,
-   "tot": 7.95,
+   "van": 4.37,
+   "tot": 10.39,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 25.97,
-   "tot": 32.32,
+   "van": 42.73,
+   "tot": 49.1,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een bericht",
-   "van": 32.57,
-   "tot": 36.82,
+   "van": 49.35,
+   "tot": 54.7,
    "stijl": "pop"
   }
  ],

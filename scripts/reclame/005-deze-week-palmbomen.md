@@ -2,7 +2,7 @@
 
 - **Soort:** reclame, formaat "Deze week heb ik…": Yelte vertelt in de ik-vorm over één klus; de kijker spreekt hij aan met "u" in de call-to-action.
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts, Facebook
-- **Lengte:** ± 30 à 35 seconden (met eindbeeld)
+- **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
 - **Beelden:** nog te bepalen (BEELDMATERIAAL, waarschijnlijk 16 of 17/11/2026). Alleen beelden van deze ene klus: voor → tijdens (normaal én versneld) → opruimen → na, met "Voor" en "Na" bovenaan (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
 - **Status:** tekst klaar om in te spreken; montage zodra de beelden binnen zijn. Zie "Wat nog ontbreekt".
@@ -10,39 +10,34 @@
 ---
 
 ## Hook
-Kies er één:
-
-1. "Deze week snoeide ik palmbomen. Zo krijgen ze weer een mooie kop."
-2. "Palmbomen snoeien in België? Ja, dat moet ook."
+"Deze week snoeide ik palmbomen. Ja, ook die moeten gesnoeid worden."
 
 > Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Deze week: | palmbomen**
 
 ## Blok 1 · Voor
 "Zo zagen ze eruit toen ik begon: veel bruine, oude bladeren."
 
-> Beeld: de palmbomen vóór het snoeien.
 > Tekst bovenaan (pop): **Voor**
 
-## Blok 2 · Tijdens
-"De oude bladeren snoei ik weg, tot net onder de groene kop."
+## Blok 2 · Leuk om te weten
+"Leuk om te weten: dit is een Chinese waaierpalm. Die kan tegen vorst. Daarom ziet u hem in zoveel Belgische tuinen."
 
-> Beeld: snoeien (normaal), daarna versneld.
+## Blok 3 · Tijdens + tip
+"De oude bladeren snoei ik weg, tot net onder de groene kop. Mijn tip: knip nooit te veel groene bladeren weg. Daarmee maakt de palm zijn voeding."
 
-## Blok 3 · Opkuisen
-"Daarna alles opkuisen. Palmbladeren zijn scherp en groot, dus die gaan meteen mee."
+## Blok 4 · Opkuisen
+"Daarna alles opkuisen. Palmbladeren zijn groot en de stelen scherp, dus die gaan meteen mee."
 
-> Beeld: opkuisen en laden (versneld).
-
-## Blok 4 · Na
+## Blok 5 · Na
 "En zo staan ze er nu bij. Fris en netjes."
 
-> Beeld: de palmbomen na het snoeien.
 > Tekst bovenaan (pop): **Na**
 
 ## Call-to-action
 "Ook palmbomen of andere bomen die een snoeibeurt nodig hebben? Stuur ons een foto voor een prijsinschatting."
 
 > Tekst bovenaan (pop): **Stuur ons een foto**
+
 > Daarna het standaard eindbeeld (4 s).
 
 ---
@@ -52,9 +47,10 @@ Alleen geluid: rustige plek binnen, telefoon op ± 20 cm van je mond, elk blok a
 Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en ik pas de tekst aan.
 - [ ] Hook (de gekozen versie)
 - [ ] Blok 1 · Voor
-- [ ] Blok 2 · Tijdens
-- [ ] Blok 3 · Opkuisen
-- [ ] Blok 4 · Na
+- [ ] Blok 2 · Leuk om te weten
+- [ ] Blok 3 · Tijdens + tip
+- [ ] Blok 4 · Opkuisen
+- [ ] Blok 5 · Na
 - [ ] Call-to-action
 
 ## Wat nog ontbreekt

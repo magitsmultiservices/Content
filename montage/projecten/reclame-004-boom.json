@@ -8,68 +8,83 @@
    "bestand": "media/rv4/IMG_1252.mp4",
    "van": 0.0,
    "tot": 2.2,
-   "snelheid": 0.65
+   "snelheid": 0.5
   },
   {
    "bestand": "media/rv4/foto_20261109_152257.mp4",
    "van": 0,
-   "tot": 4.2
+   "tot": 4.6
   },
   {
    "bestand": "media/rv4/20261109_152300.mp4",
    "van": 0.0,
    "tot": 4.2,
-   "snelheid": 0.7
+   "snelheid": 0.45
+  },
+  {
+   "bestand": "media/rv4/foto_20261109_152257_1.mp4",
+   "van": 0,
+   "tot": 6.0
   },
   {
    "bestand": "media/rv4/foto_20261109_165817.mp4",
    "van": 0,
-   "tot": 5.0
+   "tot": 1.93
+  },
+  {
+   "bestand": "media/rv4/foto_20261109_165817.mp4",
+   "van": 1.0,
+   "tot": 5.93
   },
   {
    "bestand": "media/rv4/20261116_105707.mp4",
-   "van": 2.0,
-   "tot": 5.5
+   "van": 0.0,
+   "tot": 7.9
   },
   {
    "bestand": "media/rv4/foto_20261114_102457.mp4",
    "van": 0,
-   "tot": 2.8
+   "tot": 1.0
   },
   {
    "bestand": "media/rv4/foto_20261114_111407.mp4",
    "van": 0,
-   "tot": 4.3
+   "tot": 4.6
   },
   {
    "bestand": "media/rv4/foto_20261114_102500.mp4",
    "van": 0,
-   "tot": 5.5
+   "tot": 3.0
+  },
+  {
+   "bestand": "media/rv4/foto_20261114_111409.mp4",
+   "van": 0,
+   "tot": 3.6
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-004-boom.woorden.json",
  "hook": {
   "tekst": "Deze week: | een grote boom",
-  "tot": 3.28
+  "tot": 4.3
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.48,
-   "tot": 7.43,
+   "van": 4.5,
+   "tot": 8.85,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 24.98,
-   "tot": 29.03,
+   "van": 40.19,
+   "tot": 44.54,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur ons een foto",
-   "van": 29.28,
-   "tot": 34.53,
+   "van": 44.79,
+   "tot": 51.14,
    "stijl": "pop"
   }
  ],

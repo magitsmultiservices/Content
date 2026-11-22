@@ -2,7 +2,7 @@
 
 - **Soort:** reclame, formaat "Deze week heb ik…": Yelte vertelt in de ik-vorm over één klus; de kijker spreekt hij aan met "u" in de call-to-action.
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts, Facebook
-- **Lengte:** ± 30 à 35 seconden (met eindbeeld)
+- **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
 - **Beelden:** 9/11/2026 (BEELDMATERIAAL): 20261109_152300.mp4 en foto's 20261109_152257.jpg (boom met stelling), 20261109_165817.jpg (stam met stelling). Alleen beelden van deze ene klus: voor → tijdens (normaal én versneld) → opruimen → na, met "Voor" en "Na" bovenaan (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
 - **Status:** tekst klaar om in te spreken; montage zodra de beelden binnen zijn. Zie "Wat nog ontbreekt".
@@ -10,44 +10,37 @@
 ---
 
 ## Hook
-Kies er één:
-
-1. "Deze week haalde ik deze grote boom naar beneden. Met een stelling."
-2. "Een boom van [hoogte] meter, op een plek zonder ruimte. Zo pakte ik het aan."
+"Deze week haalde ik deze grote boom naar beneden. Met een stelling."
 
 > Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Deze week: | een grote boom**
 
 ## Blok 1 · Voor
 "Dit was de boom toen ik begon. [boomsoort], zo'n [hoogte] meter hoog."
 
-> Beeld: de hele boom vóór het werk, van onderaan.
 > Tekst bovenaan (pop): **Voor**
 
 ## Blok 2 · Waarom een stelling
-"[Er was te weinig plaats] om hem in één keer te laten vallen. Daarom: een stelling, en stuk voor stuk naar beneden."
+"Waarom een stelling? [Er was te weinig plaats] om hem in één keer te laten vallen. Dus gaat hij stuk voor stuk naar beneden, van boven naar onder."
 
-> Beeld: de stelling tegen de stam.
+## Blok 3 · Tip
+"Mijn tip: vraag eerst bij uw gemeente of u een vergunning nodig hebt om een boom te vellen. Dat verschilt per gemeente."
 
-## Blok 3 · Tijdens
+## Blok 4 · Tijdens
 "Eerst alle takken eraf. Daarna de stam, stuk per stuk, veilig naar beneden."
 
-> Beeld: zagen in de boom (normaal), daarna versneld hoe de boom kleiner wordt.
+## Blok 5 · Opruimen
+"Daarna alles opruimen: takken, stamstukken en zaagsel. En het hout? Dat wordt brandhout. Daarover meer in een volgende video."
 
-## Blok 4 · Opruimen
-"Daarna alles opruimen: takken, stamstukken en zaagsel."
-
-> Beeld: opruimen, kruiwagen of aanhangwagen (versneld).
-
-## Blok 5 · Na
+## Blok 6 · Na
 "En zo ziet het er nu uit. Plaats genoeg, en alles netjes."
 
-> Beeld: de lege plek na het werk.
 > Tekst bovenaan (pop): **Na**
 
 ## Call-to-action
 "Een boom die weg moet, ook als er weinig plaats is? Stuur ons een foto voor een prijsinschatting."
 
 > Tekst bovenaan (pop): **Stuur ons een foto**
+
 > Daarna het standaard eindbeeld (4 s).
 
 ---
@@ -58,9 +51,10 @@ Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en i
 - [ ] Hook (de gekozen versie)
 - [ ] Blok 1 · Voor
 - [ ] Blok 2 · Waarom een stelling
-- [ ] Blok 3 · Tijdens
-- [ ] Blok 4 · Opruimen
-- [ ] Blok 5 · Na
+- [ ] Blok 3 · Tip
+- [ ] Blok 4 · Tijdens
+- [ ] Blok 5 · Opruimen
+- [ ] Blok 6 · Na
 - [ ] Call-to-action
 
 ## Wat nog ontbreekt
