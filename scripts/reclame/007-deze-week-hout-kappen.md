@@ -22,7 +22,7 @@ Waarom klieven? Gekliefd hout droogt veel sneller. En droog hout brandt beter: m
 
 Daarna netjes gestapeld, met lucht ertussen en onder een afdak. Zo kan het een jaar of langer drogen.
 
-Dit brandhout wordt later verkocht. De opbrengst gaat naar [goed doel].
+Dit brandhout wordt later verkocht. De opbrengst gaat naar De Warmste Week 2027.
 
 En zo ligt het er nu bij: een volle houtstapel. En er ligt nog veel klaar om te klieven.
 
@@ -57,7 +57,7 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 "Daarna netjes gestapeld, met lucht ertussen en onder een afdak. Zo kan het een jaar of langer drogen."
 
 ### Het goede doel
-"Dit brandhout wordt later verkocht. De opbrengst gaat naar [goed doel]."
+"Dit brandhout wordt later verkocht. De opbrengst gaat naar De Warmste Week 2027."
 
 ### Na
 "En zo ligt het er nu bij: een volle houtstapel. En er ligt nog veel klaar om te klieven."
@@ -71,14 +71,14 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 ---
 
 ## Wat nog ontbreekt
-- **[goed doel]:** welk goed doel, en hoe kunnen mensen het brandhout kopen? Pas dan kan het in de tekst en de caption.
+- **De Warmste Week 2027:** welk goed doel, en hoe kunnen mensen het brandhout kopen? Pas dan kan het in de tekst en de caption.
 - Klopt "onder een afdak" en "een jaar of langer drogen" voor jouw stapel?
 - Een beeld van de plaats als alles opgeruimd is (komt nog, er ligt nog veel klaar om te klieven).
 
 ## Caption
 > Vandaag heb ik een hele stapel brandhout gekliefd, van de grote boom die ik met een stelling naar beneden haalde.
 > Tip: mik op de barsten die al in het hout zitten. Gekliefd hout droogt sneller, en droog hout brandt beter, met minder rook en roet.
-> Het brandhout wordt later verkocht ten voordele van [goed doel].
+> Het brandhout wordt later verkocht ten voordele van De Warmste Week 2027.
 > Ook een boom of hout dat weg moet in Antwerpen, Mechelen of omstreken? Ook dat kan u aan ons vragen.
 >
 > #brandhout #goeddoel #tuinonderhoud #antwerpen #mechelen

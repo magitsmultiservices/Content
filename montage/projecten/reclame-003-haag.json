@@ -1,13 +1,14 @@
 {
- "titel": "Reclamevideo 3 · Vandaag: beukenhaag (voorbeeld)",
- "uitvoer": "output/reclame-003-voorbeeld.mp4",
+ "titel": "Reclamevideo 3 · Vandaag: beukenhaag",
+ "uitvoer": "output/reclame-003.mp4",
  "overgang": 0.2,
  "geluid": false,
+ "stem": "media/vo3/stem.wav",
  "clips": [
   {
    "bestand": "media/rv3/20261110_100151.mp4",
    "van": 1.0,
-   "tot": 4.27
+   "tot": 3.73
   },
   {
    "bestand": "media/rv3/20261110_100139.mp4",
@@ -17,7 +18,7 @@
   {
    "bestand": "media/rv3/20261110_095203.mp4",
    "van": 0.5,
-   "tot": 1.8
+   "tot": 1.3
   },
   {
    "bestand": "media/rv3/20261110_101809.mp4",
@@ -27,7 +28,7 @@
   {
    "bestand": "media/rv3/20261110_100151.mp4",
    "van": 6.0,
-   "tot": 7.83
+   "tot": 7.53
   },
   {
    "bestand": "media/rv3/20261110_091931.mp4",
@@ -42,25 +43,25 @@
   {
    "bestand": "media/rv3/20261110_101408.mp4",
    "van": 50.0,
-   "tot": 182.0,
+   "tot": 153.05,
    "snelheid": 45
   },
   {
    "bestand": "media/rv3/20261110_104154.mp4",
    "van": 0.0,
    "tot": 198.0,
-   "snelheid": 40
+   "snelheid": 60
   },
   {
    "bestand": "media/rv3/20261110_124330.mp4",
    "van": 4.0,
    "tot": 52.0,
-   "snelheid": 16
+   "snelheid": 24
   },
   {
    "bestand": "media/rv3/20261110_125754.mp4",
    "van": 5.0,
-   "tot": 7.5
+   "tot": 5.8
   },
   {
    "bestand": "media/rv3/20261110_104523.mp4",
@@ -70,37 +71,37 @@
   {
    "bestand": "media/rv3/20261110_104538.mp4",
    "van": 0.5,
-   "tot": 1.97
+   "tot": 1.3
   },
   {
    "bestand": "media/rv3/20261110_104531.mp4",
    "van": 0.2,
-   "tot": 5.47
+   "tot": 4.29
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-003-haag.woorden.json",
  "hook": {
   "tekst": "Vandaag: | een beukenhaag",
-  "tot": 3.17
+  "tot": 2.68
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.37,
-   "tot": 7.72,
+   "van": 2.83,
+   "tot": 6.68,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 37.28,
-   "tot": 42.3,
+   "van": 30.95,
+   "tot": 35.3,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 42.55,
-   "tot": 47.57,
+   "van": 35.55,
+   "tot": 39.39,
    "stijl": "pop"
   }
  ],

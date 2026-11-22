@@ -1,18 +1,19 @@
 {
- "titel": "Reclamevideo 6 · Vandaag: klimop (voorbeeld)",
- "uitvoer": "output/reclame-006-voorbeeld.mp4",
+ "titel": "Reclamevideo 6 · Vandaag: klimop",
+ "uitvoer": "output/reclame-006.mp4",
  "overgang": 0.2,
  "geluid": false,
+ "stem": "media/vo6/stem.wav",
  "clips": [
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 0.3,
-   "tot": 4.23
+   "tot": 3.97
   },
   {
    "bestand": "media/rv6/20261117_113436.mp4",
    "van": 0.5,
-   "tot": 4.77
+   "tot": 4.15
   },
   {
    "bestand": "media/rv6/20261117_113746.mp4",
@@ -28,6 +29,11 @@
   {
    "bestand": "media/rv6/20261117_113746.mp4",
    "van": 6.0,
+   "tot": 15.36
+  },
+  {
+   "bestand": "media/rv6/20261117_113746.mp4",
+   "van": 20.0,
    "tot": 60.0,
    "snelheid": 12
   },
@@ -39,7 +45,8 @@
   {
    "bestand": "media/rv6/20261117_121004.mp4",
    "van": 0.0,
-   "tot": 1.48
+   "tot": 3.62,
+   "snelheid": 0.809
   },
   {
    "bestand": "media/rv6/20261117_121033.mp4",
@@ -56,43 +63,43 @@
   {
    "bestand": "media/rv6/20261117_124937.mp4",
    "van": 0.0,
-   "tot": 110.0,
+   "tot": 20.0,
    "snelheid": 25
   },
   {
    "bestand": "media/rv6/20261117_123221.mp4",
    "van": 0.0,
-   "tot": 4.27
+   "tot": 2.77
   },
   {
    "bestand": "media/rv6/20261117_121125.mp4",
    "van": 0.0,
-   "tot": 4.6
+   "tot": 3.99
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-006-klimop.woorden.json",
  "hook": {
   "tekst": "Vandaag: | klimop weg",
-  "tot": 3.83
+  "tot": 3.62
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 4.03,
-   "tot": 8.05,
+   "van": 3.77,
+   "tot": 7.17,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 39.28,
-   "tot": 43.3,
+   "van": 45.98,
+   "tot": 48.5,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 43.55,
-   "tot": 47.9,
+   "van": 48.75,
+   "tot": 52.49,
    "stijl": "pop"
   }
  ],

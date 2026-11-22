@@ -1,13 +1,14 @@
 {
- "titel": "Reclamevideo 5 · Vandaag: palmbomen (voorbeeld)",
- "uitvoer": "output/reclame-005-voorbeeld.mp4",
+ "titel": "Reclamevideo 5 · Vandaag: palmbomen",
+ "uitvoer": "output/reclame-005.mp4",
  "overgang": 0.2,
  "geluid": false,
+ "stem": "media/vo5/stem.wav",
  "clips": [
   {
    "bestand": "media/rv5/20261116_143134.mp4",
    "van": 0.0,
-   "tot": 4.27
+   "tot": 4.79
   },
   {
    "bestand": "media/rv5/20261116_130245.mp4",
@@ -17,12 +18,12 @@
   {
    "bestand": "media/rv5/20261116_133446.mp4",
    "van": 0.0,
-   "tot": 1.67
+   "tot": 1.01
   },
   {
    "bestand": "media/rv5/20261116_135117.mp4",
    "van": 0.0,
-   "tot": 7.6
+   "tot": 9.57
   },
   {
    "bestand": "media/rv5/20261116_134218.mp4",
@@ -30,15 +31,15 @@
    "tot": 5.0
   },
   {
-   "bestand": "media/rv5/20261116_130245.mp4",
-   "van": 3.0,
-   "tot": 250.0,
-   "snelheid": 45
-  },
-  {
    "bestand": "media/rv5/20261116_134107.mp4",
    "van": 0.0,
    "tot": 1.6
+  },
+  {
+   "bestand": "media/rv5/20261116_130245.mp4",
+   "van": 3.0,
+   "tot": 253.94,
+   "snelheid": 35.746
   },
   {
    "bestand": "media/rv5/20261116_130834.mp4",
@@ -54,7 +55,7 @@
   {
    "bestand": "media/rv5/20261116_144243.mp4",
    "van": 0.0,
-   "tot": 1.0
+   "tot": 2.73
   },
   {
    "bestand": "media/rv5/20261116_130827.mp4",
@@ -64,7 +65,7 @@
   {
    "bestand": "media/rv5/20261116_144228.mp4",
    "van": 0.0,
-   "tot": 2.27
+   "tot": 1.23
   },
   {
    "bestand": "media/rv5/20261116_144236.mp4",
@@ -74,32 +75,32 @@
   {
    "bestand": "media/rv5/foto_20261116_130844.mp4",
    "van": 0,
-   "tot": 2.63
+   "tot": 1.15
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-005-palmbomen.woorden.json",
  "hook": {
   "tekst": "Vandaag: | palmbomen",
-  "tot": 4.17
+  "tot": 4.74
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 4.37,
-   "tot": 8.39,
+   "van": 4.89,
+   "tot": 8.25,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 33.63,
-   "tot": 37.31,
+   "van": 38.72,
+   "tot": 41.36,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 37.56,
-   "tot": 43.24,
+   "van": 41.61,
+   "tot": 45.81,
    "stijl": "pop"
   }
  ],

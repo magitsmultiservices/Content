@@ -1,8 +1,9 @@
 {
- "titel": "Reclamevideo 4 · Vandaag: grote boom (voorbeeld)",
- "uitvoer": "output/reclame-004-voorbeeld.mp4",
+ "titel": "Reclamevideo 4 · Vandaag: grote boom",
+ "uitvoer": "output/reclame-004.mp4",
  "overgang": 0.2,
  "geluid": false,
+ "stem": "media/vo4/stem.wav",
  "clips": [
   {
    "bestand": "media/rv4/IMG_1252.mp4",
@@ -13,7 +14,8 @@
   {
    "bestand": "media/rv4/foto_20261109_152257.mp4",
    "van": 0,
-   "tot": 4.6
+   "tot": 5.95,
+   "snelheid": 0.821
   },
   {
    "bestand": "media/rv4/20261109_152300.mp4",
@@ -22,9 +24,15 @@
    "snelheid": 0.45
   },
   {
+   "bestand": "media/rv4/foto_20261109_152257_1.mp4",
+   "van": 0,
+   "tot": 3.06
+  },
+  {
    "bestand": "media/rv4/foto_20261109_165817.mp4",
    "van": 1.0,
-   "tot": 5.93
+   "tot": 5.95,
+   "snelheid": 0.941
   },
   {
    "bestand": "media/rv4/20261116_105707.mp4",
@@ -34,12 +42,12 @@
   {
    "bestand": "media/rv4/foto_20261114_102457.mp4",
    "van": 0,
-   "tot": 1.0
+   "tot": 0.8
   },
   {
    "bestand": "media/rv4/foto_20261114_111407.mp4",
    "van": 0,
-   "tot": 4.6
+   "tot": 3.67
   },
   {
    "bestand": "media/rv4/foto_20261114_102500.mp4",
@@ -49,32 +57,32 @@
   {
    "bestand": "media/rv4/foto_20261114_111409.mp4",
    "van": 0,
-   "tot": 3.6
+   "tot": 1.79
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-004-boom.woorden.json",
  "hook": {
   "tekst": "Vandaag: | een grote boom",
-  "tot": 4.3
+  "tot": 4.35
  },
  "teksten": [
   {
    "tekst": "Voor",
    "van": 4.5,
-   "tot": 8.85,
+   "tot": 11.5,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 32.26,
-   "tot": 36.61,
+   "van": 38.1,
+   "tot": 41.52,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 36.86,
-   "tot": 43.21,
+   "van": 41.77,
+   "tot": 46.31,
    "stijl": "pop"
   }
  ],

@@ -2,556 +2,691 @@
  {
   "w": "Vandaag",
   "start": 0.2,
-  "eind": 0.5
+  "eind": 0.94
  },
  {
   "w": "heb",
-  "start": 0.53,
-  "eind": 0.84
+  "start": 0.94,
+  "eind": 1.1
  },
  {
   "w": "ik",
-  "start": 0.87,
-  "eind": 1.17
+  "start": 1.1,
+  "eind": 1.2
  },
  {
   "w": "palmbomen",
   "start": 1.2,
-  "eind": 1.5
+  "eind": 1.74
  },
  {
   "w": "gesnoeid.",
-  "start": 1.53,
-  "eind": 1.84
+  "start": 1.74,
+  "eind": 2.66
  },
  {
   "w": "Ja,",
-  "start": 1.87,
-  "eind": 2.17
+  "start": 2.9,
+  "eind": 3.04
  },
  {
   "w": "ook",
-  "start": 2.2,
-  "eind": 2.5
+  "start": 3.2,
+  "eind": 3.34
  },
  {
   "w": "die",
-  "start": 2.53,
-  "eind": 2.84
+  "start": 3.34,
+  "eind": 3.46
  },
  {
   "w": "moeten",
-  "start": 2.87,
-  "eind": 3.17
+  "start": 3.46,
+  "eind": 3.62
  },
  {
   "w": "gesnoeid",
-  "start": 3.2,
-  "eind": 3.5
+  "start": 3.62,
+  "eind": 4.04
  },
  {
   "w": "worden.",
-  "start": 3.53,
-  "eind": 3.84
+  "start": 4.04,
+  "eind": 4.52
  },
  {
   "w": "Zo",
-  "start": 4.47,
-  "eind": 4.77
+  "start": 4.99,
+  "eind": 5.09
  },
  {
-  "w": "zagen",
-  "start": 4.8,
-  "eind": 5.11
+  "w": "zag",
+  "start": 5.09,
+  "eind": 5.21
  },
  {
   "w": "ze",
-  "start": 5.14,
-  "eind": 5.44
+  "start": 5.21,
+  "eind": 5.35
  },
  {
   "w": "eruit",
-  "start": 5.47,
-  "eind": 5.77
+  "start": 5.35,
+  "eind": 5.59
  },
  {
   "w": "toen",
-  "start": 5.8,
-  "eind": 6.11
+  "start": 5.59,
+  "eind": 5.71
  },
  {
   "w": "ik",
-  "start": 6.14,
-  "eind": 6.44
+  "start": 5.71,
+  "eind": 5.85
  },
  {
-  "w": "begon:",
-  "start": 6.47,
-  "eind": 6.77
+  "w": "begon.",
+  "start": 5.85,
+  "eind": 6.21
  },
  {
-  "w": "veel",
-  "start": 6.8,
-  "eind": 7.11
+  "w": "Veel",
+  "start": 6.41,
+  "eind": 6.71
  },
  {
   "w": "bruine,",
-  "start": 7.14,
-  "eind": 7.44
+  "start": 6.71,
+  "eind": 7.17
  },
  {
   "w": "oude",
-  "start": 7.47,
-  "eind": 7.77
+  "start": 7.29,
+  "eind": 7.55
  },
  {
   "w": "bladeren.",
-  "start": 7.8,
-  "eind": 8.11
+  "start": 7.55,
+  "eind": 8.13
  },
  {
   "w": "Leuk",
-  "start": 8.74,
-  "eind": 9.04
+  "start": 8.6,
+  "eind": 8.86
  },
  {
   "w": "om",
-  "start": 9.07,
+  "start": 8.86,
+  "eind": 8.98
+ },
+ {
+  "w": "te",
+  "start": 8.98,
+  "eind": 9.16
+ },
+ {
+  "w": "weten,",
+  "start": 9.16,
   "eind": 9.38
  },
  {
-  "w": "te",
-  "start": 9.41,
-  "eind": 9.71
- },
- {
-  "w": "weten:",
-  "start": 9.74,
-  "eind": 10.04
- },
- {
   "w": "dit",
-  "start": 10.07,
-  "eind": 10.38
+  "start": 9.48,
+  "eind": 9.68
  },
  {
   "w": "is",
-  "start": 10.41,
-  "eind": 10.71
+  "start": 9.68,
+  "eind": 9.84
  },
  {
   "w": "een",
-  "start": 10.74,
-  "eind": 11.04
+  "start": 9.84,
+  "eind": 9.94
  },
  {
   "w": "Chinese",
-  "start": 11.07,
-  "eind": 11.38
+  "start": 9.94,
+  "eind": 10.34
  },
  {
   "w": "waaierpalm.",
-  "start": 11.41,
-  "eind": 11.71
+  "start": 10.34,
+  "eind": 11.28
  },
  {
   "w": "Die",
-  "start": 11.74,
-  "eind": 12.04
+  "start": 11.5,
+  "eind": 11.62
  },
  {
   "w": "kan",
-  "start": 12.07,
-  "eind": 12.38
+  "start": 11.62,
+  "eind": 11.88
  },
  {
   "w": "tegen",
-  "start": 12.41,
-  "eind": 12.71
+  "start": 11.88,
+  "eind": 12.12
  },
  {
   "w": "vorst.",
-  "start": 12.74,
-  "eind": 13.04
+  "start": 12.12,
+  "eind": 12.54
  },
  {
   "w": "Daarom",
-  "start": 13.07,
-  "eind": 13.38
+  "start": 12.62,
+  "eind": 12.94
  },
  {
   "w": "ziet",
-  "start": 13.41,
-  "eind": 13.71
+  "start": 12.94,
+  "eind": 13.08
  },
  {
   "w": "u",
-  "start": 13.74,
-  "eind": 14.04
+  "start": 13.08,
+  "eind": 13.2
  },
  {
   "w": "hem",
-  "start": 14.07,
-  "eind": 14.38
+  "start": 13.2,
+  "eind": 13.34
  },
  {
   "w": "in",
-  "start": 14.41,
-  "eind": 14.71
+  "start": 13.34,
+  "eind": 13.56
  },
  {
   "w": "zoveel",
-  "start": 14.74,
-  "eind": 15.04
+  "start": 13.56,
+  "eind": 13.98
  },
  {
   "w": "Belgische",
-  "start": 15.07,
-  "eind": 15.38
+  "start": 13.98,
+  "eind": 14.36
  },
  {
-  "w": "tuinen.",
-  "start": 15.41,
-  "eind": 15.71
+  "w": "tuinen,",
+  "start": 14.36,
+  "eind": 14.8
+ },
+ {
+  "w": "aangezien",
+  "start": 14.9,
+  "eind": 15.18
+ },
+ {
+  "w": "deze",
+  "start": 15.18,
+  "eind": 15.44
+ },
+ {
+  "w": "in",
+  "start": 15.44,
+  "eind": 15.66
+ },
+ {
+  "w": "de",
+  "start": 15.66,
+  "eind": 15.78
+ },
+ {
+  "w": "winter",
+  "start": 15.78,
+  "eind": 16.16
+ },
+ {
+  "w": "ook",
+  "start": 16.16,
+  "eind": 16.56
+ },
+ {
+  "w": "groene",
+  "start": 16.56,
+  "eind": 16.86
+ },
+ {
+  "w": "bladeren",
+  "start": 16.86,
+  "eind": 17.22
+ },
+ {
+  "w": "draagt.",
+  "start": 17.22,
+  "eind": 17.7
  },
  {
   "w": "De",
-  "start": 16.34,
-  "eind": 16.64
- },
- {
-  "w": "oude",
-  "start": 16.67,
-  "eind": 16.98
- },
- {
-  "w": "bladeren",
-  "start": 17.01,
-  "eind": 17.31
- },
- {
-  "w": "snoei",
-  "start": 17.34,
-  "eind": 17.64
- },
- {
-  "w": "ik",
-  "start": 17.67,
-  "eind": 17.98
- },
- {
-  "w": "weg,",
-  "start": 18.01,
+  "start": 18.17,
   "eind": 18.31
  },
  {
-  "w": "tot",
-  "start": 18.34,
-  "eind": 18.64
- },
- {
-  "w": "net",
-  "start": 18.67,
-  "eind": 18.98
- },
- {
-  "w": "onder",
-  "start": 19.01,
-  "eind": 19.31
- },
- {
-  "w": "de",
-  "start": 19.34,
-  "eind": 19.64
- },
- {
-  "w": "groene",
-  "start": 19.67,
-  "eind": 19.98
- },
- {
-  "w": "kop.",
-  "start": 20.01,
-  "eind": 20.31
- },
- {
-  "w": "Mijn",
-  "start": 20.34,
-  "eind": 20.64
- },
- {
-  "w": "tip:",
-  "start": 20.67,
-  "eind": 20.98
- },
- {
-  "w": "knip",
-  "start": 21.01,
-  "eind": 21.31
- },
- {
-  "w": "nooit",
-  "start": 21.34,
-  "eind": 21.64
- },
- {
-  "w": "te",
-  "start": 21.67,
-  "eind": 21.98
- },
- {
-  "w": "veel",
-  "start": 22.01,
-  "eind": 22.31
- },
- {
-  "w": "groene",
-  "start": 22.34,
-  "eind": 22.64
+  "w": "oude",
+  "start": 18.31,
+  "eind": 18.65
  },
  {
   "w": "bladeren",
-  "start": 22.67,
-  "eind": 22.98
+  "start": 18.65,
+  "eind": 19.11
+ },
+ {
+  "w": "die",
+  "start": 19.11,
+  "eind": 19.35
+ },
+ {
+  "w": "snoei ik",
+  "start": 19.35,
+  "eind": 19.65
  },
  {
   "w": "weg.",
-  "start": 23.01,
-  "eind": 23.31
+  "start": 19.65,
+  "eind": 20.25
  },
  {
-  "w": "Daarmee",
-  "start": 23.34,
-  "eind": 23.64
+  "w": "Tot",
+  "start": 20.57,
+  "eind": 20.65
  },
  {
-  "w": "maakt",
-  "start": 23.67,
-  "eind": 23.98
+  "w": "net",
+  "start": 20.65,
+  "eind": 20.87
+ },
+ {
+  "w": "onder",
+  "start": 20.87,
+  "eind": 21.11
  },
  {
   "w": "de",
-  "start": 24.01,
+  "start": 21.11,
+  "eind": 21.27
+ },
+ {
+  "w": "groene",
+  "start": 21.27,
+  "eind": 21.59
+ },
+ {
+  "w": "kop.",
+  "start": 21.59,
+  "eind": 21.85
+ },
+ {
+  "w": "Mijn",
+  "start": 22.87,
+  "eind": 23.07
+ },
+ {
+  "w": "tip?",
+  "start": 23.07,
+  "eind": 23.57
+ },
+ {
+  "w": "Knip",
+  "start": 24.15,
   "eind": 24.31
  },
  {
-  "w": "palm",
-  "start": 24.34,
-  "eind": 24.64
+  "w": "nooit",
+  "start": 24.31,
+  "eind": 24.51
  },
  {
-  "w": "zijn",
-  "start": 24.67,
-  "eind": 24.98
+  "w": "te",
+  "start": 24.51,
+  "eind": 24.73
  },
  {
-  "w": "voeding.",
-  "start": 25.01,
-  "eind": 25.31
+  "w": "veel",
+  "start": 24.73,
+  "eind": 24.89
  },
  {
-  "w": "Daarna",
-  "start": 27.43,
-  "eind": 27.73
+  "w": "groene",
+  "start": 24.89,
+  "eind": 25.19
  },
  {
-  "w": "alles",
-  "start": 27.76,
-  "eind": 28.07
+  "w": "bladeren",
+  "start": 25.19,
+  "eind": 25.55
  },
  {
-  "w": "opkuisen.",
-  "start": 28.1,
-  "eind": 28.4
+  "w": "weg.",
+  "start": 25.55,
+  "eind": 25.81
  },
  {
-  "w": "Palmbladeren",
-  "start": 28.43,
-  "eind": 28.73
+  "w": "Daarmee",
+  "start": 26.07,
+  "eind": 26.31
  },
  {
-  "w": "zijn",
-  "start": 28.76,
-  "eind": 29.07
- },
- {
-  "w": "groot",
-  "start": 29.1,
-  "eind": 29.4
- },
- {
-  "w": "en",
-  "start": 29.43,
-  "eind": 29.73
+  "w": "maakt",
+  "start": 26.31,
+  "eind": 26.55
  },
  {
   "w": "de",
-  "start": 29.76,
-  "eind": 30.07
+  "start": 26.55,
+  "eind": 26.75
  },
  {
-  "w": "stelen",
-  "start": 30.1,
-  "eind": 30.4
+  "w": "palm",
+  "start": 26.75,
+  "eind": 26.89
  },
  {
-  "w": "scherp,",
-  "start": 30.43,
-  "eind": 30.73
+  "w": "zijn",
+  "start": 26.89,
+  "eind": 27.13
  },
  {
-  "w": "dus",
-  "start": 30.76,
-  "eind": 31.07
- },
- {
-  "w": "die",
-  "start": 31.1,
-  "eind": 31.4
- },
- {
-  "w": "gaan",
-  "start": 31.43,
-  "eind": 31.73
- },
- {
-  "w": "meteen",
-  "start": 31.76,
-  "eind": 32.07
- },
- {
-  "w": "mee.",
-  "start": 32.1,
-  "eind": 32.4
- },
- {
-  "w": "En",
-  "start": 33.73,
-  "eind": 34.03
- },
- {
-  "w": "zo",
-  "start": 34.06,
-  "eind": 34.37
- },
- {
-  "w": "staan",
-  "start": 34.4,
-  "eind": 34.7
- },
- {
-  "w": "ze",
-  "start": 34.73,
-  "eind": 35.03
- },
- {
-  "w": "er",
-  "start": 35.06,
-  "eind": 35.37
- },
- {
-  "w": "nu",
-  "start": 35.4,
-  "eind": 35.7
- },
- {
-  "w": "bij.",
-  "start": 35.73,
-  "eind": 36.03
- },
- {
-  "w": "Fris",
-  "start": 36.06,
-  "eind": 36.37
+  "w": "voeding",
+  "start": 27.13,
+  "eind": 27.55
  },
  {
   "w": "en",
-  "start": 36.4,
-  "eind": 36.7
+  "start": 27.55,
+  "eind": 28.13
  },
  {
-  "w": "netjes.",
-  "start": 36.73,
-  "eind": 37.03
+  "w": "daardoor",
+  "start": 28.13,
+  "eind": 28.57
  },
  {
-  "w": "Palmbomen",
-  "start": 37.66,
-  "eind": 37.96
+  "w": "heeft",
+  "start": 28.57,
+  "eind": 28.77
  },
  {
-  "w": "of",
-  "start": 37.99,
-  "eind": 38.3
+  "w": "deze",
+  "start": 28.77,
+  "eind": 28.97
  },
  {
-  "w": "andere",
-  "start": 38.33,
-  "eind": 38.63
- },
- {
-  "w": "bomen",
-  "start": 38.66,
-  "eind": 38.96
- },
- {
-  "w": "die",
-  "start": 38.99,
-  "eind": 39.3
+  "w": "ook",
+  "start": 28.97,
+  "eind": 29.17
  },
  {
   "w": "een",
-  "start": 39.33,
-  "eind": 39.63
+  "start": 29.17,
+  "eind": 29.31
+ },
+ {
+  "w": "mooie",
+  "start": 29.31,
+  "eind": 29.53
+ },
+ {
+  "w": "kruin.",
+  "start": 29.53,
+  "eind": 30.27
+ },
+ {
+  "w": "Daarna",
+  "start": 30.79,
+  "eind": 30.87
+ },
+ {
+  "w": "is",
+  "start": 30.87,
+  "eind": 31.03
+ },
+ {
+  "w": "het",
+  "start": 31.03,
+  "eind": 31.13
+ },
+ {
+  "w": "tijd",
+  "start": 31.13,
+  "eind": 31.27
+ },
+ {
+  "w": "om",
+  "start": 31.27,
+  "eind": 31.43
+ },
+ {
+  "w": "alles",
+  "start": 31.43,
+  "eind": 31.57
+ },
+ {
+  "w": "op",
+  "start": 31.57,
+  "eind": 31.71
+ },
+ {
+  "w": "te",
+  "start": 31.71,
+  "eind": 31.87
+ },
+ {
+  "w": "kuisen.",
+  "start": 31.87,
+  "eind": 32.21
+ },
+ {
+  "w": "De",
+  "start": 32.59,
+  "eind": 32.77
+ },
+ {
+  "w": "palmbladeren",
+  "start": 32.77,
+  "eind": 33.41
+ },
+ {
+  "w": "zijn",
+  "start": 33.41,
+  "eind": 33.73
+ },
+ {
+  "w": "groot",
+  "start": 33.73,
+  "eind": 34.09
+ },
+ {
+  "w": "en",
+  "start": 34.09,
+  "eind": 34.91
+ },
+ {
+  "w": "de",
+  "start": 34.91,
+  "eind": 35.13
+ },
+ {
+  "w": "stelen",
+  "start": 35.13,
+  "eind": 35.33
+ },
+ {
+  "w": "zijn",
+  "start": 35.33,
+  "eind": 35.61
+ },
+ {
+  "w": "scherp.",
+  "start": 35.61,
+  "eind": 36.41
+ },
+ {
+  "w": "Dus",
+  "start": 36.69,
+  "eind": 36.77
+ },
+ {
+  "w": "die",
+  "start": 36.77,
+  "eind": 36.93
+ },
+ {
+  "w": "gaan",
+  "start": 36.93,
+  "eind": 37.09
+ },
+ {
+  "w": "mee",
+  "start": 37.09,
+  "eind": 37.33
+ },
+ {
+  "w": "naar",
+  "start": 37.33,
+  "eind": 37.51
+ },
+ {
+  "w": "het",
+  "start": 37.51,
+  "eind": 37.71
+ },
+ {
+  "w": "containerpark.",
+  "start": 37.71,
+  "eind": 38.35
+ },
+ {
+  "w": "En",
+  "start": 38.82,
+  "eind": 38.92
+ },
+ {
+  "w": "zo",
+  "start": 38.92,
+  "eind": 39.04
+ },
+ {
+  "w": "staan",
+  "start": 39.04,
+  "eind": 39.26
+ },
+ {
+  "w": "ze",
+  "start": 39.26,
+  "eind": 39.38
+ },
+ {
+  "w": "er",
+  "start": 39.38,
+  "eind": 39.56
+ },
+ {
+  "w": "nu",
+  "start": 39.56,
+  "eind": 39.74
+ },
+ {
+  "w": "bij.",
+  "start": 39.74,
+  "eind": 40.02
+ },
+ {
+  "w": "Fris",
+  "start": 40.22,
+  "eind": 40.38
+ },
+ {
+  "w": "en",
+  "start": 40.38,
+  "eind": 40.56
+ },
+ {
+  "w": "netjes.",
+  "start": 40.56,
+  "eind": 41.24
+ },
+ {
+  "w": "Palmbomen",
+  "start": 41.71,
+  "eind": 42.13
+ },
+ {
+  "w": "of",
+  "start": 42.13,
+  "eind": 42.35
+ },
+ {
+  "w": "andere",
+  "start": 42.35,
+  "eind": 42.59
+ },
+ {
+  "w": "bomen",
+  "start": 42.59,
+  "eind": 42.85
+ },
+ {
+  "w": "die",
+  "start": 42.85,
+  "eind": 42.99
+ },
+ {
+  "w": "een",
+  "start": 42.99,
+  "eind": 43.07
  },
  {
   "w": "snoeibeurt",
-  "start": 39.66,
-  "eind": 39.96
+  "start": 43.07,
+  "eind": 43.39
  },
  {
   "w": "nodig",
-  "start": 39.99,
-  "eind": 40.3
+  "start": 43.39,
+  "eind": 43.71
  },
  {
   "w": "hebben?",
-  "start": 40.33,
-  "eind": 40.63
+  "start": 43.71,
+  "eind": 44.11
  },
  {
   "w": "Ook",
-  "start": 40.66,
-  "eind": 40.96
+  "start": 44.57,
+  "eind": 44.57
  },
  {
   "w": "dat",
-  "start": 40.99,
-  "eind": 41.3
+  "start": 44.57,
+  "eind": 44.75
  },
  {
   "w": "kan",
-  "start": 41.33,
-  "eind": 41.63
+  "start": 44.75,
+  "eind": 44.93
  },
  {
   "w": "u",
-  "start": 41.66,
-  "eind": 41.96
+  "start": 44.93,
+  "eind": 45.05
  },
  {
   "w": "aan",
-  "start": 41.99,
-  "eind": 42.3
+  "start": 45.05,
+  "eind": 45.15
  },
  {
   "w": "ons",
-  "start": 42.33,
-  "eind": 42.63
+  "start": 45.15,
+  "eind": 45.29
  },
  {
   "w": "vragen.",
-  "start": 42.66,
-  "eind": 42.96
+  "start": 45.29,
+  "eind": 45.69
  }
 ]

@@ -14,9 +14,9 @@
 
 Vandaag heb ik deze grote boom naar beneden gehaald. Met een stelling.
 
-Dit was de boom toen ik begon. [boomsoort], zo'n [hoogte] meter hoog.
+Dit was de boom toen ik begon. Een spar, zo'n 25 meter hoog.
 
-Waarom een stelling? [Er was te weinig plaats] om hem in één keer te laten vallen. Dus gaat hij stuk voor stuk naar beneden, van boven naar onder.
+Waarom een stelling? Er was te weinig plaats om hem in één keer te laten vallen. Dus gaat hij stuk voor stuk naar beneden, van boven naar onder.
 
 Eerst alle takken eraf. Daarna de stam, stuk per stuk, veilig naar beneden.
 
@@ -41,11 +41,11 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 > Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Vandaag: | een grote boom**
 
 ### Voor
-"Dit was de boom toen ik begon. [boomsoort], zo'n [hoogte] meter hoog."
+"Dit was de boom toen ik begon. Een spar, zo'n 25 meter hoog."
 > Tekst bovenaan (pop): **Voor**
 
 ### Waarom een stelling
-"Waarom een stelling? [Er was te weinig plaats] om hem in één keer te laten vallen. Dus gaat hij stuk voor stuk naar beneden, van boven naar onder."
+"Waarom een stelling? Er was te weinig plaats om hem in één keer te laten vallen. Dus gaat hij stuk voor stuk naar beneden, van boven naar onder."
 
 ### Tijdens
 "Eerst alle takken eraf. Daarna de stam, stuk per stuk, veilig naar beneden."
@@ -75,7 +75,7 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 - Na afloop, bij de stronk: "Klaar. [x] uur werk, en alles is opgeruimd." (alleen als het klopt).
 
 ## Caption
-> Vandaag haalde ik een grote boom naar beneden, stuk voor stuk vanaf een stelling, omdat [er te weinig plaats was] om hem te laten vallen. Daarna alles opgeruimd.
+> Vandaag haalde ik een grote boom naar beneden, stuk voor stuk vanaf een stelling, omdat er te weinig plaats was om hem te laten vallen. Daarna alles opgeruimd.
 > Ook een boom die weg moet in Antwerpen, Mechelen of omstreken? Ook dat kan u aan ons vragen.
 > Tuin en rommel in één keer geregeld.
 >
