@@ -16,7 +16,7 @@ Vandaag heb ik klimop van bomen getrokken. In de regen.
 
 Zo zagen de bomen eruit: de stammen helemaal ingepakt door klimop.
 
-Leuk om te weten: klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit.
+klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit.
 
 Dus: losknippen, lostrekken, stam per stam. Mijn tip: knip de klimop onderaan de stam door. Wat erboven groeit, sterft dan vanzelf af.
 
@@ -47,7 +47,7 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 > Tekst bovenaan (pop): **Voor**
 
 ### Waarom (leuk om te weten)
-"Leuk om te weten: klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit."
+"Klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit."
 
 ### Tijdens + tip
 "Dus: losknippen, lostrekken, stam per stam. Mijn tip: knip de klimop onderaan de stam door. Wat erboven groeit, sterft dan vanzelf af."

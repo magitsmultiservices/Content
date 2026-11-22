@@ -16,7 +16,7 @@ Vandaag heb ik palmbomen gesnoeid. Ja, ook die moeten gesnoeid worden.
 
 Zo zagen ze eruit toen ik begon: veel bruine, oude bladeren.
 
-Leuk om te weten: dit is een Chinese waaierpalm. Die kan tegen vorst. Daarom ziet u hem in zoveel Belgische tuinen.
+dit is een Chinese waaierpalm. Die kan tegen vorst. Daarom ziet u hem in zoveel Belgische tuinen.
 
 De oude bladeren snoei ik weg, tot net onder de groene kop. Mijn tip: knip nooit te veel groene bladeren weg. Daarmee maakt de palm zijn voeding.
 
@@ -45,7 +45,7 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 > Tekst bovenaan (pop): **Voor**
 
 ### Leuk om te weten
-"Leuk om te weten: dit is een Chinese waaierpalm. Die kan tegen vorst. Daarom ziet u hem in zoveel Belgische tuinen."
+"Dit is een Chinese waaierpalm. Die kan tegen vorst. Daarom ziet u hem in zoveel Belgische tuinen."
 
 ### Tijdens + tip
 "De oude bladeren snoei ik weg, tot net onder de groene kop. Mijn tip: knip nooit te veel groene bladeren weg. Daarmee maakt de palm zijn voeding."

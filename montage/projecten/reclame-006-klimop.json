@@ -29,7 +29,7 @@
   {
    "bestand": "media/rv6/20261117_113746.mp4",
    "van": 6.0,
-   "tot": 15.36
+   "tot": 14.6
   },
   {
    "bestand": "media/rv6/20261117_113746.mp4",
@@ -92,14 +92,14 @@
   },
   {
    "tekst": "Na",
-   "van": 45.98,
-   "tot": 48.5,
+   "van": 45.22,
+   "tot": 47.74,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 48.75,
-   "tot": 52.49,
+   "van": 47.99,
+   "tot": 51.73,
    "stijl": "pop"
   }
  ],

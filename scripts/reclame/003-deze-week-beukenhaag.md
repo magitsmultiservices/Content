@@ -19,7 +19,7 @@ Vandaag heb ik deze beukenhaag onder handen genomen.
 
 Zo zag hij eruit toen ik begon. Lange scheuten, alle kanten op.
 
-Leuk om te weten: een beuk houdt zijn bruine bladeren vast in de winter. Daarom blijft een beukenhaag het hele jaar dicht.
+een beuk houdt zijn bruine bladeren vast in de winter. Daarom blijft een beukenhaag het hele jaar dicht.
 
 Ik snoeide de zijkanten en de bovenkant, met de ladder. Mijn tip: maak de haag bovenaan iets smaller dan onderaan. Zo krijgt ook de onderkant licht, en blijft die mooi vol.
 
@@ -48,7 +48,7 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 > Tekst bovenaan (pop): **Voor**
 
 ### Leuk om te weten
-"Leuk om te weten: een beuk houdt zijn bruine bladeren vast in de winter. Daarom blijft een beukenhaag het hele jaar dicht."
+"Een beuk houdt zijn bruine bladeren vast in de winter. Daarom blijft een beukenhaag het hele jaar dicht."
 
 ### Tijdens + tip
 "Ik snoeide de zijkanten en de bovenkant, met de ladder. Mijn tip: maak de haag bovenaan iets smaller dan onderaan. Zo krijgt ook de onderkant licht, en blijft die mooi vol."

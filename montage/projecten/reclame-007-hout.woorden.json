@@ -796,32 +796,37 @@
  },
  {
   "w": "Ook",
-  "start": 63.92,
-  "eind": 64.08
+  "start": 63.66,
+  "eind": 64.0
  },
  {
   "w": "dat",
-  "start": 64.08,
-  "eind": 64.26
+  "start": 64.0,
+  "eind": 64.18
  },
  {
   "w": "kan",
-  "start": 64.26,
-  "eind": 64.42
+  "start": 64.18,
+  "eind": 64.36
  },
  {
   "w": "u",
-  "start": 64.42,
-  "eind": 64.54
+  "start": 64.36,
+  "eind": 64.48
+ },
+ {
+  "w": "aan",
+  "start": 64.48,
+  "eind": 64.6
  },
  {
   "w": "ons",
-  "start": 64.54,
-  "eind": 64.68
+  "start": 64.6,
+  "eind": 64.76
  },
  {
   "w": "vragen.",
-  "start": 64.68,
-  "eind": 65.18
+  "start": 64.76,
+  "eind": 65.24
  }
 ]
