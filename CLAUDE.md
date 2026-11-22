@@ -17,6 +17,8 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
 ## Twee soorten video's
 1. **Reclame** (`scripts/reclame/`): voor mensen in de regio die hulp zoeken.
    Bv. voor/na-beelden, tips, een dag op de werf. Spreek kijkers aan met "u".
+   **Een reclamevideo begint altijd met "Vandaag heb ik…"** (bv. "Vandaag heb ik deze beukenhaag onder handen genomen.").
+   Het script bevat bovenaan een **voorleestekst** die Yelte in één keer kan inspreken (alinea per blok), daaronder de regie per blok.
    **Een reclamevideo eindigt altijd met "Ook dat kan u aan ons vragen."** (bv. "Een haag die een snoeibeurt
    nodig heeft? Ook dat kan u aan ons vragen."), niet met "Stuur ons een foto/bericht voor een offerte".
    Tekst bovenaan (pop) bij de CTA: **Ook dat kan u aan ons vragen**.

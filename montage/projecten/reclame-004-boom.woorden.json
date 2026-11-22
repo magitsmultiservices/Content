@@ -1,46 +1,46 @@
 [
  {
-  "w": "Deze",
+  "w": "Vandaag",
   "start": 0.2,
   "eind": 0.5
  },
  {
-  "w": "week",
+  "w": "heb",
   "start": 0.53,
   "eind": 0.84
  },
  {
-  "w": "haalde",
+  "w": "ik",
   "start": 0.87,
   "eind": 1.17
  },
  {
-  "w": "ik",
+  "w": "deze",
   "start": 1.2,
   "eind": 1.5
  },
  {
-  "w": "deze",
+  "w": "grote",
   "start": 1.53,
   "eind": 1.84
  },
  {
-  "w": "grote",
+  "w": "boom",
   "start": 1.87,
   "eind": 2.17
  },
  {
-  "w": "boom",
+  "w": "naar",
   "start": 2.2,
   "eind": 2.5
  },
  {
-  "w": "naar",
+  "w": "beneden",
   "start": 2.53,
   "eind": 2.84
  },
  {
-  "w": "beneden.",
+  "w": "gehaald.",
   "start": 2.87,
   "eind": 3.17
  },
@@ -260,423 +260,313 @@
   "eind": 18.1
  },
  {
-  "w": "Mijn",
+  "w": "Eerst",
   "start": 18.53,
   "eind": 18.84
  },
  {
-  "w": "tip:",
+  "w": "alle",
   "start": 18.87,
   "eind": 19.17
  },
  {
-  "w": "vraag",
+  "w": "takken",
   "start": 19.2,
   "eind": 19.5
  },
  {
-  "w": "eerst",
+  "w": "eraf.",
   "start": 19.53,
   "eind": 19.84
  },
  {
-  "w": "bij",
+  "w": "Daarna",
   "start": 19.87,
   "eind": 20.17
  },
  {
-  "w": "uw",
+  "w": "de",
   "start": 20.2,
   "eind": 20.5
  },
  {
-  "w": "gemeente",
+  "w": "stam,",
   "start": 20.53,
   "eind": 20.84
  },
  {
-  "w": "of",
+  "w": "stuk",
   "start": 20.87,
   "eind": 21.17
  },
  {
-  "w": "u",
+  "w": "per",
   "start": 21.2,
   "eind": 21.5
  },
  {
-  "w": "een",
+  "w": "stuk,",
   "start": 21.53,
   "eind": 21.84
  },
  {
-  "w": "vergunning",
+  "w": "veilig",
   "start": 21.87,
   "eind": 22.17
  },
  {
-  "w": "nodig",
+  "w": "naar",
   "start": 22.2,
   "eind": 22.5
  },
  {
-  "w": "hebt",
+  "w": "beneden.",
   "start": 22.53,
   "eind": 22.84
  },
  {
-  "w": "om",
-  "start": 22.87,
-  "eind": 23.17
+  "w": "Daarna",
+  "start": 23.46,
+  "eind": 23.77
  },
  {
-  "w": "een",
-  "start": 23.2,
-  "eind": 23.5
+  "w": "alles",
+  "start": 23.8,
+  "eind": 24.1
  },
  {
-  "w": "boom",
-  "start": 23.53,
-  "eind": 23.84
+  "w": "opruimen:",
+  "start": 24.13,
+  "eind": 24.43
  },
  {
-  "w": "te",
-  "start": 23.87,
-  "eind": 24.17
+  "w": "takken,",
+  "start": 24.46,
+  "eind": 24.77
  },
  {
-  "w": "vellen.",
-  "start": 24.2,
-  "eind": 24.5
+  "w": "stamstukken",
+  "start": 24.8,
+  "eind": 25.1
  },
  {
-  "w": "Dat",
-  "start": 24.53,
-  "eind": 24.84
+  "w": "en",
+  "start": 25.13,
+  "eind": 25.43
  },
  {
-  "w": "verschilt",
-  "start": 24.87,
-  "eind": 25.17
+  "w": "zaagsel.",
+  "start": 25.46,
+  "eind": 25.77
  },
  {
-  "w": "per",
-  "start": 25.2,
-  "eind": 25.5
+  "w": "En",
+  "start": 25.8,
+  "eind": 26.1
  },
  {
-  "w": "gemeente.",
-  "start": 25.53,
-  "eind": 25.84
+  "w": "het",
+  "start": 26.13,
+  "eind": 26.43
  },
  {
-  "w": "Eerst",
+  "w": "hout?",
   "start": 26.46,
   "eind": 26.77
  },
  {
-  "w": "alle",
+  "w": "Dat",
   "start": 26.8,
   "eind": 27.1
  },
  {
-  "w": "takken",
+  "w": "wordt",
   "start": 27.13,
   "eind": 27.43
  },
  {
-  "w": "eraf.",
+  "w": "brandhout.",
   "start": 27.46,
   "eind": 27.77
  },
  {
-  "w": "Daarna",
+  "w": "Daarover",
   "start": 27.8,
   "eind": 28.1
  },
  {
-  "w": "de",
+  "w": "meer",
   "start": 28.13,
   "eind": 28.43
  },
  {
-  "w": "stam,",
+  "w": "in",
   "start": 28.46,
   "eind": 28.77
  },
  {
-  "w": "stuk",
+  "w": "een",
   "start": 28.8,
   "eind": 29.1
  },
  {
-  "w": "per",
+  "w": "volgende",
   "start": 29.13,
   "eind": 29.43
  },
  {
-  "w": "stuk,",
+  "w": "video.",
   "start": 29.46,
   "eind": 29.77
  },
  {
-  "w": "veilig",
-  "start": 29.8,
-  "eind": 30.1
- },
- {
-  "w": "naar",
-  "start": 30.13,
-  "eind": 30.43
- },
- {
-  "w": "beneden.",
-  "start": 30.46,
-  "eind": 30.77
- },
- {
-  "w": "Daarna",
-  "start": 31.39,
-  "eind": 31.7
- },
- {
-  "w": "alles",
-  "start": 31.73,
-  "eind": 32.03
- },
- {
-  "w": "opruimen:",
-  "start": 32.06,
-  "eind": 32.36
- },
- {
-  "w": "takken,",
-  "start": 32.39,
-  "eind": 32.7
- },
- {
-  "w": "stamstukken",
-  "start": 32.73,
-  "eind": 33.03
- },
- {
-  "w": "en",
-  "start": 33.06,
-  "eind": 33.36
- },
- {
-  "w": "zaagsel.",
-  "start": 33.39,
-  "eind": 33.7
- },
- {
   "w": "En",
-  "start": 33.73,
-  "eind": 34.03
- },
- {
-  "w": "het",
-  "start": 34.06,
-  "eind": 34.36
- },
- {
-  "w": "hout?",
-  "start": 34.39,
-  "eind": 34.7
- },
- {
-  "w": "Dat",
-  "start": 34.73,
-  "eind": 35.03
- },
- {
-  "w": "wordt",
-  "start": 35.06,
-  "eind": 35.36
- },
- {
-  "w": "brandhout.",
-  "start": 35.39,
-  "eind": 35.7
- },
- {
-  "w": "Daarover",
-  "start": 35.73,
-  "eind": 36.03
- },
- {
-  "w": "meer",
-  "start": 36.06,
-  "eind": 36.36
- },
- {
-  "w": "in",
-  "start": 36.39,
-  "eind": 36.7
- },
- {
-  "w": "een",
-  "start": 36.73,
-  "eind": 37.03
- },
- {
-  "w": "volgende",
-  "start": 37.06,
-  "eind": 37.36
- },
- {
-  "w": "video.",
-  "start": 37.39,
-  "eind": 37.7
- },
- {
-  "w": "En",
-  "start": 40.29,
-  "eind": 40.6
+  "start": 32.36,
+  "eind": 32.67
  },
  {
   "w": "zo",
+  "start": 32.7,
+  "eind": 33.0
+ },
+ {
+  "w": "ziet",
+  "start": 33.03,
+  "eind": 33.33
+ },
+ {
+  "w": "het",
+  "start": 33.36,
+  "eind": 33.67
+ },
+ {
+  "w": "er",
+  "start": 33.7,
+  "eind": 34.0
+ },
+ {
+  "w": "nu",
+  "start": 34.03,
+  "eind": 34.33
+ },
+ {
+  "w": "uit.",
+  "start": 34.36,
+  "eind": 34.67
+ },
+ {
+  "w": "Plaats",
+  "start": 34.7,
+  "eind": 35.0
+ },
+ {
+  "w": "genoeg,",
+  "start": 35.03,
+  "eind": 35.33
+ },
+ {
+  "w": "en",
+  "start": 35.36,
+  "eind": 35.67
+ },
+ {
+  "w": "alles",
+  "start": 35.7,
+  "eind": 36.0
+ },
+ {
+  "w": "netjes.",
+  "start": 36.03,
+  "eind": 36.33
+ },
+ {
+  "w": "Een",
+  "start": 36.96,
+  "eind": 37.27
+ },
+ {
+  "w": "boom",
+  "start": 37.3,
+  "eind": 37.6
+ },
+ {
+  "w": "die",
+  "start": 37.63,
+  "eind": 37.93
+ },
+ {
+  "w": "weg",
+  "start": 37.96,
+  "eind": 38.27
+ },
+ {
+  "w": "moet,",
+  "start": 38.3,
+  "eind": 38.6
+ },
+ {
+  "w": "ook",
+  "start": 38.63,
+  "eind": 38.93
+ },
+ {
+  "w": "als",
+  "start": 38.96,
+  "eind": 39.27
+ },
+ {
+  "w": "er",
+  "start": 39.3,
+  "eind": 39.6
+ },
+ {
+  "w": "weinig",
+  "start": 39.63,
+  "eind": 39.93
+ },
+ {
+  "w": "plaats",
+  "start": 39.96,
+  "eind": 40.27
+ },
+ {
+  "w": "is?",
+  "start": 40.3,
+  "eind": 40.6
+ },
+ {
+  "w": "Ook",
   "start": 40.63,
   "eind": 40.93
  },
  {
-  "w": "ziet",
+  "w": "dat",
   "start": 40.96,
-  "eind": 41.26
+  "eind": 41.27
  },
  {
-  "w": "het",
-  "start": 41.29,
+  "w": "kan",
+  "start": 41.3,
   "eind": 41.6
  },
  {
-  "w": "er",
+  "w": "u",
   "start": 41.63,
   "eind": 41.93
  },
  {
-  "w": "nu",
-  "start": 41.96,
-  "eind": 42.26
- },
- {
-  "w": "uit.",
-  "start": 42.29,
-  "eind": 42.6
- },
- {
-  "w": "Plaats",
-  "start": 42.63,
-  "eind": 42.93
- },
- {
-  "w": "genoeg,",
-  "start": 42.96,
-  "eind": 43.26
- },
- {
-  "w": "en",
-  "start": 43.29,
-  "eind": 43.6
- },
- {
-  "w": "alles",
-  "start": 43.63,
-  "eind": 43.93
- },
- {
-  "w": "netjes.",
-  "start": 43.96,
-  "eind": 44.26
- },
- {
-  "w": "Een",
-  "start": 44.89,
-  "eind": 45.2
- },
- {
-  "w": "boom",
-  "start": 45.23,
-  "eind": 45.53
- },
- {
-  "w": "die",
-  "start": 45.56,
-  "eind": 45.86
- },
- {
-  "w": "weg",
-  "start": 45.89,
-  "eind": 46.2
- },
- {
-  "w": "moet,",
-  "start": 46.23,
-  "eind": 46.53
- },
- {
-  "w": "ook",
-  "start": 46.56,
-  "eind": 46.86
- },
- {
-  "w": "als",
-  "start": 46.89,
-  "eind": 47.2
- },
- {
-  "w": "er",
-  "start": 47.23,
-  "eind": 47.53
- },
- {
-  "w": "weinig",
-  "start": 47.56,
-  "eind": 47.86
- },
- {
-  "w": "plaats",
-  "start": 47.89,
-  "eind": 48.2
- },
- {
-  "w": "is?",
-  "start": 48.23,
-  "eind": 48.53
- },
- {
-  "w": "Ook",
-  "start": 48.56,
-  "eind": 48.86
- },
- {
-  "w": "dat",
-  "start": 48.89,
-  "eind": 49.2
- },
- {
-  "w": "kan",
-  "start": 49.23,
-  "eind": 49.53
- },
- {
-  "w": "u",
-  "start": 49.56,
-  "eind": 49.86
- },
- {
   "w": "aan",
-  "start": 49.89,
-  "eind": 50.2
+  "start": 41.96,
+  "eind": 42.27
  },
  {
   "w": "ons",
-  "start": 50.23,
-  "eind": 50.53
+  "start": 42.3,
+  "eind": 42.6
  },
  {
   "w": "vragen.",
-  "start": 50.56,
-  "eind": 50.86
+  "start": 42.63,
+  "eind": 42.93
  }
 ]

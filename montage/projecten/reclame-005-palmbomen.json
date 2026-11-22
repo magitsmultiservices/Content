@@ -1,5 +1,5 @@
 {
- "titel": "Reclamevideo 5 · Deze week: palmbomen (voorbeeld)",
+ "titel": "Reclamevideo 5 · Vandaag: palmbomen (voorbeeld)",
  "uitvoer": "output/reclame-005-voorbeeld.mp4",
  "overgang": 0.2,
  "geluid": false,
@@ -80,7 +80,7 @@
  "broll": [],
  "ondertitels": "montage/projecten/reclame-005-palmbomen.woorden.json",
  "hook": {
-  "tekst": "Deze week: | palmbomen",
+  "tekst": "Vandaag: | palmbomen",
   "tot": 4.17
  },
  "teksten": [

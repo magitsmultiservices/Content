@@ -1,5 +1,5 @@
 {
- "titel": "Reclamevideo 6 · Deze week: klimop (voorbeeld)",
+ "titel": "Reclamevideo 6 · Vandaag: klimop (voorbeeld)",
  "uitvoer": "output/reclame-006-voorbeeld.mp4",
  "overgang": 0.2,
  "geluid": false,
@@ -7,7 +7,7 @@
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 0.3,
-   "tot": 3.9
+   "tot": 4.23
   },
   {
    "bestand": "media/rv6/20261117_113436.mp4",
@@ -73,26 +73,26 @@
  "broll": [],
  "ondertitels": "montage/projecten/reclame-006-klimop.woorden.json",
  "hook": {
-  "tekst": "Deze week: | klimop weg",
-  "tot": 3.5
+  "tekst": "Vandaag: | klimop weg",
+  "tot": 3.83
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.7,
-   "tot": 7.72,
+   "van": 4.03,
+   "tot": 8.05,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 38.95,
-   "tot": 42.97,
+   "van": 39.28,
+   "tot": 43.3,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 43.22,
-   "tot": 47.57,
+   "van": 43.55,
+   "tot": 47.9,
    "stijl": "pop"
   }
  ],

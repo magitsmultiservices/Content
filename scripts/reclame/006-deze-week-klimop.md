@@ -1,61 +1,73 @@
-# Reclamevideo 6 · "Deze week heb ik…": klimop van bomen verwijderen, in de regen
+# Reclamevideo 6 · "Vandaag heb ik…": klimop van bomen verwijderen, in de regen
 
-- **Soort:** reclame, formaat "Deze week heb ik…": Yelte vertelt in de ik-vorm over één klus; de kijker spreekt hij aan met "u" in de call-to-action.
+- **Soort:** reclame, formaat "Vandaag heb ik…": Yelte vertelt in de ik-vorm over één klus; de kijker spreekt hij aan met "u" in de call-to-action.
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts, Facebook
 - **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
 - **Beelden:** nog te bepalen (BEELDMATERIAAL, waarschijnlijk 16 of 17/11/2026). Alleen beelden van deze ene klus: voor → tijdens (normaal én versneld) → opruimen → na, met "Voor" en "Na" bovenaan (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
-- **Status:** tekst klaar om in te spreken; montage zodra de beelden binnen zijn. Zie "Wat nog ontbreekt".
+- **Status:** voorleestekst klaar: in één keer inspreken. Voorbeeldmontage gemaakt (zonder stem).
 
 ---
 
-## Hook
-"Deze week: klimop van bomen trekken. In de regen."
+## Voorleestekst (in één keer inspreken)
+> Lees alles in één keer voor, rustig en in je eigen woorden. Laat een korte pauze tussen de alinea's: daar knip ik.
 
-> Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Deze week: | klimop weg**
+Vandaag heb ik klimop van bomen getrokken. In de regen.
 
-## Blok 1 · Voor
+Zo zagen de bomen eruit: de stammen helemaal ingepakt door klimop.
+
+Leuk om te weten: klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit.
+
+Dus: losknippen, lostrekken, stam per stam. Mijn tip: knip de klimop onderaan de stam door. Wat erboven groeit, sterft dan vanzelf af.
+
+Het regent, maar het werk gaat gewoon door.
+
+Daarna alles opkuisen en afvoeren, zodat er niets blijft liggen.
+
+En zo staan ze er nu bij. De stammen weer vrij.
+
+Bomen of muren vol klimop? Ook dat kan u aan ons vragen.
+
+---
+
+## Inspreken
+- [ ] De hele voorleestekst in één keer (gerust 2 keer, dan kies ik de beste)
+
+Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; filmen met de telefoon mag.
+[Tussen haken] = vul zelf in, of zeg het me en ik pas de tekst aan.
+
+## Regie per blok (voor de montage)
+
+### Hook
+"Vandaag heb ik klimop van bomen getrokken. In de regen."
+> Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Vandaag: | klimop weg**
+
+### Voor
 "Zo zagen de bomen eruit: de stammen helemaal ingepakt door klimop."
-
 > Tekst bovenaan (pop): **Voor**
 
-## Blok 2 · Waarom (leuk om te weten)
+### Waarom (leuk om te weten)
 "Leuk om te weten: klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit."
 
-## Blok 3 · Tijdens + tip
+### Tijdens + tip
 "Dus: losknippen, lostrekken, stam per stam. Mijn tip: knip de klimop onderaan de stam door. Wat erboven groeit, sterft dan vanzelf af."
 
-## Blok 4 · In de regen
+### In de regen
 "Het regent, maar het werk gaat gewoon door."
 
-## Blok 5 · Opkuisen
+### Opkuisen
 "Daarna alles opkuisen en afvoeren, zodat er niets blijft liggen."
 
-## Blok 6 · Na
+### Na
 "En zo staan ze er nu bij. De stammen weer vrij."
-
 > Tekst bovenaan (pop): **Na**
 
-## Call-to-action
+### Afsluiter
 "Bomen of muren vol klimop? Ook dat kan u aan ons vragen."
-
 > Tekst bovenaan (pop): **Ook dat kan u aan ons vragen**
-
 > Daarna het standaard eindbeeld (4 s).
 
 ---
-
-## Opnamelijst · inspreken
-Alleen geluid: rustige plek binnen, telefoon op ± 20 cm van je mond, elk blok apart en gerust 2 à 3 keer.
-Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en ik pas de tekst aan.
-- [ ] Hook (de gekozen versie)
-- [ ] Blok 1 · Voor
-- [ ] Blok 2 · Waarom (leuk om te weten)
-- [ ] Blok 3 · Tijdens + tip
-- [ ] Blok 4 · In de regen
-- [ ] Blok 5 · Opkuisen
-- [ ] Blok 6 · Na
-- [ ] Call-to-action
 
 ## Wat nog ontbreekt
 - **Welke opnames:** zeg me welke datum of bestanden de klimop zijn; ik kon de nieuwe beelden nog niet openen.
@@ -67,7 +79,7 @@ Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en i
 - Op het einde, nat maar klaar: één zin over hoe het ging.
 
 ## Caption
-> Deze week haalde ik klimop van bomen, in de regen. Stam per stam losgeknipt en losgetrokken, en alles opgekuist.
+> Vandaag haalde ik klimop van bomen, in de regen. Stam per stam losgeknipt en losgetrokken, en alles opgekuist.
 > Ook bomen of muren vol klimop in Antwerpen, Mechelen of omstreken? Ook dat kan u aan ons vragen.
 > Tuin en rommel in één keer geregeld.
 >

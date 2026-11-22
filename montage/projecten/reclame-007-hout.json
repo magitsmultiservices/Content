@@ -1,5 +1,5 @@
 {
- "titel": "Reclamevideo 7 · Deze week: brandhout klieven (voorbeeld)",
+ "titel": "Reclamevideo 7 · Vandaag: brandhout klieven (voorbeeld)",
  "uitvoer": "output/reclame-007-voorbeeld.mp4",
  "overgang": 0.2,
  "geluid": false,
@@ -7,7 +7,7 @@
   {
    "bestand": "media/rv7/20261118_152311.mp4",
    "van": 20.0,
-   "tot": 24.27
+   "tot": 24.6
   },
   {
    "bestand": "media/rv4/IMG_1252.mp4",
@@ -127,25 +127,25 @@
  "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
  "hook": {
   "tekst": "Brandhout | voor het goede doel",
-  "tot": 4.17
+  "tot": 4.5
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 4.37,
-   "tot": 10.39,
+   "van": 4.7,
+   "tot": 10.72,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 42.73,
-   "tot": 49.1,
+   "van": 43.06,
+   "tot": 49.43,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 49.35,
-   "tot": 54.37,
+   "van": 49.68,
+   "tot": 54.7,
    "stijl": "pop"
   }
  ],
