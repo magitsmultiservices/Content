@@ -114,16 +114,10 @@
    "snelheid": 1.1
   },
   {
-   "bestand": "media/rv7/20261120_122447.mp4",
-   "van": 0.0,
-   "tot": 1.4,
-   "snelheid": 1.1
-  },
-  {
    "bestand": "media/rv7/20261120_122451.mp4",
    "van": 0.0,
-   "tot": 7.06,
-   "snelheid": 2.2
+   "tot": 2.41,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv7/20261118_162141.mp4",
@@ -152,8 +146,14 @@
   {
    "bestand": "media/rv7/20261120_132313.mp4",
    "van": 0.0,
-   "tot": 3.62,
-   "snelheid": 0.5566
+   "tot": 3.6,
+   "snelheid": 1.1
+  },
+  {
+   "bestand": "media/rv7/20261120_132245.mp4",
+   "van": 0.0,
+   "tot": 3.51,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
@@ -177,14 +177,14 @@
   },
   {
    "tekst": "Na",
-   "van": 46.81,
-   "tot": 55.81,
+   "van": 44.52,
+   "tot": 53.48,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 56.04,
-   "tot": 59.42,
+   "van": 53.71,
+   "tot": 57.09,
    "stijl": "pop"
   }
  ],

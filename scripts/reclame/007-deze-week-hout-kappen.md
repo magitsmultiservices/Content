@@ -20,7 +20,7 @@ Blok per blok, slag per slag. Mijn tip: mik op de barsten die al in het hout zit
 
 Waarom klieven? Gekliefd hout droogt veel sneller. En droog hout brandt beter: minder rook, en minder roet in uw schouw.
 
-Daarna netjes gestapeld, met lucht ertussen en onder een afdak. Zo kan het een jaar of langer drogen.
+Daarna netjes gestapeld, met lucht ertussen en onder een afdak.
 
 Dit brandhout wordt later verkocht. De opbrengst gaat naar De Warmste Week 2027.
 
@@ -54,7 +54,7 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 "Waarom klieven? Gekliefd hout droogt veel sneller. En droog hout brandt beter: minder rook, en minder roet in uw schouw."
 
 ### Stapelen
-"Daarna netjes gestapeld, met lucht ertussen en onder een afdak. Zo kan het een jaar of langer drogen."
+"Daarna netjes gestapeld, met lucht ertussen en onder een afdak."
 
 ### Het goede doel
 "Dit brandhout wordt later verkocht. De opbrengst gaat naar De Warmste Week 2027."
