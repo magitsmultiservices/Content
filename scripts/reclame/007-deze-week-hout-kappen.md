@@ -24,7 +24,7 @@ Daarna netjes gestapeld, met lucht ertussen en onder een afdak.
 
 Dit brandhout wordt later verkocht. De opbrengst gaat naar De Warmste Week 2027.
 
-En zo ligt het er nu bij: een volle houtstapel. En er ligt nog veel klaar om te klieven.
+En er ligt nog veel klaar om te klieven.
 
 Een boom of hout dat weg moet? Ook dat kan u aan ons vragen.
 
@@ -60,7 +60,7 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 "Dit brandhout wordt later verkocht. De opbrengst gaat naar De Warmste Week 2027."
 
 ### Na
-"En zo ligt het er nu bij: een volle houtstapel. En er ligt nog veel klaar om te klieven."
+"En er ligt nog veel klaar om te klieven."
 > Tekst bovenaan (pop): **Na**
 
 ### Afsluiter
