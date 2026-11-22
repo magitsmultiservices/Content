@@ -2,13 +2,13 @@
  "titel": "Reclamevideo 5 · Vandaag: palmbomen",
  "uitvoer": "output/reclame-005.mp4",
  "overgang": 0.2,
- "geluid": false,
+ "geluid": true,
  "stem": "media/vo5/stem.wav",
  "clips": [
   {
    "bestand": "media/rv5/20261116_143134.mp4",
    "van": 0.0,
-   "tot": 4.79,
+   "tot": 4.86,
    "snelheid": 1.1
   },
   {
@@ -20,13 +20,13 @@
   {
    "bestand": "media/rv5/20261116_133446.mp4",
    "van": 0.0,
-   "tot": 1.01,
+   "tot": 0.99,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv5/20261116_135117.mp4",
    "van": 0.0,
-   "tot": 8.69,
+   "tot": 8.67,
    "snelheid": 1.1
   },
   {
@@ -45,7 +45,7 @@
    "bestand": "media/rv5/20261116_130245.mp4",
    "van": 3.0,
    "tot": 253.94,
-   "snelheid": 39.3206
+   "snelheid": 43.6073
   },
   {
    "bestand": "media/rv5/20261116_130834.mp4",
@@ -62,7 +62,7 @@
   {
    "bestand": "media/rv5/20261116_144243.mp4",
    "van": 0.0,
-   "tot": 2.73,
+   "tot": 2.75,
    "snelheid": 1.1
   },
   {
@@ -74,7 +74,7 @@
   {
    "bestand": "media/rv5/20261116_144228.mp4",
    "van": 0.0,
-   "tot": 1.23,
+   "tot": 1.21,
    "snelheid": 1.1
   },
   {
@@ -86,7 +86,7 @@
   {
    "bestand": "media/rv5/foto_20261116_130844.mp4",
    "van": 0,
-   "tot": 1.15,
+   "tot": 1.0,
    "snelheid": 1.1
   }
  ],
@@ -94,25 +94,25 @@
  "ondertitels": "montage/projecten/reclame-005-palmbomen.woorden.json",
  "hook": {
   "tekst": "Vandaag: | palmbomen",
-  "tot": 4.31
+  "tot": 4.37
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 4.45,
-   "tot": 7.5,
+   "van": 4.51,
+   "tot": 7.55,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 34.4,
-   "tot": 36.8,
+   "van": 33.82,
+   "tot": 36.2,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 37.03,
-   "tot": 40.85,
+   "van": 36.43,
+   "tot": 40.11,
    "stijl": "pop"
   }
  ],

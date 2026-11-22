@@ -25,7 +25,7 @@ Zie `projecten/proef.json` voor een volledig voorbeeld.
 | `ondertitels` | `"auto"` of pad naar een woordenbestand `[{"w","start","eind"}]` |
 | `teksten` | tekst bovenaan: `tekst`, `van`, `tot` (op tijdlijn), optioneel `stijl`: `titel` (standaard), `hook` (groter), `groot` (groot getal met pop) of `pop` (pop-animatie, grootte volgens lengte); ` | ` in de tekst = nieuwe regel; optioneel `grootte` (lettergrootte) bij `pop` |
 | `geluid` | `false` exporteert zonder geluid (bv. als er later muziek onder komt) |
-| `stem` | pad naar een ingesproken stem (voice-over, wav), loopt vanaf 0 s onder de beelden; met `geluid: true` komt het clipgeluid zacht (`clipvolume`, standaard 0.25) eronder |
+| `stem` | pad naar een ingesproken stem (voice-over, wav), loopt vanaf 0 s onder de beelden; met `geluid: true` komt het geluid van de beelden als achtergrond eronder (`clipniveau`, standaard -31 LUFS; de stem staat op -15) |
 | `hook` | `{"tekst", "tot"}`: hooktekst groot in het midden met pop; ondertitels starten pas na `tot` |
 | `overgang` | duur van de vloeiende overgang tussen beelden in seconden (standaard 0.25) |
 | `eindbeeld` | `true` (standaard) of `false` |

@@ -136,16 +136,23 @@ AUDIO_OPTS = ["-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2"]
 def segment(clip, doel, stil=False):
     """Knipt één take en zet hem om naar 1080x1920, 30 fps, stereo 48 kHz.
 
-    'snelheid' versnelt (bv. 20 voor een timelapse) of vertraagt (bv. 0.6); dan valt het geluid weg.
+    'snelheid' versnelt of vertraagt; tussen x0.5 en x2 gaat het geluid mee (atempo), daarbuiten
+    loopt het omgevingsgeluid op normale snelheid verder.
     """
     bron = ROOT / clip["bestand"]
     van, tot = clip.get("van", 0), clip["tot"]
     snelheid = clip.get("snelheid", 1)
     cmd = ["ffmpeg", "-y", "-v", "error", "-ss", str(van), "-to", str(tot), "-i", str(bron)]
-    if heeft_geluid(bron) and snelheid == 1 and not stil:
-        duur = (tot - van) / snelheid
-        cmd += ["-map", "0:v:0", "-map", "0:a:0", "-af",
-                f"aresample=48000,afade=t=in:d=0.03,afade=t=out:st={max(duur - 0.05, 0):.3f}:d=0.05"]
+    duur = (tot - van) / snelheid
+    fades = f"afade=t=in:d=0.03,afade=t=out:st={max(duur - 0.05, 0):.3f}:d=0.05"
+    if heeft_geluid(bron) and not stil and 0.5 <= snelheid <= 2:
+        # Normaal of licht versneld/vertraagd: geluid mee op dezelfde snelheid (toonhoogte blijft gelijk).
+        tempo = f"atempo={snelheid}," if snelheid != 1 else ""
+        cmd += ["-map", "0:v:0", "-map", "0:a:0", "-af", f"aresample=48000,{tempo}{fades}"]
+    elif heeft_geluid(bron) and not stil:
+        # Timelapse of sterke slow motion: gewoon het omgevingsgeluid vanaf 'van' op normale snelheid.
+        cmd += ["-ss", str(van), "-t", f"{duur + 0.5:.3f}", "-i", str(bron),
+                "-map", "0:v:0", "-map", "1:a:0", "-af", f"aresample=48000,apad,{fades}"]
     else:
         cmd += ["-f", "lavfi", "-i", "anullsrc=r=48000:cl=stereo",
                 "-map", "0:v:0", "-map", "1:a:0", "-shortest"]
@@ -459,9 +466,10 @@ def main():
             invoer += ["-i", str(ROOT / stem)]
             stemfilter = f"[{n}:a]aresample=48000,aformat=channel_layouts=stereo,apad,atrim=0:{lengte:.3f}"
             if project.get("geluid", True):
-                filters.append(stemfilter + "[st]")
-                filters.append(f"[0:a]volume={project.get('clipvolume', 0.25)}[cl]")
-                filters.append("[st][cl]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]")
+                # Stem op -15 LUFS, het geluid van de beelden als achtergrond op een vast, stiller niveau.
+                filters.append(stemfilter + ",loudnorm=I=-15:TP=-2:LRA=9[st]")
+                filters.append(f"[0:a]loudnorm=I={project.get('clipniveau', -31)}:TP=-12:LRA=6[cl]")
+                filters.append("[st][cl]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.89[a]")
             else:
                 filters.append(stemfilter + ",loudnorm=I=-14:TP=-1.5:LRA=11[a]")
             audio = ["-map", "[a]"]

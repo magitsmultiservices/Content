@@ -2,13 +2,13 @@
  "titel": "Reclamevideo 3 · Vandaag: beukenhaag",
  "uitvoer": "output/reclame-003.mp4",
  "overgang": 0.2,
- "geluid": false,
+ "geluid": true,
  "stem": "media/vo3/stem.wav",
  "clips": [
   {
    "bestand": "media/rv3/20261110_100151.mp4",
    "van": 1.0,
-   "tot": 3.73,
+   "tot": 3.65,
    "snelheid": 1.1
   },
   {
@@ -50,7 +50,7 @@
   {
    "bestand": "media/rv3/20261110_101408.mp4",
    "van": 50.0,
-   "tot": 153.05,
+   "tot": 138.2,
    "snelheid": 49.5
   },
   {
@@ -86,7 +86,7 @@
   {
    "bestand": "media/rv3/20261110_104531.mp4",
    "van": 0.2,
-   "tot": 4.29,
+   "tot": 4.14,
    "snelheid": 1.1
   }
  ],
@@ -94,25 +94,25 @@
  "ondertitels": "montage/projecten/reclame-003-haag.woorden.json",
  "hook": {
   "tekst": "Vandaag: | een beukenhaag",
-  "tot": 2.44
+  "tot": 2.36
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 2.57,
-   "tot": 6.07,
+   "van": 2.5,
+   "tot": 6.0,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 27.47,
-   "tot": 31.43,
+   "van": 27.1,
+   "tot": 31.05,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 31.65,
-   "tot": 35.15,
+   "van": 31.28,
+   "tot": 34.64,
    "stijl": "pop"
   }
  ],

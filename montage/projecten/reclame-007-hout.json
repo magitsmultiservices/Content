@@ -2,13 +2,13 @@
  "titel": "Reclamevideo 7 · Vandaag: brandhout klieven",
  "uitvoer": "output/reclame-007.mp4",
  "overgang": 0.2,
- "geluid": false,
+ "geluid": true,
  "stem": "media/vo7/stem.wav",
  "clips": [
   {
    "bestand": "media/rv7/20261118_152311.mp4",
    "van": 20.0,
-   "tot": 23.87,
+   "tot": 23.85,
    "snelheid": 1.1
   },
   {
@@ -20,7 +20,7 @@
   {
    "bestand": "media/rv4/20261116_105707.mp4",
    "van": 2.0,
-   "tot": 7.67,
+   "tot": 7.2,
    "snelheid": 1.1
   },
   {
@@ -104,7 +104,7 @@
   {
    "bestand": "media/rv7/20261120_130304.mp4",
    "van": 0.0,
-   "tot": 113.73,
+   "tot": 106.93,
    "snelheid": 44.0
   },
   {
@@ -116,7 +116,7 @@
   {
    "bestand": "media/rv7/20261120_123817.mp4",
    "van": 0.0,
-   "tot": 3.11,
+   "tot": 2.94,
    "snelheid": 1.1
   },
   {
@@ -134,19 +134,19 @@
   {
    "bestand": "media/rv7/foto_20261118_160011.mp4",
    "van": 0,
-   "tot": 2.21,
+   "tot": 1.7,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv7/20261120_132245.mp4",
    "van": 0.0,
-   "tot": 2.73,
+   "tot": 2.62,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
    "van": 356.0,
-   "tot": 359.97,
+   "tot": 359.78,
    "snelheid": 1.1
   }
  ],
@@ -154,25 +154,25 @@
  "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
  "hook": {
   "tekst": "Brandhout | voor het goede doel",
-  "tot": 3.47
+  "tot": 3.45
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.61,
-   "tot": 10.54,
+   "van": 3.59,
+   "tot": 10.09,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 44.52,
-   "tot": 46.77,
+   "van": 43.3,
+   "tot": 45.45,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 47.0,
-   "tot": 50.38,
+   "van": 45.68,
+   "tot": 48.89,
    "stijl": "pop"
   }
  ],
