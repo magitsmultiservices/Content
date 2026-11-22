@@ -467,8 +467,12 @@ def main():
             stemfilter = f"[{n}:a]aresample=48000,aformat=channel_layouts=stereo,apad,atrim=0:{lengte:.3f}"
             if project.get("geluid", True):
                 # Stem op -15 LUFS, het geluid van de beelden als achtergrond op een vast, stiller niveau.
-                filters.append(stemfilter + ",loudnorm=I=-15:TP=-2:LRA=9[st]")
-                filters.append(f"[0:a]loudnorm=I={project.get('clipniveau', -31)}:TP=-12:LRA=6[cl]")
+                filters.append(stemfilter + ",loudnorm=I=-15:TP=-2:LRA=9,asplit=2[st][sk]")
+                # Achtergrond op een vast niveau, en extra stiller zodra er gesproken wordt (ducking),
+                # zodat luide werkgeluiden (haagschaar, blazer, bijl) de stem nooit overstemmen.
+                filters.append(f"[0:a]loudnorm=I={project.get('clipniveau', -31)}:TP=-12:LRA=6,"
+                               "acompressor=threshold=0.05:ratio=6:attack=5:release=150[cl0]")
+                filters.append("[cl0][sk]sidechaincompress=threshold=0.015:ratio=10:attack=15:release=350[cl]")
                 filters.append("[st][cl]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.89[a]")
             else:
                 filters.append(stemfilter + ",loudnorm=I=-14:TP=-1.5:LRA=11[a]")
