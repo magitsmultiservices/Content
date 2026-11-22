@@ -8,100 +8,111 @@
   {
    "bestand": "media/rv3/20261110_100151.mp4",
    "van": 1.0,
-   "tot": 3.73
+   "tot": 3.73,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_100139.mp4",
    "van": 0.3,
-   "tot": 3.6
+   "tot": 3.6,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_095203.mp4",
    "van": 0.5,
-   "tot": 1.3
+   "tot": 1.3,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_101809.mp4",
    "van": 0.0,
-   "tot": 6.1
+   "tot": 6.1,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_100151.mp4",
    "van": 6.0,
-   "tot": 6.8
+   "tot": 6.8,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_091931.mp4",
    "van": 0.5,
-   "tot": 4.5
+   "tot": 4.5,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_101408.mp4",
    "van": 40.0,
-   "tot": 44.0
+   "tot": 44.0,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_101408.mp4",
    "van": 50.0,
    "tot": 153.05,
-   "snelheid": 45
+   "snelheid": 49.5
   },
   {
    "bestand": "media/rv3/20261110_104154.mp4",
    "van": 0.0,
    "tot": 198.0,
-   "snelheid": 60
+   "snelheid": 66.0
   },
   {
    "bestand": "media/rv3/20261110_124330.mp4",
    "van": 4.0,
    "tot": 52.0,
-   "snelheid": 24
+   "snelheid": 26.4
   },
   {
    "bestand": "media/rv3/20261110_125754.mp4",
    "van": 5.0,
-   "tot": 5.8
+   "tot": 5.8,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_104523.mp4",
    "van": 0.2,
-   "tot": 4.0
+   "tot": 4.0,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_104538.mp4",
    "van": 0.5,
-   "tot": 1.3
+   "tot": 1.3,
+   "snelheid": 1.1
   },
   {
    "bestand": "media/rv3/20261110_104531.mp4",
    "van": 0.2,
-   "tot": 4.29
+   "tot": 4.29,
+   "snelheid": 1.1
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-003-haag.woorden.json",
  "hook": {
   "tekst": "Vandaag: | een beukenhaag",
-  "tot": 2.68
+  "tot": 2.44
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 2.83,
-   "tot": 6.68,
+   "van": 2.57,
+   "tot": 6.07,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 30.22,
-   "tot": 34.57,
+   "van": 27.47,
+   "tot": 31.43,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 34.82,
-   "tot": 38.66,
+   "van": 31.65,
+   "tot": 35.15,
    "stijl": "pop"
   }
  ],
