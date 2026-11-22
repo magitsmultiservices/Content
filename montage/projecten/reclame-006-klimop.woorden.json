@@ -505,68 +505,63 @@
   "eind": 42.68
  },
  {
-  "w": "Ook",
+  "w": "Bomen",
   "start": 43.32,
   "eind": 43.62
  },
  {
-  "w": "bomen",
+  "w": "of",
   "start": 43.65,
   "eind": 43.95
  },
  {
-  "w": "of",
+  "w": "muren",
   "start": 43.98,
   "eind": 44.29
  },
  {
-  "w": "muren",
+  "w": "vol",
   "start": 44.32,
   "eind": 44.62
  },
  {
-  "w": "vol",
+  "w": "klimop?",
   "start": 44.65,
   "eind": 44.95
  },
  {
-  "w": "klimop?",
+  "w": "Ook",
   "start": 44.98,
   "eind": 45.29
  },
  {
-  "w": "Stuur",
+  "w": "dat",
   "start": 45.32,
   "eind": 45.62
  },
  {
-  "w": "ons",
+  "w": "kan",
   "start": 45.65,
   "eind": 45.95
  },
  {
-  "w": "een",
+  "w": "u",
   "start": 45.98,
   "eind": 46.29
  },
  {
-  "w": "foto",
+  "w": "aan",
   "start": 46.32,
   "eind": 46.62
  },
  {
-  "w": "voor",
+  "w": "ons",
   "start": 46.65,
   "eind": 46.95
  },
  {
-  "w": "een",
+  "w": "vragen.",
   "start": 46.98,
   "eind": 47.29
- },
- {
-  "w": "prijsinschatting.",
-  "start": 47.32,
-  "eind": 47.62
  }
 ]

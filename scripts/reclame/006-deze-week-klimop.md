@@ -37,9 +37,9 @@
 > Tekst bovenaan (pop): **Na**
 
 ## Call-to-action
-"Ook bomen of muren vol klimop? Stuur ons een foto voor een prijsinschatting."
+"Bomen of muren vol klimop? Ook dat kan u aan ons vragen."
 
-> Tekst bovenaan (pop): **Stuur ons een foto**
+> Tekst bovenaan (pop): **Ook dat kan u aan ons vragen**
 
 > Daarna het standaard eindbeeld (4 s).
 
@@ -68,7 +68,7 @@ Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en i
 
 ## Caption
 > Deze week haalde ik klimop van bomen, in de regen. Stam per stam losgeknipt en losgetrokken, en alles opgekuist.
-> Ook bomen of muren vol klimop in Antwerpen, Mechelen of omstreken? Stuur ons een foto voor een prijsinschatting.
+> Ook bomen of muren vol klimop in Antwerpen, Mechelen of omstreken? Ook dat kan u aan ons vragen.
 > Tuin en rommel in één keer geregeld.
 >
 > #tuinonderhoud #klimop #bomen #antwerpen #mechelen

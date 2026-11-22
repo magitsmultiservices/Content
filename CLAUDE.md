@@ -17,8 +17,9 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
 ## Twee soorten video's
 1. **Reclame** (`scripts/reclame/`): voor mensen in de regio die hulp zoeken.
    Bv. voor/na-beelden, tips, een dag op de werf. Spreek kijkers aan met "u".
-   CTA's uit het social-media-overzicht: "Stuur ons een foto voor een prijsinschatting",
-   "Stuur ons een bericht voor een offerte", "Ken je iemand die dit nodig heeft? Stuur deze video door." 
+   **Een reclamevideo eindigt altijd met "Ook dat kan u aan ons vragen."** (bv. "Een haag die een snoeibeurt
+   nodig heeft? Ook dat kan u aan ons vragen."), niet met "Stuur ons een foto/bericht voor een offerte".
+   Tekst bovenaan (pop) bij de CTA: **Ook dat kan u aan ons vragen**.
 2. **Ondernemen** (`scripts/ondernemen/`): voor een breed publiek, vooral jonge mensen
    die zelf een zaak willen starten. Yelte toont hoe hij werkt, met de ups én de downs.
    Natuurlijke spreektaal, "je" mag hier. Geen reeksnaam (dus niet "Magits Groeit").

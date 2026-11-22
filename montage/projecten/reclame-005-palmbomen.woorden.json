@@ -475,88 +475,83 @@
   "eind": 37.03
  },
  {
-  "w": "Ook",
+  "w": "Palmbomen",
   "start": 37.66,
   "eind": 37.96
  },
  {
-  "w": "palmbomen",
+  "w": "of",
   "start": 37.99,
   "eind": 38.3
  },
  {
-  "w": "of",
+  "w": "andere",
   "start": 38.33,
   "eind": 38.63
  },
  {
-  "w": "andere",
+  "w": "bomen",
   "start": 38.66,
   "eind": 38.96
  },
  {
-  "w": "bomen",
+  "w": "die",
   "start": 38.99,
   "eind": 39.3
  },
  {
-  "w": "die",
+  "w": "een",
   "start": 39.33,
   "eind": 39.63
  },
  {
-  "w": "een",
+  "w": "snoeibeurt",
   "start": 39.66,
   "eind": 39.96
  },
  {
-  "w": "snoeibeurt",
+  "w": "nodig",
   "start": 39.99,
   "eind": 40.3
  },
  {
-  "w": "nodig",
+  "w": "hebben?",
   "start": 40.33,
   "eind": 40.63
  },
  {
-  "w": "hebben?",
+  "w": "Ook",
   "start": 40.66,
   "eind": 40.96
  },
  {
-  "w": "Stuur",
+  "w": "dat",
   "start": 40.99,
   "eind": 41.3
  },
  {
-  "w": "ons",
+  "w": "kan",
   "start": 41.33,
   "eind": 41.63
  },
  {
-  "w": "een",
+  "w": "u",
   "start": 41.66,
   "eind": 41.96
  },
  {
-  "w": "foto",
+  "w": "aan",
   "start": 41.99,
   "eind": 42.3
  },
  {
-  "w": "voor",
+  "w": "ons",
   "start": 42.33,
   "eind": 42.63
  },
  {
-  "w": "een",
+  "w": "vragen.",
   "start": 42.66,
   "eind": 42.96
- },
- {
-  "w": "prijsinschatting.",
-  "start": 42.99,
-  "eind": 43.3
  }
 ]

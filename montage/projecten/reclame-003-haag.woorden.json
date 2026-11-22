@@ -500,78 +500,73 @@
   "eind": 42.35
  },
  {
-  "w": "Ook",
+  "w": "Een",
   "start": 42.98,
-  "eind": 43.28
- },
- {
-  "w": "een",
-  "start": 43.31,
-  "eind": 43.61
+  "eind": 43.29
  },
  {
   "w": "haag",
-  "start": 43.64,
-  "eind": 43.94
+  "start": 43.32,
+  "eind": 43.62
  },
  {
   "w": "die",
-  "start": 43.97,
-  "eind": 44.27
+  "start": 43.65,
+  "eind": 43.95
  },
  {
   "w": "een",
-  "start": 44.3,
-  "eind": 44.59
+  "start": 43.98,
+  "eind": 44.29
  },
  {
   "w": "snoeibeurt",
-  "start": 44.62,
-  "eind": 44.92
+  "start": 44.32,
+  "eind": 44.62
  },
  {
   "w": "nodig",
-  "start": 44.95,
-  "eind": 45.25
+  "start": 44.65,
+  "eind": 44.95
  },
  {
   "w": "heeft?",
-  "start": 45.28,
-  "eind": 45.58
+  "start": 44.98,
+  "eind": 45.29
  },
  {
-  "w": "Stuur",
-  "start": 45.61,
-  "eind": 45.91
+  "w": "Ook",
+  "start": 45.32,
+  "eind": 45.62
+ },
+ {
+  "w": "dat",
+  "start": 45.65,
+  "eind": 45.95
+ },
+ {
+  "w": "kan",
+  "start": 45.98,
+  "eind": 46.29
+ },
+ {
+  "w": "u",
+  "start": 46.32,
+  "eind": 46.62
+ },
+ {
+  "w": "aan",
+  "start": 46.65,
+  "eind": 46.95
  },
  {
   "w": "ons",
-  "start": 45.94,
-  "eind": 46.23
+  "start": 46.98,
+  "eind": 47.29
  },
  {
-  "w": "een",
-  "start": 46.26,
-  "eind": 46.56
- },
- {
-  "w": "foto",
-  "start": 46.59,
-  "eind": 46.89
- },
- {
-  "w": "voor",
-  "start": 46.92,
-  "eind": 47.22
- },
- {
-  "w": "een",
-  "start": 47.25,
-  "eind": 47.55
- },
- {
-  "w": "prijsinschatting.",
-  "start": 47.58,
-  "eind": 47.87
+  "w": "vragen.",
+  "start": 47.32,
+  "eind": 47.62
  }
 ]

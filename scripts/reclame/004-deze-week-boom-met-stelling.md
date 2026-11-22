@@ -37,9 +37,9 @@
 > Tekst bovenaan (pop): **Na**
 
 ## Call-to-action
-"Een boom die weg moet, ook als er weinig plaats is? Stuur ons een foto voor een prijsinschatting."
+"Een boom die weg moet, ook als er weinig plaats is? Ook dat kan u aan ons vragen."
 
-> Tekst bovenaan (pop): **Stuur ons een foto**
+> Tekst bovenaan (pop): **Ook dat kan u aan ons vragen**
 
 > Daarna het standaard eindbeeld (4 s).
 
@@ -69,7 +69,7 @@ Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en i
 
 ## Caption
 > Deze week haalde ik een grote boom naar beneden, stuk voor stuk vanaf een stelling, omdat [er te weinig plaats was] om hem te laten vallen. Daarna alles opgeruimd.
-> Ook een boom die weg moet in Antwerpen, Mechelen of omstreken? Stuur ons een foto voor een prijsinschatting.
+> Ook een boom die weg moet in Antwerpen, Mechelen of omstreken? Ook dat kan u aan ons vragen.
 > Tuin en rommel in één keer geregeld.
 >
 > #tuinonderhoud #boomverwijderen #bomen #antwerpen #mechelen

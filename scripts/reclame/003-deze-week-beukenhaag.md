@@ -37,9 +37,9 @@
 > Tekst bovenaan (pop): **Na**
 
 ## Call-to-action
-"Ook een haag die een snoeibeurt nodig heeft? Stuur ons een foto voor een prijsinschatting."
+"Een haag die een snoeibeurt nodig heeft? Ook dat kan u aan ons vragen."
 
-> Tekst bovenaan (pop): **Stuur ons een foto**
+> Tekst bovenaan (pop): **Ook dat kan u aan ons vragen**
 
 > Daarna het standaard eindbeeld (4 s).
 
@@ -60,7 +60,7 @@ Vertel het zoals je het aan een vriend zou vertellen: rustig en in je eigen woor
 
 ## Caption
 > Deze week heb ik deze beukenhaag gesnoeid: zijkanten en bovenkant strak, snoeisel opgeruimd en het herfstblad weggeblazen. Klaar voor de winter.
-> Ook een haag die een snoeibeurt nodig heeft, in Antwerpen, Mechelen of omstreken? Stuur ons een foto voor een prijsinschatting.
+> Ook een haag die een snoeibeurt nodig heeft, in Antwerpen, Mechelen of omstreken? Ook dat kan u aan ons vragen.
 > Tuin en rommel in één keer geregeld.
 >
 > #tuinonderhoud #haagsnoeien #beukenhaag #antwerpen #mechelen

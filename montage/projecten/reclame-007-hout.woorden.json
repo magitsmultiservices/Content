@@ -600,78 +600,73 @@
   "eind": 49.02
  },
  {
-  "w": "Ook",
+  "w": "Een",
   "start": 49.45,
   "eind": 49.75
  },
  {
-  "w": "een",
+  "w": "boom",
   "start": 49.78,
   "eind": 50.08
  },
  {
-  "w": "boom",
+  "w": "of",
   "start": 50.11,
   "eind": 50.42
  },
  {
-  "w": "of",
+  "w": "hout",
   "start": 50.45,
   "eind": 50.75
  },
  {
-  "w": "hout",
+  "w": "dat",
   "start": 50.78,
   "eind": 51.08
  },
  {
-  "w": "dat",
+  "w": "weg",
   "start": 51.11,
   "eind": 51.42
  },
  {
-  "w": "weg",
+  "w": "moet?",
   "start": 51.45,
   "eind": 51.75
  },
  {
-  "w": "moet?",
+  "w": "Ook",
   "start": 51.78,
   "eind": 52.08
  },
  {
-  "w": "Stuur",
+  "w": "dat",
   "start": 52.11,
   "eind": 52.42
  },
  {
-  "w": "ons",
+  "w": "kan",
   "start": 52.45,
   "eind": 52.75
  },
  {
-  "w": "een",
+  "w": "u",
   "start": 52.78,
   "eind": 53.08
  },
  {
-  "w": "bericht",
+  "w": "aan",
   "start": 53.11,
   "eind": 53.42
  },
  {
-  "w": "voor",
+  "w": "ons",
   "start": 53.45,
   "eind": 53.75
  },
  {
-  "w": "een",
+  "w": "vragen.",
   "start": 53.78,
   "eind": 54.08
- },
- {
-  "w": "offerte.",
-  "start": 54.11,
-  "eind": 54.42
  }
 ]

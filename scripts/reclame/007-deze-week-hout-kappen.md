@@ -39,9 +39,9 @@
 > Tekst bovenaan (pop): **Na**
 
 ## Call-to-action
-"Ook een boom of hout dat weg moet? Stuur ons een bericht voor een offerte."
+"Een boom of hout dat weg moet? Ook dat kan u aan ons vragen."
 
-> Tekst bovenaan (pop): **Stuur ons een bericht**
+> Tekst bovenaan (pop): **Ook dat kan u aan ons vragen**
 
 > Daarna het standaard eindbeeld (4 s).
 
@@ -68,6 +68,6 @@ Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en i
 > Deze week heb ik een hele stapel brandhout gekliefd, van de grote boom die ik met een stelling naar beneden haalde.
 > Tip: mik op de barsten die al in het hout zitten. Gekliefd hout droogt sneller, en droog hout brandt beter, met minder rook en roet.
 > Het brandhout wordt later verkocht ten voordele van [goed doel].
-> Ook een boom of hout dat weg moet in Antwerpen, Mechelen of omstreken? Stuur ons een bericht voor een offerte.
+> Ook een boom of hout dat weg moet in Antwerpen, Mechelen of omstreken? Ook dat kan u aan ons vragen.
 >
 > #brandhout #goeddoel #tuinonderhoud #antwerpen #mechelen

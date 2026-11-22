@@ -34,9 +34,9 @@
 > Tekst bovenaan (pop): **Na**
 
 ## Call-to-action
-"Ook palmbomen of andere bomen die een snoeibeurt nodig hebben? Stuur ons een foto voor een prijsinschatting."
+"Palmbomen of andere bomen die een snoeibeurt nodig hebben? Ook dat kan u aan ons vragen."
 
-> Tekst bovenaan (pop): **Stuur ons een foto**
+> Tekst bovenaan (pop): **Ook dat kan u aan ons vragen**
 
 > Daarna het standaard eindbeeld (4 s).
 
@@ -65,7 +65,7 @@ Vertel het in je eigen woorden; [tussen haken] = vul zelf in, of zeg het me en i
 
 ## Caption
 > Deze week snoeide ik palmbomen: oude bladeren weg, alles opgekuist en afgevoerd.
-> Ook bomen of struiken die een snoeibeurt nodig hebben in Antwerpen, Mechelen of omstreken? Stuur ons een foto voor een prijsinschatting.
+> Ook bomen of struiken die een snoeibeurt nodig hebben in Antwerpen, Mechelen of omstreken? Ook dat kan u aan ons vragen.
 > Tuin en rommel in één keer geregeld.
 >
 > #tuinonderhoud #palmboom #snoeien #antwerpen #mechelen
