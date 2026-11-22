@@ -1,38 +1,38 @@
 [
  {
   "w": "Vandaag",
-  "start": 0.15,
-  "eind": 0.77
+  "start": 0.24,
+  "eind": 0.85
  },
  {
   "w": "heb",
-  "start": 0.77,
-  "eind": 0.92
+  "start": 0.85,
+  "eind": 1.0
  },
  {
   "w": "ik",
-  "start": 0.92,
-  "eind": 0.99
+  "start": 1.0,
+  "eind": 1.07
  },
  {
   "w": "klimop",
-  "start": 0.99,
-  "eind": 1.28
+  "start": 1.07,
+  "eind": 1.36
  },
  {
   "w": "van",
-  "start": 1.28,
-  "eind": 1.48
+  "start": 1.36,
+  "eind": 1.56
  },
  {
   "w": "bomen",
-  "start": 1.48,
-  "eind": 1.68
+  "start": 1.56,
+  "eind": 1.76
  },
  {
   "w": "getrokken.",
-  "start": 1.68,
-  "eind": 2.34
+  "start": 1.76,
+  "eind": 2.42
  },
  {
   "w": "In",
@@ -51,642 +51,642 @@
  },
  {
   "w": "Zo",
-  "start": 3.47,
-  "eind": 3.62
+  "start": 3.58,
+  "eind": 3.73
  },
  {
   "w": "zagen",
-  "start": 3.62,
-  "eind": 3.87
+  "start": 3.73,
+  "eind": 3.98
  },
  {
   "w": "de",
-  "start": 3.87,
-  "eind": 4.05
+  "start": 3.98,
+  "eind": 4.16
  },
  {
   "w": "bomen",
-  "start": 4.05,
-  "eind": 4.22
+  "start": 4.16,
+  "eind": 4.33
  },
  {
   "w": "eruit.",
-  "start": 4.22,
-  "eind": 4.55
+  "start": 4.33,
+  "eind": 4.65
  },
  {
   "w": "De",
-  "start": 4.81,
-  "eind": 4.95
+  "start": 4.84,
+  "eind": 4.98
  },
  {
   "w": "stammen",
-  "start": 4.95,
-  "eind": 5.14
+  "start": 4.98,
+  "eind": 5.16
  },
  {
   "w": "helemaal",
-  "start": 5.14,
-  "eind": 5.48
+  "start": 5.16,
+  "eind": 5.51
  },
  {
   "w": "ingepakt",
-  "start": 5.48,
-  "eind": 5.86
+  "start": 5.51,
+  "eind": 5.89
  },
  {
   "w": "door",
-  "start": 5.86,
-  "eind": 6.01
+  "start": 5.89,
+  "eind": 6.04
  },
  {
   "w": "klimop.",
-  "start": 6.01,
-  "eind": 6.45
+  "start": 6.04,
+  "eind": 6.47
  },
  {
   "w": "Klimop",
-  "start": 6.77,
-  "eind": 7.06
+  "start": 6.91,
+  "eind": 7.2
  },
  {
   "w": "is",
-  "start": 7.06,
-  "eind": 7.25
+  "start": 7.2,
+  "eind": 7.38
  },
  {
   "w": "geen",
-  "start": 7.25,
-  "eind": 7.43
+  "start": 7.38,
+  "eind": 7.56
  },
  {
   "w": "parasiet.",
-  "start": 7.43,
-  "eind": 7.94
+  "start": 7.56,
+  "eind": 8.07
  },
  {
   "w": "Het",
-  "start": 8.05,
-  "eind": 8.23
+  "start": 8.18,
+  "eind": 8.36
  },
  {
   "w": "steelt",
-  "start": 8.23,
-  "eind": 8.43
+  "start": 8.36,
+  "eind": 8.56
  },
  {
   "w": "geen",
-  "start": 8.43,
-  "eind": 8.57
+  "start": 8.56,
+  "eind": 8.71
  },
  {
   "w": "voeding",
-  "start": 8.57,
-  "eind": 8.85
+  "start": 8.71,
+  "eind": 8.98
  },
  {
   "w": "van",
-  "start": 8.85,
-  "eind": 9.05
+  "start": 8.98,
+  "eind": 9.18
  },
  {
   "w": "de",
-  "start": 9.05,
-  "eind": 9.21
- },
- {
-  "w": "boom.",
-  "start": 9.21,
+  "start": 9.18,
   "eind": 9.35
  },
  {
+  "w": "boom.",
+  "start": 9.35,
+  "eind": 9.49
+ },
+ {
   "w": "Maar",
-  "start": 9.74,
-  "eind": 9.86
+  "start": 9.98,
+  "eind": 10.11
  },
  {
   "w": "het",
-  "start": 9.86,
-  "eind": 10.01
+  "start": 10.11,
+  "eind": 10.25
  },
  {
   "w": "maakt",
-  "start": 10.01,
-  "eind": 10.21
+  "start": 10.25,
+  "eind": 10.45
  },
  {
   "w": "een",
-  "start": 10.21,
-  "eind": 10.37
+  "start": 10.45,
+  "eind": 10.62
  },
  {
   "w": "boom",
-  "start": 10.37,
-  "eind": 10.52
+  "start": 10.62,
+  "eind": 10.76
  },
  {
   "w": "zwaar,",
-  "start": 10.52,
-  "eind": 10.99
+  "start": 10.76,
+  "eind": 11.24
  },
  {
   "w": "vangt",
-  "start": 11.08,
-  "eind": 11.35
+  "start": 11.33,
+  "eind": 11.6
  },
  {
   "w": "veel",
-  "start": 11.35,
-  "eind": 11.45
+  "start": 11.6,
+  "eind": 11.69
  },
  {
   "w": "wind",
-  "start": 11.45,
-  "eind": 11.72
+  "start": 11.69,
+  "eind": 11.96
  },
  {
   "w": "en",
-  "start": 11.72,
-  "eind": 12.01
+  "start": 11.96,
+  "eind": 12.25
  },
  {
   "w": "verstopt",
-  "start": 12.01,
-  "eind": 12.37
+  "start": 12.25,
+  "eind": 12.62
  },
  {
   "w": "wat",
-  "start": 12.37,
-  "eind": 12.5
+  "start": 12.62,
+  "eind": 12.75
  },
  {
   "w": "eronder",
-  "start": 12.5,
-  "eind": 12.83
+  "start": 12.75,
+  "eind": 13.07
  },
  {
   "w": "zit.",
-  "start": 12.83,
-  "eind": 13.1
+  "start": 13.07,
+  "eind": 13.35
  },
  {
   "w": "Klimop",
-  "start": 13.44,
-  "eind": 14.05
+  "start": 13.79,
+  "eind": 14.41
  },
  {
   "w": "kan",
-  "start": 14.05,
-  "eind": 14.25
+  "start": 14.41,
+  "eind": 14.61
  },
  {
   "w": "ervoor",
-  "start": 14.25,
-  "eind": 14.53
+  "start": 14.61,
+  "eind": 14.88
  },
  {
   "w": "zorgen",
-  "start": 14.53,
-  "eind": 15.25
+  "start": 14.88,
+  "eind": 15.61
  },
  {
   "w": "dat",
-  "start": 15.25,
-  "eind": 15.51
+  "start": 15.61,
+  "eind": 15.86
  },
  {
   "w": "bomen",
-  "start": 15.7,
-  "eind": 16.06
+  "start": 16.16,
+  "eind": 16.53
  },
  {
   "w": "of",
-  "start": 16.06,
-  "eind": 16.61
+  "start": 16.53,
+  "eind": 17.07
  },
  {
   "w": "struiken",
-  "start": 16.61,
-  "eind": 17.23
+  "start": 17.07,
+  "eind": 17.69
  },
  {
   "w": "overwoekert.",
-  "start": 17.23,
-  "eind": 18.14
+  "start": 17.69,
+  "eind": 18.6
  },
  {
   "w": "Daardoor",
-  "start": 18.51,
-  "eind": 19.11
+  "start": 18.97,
+  "eind": 19.57
  },
  {
   "w": "wordt",
-  "start": 19.11,
-  "eind": 19.33
+  "start": 19.57,
+  "eind": 19.79
  },
  {
   "w": "het",
-  "start": 19.33,
-  "eind": 19.53
+  "start": 19.79,
+  "eind": 19.99
  },
  {
   "w": "hele",
-  "start": 19.53,
-  "eind": 19.96
+  "start": 19.99,
+  "eind": 20.43
  },
  {
   "w": "bladerenbed",
-  "start": 19.96,
-  "eind": 20.85
+  "start": 20.43,
+  "eind": 21.32
  },
  {
   "w": "overdekt",
-  "start": 20.85,
-  "eind": 21.58
+  "start": 21.32,
+  "eind": 22.05
  },
  {
   "w": "door",
-  "start": 21.58,
-  "eind": 21.8
+  "start": 22.05,
+  "eind": 22.26
  },
  {
   "w": "klimop",
-  "start": 21.8,
-  "eind": 22.25
+  "start": 22.26,
+  "eind": 22.72
  },
  {
   "w": "en",
-  "start": 22.25,
-  "eind": 22.56
+  "start": 22.72,
+  "eind": 23.03
  },
  {
   "w": "krijgt",
-  "start": 22.56,
-  "eind": 22.82
+  "start": 23.03,
+  "eind": 23.28
  },
  {
   "w": "de",
-  "start": 22.82,
-  "eind": 22.93
+  "start": 23.28,
+  "eind": 23.39
  },
  {
   "w": "boom",
-  "start": 22.93,
-  "eind": 23.11
+  "start": 23.39,
+  "eind": 23.57
  },
  {
   "w": "zelf",
-  "start": 23.11,
-  "eind": 23.4
+  "start": 23.57,
+  "eind": 23.86
  },
  {
   "w": "geen",
-  "start": 23.4,
-  "eind": 23.56
+  "start": 23.86,
+  "eind": 24.03
  },
  {
   "w": "licht",
-  "start": 23.56,
-  "eind": 23.82
+  "start": 24.03,
+  "eind": 24.28
  },
  {
   "w": "meer.",
-  "start": 23.82,
-  "eind": 24.07
+  "start": 24.28,
+  "eind": 24.54
  },
  {
   "w": "Het",
-  "start": 24.4,
-  "eind": 24.51
+  "start": 24.97,
+  "eind": 25.08
  },
  {
   "w": "losknippen,",
-  "start": 24.51,
-  "eind": 25.04
+  "start": 25.08,
+  "eind": 25.61
  },
  {
   "w": "lostrekken,",
-  "start": 25.11,
-  "eind": 25.82
+  "start": 25.68,
+  "eind": 26.39
  },
  {
   "w": "stam",
-  "start": 26.07,
-  "eind": 26.07
+  "start": 26.63,
+  "eind": 26.63
  },
  {
   "w": "per",
-  "start": 26.07,
-  "eind": 26.29
+  "start": 26.63,
+  "eind": 26.85
  },
  {
   "w": "stam.",
-  "start": 26.29,
-  "eind": 26.55
+  "start": 26.85,
+  "eind": 27.1
  },
  {
   "w": "Een",
-  "start": 26.93,
-  "eind": 27.09
+  "start": 27.59,
+  "eind": 27.75
  },
  {
   "w": "goede",
-  "start": 27.09,
-  "eind": 27.29
+  "start": 27.75,
+  "eind": 27.95
  },
  {
   "w": "tip,",
-  "start": 27.29,
-  "eind": 27.6
+  "start": 27.95,
+  "eind": 28.26
  },
  {
   "w": "knip",
-  "start": 27.85,
-  "eind": 28.05
+  "start": 28.63,
+  "eind": 28.83
  },
  {
   "w": "de",
-  "start": 28.05,
-  "eind": 28.18
+  "start": 28.83,
+  "eind": 28.95
  },
  {
   "w": "klimop",
-  "start": 28.18,
-  "eind": 28.49
+  "start": 28.95,
+  "eind": 29.26
  },
  {
   "w": "onder",
-  "start": 28.49,
-  "eind": 28.78
+  "start": 29.26,
+  "eind": 29.55
  },
  {
   "w": "aan",
-  "start": 28.78,
-  "eind": 28.91
+  "start": 29.55,
+  "eind": 29.68
  },
  {
   "w": "de",
-  "start": 28.91,
-  "eind": 29.09
+  "start": 29.68,
+  "eind": 29.86
  },
  {
   "w": "stam",
-  "start": 29.09,
-  "eind": 29.2
+  "start": 29.86,
+  "eind": 29.97
  },
  {
   "w": "door.",
-  "start": 29.2,
-  "eind": 29.47
+  "start": 29.97,
+  "eind": 30.25
  },
  {
   "w": "Wat",
-  "start": 29.83,
-  "eind": 29.95
+  "start": 30.6,
+  "eind": 30.73
  },
  {
   "w": "er",
-  "start": 29.95,
-  "eind": 30.14
+  "start": 30.73,
+  "eind": 30.91
  },
  {
   "w": "boven",
-  "start": 30.14,
-  "eind": 30.37
+  "start": 30.91,
+  "eind": 31.15
  },
  {
   "w": "groeit,",
-  "start": 30.37,
-  "eind": 30.66
+  "start": 31.15,
+  "eind": 31.44
  },
  {
   "w": "sterft",
-  "start": 30.77,
-  "eind": 30.97
+  "start": 31.55,
+  "eind": 31.75
  },
  {
   "w": "dan",
-  "start": 30.97,
-  "eind": 31.12
+  "start": 31.75,
+  "eind": 31.89
  },
  {
   "w": "vanzelf",
-  "start": 31.12,
-  "eind": 31.45
+  "start": 31.89,
+  "eind": 32.22
  },
  {
   "w": "af.",
-  "start": 31.45,
-  "eind": 31.65
+  "start": 32.22,
+  "eind": 32.42
  },
  {
   "w": "Het",
-  "start": 31.98,
-  "eind": 32.53
+  "start": 32.81,
+  "eind": 33.35
  },
  {
   "w": "regent,",
-  "start": 32.53,
-  "eind": 32.85
+  "start": 33.35,
+  "eind": 33.68
  },
  {
   "w": "maar",
-  "start": 32.96,
-  "eind": 33.04
+  "start": 33.79,
+  "eind": 33.86
  },
  {
   "w": "het",
-  "start": 33.04,
-  "eind": 33.16
+  "start": 33.86,
+  "eind": 33.99
  },
  {
   "w": "werk",
-  "start": 33.16,
-  "eind": 33.31
+  "start": 33.99,
+  "eind": 34.14
  },
  {
   "w": "gaat",
-  "start": 33.31,
-  "eind": 33.49
+  "start": 34.14,
+  "eind": 34.32
  },
  {
   "w": "gewoon",
-  "start": 33.49,
-  "eind": 33.78
+  "start": 34.32,
+  "eind": 34.61
  },
  {
   "w": "door.",
-  "start": 33.78,
-  "eind": 34.22
+  "start": 34.61,
+  "eind": 35.05
  },
  {
   "w": "Daarna",
-  "start": 34.94,
-  "eind": 35.21
+  "start": 35.82,
+  "eind": 36.09
  },
  {
   "w": "alles",
-  "start": 35.21,
-  "eind": 35.57
+  "start": 36.09,
+  "eind": 36.45
  },
  {
   "w": "opkuisen",
-  "start": 35.57,
-  "eind": 35.9
+  "start": 36.45,
+  "eind": 36.78
  },
  {
   "w": "en",
-  "start": 35.9,
-  "eind": 36.03
+  "start": 36.78,
+  "eind": 36.91
  },
  {
   "w": "afvoeren,",
-  "start": 36.03,
-  "eind": 36.55
+  "start": 36.91,
+  "eind": 37.44
  },
  {
   "w": "zodat",
-  "start": 36.81,
-  "eind": 36.95
+  "start": 37.62,
+  "eind": 37.76
  },
  {
   "w": "er",
-  "start": 36.95,
-  "eind": 37.14
+  "start": 37.76,
+  "eind": 37.95
  },
  {
   "w": "niks",
-  "start": 37.14,
-  "eind": 37.34
+  "start": 37.95,
+  "eind": 38.15
  },
  {
   "w": "blijft",
-  "start": 37.34,
-  "eind": 37.59
+  "start": 38.15,
+  "eind": 38.4
  },
  {
   "w": "liggen.",
-  "start": 37.59,
-  "eind": 38.32
+  "start": 38.4,
+  "eind": 39.13
  },
  {
   "w": "En",
-  "start": 39.35,
-  "eind": 39.46
+  "start": 40.24,
+  "eind": 40.35
  },
  {
   "w": "zo",
-  "start": 39.46,
-  "eind": 39.57
+  "start": 40.35,
+  "eind": 40.45
  },
  {
   "w": "staan",
-  "start": 39.57,
-  "eind": 39.74
+  "start": 40.45,
+  "eind": 40.62
  },
  {
   "w": "ze",
-  "start": 39.74,
-  "eind": 39.83
+  "start": 40.62,
+  "eind": 40.71
  },
  {
   "w": "er",
-  "start": 39.83,
-  "eind": 39.97
+  "start": 40.71,
+  "eind": 40.85
  },
  {
   "w": "nu",
-  "start": 39.97,
-  "eind": 40.12
+  "start": 40.85,
+  "eind": 41.0
  },
  {
   "w": "bij.",
-  "start": 40.12,
-  "eind": 40.32
- },
- {
-  "w": "De",
-  "start": 40.6,
-  "eind": 40.76
- },
- {
-  "w": "stammen",
-  "start": 40.76,
-  "eind": 40.93
- },
- {
-  "w": "weer",
-  "start": 40.93,
+  "start": 41.0,
   "eind": 41.2
  },
  {
+  "w": "De",
+  "start": 41.4,
+  "eind": 41.56
+ },
+ {
+  "w": "stammen",
+  "start": 41.56,
+  "eind": 41.73
+ },
+ {
+  "w": "weer",
+  "start": 41.73,
+  "eind": 42.0
+ },
+ {
   "w": "vrij.",
-  "start": 41.2,
-  "eind": 41.53
+  "start": 42.0,
+  "eind": 42.33
  },
  {
   "w": "Bomen,",
-  "start": 41.85,
-  "eind": 42.16
+  "start": 42.76,
+  "eind": 43.07
  },
  {
   "w": "struiken",
-  "start": 42.42,
-  "eind": 42.67
+  "start": 43.27,
+  "eind": 43.53
  },
  {
   "w": "of",
-  "start": 42.67,
-  "eind": 42.89
+  "start": 43.53,
+  "eind": 43.75
  },
  {
   "w": "muren",
-  "start": 42.89,
-  "eind": 43.15
+  "start": 43.75,
+  "eind": 44.0
  },
  {
   "w": "vol",
-  "start": 43.15,
-  "eind": 43.29
- },
- {
-  "w": "klimop?",
-  "start": 43.29,
-  "eind": 43.71
- },
- {
-  "w": "Ook",
-  "start": 44.06,
+  "start": 44.0,
   "eind": 44.15
  },
  {
-  "w": "dat",
+  "w": "klimop?",
   "start": 44.15,
-  "eind": 44.34
+  "eind": 44.56
+ },
+ {
+  "w": "Ook",
+  "start": 44.92,
+  "eind": 45.01
+ },
+ {
+  "w": "dat",
+  "start": 45.01,
+  "eind": 45.19
  },
  {
   "w": "kan",
-  "start": 44.34,
-  "eind": 44.5
+  "start": 45.19,
+  "eind": 45.35
  },
  {
   "w": "u",
-  "start": 44.5,
-  "eind": 44.61
+  "start": 45.35,
+  "eind": 45.46
  },
  {
   "w": "aan",
-  "start": 44.61,
-  "eind": 44.7
+  "start": 45.46,
+  "eind": 45.55
  },
  {
   "w": "ons",
-  "start": 44.7,
-  "eind": 44.83
+  "start": 45.55,
+  "eind": 45.68
  },
  {
   "w": "vragen.",
-  "start": 44.83,
-  "eind": 45.19
+  "start": 45.68,
+  "eind": 46.05
  }
 ]

@@ -14,8 +14,8 @@
   {
    "bestand": "media/rv4/foto_20261109_152257.mp4",
    "van": 0,
-   "tot": 5.76,
-   "snelheid": 1.1
+   "tot": 5.95,
+   "snelheid": 1.0604
   },
   {
    "bestand": "media/rv4/20261109_152300.mp4",
@@ -26,14 +26,14 @@
   {
    "bestand": "media/rv4/foto_20261109_152257_1.mp4",
    "van": 0,
-   "tot": 2.04,
+   "tot": 2.46,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv4/foto_20261109_165817.mp4",
    "van": 1.0,
    "tot": 5.95,
-   "snelheid": 1.0043
+   "snelheid": 1.0164
   },
   {
    "bestand": "media/rv4/20261116_105707.mp4",
@@ -50,7 +50,7 @@
   {
    "bestand": "media/rv4/foto_20261114_111407.mp4",
    "van": 0,
-   "tot": 3.65,
+   "tot": 3.68,
    "snelheid": 1.1
   },
   {
@@ -62,7 +62,7 @@
   {
    "bestand": "media/rv4/foto_20261114_111409.mp4",
    "van": 0,
-   "tot": 1.67,
+   "tot": 1.82,
    "snelheid": 1.1
   }
  ],
@@ -76,19 +76,19 @@
   {
    "tekst": "Voor",
    "van": 4.09,
-   "tot": 9.1,
+   "tot": 9.47,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 32.51,
-   "tot": 35.6,
+   "van": 33.2,
+   "tot": 36.32,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 35.83,
-   "tot": 39.85,
+   "van": 36.55,
+   "tot": 40.7,
    "stijl": "pop"
   }
  ],

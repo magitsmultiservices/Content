@@ -8,7 +8,7 @@
   {
    "bestand": "media/rv7/20261118_152311.mp4",
    "van": 20.0,
-   "tot": 23.85,
+   "tot": 23.88,
    "snelheid": 1.1
   },
   {
@@ -20,7 +20,7 @@
   {
    "bestand": "media/rv4/20261116_105707.mp4",
    "van": 2.0,
-   "tot": 7.2,
+   "tot": 7.44,
    "snelheid": 1.1
   },
   {
@@ -104,7 +104,7 @@
   {
    "bestand": "media/rv7/20261120_130304.mp4",
    "van": 0.0,
-   "tot": 106.93,
+   "tot": 117.73,
    "snelheid": 44.0
   },
   {
@@ -116,7 +116,7 @@
   {
    "bestand": "media/rv7/20261120_123817.mp4",
    "van": 0.0,
-   "tot": 2.94,
+   "tot": 3.18,
    "snelheid": 1.1
   },
   {
@@ -134,19 +134,19 @@
   {
    "bestand": "media/rv7/foto_20261118_160011.mp4",
    "van": 0,
-   "tot": 1.7,
+   "tot": 2.06,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv7/20261120_132245.mp4",
    "van": 0.0,
-   "tot": 2.62,
+   "tot": 2.74,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
    "van": 356.0,
-   "tot": 359.78,
+   "tot": 359.93,
    "snelheid": 1.1
   }
  ],
@@ -154,25 +154,25 @@
  "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
  "hook": {
   "tekst": "Brandhout | voor het goede doel",
-  "tot": 3.45
+  "tot": 3.48
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.59,
-   "tot": 10.09,
+   "van": 3.62,
+   "tot": 10.34,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 43.3,
-   "tot": 45.45,
+   "van": 44.34,
+   "tot": 46.6,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 45.68,
-   "tot": 48.89,
+   "van": 46.83,
+   "tot": 50.17,
    "stijl": "pop"
   }
  ],
