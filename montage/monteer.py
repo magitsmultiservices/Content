@@ -451,9 +451,24 @@ def main():
             totaal += duur
         filters.append(f"[{laatste}]ass={ass}:fontsdir={FONTS},format=yuv420p[v]")
         hoofd = werk / "hoofd.mp4"
+        stem = project.get("stem")
+        if stem:
+            # Ingesproken stem (voice-over) als apart geluidsbestand, vanaf 0 s op de tijdlijn.
+            # Met 'geluid': true komt het geluid van de clips er zacht onder.
+            n = len(stukken) + 1
+            invoer += ["-i", str(ROOT / stem)]
+            stemfilter = f"[{n}:a]aresample=48000,aformat=channel_layouts=stereo,apad,atrim=0:{lengte:.3f}"
+            if project.get("geluid", True):
+                filters.append(stemfilter + "[st]")
+                filters.append(f"[0:a]volume={project.get('clipvolume', 0.25)}[cl]")
+                filters.append("[st][cl]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]")
+            else:
+                filters.append(stemfilter + ",loudnorm=I=-14:TP=-1.5:LRA=11[a]")
+            audio = ["-map", "[a]"]
+        else:
+            audio = ["-map", "0:a", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11"]
         run(["ffmpeg", "-y", "-v", "error", *invoer, "-filter_complex", ";".join(filters),
-             "-map", "[v]", "-map", "0:a", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11",
-             *VIDEO_OPTS, *AUDIO_OPTS, str(hoofd)])
+             "-map", "[v]", *audio, *VIDEO_OPTS, *AUDIO_OPTS, str(hoofd)])
 
         print("4/4 Eindbeeld en export…")
         delen = [hoofd]
