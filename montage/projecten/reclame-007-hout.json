@@ -38,8 +38,12 @@
   {
    "bestand": "media/rv4/20261118_162624.mp4",
    "van": 123.14,
-   "tot": 124.49,
-   "snelheid": 0.758
+   "tot": 124.49
+  },
+  {
+   "bestand": "media/rv7/20261118_153931.mp4",
+   "van": 23.33,
+   "tot": 24.68
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
@@ -69,8 +73,12 @@
   {
    "bestand": "media/rv7/20261118_153310.mp4",
    "van": 45.95,
-   "tot": 47.15,
-   "snelheid": 0.719
+   "tot": 47.15
+  },
+  {
+   "bestand": "media/rv4/20261118_162624.mp4",
+   "van": 171.46,
+   "tot": 172.66
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
@@ -112,8 +120,7 @@
   {
    "bestand": "media/rv4/20261118_162624.mp4",
    "van": 356.0,
-   "tot": 90.96,
-   "snelheid": -42.68
+   "tot": 362.16
   }
  ],
  "broll": [],
@@ -131,14 +138,14 @@
   },
   {
    "tekst": "Na",
-   "van": 28.92,
-   "tot": 33.54,
+   "van": 30.57,
+   "tot": 35.19,
    "stijl": "pop"
   },
   {
-   "tekst": "Stuur ons een berichtje",
-   "van": 39.58,
-   "tot": 45.54,
+   "tekst": "Stuur een bericht",
+   "van": 41.23,
+   "tot": 47.14,
    "stijl": "pop"
   }
  ],
