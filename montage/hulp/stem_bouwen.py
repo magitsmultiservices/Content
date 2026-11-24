@@ -227,9 +227,20 @@ R3, R4, R5, R6, R7 = (f"media/rv{n}/" for n in (3, 4, 5, 6, 7))
 
 
 def videos():
-    N6, N7 = ("vo6", "IMG_3071"), ("vo7", "IMG_3072")
+    N5, N6, N7 = ("vo5", "IMG_3070"), ("vo6", "IMG_3071"), ("vo7", "IMG_3072")
     return {
-     "reclame-006-klimop": ("Reclamevideo 6 · Vandaag: klimop", "output/reclame-006.mp4", "Vandaag: | klimop weg", [
+     "reclame-005-palmbomen": lambda: ("Reclamevideo 5 · Vandaag: palmbomen", "output/reclame-005.mp4", "Vandaag: | palmbomen", [
+       ([stuk(*N5, "Vandaag heb ik", "snoeiber nodig.")], [c(R5+"20261116_143134.mp4", 0.0)], None),
+       ([stuk(*N5, "Toen ik begon,", "bladeren aan.")], [c(R5+"20261116_130245.mp4", 0.0, 2.6), c(R5+"20261116_133446.mp4", 0.0)], "Voor"),
+       ([stuk(*N5, "Dit zijn Chinese", "Belgische tuinen.")], [c(R5+"20261116_135117.mp4", 0.0)], None),
+       ([stuk(*N5, "Ik heb de", "groene kop.")], [c(R5+"20261116_134218.mp4", 1.0, 2.8), c(R5+"20261116_130245.mp4", 3.0, None, 45)], None),
+       ([stuk(*N5, "Daarna heb ik", "het containerpark.")],
+        [c(R5+"20261116_130834.mp4", 0.0, 1.0), c(R5+"20261116_144216.mp4", 0.0, 3.5, 2.5), c(R5+"20261116_144243.mp4", 0.0)], None),
+       ([stuk(*N5, "Voilà, dit is", "het eindresultaat.")], [c(R5+"20261116_130827.mp4", 0.0, 0.9), c(R5+"20261116_144228.mp4", 0.0)], "Na"),
+       ([stuk(*N5, "Palmbomen of andere", "ons vragen.")], [c(R5+"20261116_144236.mp4", 0.0, 2.0), c(R5+"foto_20261116_130844.mp4", 0)],
+        "Ook dat kan u aan ons vragen"),
+     ]),
+     "reclame-006-klimop": lambda: ("Reclamevideo 6 · Vandaag: klimop", "output/reclame-006.mp4", "Vandaag: | klimop weg", [
        ([stuk(*N6, "Vandaag heb ik", "boom getrokken.")], [c(R6+"20261117_113427.mp4", 0.3)], None),
        ([stuk(*N6, "Zoals je ziet", "helemaal ingepakt.")], [c(R6+"20261117_113436.mp4", 0.5)], "Voor"),
        ([stuk(*N6, "Klimop maakt de", "eronder zit.")], [c(R6+"20261117_113746.mp4", 0.0)], None),
@@ -241,7 +252,7 @@ def videos():
        ([stuk(*N6, "Voila, de stammen", "helemaal vrij.")], [c(R6+"20261117_123221.mp4", 0.0)], "Na"),
        ([stuk(*N6, "Bomen strakken of", "ons vragen.")], [c(R6+"20261117_121125.mp4", 0.0)], "Ook dat kan u aan ons vragen"),
      ]),
-     "reclame-007-hout": ("Reclamevideo 7 · Vandaag: brandhout klieven", "output/reclame-007.mp4", "Brandhout | voor het goede doel", [
+     "reclame-007-hout": lambda: ("Reclamevideo 7 · Vandaag: brandhout klieven", "output/reclame-007.mp4", "Brandhout | voor het goede doel", [
        ([stuk(*N7, "Vandaag heb ik", "goede doel.")], [c(R7+"20261118_152311.mp4", 20.0)], None),
        ([stuk(*N7, "Het hout komt", "beneden haalde.")], [c(R4+"IMG_1252_traag2.mp4", 0.0)], None),
        ([stuk(*N7, "Zoals je ziet", "veel hout.")], [c(R4+"20261116_105638.mp4", 17.0)], "Voor"),
@@ -260,7 +271,15 @@ def videos():
     }
 
 
+
 if __name__ == "__main__":
     alle = videos()
     for naam in sys.argv[1:] or list(alle):
-        bouw(naam, *alle[naam])
+        try:
+            spec = alle[naam]()
+        except (FileNotFoundError, ValueError) as e:
+            if sys.argv[1:]:
+                raise
+            print(f"  ! {naam} overgeslagen (opname of tekst ontbreekt): {e}")
+            continue
+        bouw(naam, *spec)
