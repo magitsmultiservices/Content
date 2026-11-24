@@ -1,0 +1,122 @@
+{
+ "titel": "Ondernemingsvideo 5 · Aflevering 5",
+ "uitvoer": "output/005-eenmanszaak-of-vennootschap.mp4",
+ "overgang": 0.15,
+ "clips": [
+  {
+   "bestand": "media/a005/IMG_3073.mp4",
+   "van": 0.79,
+   "tot": 4.69
+  },
+  {
+   "bestand": "media/a005/IMG_3074.mp4",
+   "van": 0.28,
+   "tot": 4.42,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a005/IMG_3075.mp4",
+   "van": 0,
+   "tot": 3.36
+  },
+  {
+   "bestand": "media/a005/IMG_3076.mp4",
+   "van": 2.39,
+   "tot": 6.18,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a005/IMG_3077.mp4",
+   "van": 0,
+   "tot": 3.55
+  },
+  {
+   "bestand": "media/a005/IMG_3078.mp4",
+   "van": 0.47,
+   "tot": 3.99,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a005/IMG_3080.mp4",
+   "van": 0.38,
+   "tot": 4.0
+  },
+  {
+   "bestand": "media/a005/IMG_3081.mp4",
+   "van": 0.28,
+   "tot": 2.96,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a005/IMG_3082.mp4",
+   "van": 0.03,
+   "tot": 3.21
+  },
+  {
+   "bestand": "media/a005/IMG_3083.mp4",
+   "van": 0.0,
+   "tot": 2.15,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a005/IMG_3083.mp4",
+   "van": 3.55,
+   "tot": 5.1
+  },
+  {
+   "bestand": "media/a005/IMG_3084.mp4",
+   "van": 0.09,
+   "tot": 4.75,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a005/IMG_3085.mp4",
+   "van": 0.25,
+   "tot": 4.98
+  },
+  {
+   "bestand": "media/a005/IMG_3086.mp4",
+   "van": 0.06,
+   "tot": 3.3,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a005/IMG_3087.mp4",
+   "van": 1.84,
+   "tot": 4.36
+  },
+  {
+   "bestand": "media/a005/IMG_3088.mp4",
+   "van": 0.06,
+   "tot": 4.22,
+   "zoom": 1.12
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/005-eenmanszaak-of-vennootschap.woorden.json",
+ "hook": {
+  "tekst": "Hoofd- of bijberoep? | Eenmanszaak of BV?",
+  "tot": 3.85
+ },
+ "teksten": [
+  {
+   "tekst": "Halftijds of meer",
+   "van": 11.7,
+   "tot": 15.1,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Jij = het bedrijf",
+   "van": 26.19,
+   "tot": 28.47,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "€1.000+",
+   "van": 42.91,
+   "tot": 44.74,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}

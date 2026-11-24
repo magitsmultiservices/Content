@@ -1,0 +1,882 @@
+[
+ {
+  "w": "Hoofdberoep",
+  "start": 0.15,
+  "eind": 1.09
+ },
+ {
+  "w": "of",
+  "start": 1.09,
+  "eind": 1.29
+ },
+ {
+  "w": "bijberoep.",
+  "start": 1.29,
+  "eind": 2.15
+ },
+ {
+  "w": "Eenmanszaak",
+  "start": 2.37,
+  "eind": 2.97
+ },
+ {
+  "w": "of",
+  "start": 2.97,
+  "eind": 3.15
+ },
+ {
+  "w": "vennootschap.",
+  "start": 3.15,
+  "eind": 3.65
+ },
+ {
+  "w": "Hallo,",
+  "start": 4.05,
+  "eind": 4.63
+ },
+ {
+  "w": "ik",
+  "start": 4.79,
+  "eind": 4.79
+ },
+ {
+  "w": "ben",
+  "start": 4.79,
+  "eind": 4.85
+ },
+ {
+  "w": "Yelte.",
+  "start": 4.85,
+  "eind": 5.23
+ },
+ {
+  "w": "Ik",
+  "start": 5.37,
+  "eind": 5.45
+ },
+ {
+  "w": "heb",
+  "start": 5.45,
+  "eind": 5.51
+ },
+ {
+  "w": "een",
+  "start": 5.51,
+  "eind": 5.63
+ },
+ {
+  "w": "eigen",
+  "start": 5.63,
+  "eind": 5.87
+ },
+ {
+  "w": "zaak",
+  "start": 5.87,
+  "eind": 6.11
+ },
+ {
+  "w": "opgericht",
+  "start": 6.11,
+  "eind": 6.51
+ },
+ {
+  "w": "en",
+  "start": 6.51,
+  "eind": 6.69
+ },
+ {
+  "w": "ik",
+  "start": 6.69,
+  "eind": 6.81
+ },
+ {
+  "w": "neem",
+  "start": 6.81,
+  "eind": 6.95
+ },
+ {
+  "w": "jullie",
+  "start": 6.95,
+  "eind": 7.09
+ },
+ {
+  "w": "mee",
+  "start": 7.09,
+  "eind": 7.25
+ },
+ {
+  "w": "in",
+  "start": 7.25,
+  "eind": 7.41
+ },
+ {
+  "w": "het",
+  "start": 7.41,
+  "eind": 7.53
+ },
+ {
+  "w": "proces.",
+  "start": 7.53,
+  "eind": 7.79
+ },
+ {
+  "w": "Als",
+  "start": 8.18,
+  "eind": 8.8
+ },
+ {
+  "w": "eerste",
+  "start": 8.8,
+  "eind": 9.12
+ },
+ {
+  "w": "de",
+  "start": 9.12,
+  "eind": 9.42
+ },
+ {
+  "w": "keuze",
+  "start": 9.42,
+  "eind": 9.7
+ },
+ {
+  "w": "tussen",
+  "start": 9.7,
+  "eind": 9.92
+ },
+ {
+  "w": "hoofdberoep",
+  "start": 9.92,
+  "eind": 10.48
+ },
+ {
+  "w": "en",
+  "start": 10.48,
+  "eind": 10.7
+ },
+ {
+  "w": "bijberoep.",
+  "start": 10.7,
+  "eind": 11.2
+ },
+ {
+  "w": "Werk",
+  "start": 11.55,
+  "eind": 11.91
+ },
+ {
+  "w": "je",
+  "start": 11.91,
+  "eind": 11.99
+ },
+ {
+  "w": "meer",
+  "start": 11.99,
+  "eind": 12.17
+ },
+ {
+  "w": "dan",
+  "start": 12.17,
+  "eind": 12.35
+ },
+ {
+  "w": "halftijds",
+  "start": 12.35,
+  "eind": 12.53
+ },
+ {
+  "w": "ergens",
+  "start": 12.75,
+  "eind": 13.07
+ },
+ {
+  "w": "anders?",
+  "start": 13.07,
+  "eind": 13.47
+ },
+ {
+  "w": "Dan",
+  "start": 13.77,
+  "eind": 13.89
+ },
+ {
+  "w": "kan",
+  "start": 13.89,
+  "eind": 14.03
+ },
+ {
+  "w": "je",
+  "start": 14.03,
+  "eind": 14.15
+ },
+ {
+  "w": "kiezen",
+  "start": 14.15,
+  "eind": 14.39
+ },
+ {
+  "w": "voor",
+  "start": 14.39,
+  "eind": 14.61
+ },
+ {
+  "w": "een",
+  "start": 14.61,
+  "eind": 14.71
+ },
+ {
+  "w": "bijberoep.",
+  "start": 14.71,
+  "eind": 15.13
+ },
+ {
+  "w": "Het",
+  "start": 15.31,
+  "eind": 15.87
+ },
+ {
+  "w": "voordeel",
+  "start": 15.87,
+  "eind": 16.23
+ },
+ {
+  "w": "is",
+  "start": 16.23,
+  "eind": 16.47
+ },
+ {
+  "w": "dan",
+  "start": 16.47,
+  "eind": 16.63
+ },
+ {
+  "w": "dat",
+  "start": 16.63,
+  "eind": 16.73
+ },
+ {
+  "w": "je",
+  "start": 16.73,
+  "eind": 16.89
+ },
+ {
+  "w": "minder",
+  "start": 16.89,
+  "eind": 17.17
+ },
+ {
+  "w": "sociale",
+  "start": 17.17,
+  "eind": 17.53
+ },
+ {
+  "w": "bijdragen",
+  "start": 17.53,
+  "eind": 17.97
+ },
+ {
+  "w": "moet",
+  "start": 17.97,
+  "eind": 18.17
+ },
+ {
+  "w": "betalen.",
+  "start": 18.17,
+  "eind": 18.55
+ },
+ {
+  "w": "Aangezien",
+  "start": 18.9,
+  "eind": 19.68
+ },
+ {
+  "w": "ik",
+  "start": 19.68,
+  "eind": 19.82
+ },
+ {
+  "w": "nog",
+  "start": 19.82,
+  "eind": 19.98
+ },
+ {
+  "w": "ergens",
+  "start": 19.98,
+  "eind": 20.2
+ },
+ {
+  "w": "anders",
+  "start": 20.2,
+  "eind": 20.42
+ },
+ {
+  "w": "werk,",
+  "start": 20.42,
+  "eind": 20.66
+ },
+ {
+  "w": "heb",
+  "start": 20.8,
+  "eind": 20.82
+ },
+ {
+  "w": "ik",
+  "start": 20.82,
+  "eind": 20.98
+ },
+ {
+  "w": "gekozen",
+  "start": 20.98,
+  "eind": 21.32
+ },
+ {
+  "w": "voor",
+  "start": 21.32,
+  "eind": 21.5
+ },
+ {
+  "w": "een",
+  "start": 21.5,
+  "eind": 21.58
+ },
+ {
+  "w": "bijberoep.",
+  "start": 21.58,
+  "eind": 22.02
+ },
+ {
+  "w": "Daarna",
+  "start": 22.42,
+  "eind": 23.08
+ },
+ {
+  "w": "moet",
+  "start": 23.08,
+  "eind": 23.22
+ },
+ {
+  "w": "je",
+  "start": 23.22,
+  "eind": 23.38
+ },
+ {
+  "w": "kiezen",
+  "start": 23.38,
+  "eind": 23.82
+ },
+ {
+  "w": "tussen",
+  "start": 23.82,
+  "eind": 24.12
+ },
+ {
+  "w": "een",
+  "start": 24.12,
+  "eind": 24.28
+ },
+ {
+  "w": "eenmanszaak",
+  "start": 24.28,
+  "eind": 24.88
+ },
+ {
+  "w": "of",
+  "start": 24.88,
+  "eind": 25.02
+ },
+ {
+  "w": "een",
+  "start": 25.02,
+  "eind": 25.12
+ },
+ {
+  "w": "vennootschap.",
+  "start": 25.12,
+  "eind": 25.64
+ },
+ {
+  "w": "Bij",
+  "start": 26.04,
+  "eind": 26.64
+ },
+ {
+  "w": "een",
+  "start": 26.64,
+  "eind": 26.76
+ },
+ {
+  "w": "eenmanszaak",
+  "start": 26.76,
+  "eind": 27.4
+ },
+ {
+  "w": "ben",
+  "start": 27.4,
+  "eind": 27.58
+ },
+ {
+  "w": "jij",
+  "start": 27.58,
+  "eind": 27.76
+ },
+ {
+  "w": "het",
+  "start": 27.76,
+  "eind": 28.0
+ },
+ {
+  "w": "bedrijf.",
+  "start": 28.0,
+  "eind": 28.32
+ },
+ {
+  "w": "Maar",
+  "start": 28.72,
+  "eind": 29.3
+ },
+ {
+  "w": "gaat",
+  "start": 29.3,
+  "eind": 29.42
+ },
+ {
+  "w": "het",
+  "start": 29.42,
+  "eind": 29.58
+ },
+ {
+  "w": "mis,",
+  "start": 29.58,
+  "eind": 29.82
+ },
+ {
+  "w": "dan",
+  "start": 29.92,
+  "eind": 30.0
+ },
+ {
+  "w": "betaal",
+  "start": 30.0,
+  "eind": 30.26
+ },
+ {
+  "w": "je",
+  "start": 30.26,
+  "eind": 30.4
+ },
+ {
+  "w": "de",
+  "start": 30.4,
+  "eind": 30.5
+ },
+ {
+  "w": "schulden",
+  "start": 30.5,
+  "eind": 30.74
+ },
+ {
+  "w": "met",
+  "start": 30.74,
+  "eind": 30.86
+ },
+ {
+  "w": "je",
+  "start": 30.86,
+  "eind": 31.04
+ },
+ {
+  "w": "eigen",
+  "start": 31.04,
+  "eind": 31.26
+ },
+ {
+  "w": "geld.",
+  "start": 31.26,
+  "eind": 31.5
+ },
+ {
+  "w": "Bij",
+  "start": 31.85,
+  "eind": 32.39
+ },
+ {
+  "w": "een",
+  "start": 32.39,
+  "eind": 32.49
+ },
+ {
+  "w": "vennootschap",
+  "start": 32.49,
+  "eind": 33.03
+ },
+ {
+  "w": "zoals",
+  "start": 33.03,
+  "eind": 33.25
+ },
+ {
+  "w": "een",
+  "start": 33.25,
+  "eind": 33.45
+ },
+ {
+  "w": "BV,",
+  "start": 33.45,
+  "eind": 33.84
+ },
+ {
+  "w": "is",
+  "start": 33.93,
+  "eind": 34.01
+ },
+ {
+  "w": "je",
+  "start": 34.01,
+  "eind": 34.11
+ },
+ {
+  "w": "bedrijf",
+  "start": 34.11,
+  "eind": 34.45
+ },
+ {
+  "w": "een",
+  "start": 34.45,
+  "eind": 34.57
+ },
+ {
+  "w": "aparte",
+  "start": 34.57,
+  "eind": 34.95
+ },
+ {
+  "w": "persoon.",
+  "start": 34.95,
+  "eind": 35.19
+ },
+ {
+  "w": "Je",
+  "start": 35.6,
+  "eind": 36.2
+ },
+ {
+  "w": "eigen",
+  "start": 36.2,
+  "eind": 36.4
+ },
+ {
+  "w": "geld",
+  "start": 36.4,
+  "eind": 36.56
+ },
+ {
+  "w": "is",
+  "start": 36.56,
+  "eind": 36.74
+ },
+ {
+  "w": "beter",
+  "start": 36.74,
+  "eind": 37.04
+ },
+ {
+  "w": "beschermd",
+  "start": 37.04,
+  "eind": 37.78
+ },
+ {
+  "w": "en",
+  "start": 37.78,
+  "eind": 38.2
+ },
+ {
+  "w": "de",
+  "start": 38.2,
+  "eind": 38.34
+ },
+ {
+  "w": "belasting",
+  "start": 38.34,
+  "eind": 38.58
+ },
+ {
+  "w": "op",
+  "start": 38.58,
+  "eind": 38.72
+ },
+ {
+  "w": "je",
+  "start": 38.72,
+  "eind": 38.88
+ },
+ {
+  "w": "winst",
+  "start": 38.88,
+  "eind": 39.12
+ },
+ {
+  "w": "ligt",
+  "start": 39.12,
+  "eind": 39.3
+ },
+ {
+  "w": "vaak",
+  "start": 39.3,
+  "eind": 39.52
+ },
+ {
+  "w": "lager.",
+  "start": 39.52,
+  "eind": 39.86
+ },
+ {
+  "w": "Maar",
+  "start": 40.26,
+  "eind": 40.84
+ },
+ {
+  "w": "je",
+  "start": 40.84,
+  "eind": 40.92
+ },
+ {
+  "w": "hebt",
+  "start": 40.92,
+  "eind": 41.04
+ },
+ {
+  "w": "een",
+  "start": 41.04,
+  "eind": 41.16
+ },
+ {
+  "w": "notaris",
+  "start": 41.16,
+  "eind": 41.58
+ },
+ {
+  "w": "en",
+  "start": 41.58,
+  "eind": 41.74
+ },
+ {
+  "w": "een",
+  "start": 41.74,
+  "eind": 41.86
+ },
+ {
+  "w": "boekhouder",
+  "start": 41.86,
+  "eind": 42.26
+ },
+ {
+  "w": "nodig",
+  "start": 42.26,
+  "eind": 42.64
+ },
+ {
+  "w": "en",
+  "start": 42.64,
+  "eind": 42.98
+ },
+ {
+  "w": "dat",
+  "start": 42.98,
+  "eind": 43.14
+ },
+ {
+  "w": "kost",
+  "start": 43.14,
+  "eind": 43.3
+ },
+ {
+  "w": "al",
+  "start": 43.3,
+  "eind": 43.52
+ },
+ {
+  "w": "snel",
+  "start": 43.52,
+  "eind": 43.72
+ },
+ {
+  "w": "meer",
+  "start": 43.72,
+  "eind": 43.96
+ },
+ {
+  "w": "dan",
+  "start": 43.96,
+  "eind": 44.08
+ },
+ {
+  "w": "1.000",
+  "start": 44.08,
+  "eind": 44.36
+ },
+ {
+  "w": "euro.",
+  "start": 44.36,
+  "eind": 44.68
+ },
+ {
+  "w": "Daarom",
+  "start": 44.99,
+  "eind": 45.75
+ },
+ {
+  "w": "loont",
+  "start": 45.75,
+  "eind": 45.89
+ },
+ {
+  "w": "een",
+  "start": 45.89,
+  "eind": 45.99
+ },
+ {
+  "w": "vennootschap",
+  "start": 45.99,
+  "eind": 46.51
+ },
+ {
+  "w": "pas",
+  "start": 46.51,
+  "eind": 46.67
+ },
+ {
+  "w": "als",
+  "start": 46.67,
+  "eind": 46.87
+ },
+ {
+  "w": "je",
+  "start": 46.87,
+  "eind": 47.03
+ },
+ {
+  "w": "genoeg",
+  "start": 47.03,
+  "eind": 47.25
+ },
+ {
+  "w": "winst",
+  "start": 47.25,
+  "eind": 47.51
+ },
+ {
+  "w": "maakt.",
+  "start": 47.51,
+  "eind": 47.83
+ },
+ {
+  "w": "Dus",
+  "start": 48.23,
+  "eind": 48.59
+ },
+ {
+  "w": "ik",
+  "start": 48.59,
+  "eind": 48.71
+ },
+ {
+  "w": "heb",
+  "start": 48.71,
+  "eind": 48.91
+ },
+ {
+  "w": "gekozen",
+  "start": 48.91,
+  "eind": 49.25
+ },
+ {
+  "w": "voor",
+  "start": 49.25,
+  "eind": 49.41
+ },
+ {
+  "w": "een",
+  "start": 49.41,
+  "eind": 49.55
+ },
+ {
+  "w": "eenmanszaak",
+  "start": 49.55,
+  "eind": 50.05
+ },
+ {
+  "w": "in",
+  "start": 50.05,
+  "eind": 50.17
+ },
+ {
+  "w": "bijberoep.",
+  "start": 50.17,
+  "eind": 50.57
+ },
+ {
+  "w": "Groeit",
+  "start": 50.76,
+  "eind": 51.38
+ },
+ {
+  "w": "mijn",
+  "start": 51.38,
+  "eind": 51.54
+ },
+ {
+  "w": "bedrijf",
+  "start": 51.54,
+  "eind": 51.88
+ },
+ {
+  "w": "goed,",
+  "start": 51.88,
+  "eind": 52.12
+ },
+ {
+  "w": "dan",
+  "start": 52.3,
+  "eind": 52.34
+ },
+ {
+  "w": "kan",
+  "start": 52.34,
+  "eind": 52.48
+ },
+ {
+  "w": "ik",
+  "start": 52.48,
+  "eind": 52.62
+ },
+ {
+  "w": "later",
+  "start": 52.62,
+  "eind": 52.9
+ },
+ {
+  "w": "nog",
+  "start": 52.9,
+  "eind": 53.28
+ },
+ {
+  "w": "overstappen",
+  "start": 53.28,
+  "eind": 53.82
+ },
+ {
+  "w": "naar",
+  "start": 53.82,
+  "eind": 53.94
+ },
+ {
+  "w": "een",
+  "start": 53.94,
+  "eind": 54.1
+ },
+ {
+  "w": "vennootschap.",
+  "start": 54.1,
+  "eind": 54.52
+ }
+]
