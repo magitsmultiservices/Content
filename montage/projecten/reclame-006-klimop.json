@@ -8,105 +8,93 @@
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 0.3,
-   "tot": 3.98,
-   "snelheid": 1.1
+   "tot": 2.16,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv6/20261117_113436.mp4",
    "van": 0.5,
-   "tot": 4.16,
-   "snelheid": 1.1
+   "tot": 3.77,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv6/20261117_113746.mp4",
    "van": 0.0,
-   "tot": 6.0,
-   "snelheid": 1.1
+   "tot": 3.55,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 4.5,
    "tot": 7.7,
-   "snelheid": 0.66
-  },
-  {
-   "bestand": "media/rv6/20261117_113746.mp4",
-   "van": 6.0,
-   "tot": 14.54,
-   "snelheid": 1.1
-  },
-  {
-   "bestand": "media/rv6/20261117_113746.mp4",
-   "van": 20.0,
-   "tot": 60.0,
-   "snelheid": 13.2
-  },
-  {
-   "bestand": "media/rv6/20261117_121001.mp4",
-   "van": 0.0,
-   "tot": 1.95,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv6/20261117_121004.mp4",
    "van": 0.0,
-   "tot": 3.39,
-   "snelheid": 1.1
+   "tot": 1.06,
+   "snelheid": 1.0
+  },
+  {
+   "bestand": "media/rv6/20261117_113746.mp4",
+   "van": 8.0,
+   "tot": 38.12,
+   "snelheid": 12.0
   },
   {
    "bestand": "media/rv6/20261117_121033.mp4",
    "van": 0.0,
    "tot": 1.95,
-   "snelheid": 0.66
+   "snelheid": 1.0
+  },
+  {
+   "bestand": "media/rv6/20261117_121001.mp4",
+   "van": 0.0,
+   "tot": 1.07,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv6/20261117_123516.mp4",
    "van": 0.5,
-   "tot": 33.0,
-   "snelheid": 8.8
-  },
-  {
-   "bestand": "media/rv6/20261117_124937.mp4",
-   "van": 0.0,
-   "tot": 20.0,
-   "snelheid": 27.5
+   "tot": 26.02,
+   "snelheid": 8.0
   },
   {
    "bestand": "media/rv6/20261117_123221.mp4",
    "van": 0.0,
-   "tot": 2.78,
-   "snelheid": 1.1
+   "tot": 1.7,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv6/20261117_121125.mp4",
    "van": 0.0,
-   "tot": 4.09,
-   "snelheid": 1.1
+   "tot": 3.34,
+   "snelheid": 1.0
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-006-klimop.woorden.json",
  "hook": {
   "tekst": "Vandaag: | klimop weg",
-  "tot": 3.3
+  "tot": 1.81
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.44,
-   "tot": 6.54,
+   "van": 1.96,
+   "tot": 4.98,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 40.09,
-   "tot": 42.39,
+   "van": 21.76,
+   "tot": 23.21,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 42.62,
-   "tot": 46.11,
+   "van": 23.46,
+   "tot": 26.55,
    "stijl": "pop"
   }
  ],

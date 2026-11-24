@@ -8,171 +8,153 @@
   {
    "bestand": "media/rv7/20261118_152311.mp4",
    "van": 20.0,
-   "tot": 23.88,
-   "snelheid": 1.1
+   "tot": 22.04,
+   "snelheid": 1.0
   },
   {
-   "bestand": "media/rv4/IMG_1252.mp4",
+   "bestand": "media/rv4/IMG_1252_traag2.mp4",
    "van": 0.0,
-   "tot": 2.2,
-   "snelheid": 1.1
+   "tot": 3.3,
+   "snelheid": 1.0
+  },
+  {
+   "bestand": "media/rv4/20261116_105638.mp4",
+   "van": 17.0,
+   "tot": 18.62,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/20261116_105707.mp4",
-   "van": 2.0,
-   "tot": 7.44,
-   "snelheid": 1.1
+   "van": 0.0,
+   "tot": 2.61,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261118_153931.mp4",
    "van": 11.13,
    "tot": 12.48,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261118_153310.mp4",
    "van": 12.02,
    "tot": 13.37,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
    "van": 123.14,
    "tot": 124.49,
-   "snelheid": 1.1
+   "snelheid": 0.833
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
-   "van": 54.08,
+   "van": 54.23,
    "tot": 55.43,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261118_153310.mp4",
-   "van": 37.01,
+   "van": 37.16,
    "tot": 38.36,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
-   "van": 239.35,
+   "van": 239.5,
    "tot": 240.7,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261118_153931.mp4",
-   "van": 30.06,
+   "van": 30.21,
    "tot": 31.41,
-   "snelheid": 1.1
-  },
-  {
-   "bestand": "media/rv7/20261118_153310.mp4",
-   "van": 13.81,
-   "tot": 15.16,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
-   "van": 163.12,
+   "van": 163.27,
    "tot": 164.47,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261118_153310.mp4",
-   "van": 45.8,
+   "van": 45.95,
    "tot": 47.15,
-   "snelheid": 1.1
-  },
-  {
-   "bestand": "media/rv7/20261118_153931.mp4",
-   "van": 23.33,
-   "tot": 24.68,
-   "snelheid": 1.1
-  },
-  {
-   "bestand": "media/rv4/20261118_162624.mp4",
-   "van": 171.31,
-   "tot": 172.66,
-   "snelheid": 1.1
+   "snelheid": 0.795
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
    "van": 2.0,
    "tot": 348.0,
-   "snelheid": 66.0
+   "snelheid": 60.0
   },
   {
    "bestand": "media/rv7/20261120_130304.mp4",
    "van": 0.0,
-   "tot": 117.73,
-   "snelheid": 44.0
+   "tot": 21.33,
+   "snelheid": 40.0
   },
   {
    "bestand": "media/rv7/20261118_162150.mp4",
    "van": 0.0,
    "tot": 3.0,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261120_123817.mp4",
    "van": 0.0,
-   "tot": 3.18,
-   "snelheid": 1.1
+   "tot": 1.71,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261118_162141.mp4",
    "van": 0.0,
    "tot": 1.8,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/20261118_162134.mp4",
    "van": 0.0,
    "tot": 2.2,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv7/foto_20261118_160011.mp4",
    "van": 0,
-   "tot": 2.06,
-   "snelheid": 1.1
-  },
-  {
-   "bestand": "media/rv7/20261120_132245.mp4",
-   "van": 0.0,
-   "tot": 2.74,
-   "snelheid": 1.1
+   "tot": 1.63,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
    "van": 356.0,
-   "tot": 359.93,
-   "snelheid": 1.1
+   "tot": 362.0,
+   "snelheid": 1.0
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
  "hook": {
   "tekst": "Brandhout | voor het goede doel",
-  "tot": 3.48
+  "tot": 1.99
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.62,
-   "tot": 10.34,
+   "van": 5.44,
+   "tot": 6.81,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 44.34,
-   "tot": 46.6,
+   "van": 27.8,
+   "tot": 32.26,
    "stijl": "pop"
   },
   {
-   "tekst": "Ook dat kan u aan ons vragen",
-   "van": 46.83,
-   "tot": 50.17,
+   "tekst": "Stuur ons een berichtje",
+   "van": 38.14,
+   "tot": 43.89,
    "stijl": "pop"
   }
  ],

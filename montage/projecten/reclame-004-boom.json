@@ -6,89 +6,101 @@
  "stem": "media/vo4/stem.wav",
  "clips": [
   {
-   "bestand": "media/rv4/IMG_1252_traag.mp4",
+   "bestand": "media/rv4/20261109_152300_traag.mp4",
    "van": 0.0,
    "tot": 2.83,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/foto_20261109_152257.mp4",
    "van": 0,
-   "tot": 5.18,
-   "snelheid": 1.1
+   "tot": 1.6,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/20261109_152300_traag.mp4",
-   "van": 0.0,
-   "tot": 4.3,
-   "snelheid": 1.1
+   "van": 2.9,
+   "tot": 4.6,
+   "snelheid": 1.0
   },
   {
-   "bestand": "media/rv4/foto_20261109_152257_1.mp4",
-   "van": 0,
-   "tot": 2.41,
-   "snelheid": 1.1
+   "bestand": "media/rv4/20261109_152300_traag.mp4",
+   "van": 4.6,
+   "tot": 8.3,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/foto_20261109_165817.mp4",
-   "van": 1.0,
-   "tot": 6.74,
-   "snelheid": 1.1
+   "van": 0,
+   "tot": 3.12,
+   "snelheid": 1.0
+  },
+  {
+   "bestand": "media/rv4/IMG_1252_traag2.mp4",
+   "van": 0.0,
+   "tot": 5.82,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/20261116_105707.mp4",
    "van": 0.0,
-   "tot": 4.0,
-   "snelheid": 1.1
+   "tot": 4.5,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/foto_20261114_102457.mp4",
    "van": 0,
-   "tot": 5.95,
-   "snelheid": 1.1
+   "tot": 0.5,
+   "snelheid": 1.0
+  },
+  {
+   "bestand": "media/rv4/20261118_162226.mp4",
+   "van": 0.0,
+   "tot": 2.7,
+   "snelheid": 1.0
+  },
+  {
+   "bestand": "media/rv4/20261118_162624.mp4",
+   "van": 356.0,
+   "tot": 357.12,
+   "snelheid": 1.0
   },
   {
    "bestand": "media/rv4/foto_20261114_111407.mp4",
    "van": 0,
    "tot": 2.86,
-   "snelheid": 1.1
+   "snelheid": 1.0
   },
   {
-   "bestand": "media/rv4/foto_20261114_102500.mp4",
-   "van": 0,
-   "tot": 2.2,
-   "snelheid": 1.1
-  },
-  {
-   "bestand": "media/rv4/foto_20261114_111409.mp4",
-   "van": 0,
-   "tot": 0.5,
-   "snelheid": 1.1
+   "bestand": "media/rv4/20261116_105638.mp4",
+   "van": 19.0,
+   "tot": 21.41,
+   "snelheid": 1.0
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-004-boom.woorden.json",
  "hook": {
   "tekst": "Vandaag: | een spar van 25 m",
-  "tot": 2.53
+  "tot": 2.78
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 2.66,
-   "tot": 7.15,
+   "van": 2.93,
+   "tot": 5.98,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 27.74,
-   "tot": 30.11,
+   "van": 27.69,
+   "tot": 30.3,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 30.34,
-   "tot": 32.56,
+   "van": 30.55,
+   "tot": 32.71,
    "stijl": "pop"
   }
  ],
