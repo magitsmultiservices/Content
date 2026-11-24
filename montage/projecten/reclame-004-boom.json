@@ -1,5 +1,5 @@
 {
- "titel": "Reclamevideo 4 · Vandaag: grote boom",
+ "titel": "Reclamevideo 4 · Vandaag: spar van 25 m",
  "uitvoer": "output/reclame-004.mp4",
  "overgang": 0.2,
  "geluid": true,
@@ -8,13 +8,13 @@
   {
    "bestand": "media/rv4/IMG_1252_traag.mp4",
    "van": 0.0,
-   "tot": 3.02,
+   "tot": 2.83,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv4/foto_20261109_152257.mp4",
    "van": 0,
-   "tot": 4.06,
+   "tot": 5.18,
    "snelheid": 1.1
   },
   {
@@ -26,13 +26,13 @@
   {
    "bestand": "media/rv4/foto_20261109_152257_1.mp4",
    "van": 0,
-   "tot": 5.94,
+   "tot": 2.41,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv4/foto_20261109_165817.mp4",
    "van": 1.0,
-   "tot": 4.52,
+   "tot": 6.74,
    "snelheid": 1.1
   },
   {
@@ -44,13 +44,13 @@
   {
    "bestand": "media/rv4/foto_20261114_102457.mp4",
    "van": 0,
-   "tot": 2.39,
+   "tot": 5.95,
    "snelheid": 1.1
   },
   {
    "bestand": "media/rv4/foto_20261114_111407.mp4",
    "van": 0,
-   "tot": 2.92,
+   "tot": 2.86,
    "snelheid": 1.1
   },
   {
@@ -62,33 +62,33 @@
   {
    "bestand": "media/rv4/foto_20261114_111409.mp4",
    "van": 0,
-   "tot": 1.79,
+   "tot": 0.5,
    "snelheid": 1.1
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-004-boom.woorden.json",
  "hook": {
-  "tekst": "Vandaag: | een grote boom",
-  "tot": 2.7
+  "tekst": "Vandaag: | een spar van 25 m",
+  "tot": 2.53
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 2.84,
-   "tot": 6.3,
+   "van": 2.66,
+   "tot": 7.15,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 24.85,
-   "tot": 27.27,
+   "van": 27.74,
+   "tot": 30.11,
    "stijl": "pop"
   },
   {
    "tekst": "Ook dat kan u aan ons vragen",
-   "van": 27.5,
-   "tot": 30.9,
+   "van": 30.34,
+   "tot": 32.56,
    "stijl": "pop"
   }
  ],
