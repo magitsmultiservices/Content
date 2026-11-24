@@ -2,27 +2,27 @@
 
 - **Soort:** reclame, formaat "Vandaag heb ik…": Yelte vertelt in de ik-vorm over één klus; de kijker spreekt hij aan met "u" in de call-to-action.
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts, Facebook
-- **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
+- **Lengte:** ± 40 seconden (met eindbeeld)
 - **Beelden:** 9/11/2026 (BEELDMATERIAAL): 20261109_152300.mp4 en foto's 20261109_152257.jpg (boom met stelling), 20261109_165817.jpg (stam met stelling). Alleen beelden van deze ene klus: voor → tijdens (normaal én versneld) → opruimen → na, met "Voor" en "Na" bovenaan (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
-- **Status:** voorleestekst klaar: in één keer inspreken. Voorbeeldmontage gemaakt (zonder stem).
+- **Status:** nieuwe voorleestekst (24/11/2026): meer spreektaal en verhaal. Opnieuw inspreken; de vorige montage (met de oude stem) staat klaar als terugvaloptie.
 
 ---
 
 ## Voorleestekst (in één keer inspreken)
-> Lees alles in één keer voor, rustig en in je eigen woorden. Laat een korte pauze tussen de alinea's: daar knip ik.
+> Vertel het alsof je het aan een vriend uitlegt: rustig, met de nadruk op de vraagjes ("Plaats om hem te laten vallen?", "En het hout?"). Laat een korte pauze tussen de alinea's: daar knip ik.
 
-Vandaag heb ik deze grote boom naar beneden gehaald. Met een stelling.
+Vandaag heb ik een spar van 25 meter naar beneden gehaald. En nee, gewoon omzagen ging niet.
 
-Dit was de boom toen ik begon. Een spar, zo'n 25 meter hoog.
+Kijk, zo stond hij er toen ik begon. Rondom stond alles vol. Plaats om hem te laten vallen? Die was er gewoon niet.
 
-Waarom een stelling? Er was te weinig plaats om hem in één keer te laten vallen. Dus gaat hij stuk voor stuk naar beneden, van boven naar onder.
+Dus moest ik kiezen. Een hoogtewerker? Kan, maar dat kost een pak meer. Ik ging voor een stelling, rond de stam.
 
-Eerst alle takken eraf. Daarna de stam, stuk per stuk, veilig naar beneden.
+Eerst alle takken eraf. Daarna de stam, stuk voor stuk, van boven naar onder. Zo komt er niks terecht waar het niet mag.
 
-Daarna alles opruimen: takken, stamstukken en zaagsel. En het hout? Dat wordt brandhout. Daarover meer in een volgende video.
+Toen alles beneden lag: opruimen. Takken, stamstukken, zaagsel. En het hout? Dat wordt brandhout, voor het goede doel. Daarover meer in de volgende video.
 
-En zo ziet het er nu uit. Plaats genoeg, en alles netjes.
+En kijk nu. Waar die spar stond, is er weer plaats. En alles ligt netjes.
 
 Een boom die weg moet, ook als er weinig plaats is? Ook dat kan u aan ons vragen.
 
@@ -32,29 +32,35 @@ Een boom die weg moet, ook als er weinig plaats is? Ook dat kan u aan ons vragen
 - [ ] De hele voorleestekst in één keer (gerust 2 keer, dan kies ik de beste)
 
 Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; filmen met de telefoon mag.
-[Tussen haken] = vul zelf in, of zeg het me en ik pas de tekst aan.
+Zeg het gerust in je eigen woorden, zolang de feiten kloppen.
 
 ## Regie per blok (voor de montage)
 
 ### Hook
-"Vandaag heb ik deze grote boom naar beneden gehaald. Met een stelling."
-> Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Vandaag: | een grote boom**
+"Vandaag heb ik een spar van 25 meter naar beneden gehaald. En nee, gewoon omzagen ging niet."
+> Beeld: de top die van de stelling naar beneden komt (vloeiend vertraagd).
+> Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Vandaag: | een spar van 25 m**
 
 ### Voor
-"Dit was de boom toen ik begon. Een spar, zo'n 25 meter hoog."
+"Kijk, zo stond hij er toen ik begon. Rondom stond alles vol. Plaats om hem te laten vallen? Die was er gewoon niet."
+> Beeld: de hele boom van onderaan.
 > Tekst bovenaan (pop): **Voor**
 
-### Waarom een stelling
-"Waarom een stelling? Er was te weinig plaats om hem in één keer te laten vallen. Dus gaat hij stuk voor stuk naar beneden, van boven naar onder."
+### De keuze
+"Dus moest ik kiezen. Een hoogtewerker? Kan, maar dat kost een pak meer. Ik ging voor een stelling, rond de stam."
+> Beeld: jij bij de stelling, daarna de stam met de stelling.
 
 ### Tijdens
-"Eerst alle takken eraf. Daarna de stam, stuk per stuk, veilig naar beneden."
+"Eerst alle takken eraf. Daarna de stam, stuk voor stuk, van boven naar onder. Zo komt er niks terecht waar het niet mag."
+> Beeld: de kale stam in de stelling.
 
 ### Opruimen
-"Daarna alles opruimen: takken, stamstukken en zaagsel. En het hout? Dat wordt brandhout. Daarover meer in een volgende video."
+"Toen alles beneden lag: opruimen. Takken, stamstukken, zaagsel. En het hout? Dat wordt brandhout, voor het goede doel. Daarover meer in de volgende video."
+> Beeld: stamstukken en takken, de stronk met zaagsel.
 
 ### Na
-"En zo ziet het er nu uit. Plaats genoeg, en alles netjes."
+"En kijk nu. Waar die spar stond, is er weer plaats. En alles ligt netjes."
+> Beeld: de lege plek.
 > Tekst bovenaan (pop): **Na**
 
 ### Afsluiter
