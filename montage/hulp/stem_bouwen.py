@@ -238,7 +238,7 @@ def videos():
         [c(R5+"20261116_130834.mp4", 0.0, 1.0), c(R5+"20261116_144216.mp4", 0.0, 3.5, 2.5), c(R5+"20261116_144243.mp4", 0.0)], None),
        ([stuk(*N5, "Voilà, dit is", "het eindresultaat.")], [c(R5+"20261116_130827.mp4", 0.0, 0.9), c(R5+"20261116_144228.mp4", 0.0)], "Na"),
        ([stuk(*N5, "Palmbomen of andere", "ons vragen.")], [c(R5+"20261116_144236.mp4", 0.0, 2.0), c(R5+"foto_20261116_130844.mp4", 0)],
-        "Ook dat kan u aan ons vragen"),
+        "Vraag het ons"),
      ]),
      "reclame-006-klimop": lambda: ("Reclamevideo 6 · Vandaag: klimop", "output/reclame-006.mp4", "Vandaag: | klimop weg", [
        ([stuk(*N6, "Vandaag heb ik", "boom getrokken.")], [c(R6+"20261117_113427.mp4", 0.3)], None),
@@ -250,7 +250,7 @@ def videos():
         [c(R6+"20261117_121033.mp4", 0.0, 1.95), c(R6+"20261117_121001.mp4", 0.0)], None),
        ([stuk(*N6, "Daarna heb ik", "blijft liggen.")], [c(R6+"20261117_123516.mp4", 0.5, None, 8)], None),
        ([stuk(*N6, "Voila, de stammen", "helemaal vrij.")], [c(R6+"20261117_123221.mp4", 0.0)], "Na"),
-       ([stuk(*N6, "Bomen strakken of", "ons vragen.")], [c(R6+"20261117_121125.mp4", 0.0)], "Ook dat kan u aan ons vragen"),
+       ([stuk(*N6, "Bomen strakken of", "ons vragen.")], [c(R6+"20261117_121125.mp4", 0.0)], "Vraag het ons"),
      ]),
      "reclame-007-hout": lambda: ("Reclamevideo 7 · Vandaag: brandhout klieven", "output/reclame-007.mp4", "Brandhout | voor het goede doel", [
        ([stuk(*N7, "Vandaag heb ik", "goede doel.")], [c(R7+"20261118_152311.mp4", 20.0)], None),
@@ -258,15 +258,15 @@ def videos():
        ([stuk(*N7, "Zoals je ziet", "veel hout.")], [c(R4+"20261116_105638.mp4", 17.0)], "Voor"),
        ([stuk(*N7, "Alle stammen en", "mijn ten.")], [c(R4+"20261116_105707.mp4", 0.0)], None),
        ([stuk(*N7, "Hier zie je", "zonder machine.")],
-        [slag(R7+"20261118_153931.mp4", 12.13), slag(R7+"20261118_153310.mp4", 13.02), slag(R4+"20261118_162624.mp4", 124.14)], None),
+        [slag(R7+"20261118_153931.mp4", 12.13), slag(R7+"20261118_153310.mp4", 13.02), slag(R4+"20261118_162624.mp4", 124.14), slag(R7+"20261118_153931.mp4", 24.33)], None),
        ([stuk(*N7, "Rond het houtblok", "het makkelijkst.")],
         [slag(R7+"20261118_152601.mp4", 55.08, 0.85), slag(R7+"20261118_153310.mp4", 38.01, 0.85), slag(R4+"20261118_162624.mp4", 240.35, 0.85),
-         slag(R7+"20261118_153931.mp4", 31.06, 0.85), slag(R7+"20261118_152601.mp4", 164.12, 0.85), slag(R7+"20261118_153310.mp4", 46.8, 0.85)], None),
+         slag(R7+"20261118_153931.mp4", 31.06, 0.85), slag(R7+"20261118_152601.mp4", 164.12, 0.85), slag(R7+"20261118_153310.mp4", 46.8, 0.85), slag(R4+"20261118_162624.mp4", 172.31, 0.85)], None),
        ([stuk(*N7, "Ik klief het", "het opbrandt.")], [c(R7+"20261118_152601.mp4", 2.0, 348.0, 60), c(R7+"20261120_130304.mp4", 0.0, None, 40)], None),
        ([stuk(*N7, "Daarna heb ik", "kan drogen.")], [c(R7+"20261118_162150.mp4", 0.0, 3.0), c(R7+"20261120_123817.mp4", 0.0)], "Na"),
        ([stuk(*N7, "Mijn plan is", "in 2027.")],
         [c(R7+"20261118_162141.mp4", 0.0, 1.8), c(R7+"20261118_162134.mp4", 0.0, 2.2), c(R7+"foto_20261118_160011.mp4", 0)], None),
-       ([stuk(*N7, "Heb je een", "goede doel.", na="in 2027.")], [c(R4+"20261118_162624.mp4", 356.0)], "Stuur ons een berichtje"),
+       ([stuk(*N7, "Heb je een", "goede doel.", na="in 2027.")], [c(R4+"20261118_162624.mp4", 356.0)], "Stuur een bericht"),
      ]),
     }
 

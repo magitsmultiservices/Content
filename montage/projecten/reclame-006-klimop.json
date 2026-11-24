@@ -8,93 +8,84 @@
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 0.3,
-   "tot": 2.16,
-   "snelheid": 1.0
+   "tot": 2.32
   },
   {
    "bestand": "media/rv6/20261117_113436.mp4",
    "van": 0.5,
-   "tot": 3.77,
-   "snelheid": 1.0
+   "tot": 3.93
   },
   {
    "bestand": "media/rv6/20261117_113746.mp4",
    "van": 0.0,
-   "tot": 3.55,
-   "snelheid": 1.0
+   "tot": 3.71
   },
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 4.5,
-   "tot": 7.7,
-   "snelheid": 1.0
+   "tot": 7.7
   },
   {
    "bestand": "media/rv6/20261117_121004.mp4",
    "van": 0.0,
-   "tot": 1.06,
-   "snelheid": 1.0
+   "tot": 1.22
   },
   {
    "bestand": "media/rv6/20261117_113746.mp4",
    "van": 8.0,
-   "tot": 38.12,
-   "snelheid": 12.0
+   "tot": 40.04,
+   "snelheid": 12
   },
   {
    "bestand": "media/rv6/20261117_121033.mp4",
    "van": 0.0,
-   "tot": 1.95,
-   "snelheid": 1.0
+   "tot": 1.95
   },
   {
    "bestand": "media/rv6/20261117_121001.mp4",
    "van": 0.0,
-   "tot": 1.07,
-   "snelheid": 1.0
+   "tot": 1.23
   },
   {
    "bestand": "media/rv6/20261117_123516.mp4",
    "van": 0.5,
-   "tot": 26.02,
-   "snelheid": 8.0
+   "tot": 27.3,
+   "snelheid": 8
   },
   {
    "bestand": "media/rv6/20261117_123221.mp4",
    "van": 0.0,
-   "tot": 1.7,
-   "snelheid": 1.0
+   "tot": 1.86
   },
   {
    "bestand": "media/rv6/20261117_121125.mp4",
    "van": 0.0,
-   "tot": 3.34,
-   "snelheid": 1.0
+   "tot": 3.5
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-006-klimop.woorden.json",
  "hook": {
   "tekst": "Vandaag: | klimop weg",
-  "tot": 1.81
+  "tot": 1.97
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 1.96,
-   "tot": 4.98,
+   "van": 2.12,
+   "tot": 5.3,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 21.76,
-   "tot": 23.21,
+   "van": 22.88,
+   "tot": 24.49,
    "stijl": "pop"
   },
   {
-   "tekst": "Ook dat kan u aan ons vragen",
-   "van": 23.46,
-   "tot": 26.55,
+   "tekst": "Vraag het ons",
+   "van": 24.74,
+   "tot": 27.99,
    "stijl": "pop"
   }
  ],

@@ -23,7 +23,7 @@ Deze repository bevat scripts en ideeën voor video's op sociale media. Claude l
    Geen vraag-en-antwoord op eigen vragen (niet "Waarom een stelling? Omdat…"); alleen de afsluiter mag een vraag zijn.
    **Een reclamevideo eindigt altijd met "Ook dat kan u aan ons vragen."** (bv. "Een haag die een snoeibeurt
    nodig heeft? Ook dat kan u aan ons vragen."), niet met "Stuur ons een foto/bericht voor een offerte".
-   Tekst bovenaan (pop) bij de CTA: **Ook dat kan u aan ons vragen**.
+   Tekst bovenaan (pop) bij de CTA: **Vraag het ons** (kort, zodat het groot op één regel past).
 2. **Ondernemen** (`scripts/ondernemen/`): voor een breed publiek, vooral jonge mensen
    die zelf een zaak willen starten. Yelte toont hoe hij werkt, met de ups én de downs.
    Natuurlijke spreektaal, "je" mag hier. Geen reeksnaam (dus niet "Magits Groeit").
