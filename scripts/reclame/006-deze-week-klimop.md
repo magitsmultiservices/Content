@@ -5,28 +5,28 @@
 - **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
 - **Beelden:** nog te bepalen (BEELDMATERIAAL, waarschijnlijk 16 of 17/11/2026). Alleen beelden van deze ene klus: voor → tijdens (normaal én versneld) → opruimen → na, met "Voor" en "Na" bovenaan (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
-- **Status:** voorleestekst klaar: in één keer inspreken. Voorbeeldmontage gemaakt (zonder stem).
+- **Status:** nieuwe voorleestekst (24/11/2026): spontaan en doorlopend verteld. Opnieuw inspreken; de huidige montage blijft als terugvaloptie.
 
 ---
 
 ## Voorleestekst (in één keer inspreken)
-> Lees alles in één keer voor, rustig en in je eigen woorden. Laat een korte pauze tussen de alinea's: daar knip ik.
+> Vertel gewoon wat je doet, doorlopend en spontaan, zoals je het aan iemand naast je zou uitleggen. Laat een korte pauze tussen de alinea's: daar knip ik.
 
-Vandaag heb ik klimop van bomen getrokken. In de regen.
+Vandaag heb ik klimop van bomen getrokken, en dat in de regen.
 
-Zo zagen de bomen eruit: de stammen helemaal ingepakt door klimop.
+De stammen zaten helemaal ingepakt.
 
-klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit.
+Klimop is eigenlijk geen parasiet, het pikt geen voeding van de boom. Maar het maakt de boom wel zwaar, het vangt veel wind en het verstopt wat eronder zit. En als het blijft groeien, overwoekert het alles en krijgt de boom zelf geen licht meer.
 
-Dus: losknippen, lostrekken, stam per stam. Mijn tip: knip de klimop onderaan de stam door. Wat erboven groeit, sterft dan vanzelf af.
+Ik knip en trek het los, stam per stam. Een tip: knip de klimop onderaan de stam door, dan sterft alles wat erboven hangt vanzelf af.
 
 Het regent, maar het werk gaat gewoon door.
 
-Daarna alles opkuisen en afvoeren, zodat er niets blijft liggen.
+Daarna kuis ik alles op en voer ik het af, zodat er niks blijft liggen.
 
-En zo staan ze er nu bij. De stammen weer vrij.
+En nu staan de stammen weer vrij.
 
-Bomen of muren vol klimop? Ook dat kan u aan ons vragen.
+Bomen, struiken of muren vol klimop? Ook dat kan u aan ons vragen.
 
 ---
 
@@ -39,31 +39,31 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 ## Regie per blok (voor de montage)
 
 ### Hook
-"Vandaag heb ik klimop van bomen getrokken. In de regen."
+"Vandaag heb ik klimop van bomen getrokken, en dat in de regen."
 > Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Vandaag: | klimop weg**
 
 ### Voor
-"Zo zagen de bomen eruit: de stammen helemaal ingepakt door klimop."
+"De stammen zaten helemaal ingepakt."
 > Tekst bovenaan (pop): **Voor**
 
-### Waarom (leuk om te weten)
-"Klimop is geen parasiet. Het steelt geen voeding van de boom. Maar het maakt een boom zwaar, vangt veel wind, en verstopt wat er onder zit."
+### Waarom
+"Klimop is eigenlijk geen parasiet, het pikt geen voeding van de boom. Maar het maakt de boom wel zwaar, het vangt veel wind en het verstopt wat eronder zit. En als het blijft groeien, overwoekert het alles en krijgt de boom zelf geen licht meer."
 
 ### Tijdens + tip
-"Dus: losknippen, lostrekken, stam per stam. Mijn tip: knip de klimop onderaan de stam door. Wat erboven groeit, sterft dan vanzelf af."
+"Ik knip en trek het los, stam per stam. Een tip: knip de klimop onderaan de stam door, dan sterft alles wat erboven hangt vanzelf af."
 
 ### In de regen
 "Het regent, maar het werk gaat gewoon door."
 
 ### Opkuisen
-"Daarna alles opkuisen en afvoeren, zodat er niets blijft liggen."
+"Daarna kuis ik alles op en voer ik het af, zodat er niks blijft liggen."
 
 ### Na
-"En zo staan ze er nu bij. De stammen weer vrij."
+"En nu staan de stammen weer vrij."
 > Tekst bovenaan (pop): **Na**
 
 ### Afsluiter
-"Bomen of muren vol klimop? Ook dat kan u aan ons vragen."
+"Bomen, struiken of muren vol klimop? Ook dat kan u aan ons vragen."
 > Tekst bovenaan (pop): **Ook dat kan u aan ons vragen**
 > Daarna het standaard eindbeeld (4 s).
 

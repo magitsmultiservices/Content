@@ -5,24 +5,24 @@
 - **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
 - **Beelden:** 18/11/2026 en 20/11/2026 (BEELDMATERIAAL): o.a. 20261118_152234 en 152311 (hout klieven op een blok), 20261120_122447, 132245, 132301, 132313 (gestapeld hout, takken, stammen). Alleen beelden van deze ene klus: voor → tijdens (normaal én versneld) → opruimen → na, met "Voor" en "Na" bovenaan (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
-- **Status:** voorleestekst klaar: in één keer inspreken. Voorbeeldmontage gemaakt (zonder stem).
+- **Status:** nieuwe voorleestekst (24/11/2026): spontaan en doorlopend verteld. Opnieuw inspreken; de huidige montage blijft als terugvaloptie.
 
 ---
 
 ## Voorleestekst (in één keer inspreken)
-> Lees alles in één keer voor, rustig en in je eigen woorden. Laat een korte pauze tussen de alinea's: daar knip ik.
+> Vertel gewoon wat je doet, doorlopend en spontaan, zoals je het aan iemand naast je zou uitleggen. Laat een korte pauze tussen de alinea's: daar knip ik.
 
-Vandaag heb ik een hele stapel brandhout gekliefd. Voor het goede doel.
+Vandaag heb ik brandhout gekliefd, voor het goede doel.
 
-Dit hout komt van die grote boom met de stelling. Stammen en takken, klaar om te klieven.
+Het hout komt van de spar die ik vorige week met een stelling naar beneden haalde. De stammen en takken liggen klaar om te klieven.
 
-Blok per blok, slag per slag. Mijn tip: mik op de barsten die al in het hout zitten. Daar splijt een blok het makkelijkst.
+Ik ga blok per blok, slag per slag. Rond het blok leg ik een autoband, zo vliegen de stukken niet alle kanten op. En ik mik op de barsten die al in het hout zitten, daar splijt het blok het makkelijkst.
 
-Waarom klieven? Gekliefd hout droogt veel sneller. En droog hout brandt beter: minder rook, en minder roet in uw schouw.
+Gekliefd hout droogt veel sneller, en droog hout brandt beter, met minder rook en minder roet in uw schouw.
 
-Daarna netjes gestapeld, met lucht ertussen en onder een afdak.
+Ik stapel alles met zoveel mogelijk lucht ertussen, onder een afdak.
 
-Dit brandhout wordt later verkocht. De opbrengst gaat naar De Warmste Week 2027.
+Later wordt dit brandhout verkocht, en de opbrengst gaat naar De Warmste Week 2027.
 
 En er ligt nog veel klaar om te klieven.
 
@@ -39,25 +39,25 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 ## Regie per blok (voor de montage)
 
 ### Hook
-"Vandaag heb ik een hele stapel brandhout gekliefd. Voor het goede doel."
+"Vandaag heb ik brandhout gekliefd, voor het goede doel."
 > Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Brandhout | voor het goede doel**
 
 ### Voor
-"Dit hout komt van die grote boom met de stelling. Stammen en takken, klaar om te klieven."
+"Het hout komt van de spar die ik vorige week met een stelling naar beneden haalde. De stammen en takken liggen klaar om te klieven."
 > Tekst bovenaan (pop): **Voor**
 
 ### Klieven + tip
-"Blok per blok, slag per slag. Mijn tip: mik op de barsten die al in het hout zitten. Daar splijt een blok het makkelijkst."
+"Ik ga blok per blok, slag per slag. Rond het blok leg ik een autoband, zo vliegen de stukken niet alle kanten op. En ik mik op de barsten die al in het hout zitten, daar splijt het blok het makkelijkst."
 > Beeld: tien slagen na elkaar, op normale snelheid: telkens alleen de zwaai en de klap.
 
 ### Waarom klieven
-"Waarom klieven? Gekliefd hout droogt veel sneller. En droog hout brandt beter: minder rook, en minder roet in uw schouw."
+"Gekliefd hout droogt veel sneller, en droog hout brandt beter, met minder rook en minder roet in uw schouw."
 
 ### Stapelen
-"Daarna netjes gestapeld, met lucht ertussen en onder een afdak."
+"Ik stapel alles met zoveel mogelijk lucht ertussen, onder een afdak."
 
 ### Het goede doel
-"Dit brandhout wordt later verkocht. De opbrengst gaat naar De Warmste Week 2027."
+"Later wordt dit brandhout verkocht, en de opbrengst gaat naar De Warmste Week 2027."
 
 ### Na
 "En er ligt nog veel klaar om te klieven."

@@ -5,24 +5,24 @@
 - **Lengte:** ± 50 à 60 seconden (met eindbeeld): met een tip en het waarom
 - **Beelden:** nog te bepalen (BEELDMATERIAAL, waarschijnlijk 16 of 17/11/2026). Alleen beelden van deze ene klus: voor → tijdens (normaal én versneld) → opruimen → na, met "Voor" en "Na" bovenaan (pop).
 - **Vorm:** Yelte spreekt de tekst in (alleen stem); Claude legt die over de beelden.
-- **Status:** voorleestekst klaar: in één keer inspreken. Voorbeeldmontage gemaakt (zonder stem).
+- **Status:** nieuwe voorleestekst (24/11/2026): spontaan en doorlopend verteld. Opnieuw inspreken; de huidige montage blijft als terugvaloptie.
 
 ---
 
 ## Voorleestekst (in één keer inspreken)
-> Lees alles in één keer voor, rustig en in je eigen woorden. Laat een korte pauze tussen de alinea's: daar knip ik.
+> Vertel gewoon wat je doet, doorlopend en spontaan, zoals je het aan iemand naast je zou uitleggen. Laat een korte pauze tussen de alinea's: daar knip ik.
 
-Vandaag heb ik palmbomen gesnoeid. Ja, ook die moeten gesnoeid worden.
+Vandaag heb ik palmbomen gesnoeid, want ook die hebben af en toe een snoeibeurt nodig.
 
-Zo zagen ze eruit toen ik begon: veel bruine, oude bladeren.
+Toen ik begon, hingen er nog veel bruine, oude bladeren aan.
 
-dit is een Chinese waaierpalm. Die kan tegen vorst. Daarom ziet u hem in zoveel Belgische tuinen.
+Het zijn Chinese waaierpalmen. Die kunnen tegen de vorst en blijven ook in de winter groen, daarom ziet u ze in zoveel Belgische tuinen.
 
-De oude bladeren snoei ik weg, tot net onder de groene kop. Mijn tip: knip nooit te veel groene bladeren weg. Daarmee maakt de palm zijn voeding.
+Ik snoei de oude bladeren weg, tot net onder de groene kop. Te veel groen wegknippen doe ik niet, want daarmee maakt de palm zijn voeding en houdt hij een mooie kruin.
 
-Daarna alles opkuisen. Palmbladeren zijn groot en de stelen scherp, dus die gaan meteen mee.
+Daarna kuis ik alles op. De bladeren zijn groot en de stelen scherp, dus alles gaat meteen mee naar het containerpark.
 
-En zo staan ze er nu bij. Fris en netjes.
+En nu staan ze er weer fris en netjes bij.
 
 Palmbomen of andere bomen die een snoeibeurt nodig hebben? Ook dat kan u aan ons vragen.
 
@@ -37,24 +37,24 @@ Rustige plek binnen, telefoon op ± 20 cm van je mond. Alleen het geluid telt; f
 ## Regie per blok (voor de montage)
 
 ### Hook
-"Vandaag heb ik palmbomen gesnoeid. Ja, ook die moeten gesnoeid worden."
+"Vandaag heb ik palmbomen gesnoeid, want ook die hebben af en toe een snoeibeurt nodig."
 > Groot in het midden als pop-up, op 2 regels (nog geen ondertitels): **Vandaag: | palmbomen**
 
 ### Voor
-"Zo zagen ze eruit toen ik begon: veel bruine, oude bladeren."
+"Toen ik begon, hingen er nog veel bruine, oude bladeren aan."
 > Tekst bovenaan (pop): **Voor**
 
-### Leuk om te weten
-"Dit is een Chinese waaierpalm. Die kan tegen vorst. Daarom ziet u hem in zoveel Belgische tuinen."
+### Uitleg
+"Het zijn Chinese waaierpalmen. Die kunnen tegen de vorst en blijven ook in de winter groen, daarom ziet u ze in zoveel Belgische tuinen."
 
 ### Tijdens + tip
-"De oude bladeren snoei ik weg, tot net onder de groene kop. Mijn tip: knip nooit te veel groene bladeren weg. Daarmee maakt de palm zijn voeding."
+"Ik snoei de oude bladeren weg, tot net onder de groene kop. Te veel groen wegknippen doe ik niet, want daarmee maakt de palm zijn voeding en houdt hij een mooie kruin."
 
 ### Opkuisen
-"Daarna alles opkuisen. Palmbladeren zijn groot en de stelen scherp, dus die gaan meteen mee."
+"Daarna kuis ik alles op. De bladeren zijn groot en de stelen scherp, dus alles gaat meteen mee naar het containerpark."
 
 ### Na
-"En zo staan ze er nu bij. Fris en netjes."
+"En nu staan ze er weer fris en netjes bij."
 > Tekst bovenaan (pop): **Na**
 
 ### Afsluiter
