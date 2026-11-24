@@ -255,7 +255,7 @@ def videos():
        ([stuk(*N7, "Daarna heb ik", "kan drogen.")], [c(R7+"20261118_162150.mp4", 0.0, 3.0), c(R7+"20261120_123817.mp4", 0.0)], "Na"),
        ([stuk(*N7, "Mijn plan is", "in 2027.")],
         [c(R7+"20261118_162141.mp4", 0.0, 1.8), c(R7+"20261118_162134.mp4", 0.0, 2.2), c(R7+"foto_20261118_160011.mp4", 0)], None),
-       ([stuk(*N7, "Heb je een", "goede doel.", na="in 2027.")], [c(R4+"20261118_162624.mp4", 356.0)], "Stuur ons een | berichtje"),
+       ([stuk(*N7, "Heb je een", "goede doel.", na="in 2027.")], [c(R4+"20261118_162624.mp4", 356.0)], "Stuur ons een berichtje"),
      ]),
     }
 

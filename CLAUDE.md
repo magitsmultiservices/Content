@@ -98,7 +98,7 @@ Nieuwe ideeën gaan in `ideeen.md`.
 - Huisstijl voor video: `huisstijl/huisstijl.md` (Montserrat, bosgroen `#154727`, limoen `#8CD742`).
 - Tekst bovenaan in beeld (cijfers, kernwoorden): **witte letters op een zwart kader met afgeronde (ovale) hoeken, geen groen**,
   en zichtbaar anders dan de ondertitels (gewone letters, letterafstand). Alle teksten bovenaan
-  zijn even groot; te lang voor één regel = twee regels. Dit geldt voor alle video's.
+  staan **altijd op één regel**: standaard even groot, en alleen als een tekst niet past wordt hij kleiner. Dit geldt voor alle video's.
 - Ondertitels hebben in de hele video dezelfde lettergrootte.
 - **Hook (bij elke video):** de hooktekst verschijnt **groot in het midden van het beeld als pop-up**, op **2 regels**;
   tijdens de hook **nog geen ondertitels**, die starten pas daarna (projectveld `hook`).

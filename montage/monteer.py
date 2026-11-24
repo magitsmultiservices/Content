@@ -402,11 +402,10 @@ def main():
             if t.get("stijl") == "groot":
                 effect = POP
             elif t.get("stijl") == "pop":
-                # Zelfde pop als 'groot', maar de lettergrootte past zich aan de lengte aan.
-                # Alle pop-teksten even groot (POP_GROOTTE); past het niet op één regel, dan over twee.
+                # Zelfde pop als 'groot'. Tekst bovenaan staat ALTIJD op één regel (afspraak met Yelte):
+                # standaard POP_GROOTTE, en alleen als het niet past wordt de letter kleiner.
                 grootte = t.get("grootte") or POP_GROOTTE
-                if "\\N" not in tekst and tekstbreedte(tekst, "Montserrat-Black.ttf", grootte, 2) + 44 > (B - 120) / 1.12:
-                    tekst = vaste_regels(tekst, max_tekens=max(8, len(tekst) // 2 + 1))
+                tekst = tekst.replace("\\N", " ")
                 grootte = passend(tekst, "Montserrat-Black.ttf", grootte, (B - 120) / 1.12, spatiering=2, rand=44)
                 effect = POP.replace("{", "{\\q2\\fs" + str(grootte), 1)
             if stijl == "Kader":
