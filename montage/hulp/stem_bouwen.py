@@ -49,9 +49,10 @@ def zoek(woorden, zin, na=0):
     raise ValueError(f"niet gevonden: {zin!r}")
 
 
-def stuk(map_, naam, van, tot, na="", weg=(), vanaf=0.0):
+def stuk(map_, naam, van, tot, na="", weg=(), vanaf=0.0, rek=None):
     """Stemstuk vanaf 'van' t.e.m. 'tot' (eerste keer na 'na'); 'weg' = versprekingen die eruit gaan;
-    'vanaf' = geluid pas vanaf dit tijdstip in de opname (om een valse start, bv. 'h-het', weg te knippen)."""
+    'vanaf' = geluid pas vanaf dit tijdstip in de opname (om een valse start, bv. 'h-het', weg te knippen);
+    'rek' = (factor, dB): het laatste woord trager en luider (voor een woord dat te snel/stil uitgesproken is)."""
     w = laad(map_, naam)
     i0 = zoek(w, na) + len(na.split()) if na else 0
     a = zoek(w, van, i0)
@@ -60,7 +61,8 @@ def stuk(map_, naam, van, tot, na="", weg=(), vanaf=0.0):
     for z in weg:
         i = zoek(ws, z)
         ws = ws[:i] + ws[i + len(z.split()):]
-    return {"wav": ROOT / f"media/{map_}/{naam}.wav", "woorden": ws, "vanaf": vanaf}
+    volgende = w[b + 1]["start"] if b + 1 < len(w) else None   # begin van het woord na dit stuk in de opname
+    return {"wav": ROOT / f"media/{map_}/{naam}.wav", "woorden": ws, "vanaf": vanaf, "volgende": volgende, "rek": rek}
 
 
 def stuk_voor(st, extra):
@@ -181,8 +183,9 @@ def bouw(naam, titel, uitvoer, hook, blokken):
             for wi, w in enumerate(ws):
                 zinseinde = w["w"][-1:] in ".?!"
                 a0, b0 = max(s.get("vanaf", 0.0), w["start"] - 0.22), w["eind"] + (STAART if zinseinde else 0.1)
-                if zinseinde and wi + 1 < len(ws):
-                    b0 = min(b0, max(w["eind"] + 0.05, ws[wi + 1]["start"] - 0.24))  # niet in de aanloop van het volgende woord
+                volgend = ws[wi + 1]["start"] if wi + 1 < len(ws) else s.get("volgende")
+                if zinseinde and volgend is not None:
+                    b0 = min(b0, max(w["eind"] + 0.05, volgend - 0.24))  # niet in de aanloop van het volgende woord
                 if delen and a0 - delen[-1][1] < 0.02 and delen[-1][2][-1]["w"][-1:] not in ".?!":
                     delen[-1][1] = max(delen[-1][1], b0); delen[-1][2].append(w)
                 else:
@@ -190,6 +193,14 @@ def bouw(naam, titel, uitvoer, hook, blokken):
             for j, (a0, b0, dw) in enumerate(delen):
                 einde = dw[-1]["w"][-1:] in ".?!"
                 data, k0 = inkorten(wav[int(a0 * SR):int(b0 * SR)].copy(), staart=STAART if einde else 0.1)
+                rek = s.get("rek") if j == len(delen) - 1 else None
+                if rek:   # laatste woord trager en luider maken (toonhoogte blijft gelijk)
+                    fac, db = rek; ts = max(0.0, k0(dw[-1]["start"] - a0) - 0.03); i = int(ts * SR)
+                    staart = subprocess.run(["ffmpeg", "-v", "error", "-f", "f32le", "-ar", str(SR), "-ac", "1", "-i", "-",
+                                             "-af", f"atempo={fac},volume={db}dB", "-f", "f32le", "-"],
+                                            input=data[i:].astype(np.float32).tobytes(), capture_output=True).stdout
+                    data = np.concatenate([data[:i], np.frombuffer(staart, np.float32)])
+                    k_oud = k0; k0 = lambda x, k_oud=k_oud, ts=ts, fac=fac: (lambda y: y if y <= ts else ts + (y - ts) / fac)(k_oud(x))
                 f = int(0.012 * SR); data[:f] *= np.linspace(0, 1, f); data[-f:] *= np.linspace(1, 0, f)
                 k = int(pos * SR); stem[k:k + len(data)] += data
                 for w in dw:
@@ -272,7 +283,7 @@ def videos():
      ]),
      "reclame-007-hout": lambda: ("Reclamevideo 7 · Vandaag: brandhout klieven", "output/reclame-007.mp4", "Brandhout | voor het goede doel", [
        ([stuk(*N7, "Vandaag heb ik", "goede doel.")], [c(R7+"20261118_152311.mp4", 20.0)], None),
-       ([stuk(*N7, "Het hout komt", "beneden haalde.", vanaf=4.955)], [c(R4+"IMG_1252_traag2.mp4", 0.0)], None),
+       ([stuk(*N7, "Het hout komt", "beneden haalde.")], [c(R4+"IMG_1252_traag2.mp4", 0.0)], None),
        ([stuk(*N7, "Zoals je ziet", "veel hout.")], [c(R4+"20261116_105638.mp4", 17.0)], "Voor"),
        ([stuk(*N7, "Alle stammen en", "mijn ten.")], [c(R4+"20261116_105707.mp4", 0.0)], None),
        ([stuk(*N7, "Hier zie je", "zonder machine.")],
@@ -281,8 +292,8 @@ def videos():
         [slag(R7+"20261118_152601.mp4", 55.08, 1.0), slag(R7+"20261118_153310.mp4", 38.01, 1.0), slag(R4+"20261118_162624.mp4", 240.35, 1.0),
          slag(R7+"20261118_153931.mp4", 31.06, 1.0), slag(R7+"20261118_152601.mp4", 164.12, 1.0), slag(R7+"20261118_153310.mp4", 46.8, 1.0), slag(R4+"20261118_162624.mp4", 172.31, 1.0)], None),
        ([stuk(*N7, "Ik klief het", "het opbrandt.")], [c(R7+"20261118_152601.mp4", 2.0, 348.0, 60), c(R7+"20261120_130304.mp4", 0.0, None, 40)], None),
-       ([stuk(*N7, "Daarna heb ik", "kan drogen.", vanaf=37.785)], [c(R7+"20261118_162150.mp4", 0.0, 3.0), c(R7+"20261120_123817.mp4", 0.0)], "Na"),
-       ([stuk(*N7, "Mijn plan is", "in 2027.")],
+       ([stuk(*N7, "Daarna heb ik", "kan drogen.")], [c(R7+"20261118_162150.mp4", 0.0, 3.0), c(R7+"20261120_123817.mp4", 0.0)], "Na"),
+       ([stuk(*N7, "Mijn plan is", "in 2027.", rek=(0.85, 5))],
         [c(R7+"20261118_162141.mp4", 0.0, 1.8), c(R7+"20261118_162134.mp4", 0.0, 2.2), c(R7+"foto_20261118_160011.mp4", 0)], None),
        ([stuk(*N7, "Heb je een", "goede doel.", na="in 2027.")], [c(R4+"20261118_162624.mp4", 356.0)], "Stuur een bericht"),
      ]),

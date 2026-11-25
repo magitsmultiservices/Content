@@ -8,17 +8,17 @@
   {
    "bestand": "media/rv6/20261117_113427.mp4",
    "van": 0.3,
-   "tot": 2.32
+   "tot": 2.52
   },
   {
    "bestand": "media/rv6/20261117_113436.mp4",
    "van": 0.5,
-   "tot": 3.93
+   "tot": 4.13
   },
   {
    "bestand": "media/rv6/20261117_113746.mp4",
    "van": 0.0,
-   "tot": 3.71
+   "tot": 3.91
   },
   {
    "bestand": "media/rv6/20261117_113427.mp4",
@@ -28,12 +28,12 @@
   {
    "bestand": "media/rv6/20261117_121004.mp4",
    "van": 0.0,
-   "tot": 1.22
+   "tot": 1.73
   },
   {
    "bestand": "media/rv6/20261117_113746.mp4",
    "van": 8.0,
-   "tot": 40.04,
+   "tot": 42.44,
    "snelheid": 12
   },
   {
@@ -44,48 +44,48 @@
   {
    "bestand": "media/rv6/20261117_121001.mp4",
    "van": 0.0,
-   "tot": 1.23
+   "tot": 1.43
   },
   {
    "bestand": "media/rv6/20261117_123516.mp4",
    "van": 0.5,
-   "tot": 27.3,
+   "tot": 28.98,
    "snelheid": 8
   },
   {
    "bestand": "media/rv6/20261117_123221.mp4",
    "van": 0.0,
-   "tot": 1.86
+   "tot": 2.06
   },
   {
    "bestand": "media/rv6/20261117_121125.mp4",
    "van": 0.0,
-   "tot": 3.5
+   "tot": 3.7
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-006-klimop.woorden.json",
  "hook": {
   "tekst": "Vandaag: | klimop weg",
-  "tot": 1.97
+  "tot": 2.17
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 2.12,
-   "tot": 5.3,
+   "van": 2.32,
+   "tot": 5.7,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 22.88,
-   "tot": 24.49,
+   "van": 24.6,
+   "tot": 26.41,
    "stijl": "pop"
   },
   {
    "tekst": "Vraag het ons",
-   "van": 24.74,
-   "tot": 27.99,
+   "van": 26.66,
+   "tot": 30.11,
    "stijl": "pop"
   }
  ],

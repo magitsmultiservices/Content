@@ -8,12 +8,12 @@
   {
    "bestand": "media/rv7/20261118_152311.mp4",
    "van": 20.0,
-   "tot": 22.98
+   "tot": 23.04
   },
   {
    "bestand": "media/rv4/IMG_1252_traag2.mp4",
    "van": 0.0,
-   "tot": 3.47
+   "tot": 3.66
   },
   {
    "bestand": "media/rv4/20261116_105638.mp4",
@@ -89,7 +89,7 @@
   {
    "bestand": "media/rv7/20261120_130304.mp4",
    "van": 0.0,
-   "tot": 45.73,
+   "tot": 48.13,
    "snelheid": 40
   },
   {
@@ -100,7 +100,7 @@
   {
    "bestand": "media/rv7/20261120_123817.mp4",
    "van": 0.0,
-   "tot": 1.85
+   "tot": 2.07
   },
   {
    "bestand": "media/rv7/20261118_162141.mp4",
@@ -115,7 +115,7 @@
   {
    "bestand": "media/rv7/foto_20261118_160011.mp4",
    "van": 0,
-   "tot": 1.99
+   "tot": 2.12
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
@@ -127,25 +127,25 @@
  "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
  "hook": {
   "tekst": "Brandhout | voor het goede doel",
-  "tot": 2.93
+  "tot": 2.99
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 6.55,
-   "tot": 8.28,
+   "van": 6.8,
+   "tot": 8.53,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 33.26,
-   "tot": 37.86,
+   "van": 33.57,
+   "tot": 38.39,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur een bericht",
-   "van": 44.1,
-   "tot": 50.53,
+   "van": 44.76,
+   "tot": 51.19,
    "stijl": "pop"
   }
  ],
