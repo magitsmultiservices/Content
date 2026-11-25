@@ -8,7 +8,7 @@
   {
    "bestand": "media/rv7/20261118_152311.mp4",
    "van": 20.0,
-   "tot": 22.97
+   "tot": 22.98
   },
   {
    "bestand": "media/rv4/IMG_1252_traag2.mp4",
@@ -127,25 +127,25 @@
  "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
  "hook": {
   "tekst": "Brandhout | voor het goede doel",
-  "tot": 2.92
+  "tot": 2.93
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 6.73,
-   "tot": 8.46,
+   "van": 6.74,
+   "tot": 8.47,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 33.44,
-   "tot": 38.26,
+   "van": 33.45,
+   "tot": 38.27,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur een bericht",
-   "van": 44.5,
-   "tot": 50.93,
+   "van": 44.51,
+   "tot": 50.94,
    "stijl": "pop"
   }
  ],

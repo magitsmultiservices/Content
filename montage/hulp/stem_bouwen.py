@@ -68,6 +68,11 @@ def stuk_voor(st, extra):
     return st
 
 
+def los_stuk(map_, naam, woorden):
+    """Stemstuk met handmatig gecontroleerde woordtijden (voor een take die de herkenning verkeerd plaatste)."""
+    return {"wav": ROOT / f"media/{map_}/{naam}.wav", "woorden": [{"w": w, "start": a, "eind": b} for w, a, b in woorden]}
+
+
 def c(bestand, van, tot=None, snelheid=1):
     d = {"bestand": bestand, "van": van, "tot": tot}
     if snelheid != 1:
@@ -176,7 +181,7 @@ def bouw(naam, titel, uitvoer, hook, blokken):
                 zinseinde = w["w"][-1:] in ".?!"
                 a0, b0 = max(0.0, w["start"] - 0.22), w["eind"] + (STAART if zinseinde else 0.1)
                 if zinseinde and wi + 1 < len(ws):
-                    b0 = min(b0, max(w["eind"] + 0.1, ws[wi + 1]["start"] - 0.05))
+                    b0 = min(b0, max(w["eind"] + 0.05, ws[wi + 1]["start"] - 0.24))  # niet in de aanloop van het volgende woord
                 if delen and a0 - delen[-1][1] < 0.02 and delen[-1][2][-1]["w"][-1:] not in ".?!":
                     delen[-1][1] = max(delen[-1][1], b0); delen[-1][2].append(w)
                 else:
@@ -238,7 +243,13 @@ def videos():
      "reclame-005-palmbomen": lambda: ("Reclamevideo 5 · Vandaag: palmbomen", "output/reclame-005.mp4", "Vandaag: | palmbomen", [
        ([stuk(*N5, "Vandaag heb ik", "snoeiber nodig.")], [c(R5+"20261116_143134.mp4", 0.0)], None),
        ([stuk(*N5, "Toen ik begon,", "bladeren aan.")], [c(R5+"20261116_130245.mp4", 0.0, 2.6), c(R5+"20261116_133446.mp4", 0.0)], "Voor"),
-       ([stuk(*N5, "Dit zijn Chinese", "Belgische tuinen.")], [c(R5+"20261116_135117.mp4", 0.0)], None),
+       ([los_stuk(*N5, [  # laatste (betere) take, tijden gecontroleerd op het geluid
+           ("Het", 42.44, 42.62), ("zijn", 42.62, 42.92), ("Chinese", 42.92, 43.26), ("waaierpalmen.", 43.26, 44.04),
+           ("Die", 44.26, 44.42), ("kunnen", 44.42, 44.66), ("tegen", 44.66, 44.9), ("de", 44.9, 45.08), ("vorst", 45.08, 45.34),
+           ("en", 45.34, 45.5), ("blijven", 45.5, 45.72), ("ook", 45.72, 45.92), ("in", 45.92, 46.02), ("de", 46.02, 46.14),
+           ("winter", 46.14, 46.4), ("groen.", 46.4, 46.58),
+           ("Daarom", 57.18, 57.6), ("zie", 57.6, 57.72), ("je", 57.72, 57.84), ("ze", 57.84, 58.0), ("zoveel", 58.0, 58.38),
+           ("in", 58.38, 58.48), ("Belgische", 58.48, 58.9), ("tuinen.", 58.9, 59.22)])], [c(R5+"20261116_135117.mp4", 0.0)], None),
        ([stuk(*N5, "Ik heb de", "groene kop.")], [c(R5+"20261116_134218.mp4", 1.0, 2.8), c(R5+"20261116_130245.mp4", 3.0, None, 45)], None),
        ([stuk(*N5, "Daarna heb ik", "het containerpark.")],
         [c(R5+"20261116_130834.mp4", 0.0, 1.0), c(R5+"20261116_144216.mp4", 0.0, 3.5, 2.5), c(R5+"20261116_144243.mp4", 0.0)], None),
