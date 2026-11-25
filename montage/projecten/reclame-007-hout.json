@@ -8,22 +8,22 @@
   {
    "bestand": "media/rv7/20261118_152311.mp4",
    "van": 20.0,
-   "tot": 22.2
+   "tot": 22.97
   },
   {
    "bestand": "media/rv4/IMG_1252_traag2.mp4",
    "van": 0.0,
-   "tot": 3.46
+   "tot": 3.66
   },
   {
    "bestand": "media/rv4/20261116_105638.mp4",
    "van": 17.0,
-   "tot": 18.78
+   "tot": 18.98
   },
   {
    "bestand": "media/rv4/20261116_105707.mp4",
    "van": 0.0,
-   "tot": 2.77
+   "tot": 2.97
   },
   {
    "bestand": "media/rv7/20261118_153931.mp4",
@@ -47,37 +47,37 @@
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
-   "van": 54.23,
+   "van": 54.08,
    "tot": 55.43
   },
   {
    "bestand": "media/rv7/20261118_153310.mp4",
-   "van": 37.16,
+   "van": 37.01,
    "tot": 38.36
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
-   "van": 239.5,
+   "van": 239.35,
    "tot": 240.7
   },
   {
    "bestand": "media/rv7/20261118_153931.mp4",
-   "van": 30.21,
+   "van": 30.06,
    "tot": 31.41
   },
   {
    "bestand": "media/rv7/20261118_152601.mp4",
-   "van": 163.27,
+   "van": 163.12,
    "tot": 164.47
   },
   {
    "bestand": "media/rv7/20261118_153310.mp4",
-   "van": 45.95,
+   "van": 45.8,
    "tot": 47.15
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
-   "van": 171.46,
+   "van": 171.31,
    "tot": 172.66
   },
   {
@@ -89,7 +89,7 @@
   {
    "bestand": "media/rv7/20261120_130304.mp4",
    "van": 0.0,
-   "tot": 27.73,
+   "tot": 45.73,
    "snelheid": 40
   },
   {
@@ -100,7 +100,7 @@
   {
    "bestand": "media/rv7/20261120_123817.mp4",
    "van": 0.0,
-   "tot": 1.87
+   "tot": 2.07
   },
   {
    "bestand": "media/rv7/20261118_162141.mp4",
@@ -115,37 +115,37 @@
   {
    "bestand": "media/rv7/foto_20261118_160011.mp4",
    "van": 0,
-   "tot": 1.79
+   "tot": 1.99
   },
   {
    "bestand": "media/rv4/20261118_162624.mp4",
    "van": 356.0,
-   "tot": 362.16
+   "tot": 362.68
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-007-hout.woorden.json",
  "hook": {
   "tekst": "Brandhout | voor het goede doel",
-  "tot": 2.15
+  "tot": 2.92
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 5.76,
-   "tot": 7.29,
+   "van": 6.73,
+   "tot": 8.46,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 30.57,
-   "tot": 35.19,
+   "van": 33.44,
+   "tot": 38.26,
    "stijl": "pop"
   },
   {
    "tekst": "Stuur een bericht",
-   "van": 41.23,
-   "tot": 47.14,
+   "van": 44.5,
+   "tot": 50.93,
    "stijl": "pop"
   }
  ],

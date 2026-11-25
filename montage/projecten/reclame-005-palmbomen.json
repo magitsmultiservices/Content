@@ -8,7 +8,7 @@
   {
    "bestand": "media/rv5/20261116_143134.mp4",
    "van": 0.0,
-   "tot": 3.68
+   "tot": 4.38
   },
   {
    "bestand": "media/rv5/20261116_130245.mp4",
@@ -18,12 +18,12 @@
   {
    "bestand": "media/rv5/20261116_133446.mp4",
    "van": 0.0,
-   "tot": 1.22
+   "tot": 1.42
   },
   {
    "bestand": "media/rv5/20261116_135117.mp4",
    "van": 0.0,
-   "tot": 6.84
+   "tot": 8.09
   },
   {
    "bestand": "media/rv5/20261116_134218.mp4",
@@ -33,7 +33,7 @@
   {
    "bestand": "media/rv5/20261116_130245.mp4",
    "van": 3.0,
-   "tot": 66.9,
+   "tot": 75.9,
    "snelheid": 45
   },
   {
@@ -50,7 +50,7 @@
   {
    "bestand": "media/rv5/20261116_144243.mp4",
    "van": 0.0,
-   "tot": 0.9
+   "tot": 1.1
   },
   {
    "bestand": "media/rv5/20261116_130827.mp4",
@@ -60,7 +60,7 @@
   {
    "bestand": "media/rv5/20261116_144228.mp4",
    "van": 0.0,
-   "tot": 0.82
+   "tot": 1.02
   },
   {
    "bestand": "media/rv5/20261116_144236.mp4",
@@ -70,32 +70,32 @@
   {
    "bestand": "media/rv5/foto_20261116_130844.mp4",
    "van": 0,
-   "tot": 2.41
+   "tot": 2.61
   }
  ],
  "broll": [],
  "ondertitels": "montage/projecten/reclame-005-palmbomen.woorden.json",
  "hook": {
   "tekst": "Vandaag: | palmbomen",
-  "tot": 3.63
+  "tot": 4.33
  },
  "teksten": [
   {
    "tekst": "Voor",
-   "van": 3.78,
-   "tot": 7.35,
+   "van": 4.48,
+   "tot": 8.25,
    "stijl": "pop"
   },
   {
    "tekst": "Na",
-   "van": 20.96,
-   "tot": 22.43,
+   "van": 23.51,
+   "tot": 25.18,
    "stijl": "pop"
   },
   {
    "tekst": "Vraag het ons",
-   "van": 22.68,
-   "tot": 26.84,
+   "van": 25.43,
+   "tot": 29.79,
    "stijl": "pop"
   }
  ],

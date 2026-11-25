@@ -18,7 +18,8 @@ SR = 48000
 LOS = 0.12          # ruimte voor/na de stem in een blok
 TUSSEN = 0.25       # pauze tussen twee blokken
 MAXPAUZE = 0.09     # pauze tussen woordgroepen binnen een zin
-ZINPAUZE, KOMMAPAUZE = 0.25, 0.12
+ZINPAUZE, KOMMAPAUZE = 0.35, 0.12
+STAART = 0.3        # extra ruimte na het laatste woord van een zin (zodat de slotklank niet wegvalt)
 
 FIX = {"beukenhag": "beukenhaag", "smalder": "smaller", "snoeizel": "snoeisel", "snoeibord": "snoeibeurt",
        "snoeibuur": "snoeibeurt", "snoeiber": "snoeibeurt", "warm": "Waarom", "oprammen": "opruimen", "snoeik": "snoei ik",
@@ -94,7 +95,7 @@ def lees_wav(p, cache={}):
     return cache[p]
 
 
-def inkorten(data, max_stil=0.12, drempel=0.08):
+def inkorten(data, max_stil=0.12, drempel=0.08, staart=0.1):
     """Knipt stiltes binnen een stemstuk in (vooraan/achteraan tot 0,1 s). Geeft (data, tijdkaart)."""
     fr = int(0.01 * SR); n = len(data) // fr
     if n == 0:
@@ -110,8 +111,8 @@ def inkorten(data, max_stil=0.12, drempel=0.08):
             lang = (j - i) * 0.01
             if i == 0 and lang > 0.1:
                 weg.append((0.0, lang - 0.1))
-            elif j == n and lang > 0.1:
-                weg.append((i * 0.01 + 0.1, lang - 0.1))
+            elif j == n and lang > staart:
+                weg.append((i * 0.01 + staart, lang - staart))
             elif 0 < i and j < n and lang > max_stil:
                 weg.append((i * 0.01 + max_stil / 2, lang - max_stil))
             i = j
@@ -170,14 +171,19 @@ def bouw(naam, titel, uitvoer, hook, blokken):
         for s in stukken:
             wav = lees_wav(s["wav"])
             delen = []
-            for w in s["woorden"]:
-                a0, b0 = max(0.0, w["start"] - 0.22), w["eind"] + 0.1
-                if delen and a0 - delen[-1][1] < 0.02:
+            ws = s["woorden"]
+            for wi, w in enumerate(ws):
+                zinseinde = w["w"][-1:] in ".?!"
+                a0, b0 = max(0.0, w["start"] - 0.22), w["eind"] + (STAART if zinseinde else 0.1)
+                if zinseinde and wi + 1 < len(ws):
+                    b0 = min(b0, max(w["eind"] + 0.1, ws[wi + 1]["start"] - 0.05))
+                if delen and a0 - delen[-1][1] < 0.02 and delen[-1][2][-1]["w"][-1:] not in ".?!":
                     delen[-1][1] = max(delen[-1][1], b0); delen[-1][2].append(w)
                 else:
                     delen.append([a0, b0, [w]])
             for j, (a0, b0, dw) in enumerate(delen):
-                data, k0 = inkorten(wav[int(a0 * SR):int(b0 * SR)].copy())
+                einde = dw[-1]["w"][-1:] in ".?!"
+                data, k0 = inkorten(wav[int(a0 * SR):int(b0 * SR)].copy(), staart=STAART if einde else 0.1)
                 f = int(0.012 * SR); data[:f] *= np.linspace(0, 1, f); data[-f:] *= np.linspace(1, 0, f)
                 k = int(pos * SR); stem[k:k + len(data)] += data
                 for w in dw:
@@ -185,7 +191,7 @@ def bouw(naam, titel, uitvoer, hook, blokken):
                                     "eind": round(pos + k0(w["eind"] - a0), 2)})
                 eind = dw[-1]["w"][-1:]
                 pauze = ZINPAUZE if eind in ".?!" else KOMMAPAUZE if eind in ",:" else MAXPAUZE
-                if j + 1 < len(delen):
+                if j + 1 < len(delen) and not einde:
                     pauze = min(pauze, max(delen[j + 1][0] - b0, 0.0) + MAXPAUZE)
                 pos += len(data) / SR + pauze
             pos += TUSSEN - pauze
@@ -260,8 +266,8 @@ def videos():
        ([stuk(*N7, "Hier zie je", "zonder machine.")],
         [slag(R7+"20261118_153931.mp4", 12.13), slag(R7+"20261118_153310.mp4", 13.02), slag(R4+"20261118_162624.mp4", 124.14), slag(R7+"20261118_153931.mp4", 24.33)], None),
        ([stuk(*N7, "Rond het houtblok", "het makkelijkst.")],
-        [slag(R7+"20261118_152601.mp4", 55.08, 0.85), slag(R7+"20261118_153310.mp4", 38.01, 0.85), slag(R4+"20261118_162624.mp4", 240.35, 0.85),
-         slag(R7+"20261118_153931.mp4", 31.06, 0.85), slag(R7+"20261118_152601.mp4", 164.12, 0.85), slag(R7+"20261118_153310.mp4", 46.8, 0.85), slag(R4+"20261118_162624.mp4", 172.31, 0.85)], None),
+        [slag(R7+"20261118_152601.mp4", 55.08, 1.0), slag(R7+"20261118_153310.mp4", 38.01, 1.0), slag(R4+"20261118_162624.mp4", 240.35, 1.0),
+         slag(R7+"20261118_153931.mp4", 31.06, 1.0), slag(R7+"20261118_152601.mp4", 164.12, 1.0), slag(R7+"20261118_153310.mp4", 46.8, 1.0), slag(R4+"20261118_162624.mp4", 172.31, 1.0)], None),
        ([stuk(*N7, "Ik klief het", "het opbrandt.")], [c(R7+"20261118_152601.mp4", 2.0, 348.0, 60), c(R7+"20261120_130304.mp4", 0.0, None, 40)], None),
        ([stuk(*N7, "Daarna heb ik", "kan drogen.")], [c(R7+"20261118_162150.mp4", 0.0, 3.0), c(R7+"20261120_123817.mp4", 0.0)], "Na"),
        ([stuk(*N7, "Mijn plan is", "in 2027.")],
