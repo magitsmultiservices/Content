@@ -49,8 +49,9 @@ def zoek(woorden, zin, na=0):
     raise ValueError(f"niet gevonden: {zin!r}")
 
 
-def stuk(map_, naam, van, tot, na="", weg=()):
-    """Stemstuk vanaf 'van' t.e.m. 'tot' (eerste keer na 'na'); 'weg' = versprekingen die eruit gaan."""
+def stuk(map_, naam, van, tot, na="", weg=(), vanaf=0.0):
+    """Stemstuk vanaf 'van' t.e.m. 'tot' (eerste keer na 'na'); 'weg' = versprekingen die eruit gaan;
+    'vanaf' = geluid pas vanaf dit tijdstip in de opname (om een valse start, bv. 'h-het', weg te knippen)."""
     w = laad(map_, naam)
     i0 = zoek(w, na) + len(na.split()) if na else 0
     a = zoek(w, van, i0)
@@ -59,7 +60,7 @@ def stuk(map_, naam, van, tot, na="", weg=()):
     for z in weg:
         i = zoek(ws, z)
         ws = ws[:i] + ws[i + len(z.split()):]
-    return {"wav": ROOT / f"media/{map_}/{naam}.wav", "woorden": ws}
+    return {"wav": ROOT / f"media/{map_}/{naam}.wav", "woorden": ws, "vanaf": vanaf}
 
 
 def stuk_voor(st, extra):
@@ -179,7 +180,7 @@ def bouw(naam, titel, uitvoer, hook, blokken):
             ws = s["woorden"]
             for wi, w in enumerate(ws):
                 zinseinde = w["w"][-1:] in ".?!"
-                a0, b0 = max(0.0, w["start"] - 0.22), w["eind"] + (STAART if zinseinde else 0.1)
+                a0, b0 = max(s.get("vanaf", 0.0), w["start"] - 0.22), w["eind"] + (STAART if zinseinde else 0.1)
                 if zinseinde and wi + 1 < len(ws):
                     b0 = min(b0, max(w["eind"] + 0.05, ws[wi + 1]["start"] - 0.24))  # niet in de aanloop van het volgende woord
                 if delen and a0 - delen[-1][1] < 0.02 and delen[-1][2][-1]["w"][-1:] not in ".?!":
@@ -271,7 +272,7 @@ def videos():
      ]),
      "reclame-007-hout": lambda: ("Reclamevideo 7 · Vandaag: brandhout klieven", "output/reclame-007.mp4", "Brandhout | voor het goede doel", [
        ([stuk(*N7, "Vandaag heb ik", "goede doel.")], [c(R7+"20261118_152311.mp4", 20.0)], None),
-       ([stuk(*N7, "Het hout komt", "beneden haalde.")], [c(R4+"IMG_1252_traag2.mp4", 0.0)], None),
+       ([stuk(*N7, "Het hout komt", "beneden haalde.", vanaf=4.955)], [c(R4+"IMG_1252_traag2.mp4", 0.0)], None),
        ([stuk(*N7, "Zoals je ziet", "veel hout.")], [c(R4+"20261116_105638.mp4", 17.0)], "Voor"),
        ([stuk(*N7, "Alle stammen en", "mijn ten.")], [c(R4+"20261116_105707.mp4", 0.0)], None),
        ([stuk(*N7, "Hier zie je", "zonder machine.")],
@@ -280,7 +281,7 @@ def videos():
         [slag(R7+"20261118_152601.mp4", 55.08, 1.0), slag(R7+"20261118_153310.mp4", 38.01, 1.0), slag(R4+"20261118_162624.mp4", 240.35, 1.0),
          slag(R7+"20261118_153931.mp4", 31.06, 1.0), slag(R7+"20261118_152601.mp4", 164.12, 1.0), slag(R7+"20261118_153310.mp4", 46.8, 1.0), slag(R4+"20261118_162624.mp4", 172.31, 1.0)], None),
        ([stuk(*N7, "Ik klief het", "het opbrandt.")], [c(R7+"20261118_152601.mp4", 2.0, 348.0, 60), c(R7+"20261120_130304.mp4", 0.0, None, 40)], None),
-       ([stuk(*N7, "Daarna heb ik", "kan drogen.")], [c(R7+"20261118_162150.mp4", 0.0, 3.0), c(R7+"20261120_123817.mp4", 0.0)], "Na"),
+       ([stuk(*N7, "Daarna heb ik", "kan drogen.", vanaf=37.785)], [c(R7+"20261118_162150.mp4", 0.0, 3.0), c(R7+"20261120_123817.mp4", 0.0)], "Na"),
        ([stuk(*N7, "Mijn plan is", "in 2027.")],
         [c(R7+"20261118_162141.mp4", 0.0, 1.8), c(R7+"20261118_162134.mp4", 0.0, 2.2), c(R7+"foto_20261118_160011.mp4", 0)], None),
        ([stuk(*N7, "Heb je een", "goede doel.", na="in 2027.")], [c(R4+"20261118_162624.mp4", 356.0)], "Stuur een bericht"),
