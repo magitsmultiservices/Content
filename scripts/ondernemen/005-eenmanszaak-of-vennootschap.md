@@ -1,6 +1,6 @@
 # Ondernemingsvideo 5 · Aflevering 5: eenmanszaak of vennootschap, hoofd- of bijberoep
 
-- **Soort:** ondernemen (breed publiek), informatief en heel eenvoudig uitgelegd. Deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
+- **Soort:** ondernemen (breed publiek), informatief en heel eenvoudig uitgelegd. Deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 9)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
 - **Lengte:** ± 64 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met werkbeelden uit BEELDMATERIAAL

@@ -1,6 +1,6 @@
-# Ondernemingsvideo 7 · Aflevering 7: sociale bijdragen
+# Ondernemingsvideo 9 · Aflevering 9: sociale bijdragen
 
-- **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
+- **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 9)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
 - **Lengte:** ± 60 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met werkbeelden uit BEELDMATERIAAL
@@ -14,8 +14,8 @@
 ## Hook (0–4 s)
 Kies er één:
 
-1. "Aflevering 7. Als zelfstandige krijg je jaren later nog een rekening. Zo zit het."
-2. "Aflevering 7. Sociale bijdragen: zo werkt het echt."
+1. "Aflevering 9. Als zelfstandige krijg je jaren later nog een rekening. Zo zit het."
+2. "Aflevering 9. Sociale bijdragen: zo werkt het echt."
 
 > Beeld: Yelte in de camera, dicht bij.
 > Groot in het midden als pop-up (nog geen ondertitels): **Jaren later bijbetalen?**
@@ -76,7 +76,7 @@ Dan schrik je later niet van die rekening."
 Let op: camera altijd op jezelf, op ooghoogte, en het script buiten beeld. Werkbeelden zoek ik zelf in BEELDMATERIAAL.
 
 ## Caption
-> Aflevering 7. Waarom je als zelfstandige jaren later nog een rekening kan krijgen:
+> Aflevering 9. Waarom je als zelfstandige jaren later nog een rekening kan krijgen:
 > Je betaalt ze aan je sociaal verzekeringsfonds (Acerta, Liantis, Xerius, Partena…): ongeveer 20,5% van je netto beroepsinkomen. Als starter betaal je eerst een voorlopige bijdrage.
 > 2 à 3 jaar later, als je echte inkomen gekend is, volgt de afrekening: bijbetalen of geld terug.
 > Tip: zet geld opzij of betaal vrijwillig meer, dan krijg je later geen verrassing.

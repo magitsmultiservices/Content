@@ -7,8 +7,10 @@
 - [ ] 004 · Aflevering 4: een eenmanszaak starten in België (stappen en kosten)
 - [ ] 005 · Aflevering 5: hoofdberoep of bijberoep
 - [ ] 006 · Aflevering 6: btw uitgelegd
-- [ ] 007 · Aflevering 7: sociale bijdragen
-- [ ] 008 · Aflevering 8: de website (vragen gesteld, map Video 8 staat klaar)
+- [ ] 007 · Aflevering 7: facturen via Peppol met Accountable
+- [ ] 008 · Aflevering 8: zo vul ik mijn btw-aangifte in
+- [ ] 009 · Aflevering 9: sociale bijdragen
+- [ ] 010 · Aflevering 10: de website (vragen gesteld, map Video 10 staat klaar)
 - Volgende afleveringen: zie Drive-document "Ideeën ondernemingsvideo's" (video 2 t/m 34)
 - [ ] Hoe ik mijn eerste klant vond
 - [ ] Wat kost het om een zaak te starten? (met echte cijfers: [kosten])

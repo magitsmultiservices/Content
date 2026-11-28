@@ -1,6 +1,6 @@
 # Ondernemingsvideo 6 · Aflevering 6: btw als tuinbedrijf
 
-- **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
+- **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 9)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
 - **Lengte:** ± 68 seconden (± 192 woorden + 4 s eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, Accountable zonder klantgegevens) en werkbeelden

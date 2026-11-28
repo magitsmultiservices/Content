@@ -1,6 +1,6 @@
 # Ondernemingsvideo 4 · Aflevering 4: een eenmanszaak starten in België
 
-- **Soort:** ondernemen (breed publiek), informatief: stap voor stap, niet te moeilijk. Start van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
+- **Soort:** ondernemen (breed publiek), informatief: stap voor stap, niet te moeilijk. Start van de mini-reeks "zelf een zaak starten" (afl. 4 tot 9)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
 - **Lengte:** ± 65 seconden (met eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop/telefoon (zonder persoonlijke gegevens) en werkbeelden
