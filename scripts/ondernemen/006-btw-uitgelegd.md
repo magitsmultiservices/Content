@@ -3,11 +3,11 @@
 - **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
 - **Lengte:** ± 67 seconden (± 190 woorden + 4 s eindbeeld)
-- **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, facturatieprogramma zonder klantgegevens) en werkbeelden
+- **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, Accountable zonder klantgegevens) en werkbeelden
 - **Bron:** Yelte wist van bij de start dat hij als tuinbedrijf btw-plichtig is, doet zijn btw-aangifte zelf via MyMinfin
-  en maakt facturen met een facturatieprogramma. Regels opgezocht op 28/11/2026 (zie onderaan).
+  en maakt facturen met Accountable, dat ze rechtstreeks via Peppol verstuurt. Regels opgezocht op 28/11/2026 (zie onderaan).
 - **Rode draad:** btw is niet alleen een kost: als btw-plichtige trek je de btw op je aankopen af.
-- **Status:** klaar om op te nemen (eerst de twee vinkjes onderaan nakijken)
+- **Status:** klaar om op te nemen (eerst het vinkje onderaan nakijken)
 
 ---
 
@@ -25,7 +25,7 @@ Dat klinkt duur, maar er is ook een voordeel. De btw die ik betaal op materiaal 
 
 Die aangifte doe ik zelf, per kwartaal, via MyMinfin. De btw die ik aanrekende, min de btw die ik betaalde. Het verschil stort ik door. Zet die btw dus meteen opzij, want dat geld is niet van jou.
 
-En sinds 2026 moeten facturen aan bedrijven elektronisch, via Peppol. Mijn facturatieprogramma doet dat automatisch.
+En sinds 2026 moeten facturen aan bedrijven elektronisch, via Peppol. Ik gebruik Accountable, en dat doet dat rechtstreeks.
 
 ---
 
@@ -48,7 +48,7 @@ Kies er één:
 > Tekst bovenaan (pop, getal): **€25.000**
 
 ### Blok 2 · 21 procent (25–33 s)
-> Beeld: laptop met het facturatieprogramma (klantgegevens en bedragen niet leesbaar).
+> Beeld: laptop met Accountable (klantgegevens en bedragen niet leesbaar).
 > Tekst bovenaan (pop, getal): **21%**
 
 ### Blok 3 · Het voordeel: btw aftrekken (33–45 s)
@@ -58,7 +58,7 @@ Kies er één:
 > Beeld: laptop met MyMinfin (startpagina, geen naam of nummers in beeld), daarna Yelte in de camera bij "Zet die btw dus meteen opzij".
 
 ### Blok 5 · Peppol (57–63 s)
-> Beeld: laptop met het facturatieprogramma, daarna Yelte in de camera.
+> Beeld: laptop met Accountable, daarna Yelte in de camera.
 > Tekst bovenaan (pop): **Peppol**
 > Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
@@ -66,7 +66,6 @@ Kies er één:
 
 ## Even nakijken vóór de opname
 - [ ] Doe je je aangifte **per kwartaal**? (Standaard voor starters; als je maandelijks aangeeft, pas "per kwartaal" aan.)
-- [ ] Verstuurt je facturatieprogramma echt **via Peppol**? Zo niet, dan wordt de laatste zin: "Daar zorg ik dus voor met mijn facturatieprogramma."
 
 ## Opnamelijst (wat ik nodig heb in de map)
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
@@ -80,7 +79,7 @@ Kies er één:
 
 **Beelden** (3 tot 5 seconden, geen praten nodig):
 - [ ] Laptop met MyMinfin (startpagina, zonder naam of nummers in beeld)
-- [ ] Laptop met je facturatieprogramma (klantgegevens en bedragen niet leesbaar)
+- [ ] Laptop met Accountable (klantgegevens en bedragen niet leesbaar)
 
 Let op: camera altijd op jezelf, op ooghoogte, en het script buiten beeld. Werkbeelden van materiaal en machines zoek ik zelf in BEELDMATERIAAL.
 
