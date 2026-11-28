@@ -685,78 +685,128 @@
   "eind": 45.29
  },
  {
-  "w": "Accountable",
+  "w": "Sinds",
   "start": 45.5,
   "eind": 45.96
  },
  {
-  "w": "doet",
+  "w": "2026",
   "start": 45.96,
-  "eind": 46.14
+  "eind": 46.92
+ },
+ {
+  "w": "moet",
+  "start": 46.92,
+  "eind": 47.12
+ },
+ {
+  "w": "de",
+  "start": 47.12,
+  "eind": 47.3
+ },
+ {
+  "w": "factuur",
+  "start": 47.3,
+  "eind": 47.66
+ },
+ {
+  "w": "elektronisch",
+  "start": 47.66,
+  "eind": 48.3
+ },
+ {
+  "w": "via",
+  "start": 48.3,
+  "eind": 48.42
+ },
+ {
+  "w": "Peppol",
+  "start": 48.42,
+  "eind": 48.82
+ },
+ {
+  "w": "verstuurd",
+  "start": 48.82,
+  "eind": 49.2
+ },
+ {
+  "w": "worden.",
+  "start": 49.2,
+  "eind": 49.44
+ },
+ {
+  "w": "Accountable",
+  "start": 49.7,
+  "eind": 50.16
+ },
+ {
+  "w": "doet",
+  "start": 50.16,
+  "eind": 50.34
  },
  {
   "w": "dit",
-  "start": 46.14,
-  "eind": 46.3
+  "start": 50.34,
+  "eind": 50.5
  },
  {
   "w": "rechtstreeks,",
-  "start": 46.3,
-  "eind": 46.78
+  "start": 50.5,
+  "eind": 50.98
  },
  {
   "w": "maar",
-  "start": 46.94,
-  "eind": 47.06
+  "start": 51.14,
+  "eind": 51.26
  },
  {
   "w": "ook",
-  "start": 47.06,
-  "eind": 47.16
+  "start": 51.26,
+  "eind": 51.36
  },
  {
   "w": "dit",
-  "start": 47.16,
-  "eind": 47.28
+  "start": 51.36,
+  "eind": 51.48
  },
  {
   "w": "zal",
-  "start": 47.28,
-  "eind": 47.42
+  "start": 51.48,
+  "eind": 51.62
  },
  {
   "w": "ik",
-  "start": 47.42,
-  "eind": 47.58
+  "start": 51.62,
+  "eind": 51.78
  },
  {
   "w": "in",
-  "start": 47.58,
-  "eind": 47.68
+  "start": 51.78,
+  "eind": 51.88
  },
  {
   "w": "een",
-  "start": 47.68,
-  "eind": 47.8
+  "start": 51.88,
+  "eind": 52.0
  },
  {
   "w": "verdere",
-  "start": 47.8,
-  "eind": 48.08
+  "start": 52.0,
+  "eind": 52.28
  },
  {
   "w": "video",
-  "start": 48.08,
-  "eind": 48.34
+  "start": 52.28,
+  "eind": 52.54
  },
  {
   "w": "meer",
-  "start": 48.34,
-  "eind": 48.58
+  "start": 52.54,
+  "eind": 52.78
  },
  {
   "w": "toelichten.",
-  "start": 48.58,
-  "eind": 48.98
+  "start": 52.78,
+  "eind": 53.18
  }
 ]

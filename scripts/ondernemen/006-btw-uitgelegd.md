@@ -7,7 +7,7 @@
 - **Bron:** Yelte wist van bij de start dat hij als tuinbedrijf btw-plichtig is, doet zijn btw-aangifte zelf per kwartaal via MyMinfin
   en maakt facturen met Accountable, dat ze rechtstreeks via Peppol verstuurt. Regels opgezocht op 28/11/2026 (zie onderaan).
 - **Rode draad:** btw is niet alleen een kost: als btw-plichtige trek je de btw op je aankopen af.
-- **Status:** opgenomen en gemonteerd (± 53 s), wacht op goedkeuring. Montage: `montage/projecten/006-btw-uitgelegd.json` (Yelte nam een eigen, kortere versie op: zonder het stuk over 6% en zonder de Peppol-zin; die komen in afl. 7 en 8).
+- **Status:** opgenomen en gemonteerd (± 57 s), wacht op goedkeuring. Montage: `montage/projecten/006-btw-uitgelegd.json` (Yelte nam een eigen, kortere versie op: zonder het stuk over 6%; Peppol-zin IMG_3122 later toegevoegd; werkbeelden uit BEELDMATERIAAL).
 
 ---
 
