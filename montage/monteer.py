@@ -450,11 +450,16 @@ def main():
                            f"trim=end_frame={beelden},setpts=PTS-STARTPTS,settb=1/{FPS}[s{k}]")
             if k == 1:
                 laatste = "s1"
+            elif overgang <= 0:
+                pass   # harde knip: alle stukken worden hieronder in één keer aan elkaar gezet
             else:
                 filters.append(f"[{laatste}][s{k}]xfade=transition=fade:duration={overgang}:"
                                f"offset={totaal - overgang:.4f}[x{k}]")
                 laatste = f"x{k}"
             totaal += duur
+        if overgang <= 0 and len(stukken) > 1:
+            filters.append("".join(f"[s{k}]" for k in range(1, len(stukken) + 1)) + f"concat=n={len(stukken)}:v=1:a=0[xc]")
+            laatste = "xc"
         filters.append(f"[{laatste}]ass={ass}:fontsdir={FONTS},format=yuv420p[v]")
         hoofd = werk / "hoofd.mp4"
         stem = project.get("stem")

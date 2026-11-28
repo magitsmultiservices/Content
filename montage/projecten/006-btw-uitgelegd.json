@@ -1,7 +1,7 @@
 {
  "titel": "Ondernemingsvideo 6 · Aflevering 6",
  "uitvoer": "output/006-btw-uitgelegd.mp4",
- "overgang": 0.15,
+ "overgang": 0,
  "clips": [
   {
    "bestand": "media/a006/IMG_3096.mp4",

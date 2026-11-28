@@ -27,7 +27,7 @@ Zie `projecten/proef.json` voor een volledig voorbeeld.
 | `geluid` | `false` exporteert zonder geluid (bv. als er later muziek onder komt) |
 | `stem` | pad naar een ingesproken stem (voice-over, wav), loopt vanaf 0 s onder de beelden; met `geluid: true` komt het geluid van de beelden als achtergrond eronder (`clipniveau`, standaard -31 LUFS; de stem staat op -15) |
 | `hook` | `{"tekst", "tot"}`: hooktekst groot in het midden met pop; ondertitels starten pas na `tot` |
-| `overgang` | duur van de vloeiende overgang tussen beelden in seconden (standaard 0.25) |
+| `overgang` | duur van de vloeiende overgang tussen beelden in seconden (standaard 0.25); `0` = harde knip |
 | `eindbeeld` | `true` (standaard) of `false` |
 | `uitvoer` | pad van het eindbestand, bv. `output/001-voorstelling.mp4` |
 
