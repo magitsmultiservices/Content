@@ -4,10 +4,10 @@
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
 - **Lengte:** ± 67 seconden (± 190 woorden + 4 s eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, Accountable zonder klantgegevens) en werkbeelden
-- **Bron:** Yelte wist van bij de start dat hij als tuinbedrijf btw-plichtig is, doet zijn btw-aangifte zelf via MyMinfin
+- **Bron:** Yelte wist van bij de start dat hij als tuinbedrijf btw-plichtig is, doet zijn btw-aangifte zelf per kwartaal via MyMinfin
   en maakt facturen met Accountable, dat ze rechtstreeks via Peppol verstuurt. Regels opgezocht op 28/11/2026 (zie onderaan).
 - **Rode draad:** btw is niet alleen een kost: als btw-plichtige trek je de btw op je aankopen af.
-- **Status:** klaar om op te nemen (eerst het vinkje onderaan nakijken)
+- **Status:** klaar om op te nemen
 
 ---
 
@@ -66,9 +66,6 @@ Ik gebruik Accountable, en dat doet dat rechtstreeks."
 > Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
-
-## Even nakijken vóór de opname
-- [ ] Doe je je aangifte **per kwartaal**? (Standaard voor starters; als je maandelijks aangeeft, pas "per kwartaal" aan.)
 
 ## Opnamelijst (wat ik nodig heb in de map)
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
