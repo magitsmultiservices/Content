@@ -1,0 +1,112 @@
+{
+ "titel": "Ondernemingsvideo 6 · Aflevering 6",
+ "uitvoer": "output/006-btw-uitgelegd.mp4",
+ "overgang": 0.15,
+ "clips": [
+  {
+   "bestand": "media/a006/IMG_3096.mp4",
+   "van": 2.8,
+   "tot": 5.6
+  },
+  {
+   "bestand": "media/a006/IMG_3097.mp4",
+   "van": 0.4,
+   "tot": 4.5,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a006/IMG_3098.mp4",
+   "van": 1.6,
+   "tot": 5.1
+  },
+  {
+   "bestand": "media/a006/IMG_3099.mp4",
+   "van": 0.9,
+   "tot": 3.0,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a006/IMG_3100.mp4",
+   "van": 0.55,
+   "tot": 6.15
+  },
+  {
+   "bestand": "media/a006/IMG_3101.mp4",
+   "van": 2.3,
+   "tot": 4.45,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a006/IMG_3106.mp4",
+   "van": 2.15,
+   "tot": 9.8
+  },
+  {
+   "bestand": "media/a006/IMG_3108.mp4",
+   "van": 1.6,
+   "tot": 4.85,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a006/IMG_3109.mp4",
+   "van": 0.85,
+   "tot": 2.45
+  },
+  {
+   "bestand": "media/a006/IMG_3113.mp4",
+   "van": 0.0,
+   "tot": 4.15,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a006/IMG_3117.mp4",
+   "van": 1.15,
+   "tot": 6.15
+  },
+  {
+   "bestand": "media/a006/IMG_3119.mp4",
+   "van": 0.55,
+   "tot": 4.15,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a006/IMG_3125.mp4",
+   "van": 0.0,
+   "tot": 3.62
+  }
+ ],
+ "broll": [
+  {
+   "bestand": "media/rv5/20261116_134218.mp4",
+   "van": 0.5,
+   "op": 23.22,
+   "duur": 2.2
+  }
+ ],
+ "ondertitels": "montage/projecten/006-btw-uitgelegd.woorden.json",
+ "hook": {
+  "tekst": "Btw-plichtig | of niet?",
+  "tot": 2.75
+ },
+ "teksten": [
+  {
+   "tekst": "€25.000",
+   "van": 13.61,
+   "tot": 15.81,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "21%",
+   "van": 29.02,
+   "tot": 31.02,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Facturen via Peppol",
+   "van": 45.55,
+   "tot": 47.9,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}

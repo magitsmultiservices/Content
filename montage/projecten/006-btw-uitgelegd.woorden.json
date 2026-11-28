@@ -1,0 +1,762 @@
+[
+ {
+  "w": "btw-plichtig",
+  "start": 0.14,
+  "eind": 1.34
+ },
+ {
+  "w": "of",
+  "start": 1.34,
+  "eind": 1.62
+ },
+ {
+  "w": "niet",
+  "start": 1.62,
+  "eind": 1.88
+ },
+ {
+  "w": "btw-plichtig?",
+  "start": 1.88,
+  "eind": 2.74
+ },
+ {
+  "w": "Hallo,",
+  "start": 2.96,
+  "eind": 3.28
+ },
+ {
+  "w": "ik",
+  "start": 3.42,
+  "eind": 3.42
+ },
+ {
+  "w": "ben",
+  "start": 3.42,
+  "eind": 3.56
+ },
+ {
+  "w": "Yelte.",
+  "start": 3.56,
+  "eind": 3.88
+ },
+ {
+  "w": "Ik",
+  "start": 3.96,
+  "eind": 4.06
+ },
+ {
+  "w": "ben",
+  "start": 4.06,
+  "eind": 4.16
+ },
+ {
+  "w": "een",
+  "start": 4.16,
+  "eind": 4.28
+ },
+ {
+  "w": "eigen",
+  "start": 4.28,
+  "eind": 4.48
+ },
+ {
+  "w": "bedrijf",
+  "start": 4.48,
+  "eind": 4.86
+ },
+ {
+  "w": "gestart",
+  "start": 4.86,
+  "eind": 5.2
+ },
+ {
+  "w": "en",
+  "start": 5.2,
+  "eind": 5.4
+ },
+ {
+  "w": "ik",
+  "start": 5.4,
+  "eind": 5.54
+ },
+ {
+  "w": "neem",
+  "start": 5.54,
+  "eind": 5.68
+ },
+ {
+  "w": "jullie",
+  "start": 5.68,
+  "eind": 5.82
+ },
+ {
+  "w": "mee",
+  "start": 5.82,
+  "eind": 6.04
+ },
+ {
+  "w": "in",
+  "start": 6.04,
+  "eind": 6.2
+ },
+ {
+  "w": "heel",
+  "start": 6.2,
+  "eind": 6.3
+ },
+ {
+  "w": "het",
+  "start": 6.3,
+  "eind": 6.48
+ },
+ {
+  "w": "proces.",
+  "start": 6.48,
+  "eind": 6.78
+ },
+ {
+  "w": "In",
+  "start": 7.06,
+  "eind": 7.54
+ },
+ {
+  "w": "een",
+  "start": 7.54,
+  "eind": 7.66
+ },
+ {
+  "w": "vorige",
+  "start": 7.66,
+  "eind": 7.96
+ },
+ {
+  "w": "video",
+  "start": 7.96,
+  "eind": 8.28
+ },
+ {
+  "w": "legde",
+  "start": 8.28,
+  "eind": 8.58
+ },
+ {
+  "w": "ik",
+  "start": 8.58,
+  "eind": 8.68
+ },
+ {
+  "w": "uit",
+  "start": 8.68,
+  "eind": 8.84
+ },
+ {
+  "w": "hoe",
+  "start": 8.84,
+  "eind": 8.98
+ },
+ {
+  "w": "je",
+  "start": 8.98,
+  "eind": 9.1
+ },
+ {
+  "w": "een",
+  "start": 9.1,
+  "eind": 9.2
+ },
+ {
+  "w": "btw-nummer",
+  "start": 9.2,
+  "eind": 9.72
+ },
+ {
+  "w": "activeert.",
+  "start": 9.72,
+  "eind": 10.32
+ },
+ {
+  "w": "Nu",
+  "start": 10.5,
+  "eind": 10.9
+ },
+ {
+  "w": "leg",
+  "start": 10.9,
+  "eind": 11.06
+ },
+ {
+  "w": "ik",
+  "start": 11.06,
+  "eind": 11.2
+ },
+ {
+  "w": "je",
+  "start": 11.2,
+  "eind": 11.32
+ },
+ {
+  "w": "uit",
+  "start": 11.32,
+  "eind": 11.52
+ },
+ {
+  "w": "wat",
+  "start": 11.52,
+  "eind": 11.66
+ },
+ {
+  "w": "dat",
+  "start": 11.66,
+  "eind": 11.88
+ },
+ {
+  "w": "betekent.",
+  "start": 11.88,
+  "eind": 12.38
+ },
+ {
+  "w": "Wie",
+  "start": 12.65,
+  "eind": 13.17
+ },
+ {
+  "w": "minder",
+  "start": 13.17,
+  "eind": 13.43
+ },
+ {
+  "w": "dan",
+  "start": 13.43,
+  "eind": 13.61
+ },
+ {
+  "w": "25.000",
+  "start": 13.61,
+  "eind": 14.51
+ },
+ {
+  "w": "euro",
+  "start": 14.51,
+  "eind": 14.85
+ },
+ {
+  "w": "per",
+  "start": 14.85,
+  "eind": 15.05
+ },
+ {
+  "w": "jaar",
+  "start": 15.05,
+  "eind": 15.27
+ },
+ {
+  "w": "verdient,",
+  "start": 15.27,
+  "eind": 15.77
+ },
+ {
+  "w": "die",
+  "start": 15.93,
+  "eind": 15.99
+ },
+ {
+  "w": "mag",
+  "start": 15.99,
+  "eind": 16.17
+ },
+ {
+  "w": "meestal",
+  "start": 16.17,
+  "eind": 16.53
+ },
+ {
+  "w": "kiezen",
+  "start": 16.53,
+  "eind": 16.77
+ },
+ {
+  "w": "voor",
+  "start": 16.77,
+  "eind": 16.95
+ },
+ {
+  "w": "een",
+  "start": 16.95,
+  "eind": 17.07
+ },
+ {
+  "w": "btw-vrijstelling.",
+  "start": 17.07,
+  "eind": 17.95
+ },
+ {
+  "w": "Dan",
+  "start": 18.2,
+  "eind": 18.6
+ },
+ {
+  "w": "reken",
+  "start": 18.6,
+  "eind": 18.94
+ },
+ {
+  "w": "je",
+  "start": 18.94,
+  "eind": 19.04
+ },
+ {
+  "w": "geen",
+  "start": 19.04,
+  "eind": 19.24
+ },
+ {
+  "w": "btw",
+  "start": 19.24,
+  "eind": 19.62
+ },
+ {
+  "w": "aan.",
+  "start": 19.62,
+  "eind": 20.1
+ },
+ {
+  "w": "Maar",
+  "start": 20.4,
+  "eind": 20.96
+ },
+ {
+  "w": "wie",
+  "start": 20.96,
+  "eind": 21.1
+ },
+ {
+  "w": "werken",
+  "start": 21.1,
+  "eind": 21.42
+ },
+ {
+  "w": "aan",
+  "start": 21.42,
+  "eind": 21.76
+ },
+ {
+  "w": "gebouwen",
+  "start": 21.76,
+  "eind": 22.12
+ },
+ {
+  "w": "of",
+  "start": 22.12,
+  "eind": 22.36
+ },
+ {
+  "w": "grond",
+  "start": 22.36,
+  "eind": 22.62
+ },
+ {
+  "w": "doet,",
+  "start": 22.62,
+  "eind": 22.9
+ },
+ {
+  "w": "zoals",
+  "start": 23.24,
+  "eind": 23.38
+ },
+ {
+  "w": "bouw-",
+  "start": 23.38,
+  "eind": 23.7
+ },
+ {
+  "w": "of",
+  "start": 23.7,
+  "eind": 23.82
+ },
+ {
+  "w": "tuinaanleg,",
+  "start": 23.82,
+  "eind": 24.4
+ },
+ {
+  "w": "is",
+  "start": 24.52,
+  "eind": 24.64
+ },
+ {
+  "w": "daarvan",
+  "start": 24.64,
+  "eind": 24.98
+ },
+ {
+  "w": "uitgesloten.",
+  "start": 24.98,
+  "eind": 25.66
+ },
+ {
+  "w": "Hoe",
+  "start": 26.66,
+  "eind": 26.88
+ },
+ {
+  "w": "klein",
+  "start": 26.88,
+  "eind": 27.0
+ },
+ {
+  "w": "je",
+  "start": 27.0,
+  "eind": 27.08
+ },
+ {
+  "w": "omzet",
+  "start": 27.08,
+  "eind": 27.36
+ },
+ {
+  "w": "ook",
+  "start": 27.36,
+  "eind": 27.56
+ },
+ {
+  "w": "is.",
+  "start": 27.56,
+  "eind": 27.8
+ },
+ {
+  "w": "Dus",
+  "start": 28.02,
+  "eind": 28.64
+ },
+ {
+  "w": "zet",
+  "start": 28.64,
+  "eind": 28.92
+ },
+ {
+  "w": "ik",
+  "start": 28.92,
+  "eind": 29.02
+ },
+ {
+  "w": "21%",
+  "start": 29.02,
+  "eind": 29.9
+ },
+ {
+  "w": "btw",
+  "start": 29.9,
+  "eind": 30.24
+ },
+ {
+  "w": "op",
+  "start": 30.24,
+  "eind": 30.44
+ },
+ {
+  "w": "mijn",
+  "start": 30.44,
+  "eind": 30.6
+ },
+ {
+  "w": "facturen.",
+  "start": 30.6,
+  "eind": 31.04
+ },
+ {
+  "w": "Maar",
+  "start": 31.28,
+  "eind": 31.6
+ },
+ {
+  "w": "het",
+  "start": 31.6,
+  "eind": 31.74
+ },
+ {
+  "w": "is",
+  "start": 31.74,
+  "eind": 31.84
+ },
+ {
+  "w": "ook",
+  "start": 31.84,
+  "eind": 31.98
+ },
+ {
+  "w": "een",
+  "start": 31.98,
+  "eind": 32.14
+ },
+ {
+  "w": "voordeel.",
+  "start": 32.14,
+  "eind": 32.54
+ },
+ {
+  "w": "De",
+  "start": 32.75,
+  "eind": 33.77
+ },
+ {
+  "w": "btw",
+  "start": 33.77,
+  "eind": 34.09
+ },
+ {
+  "w": "die",
+  "start": 34.09,
+  "eind": 34.25
+ },
+ {
+  "w": "ik",
+  "start": 34.25,
+  "eind": 34.49
+ },
+ {
+  "w": "betaal",
+  "start": 34.49,
+  "eind": 34.71
+ },
+ {
+  "w": "op",
+  "start": 34.71,
+  "eind": 34.91
+ },
+ {
+  "w": "materiaal",
+  "start": 34.91,
+  "eind": 35.29
+ },
+ {
+  "w": "en",
+  "start": 35.29,
+  "eind": 35.43
+ },
+ {
+  "w": "machines",
+  "start": 35.43,
+  "eind": 35.77
+ },
+ {
+  "w": "kan",
+  "start": 35.77,
+  "eind": 36.07
+ },
+ {
+  "w": "ik",
+  "start": 36.07,
+  "eind": 36.23
+ },
+ {
+  "w": "aftrekken.",
+  "start": 36.23,
+  "eind": 36.73
+ },
+ {
+  "w": "Bij",
+  "start": 37.07,
+  "eind": 37.69
+ },
+ {
+  "w": "een",
+  "start": 37.69,
+  "eind": 37.89
+ },
+ {
+  "w": "machine",
+  "start": 37.89,
+  "eind": 38.07
+ },
+ {
+  "w": "van",
+  "start": 38.07,
+  "eind": 38.27
+ },
+ {
+  "w": "121",
+  "start": 38.27,
+  "eind": 39.13
+ },
+ {
+  "w": "euro",
+  "start": 39.13,
+  "eind": 39.43
+ },
+ {
+  "w": "krijg",
+  "start": 39.43,
+  "eind": 39.75
+ },
+ {
+  "w": "je",
+  "start": 39.75,
+  "eind": 39.91
+ },
+ {
+  "w": "zo",
+  "start": 39.91,
+  "eind": 40.09
+ },
+ {
+  "w": "21",
+  "start": 40.09,
+  "eind": 40.67
+ },
+ {
+  "w": "euro",
+  "start": 40.67,
+  "eind": 41.07
+ },
+ {
+  "w": "btw",
+  "start": 41.07,
+  "eind": 41.39
+ },
+ {
+  "w": "terug.",
+  "start": 41.39,
+  "eind": 41.69
+ },
+ {
+  "w": "Voor",
+  "start": 42.03,
+  "eind": 42.37
+ },
+ {
+  "w": "ik",
+  "start": 42.37,
+  "eind": 42.49
+ },
+ {
+  "w": "mijn",
+  "start": 42.49,
+  "eind": 42.63
+ },
+ {
+  "w": "btw-aangifte",
+  "start": 42.63,
+  "eind": 43.51
+ },
+ {
+  "w": "doe,",
+  "start": 43.51,
+  "eind": 43.67
+ },
+ {
+  "w": "ga",
+  "start": 43.75,
+  "eind": 43.83
+ },
+ {
+  "w": "ik",
+  "start": 43.83,
+  "eind": 43.99
+ },
+ {
+  "w": "dieper",
+  "start": 43.99,
+  "eind": 44.23
+ },
+ {
+  "w": "op",
+  "start": 44.23,
+  "eind": 44.35
+ },
+ {
+  "w": "in",
+  "start": 44.35,
+  "eind": 44.47
+ },
+ {
+  "w": "een",
+  "start": 44.47,
+  "eind": 44.65
+ },
+ {
+  "w": "andere",
+  "start": 44.65,
+  "eind": 44.99
+ },
+ {
+  "w": "video.",
+  "start": 44.99,
+  "eind": 45.29
+ },
+ {
+  "w": "Accountable",
+  "start": 45.5,
+  "eind": 45.96
+ },
+ {
+  "w": "doet",
+  "start": 45.96,
+  "eind": 46.14
+ },
+ {
+  "w": "dit",
+  "start": 46.14,
+  "eind": 46.3
+ },
+ {
+  "w": "rechtstreeks,",
+  "start": 46.3,
+  "eind": 46.78
+ },
+ {
+  "w": "maar",
+  "start": 46.94,
+  "eind": 47.06
+ },
+ {
+  "w": "ook",
+  "start": 47.06,
+  "eind": 47.16
+ },
+ {
+  "w": "dit",
+  "start": 47.16,
+  "eind": 47.28
+ },
+ {
+  "w": "zal",
+  "start": 47.28,
+  "eind": 47.42
+ },
+ {
+  "w": "ik",
+  "start": 47.42,
+  "eind": 47.58
+ },
+ {
+  "w": "in",
+  "start": 47.58,
+  "eind": 47.68
+ },
+ {
+  "w": "een",
+  "start": 47.68,
+  "eind": 47.8
+ },
+ {
+  "w": "verdere",
+  "start": 47.8,
+  "eind": 48.08
+ },
+ {
+  "w": "video",
+  "start": 48.08,
+  "eind": 48.34
+ },
+ {
+  "w": "meer",
+  "start": 48.34,
+  "eind": 48.58
+ },
+ {
+  "w": "toelichten.",
+  "start": 48.58,
+  "eind": 48.98
+ }
+]
