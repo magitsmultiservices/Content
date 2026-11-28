@@ -1,0 +1,807 @@
+[
+ {
+  "w": "Hoe",
+  "start": 0.15,
+  "eind": 0.55
+ },
+ {
+  "w": "maak",
+  "start": 0.55,
+  "eind": 0.75
+ },
+ {
+  "w": "je",
+  "start": 0.75,
+  "eind": 0.85
+ },
+ {
+  "w": "facturen",
+  "start": 0.85,
+  "eind": 1.29
+ },
+ {
+  "w": "en",
+  "start": 1.29,
+  "eind": 1.49
+ },
+ {
+  "w": "wat",
+  "start": 1.49,
+  "eind": 1.65
+ },
+ {
+  "w": "is",
+  "start": 1.65,
+  "eind": 1.85
+ },
+ {
+  "w": "Peppol?",
+  "start": 1.85,
+  "eind": 2.15
+ },
+ {
+  "w": "Hallo,",
+  "start": 2.52,
+  "eind": 2.82
+ },
+ {
+  "w": "ik",
+  "start": 2.92,
+  "eind": 2.92
+ },
+ {
+  "w": "ben",
+  "start": 2.92,
+  "eind": 3.04
+ },
+ {
+  "w": "Yelte,",
+  "start": 3.04,
+  "eind": 3.34
+ },
+ {
+  "w": "ik",
+  "start": 3.46,
+  "eind": 3.56
+ },
+ {
+  "w": "heb",
+  "start": 3.56,
+  "eind": 3.64
+ },
+ {
+  "w": "een",
+  "start": 3.64,
+  "eind": 3.72
+ },
+ {
+  "w": "eigen",
+  "start": 3.72,
+  "eind": 3.92
+ },
+ {
+  "w": "bedrijf",
+  "start": 3.92,
+  "eind": 4.3
+ },
+ {
+  "w": "gestart",
+  "start": 4.3,
+  "eind": 4.6
+ },
+ {
+  "w": "en",
+  "start": 4.6,
+  "eind": 4.8
+ },
+ {
+  "w": "ik",
+  "start": 4.8,
+  "eind": 4.92
+ },
+ {
+  "w": "neem",
+  "start": 4.92,
+  "eind": 5.08
+ },
+ {
+  "w": "jullie",
+  "start": 5.08,
+  "eind": 5.2
+ },
+ {
+  "w": "mee",
+  "start": 5.2,
+  "eind": 5.38
+ },
+ {
+  "w": "in",
+  "start": 5.38,
+  "eind": 5.52
+ },
+ {
+  "w": "het",
+  "start": 5.52,
+  "eind": 5.68
+ },
+ {
+  "w": "proces.",
+  "start": 5.68,
+  "eind": 5.9
+ },
+ {
+  "w": "In",
+  "start": 6.0,
+  "eind": 6.38
+ },
+ {
+  "w": "een",
+  "start": 6.38,
+  "eind": 6.46
+ },
+ {
+  "w": "vorige",
+  "start": 6.46,
+  "eind": 6.76
+ },
+ {
+  "w": "video",
+  "start": 6.76,
+  "eind": 7.16
+ },
+ {
+  "w": "vertelde",
+  "start": 7.16,
+  "eind": 7.6
+ },
+ {
+  "w": "ik",
+  "start": 7.6,
+  "eind": 7.74
+ },
+ {
+  "w": "al",
+  "start": 7.74,
+  "eind": 7.9
+ },
+ {
+  "w": "dat",
+  "start": 7.9,
+  "eind": 8.1
+ },
+ {
+  "w": "facturen",
+  "start": 8.1,
+  "eind": 8.6
+ },
+ {
+  "w": "via",
+  "start": 8.6,
+  "eind": 8.9
+ },
+ {
+  "w": "Peppol",
+  "start": 8.9,
+  "eind": 9.26
+ },
+ {
+  "w": "verstuurd",
+  "start": 9.26,
+  "eind": 9.54
+ },
+ {
+  "w": "moeten",
+  "start": 9.54,
+  "eind": 9.72
+ },
+ {
+  "w": "worden.",
+  "start": 9.72,
+  "eind": 9.92
+ },
+ {
+  "w": "Vandaag",
+  "start": 10.19,
+  "eind": 10.51
+ },
+ {
+  "w": "toon",
+  "start": 10.51,
+  "eind": 10.75
+ },
+ {
+  "w": "ik",
+  "start": 10.75,
+  "eind": 10.83
+ },
+ {
+  "w": "hoe",
+  "start": 10.83,
+  "eind": 10.91
+ },
+ {
+  "w": "ik",
+  "start": 10.91,
+  "eind": 10.99
+ },
+ {
+  "w": "dat",
+  "start": 10.99,
+  "eind": 11.17
+ },
+ {
+  "w": "doe.",
+  "start": 11.17,
+  "eind": 11.45
+ },
+ {
+  "w": "Peppol",
+  "start": 11.84,
+  "eind": 12.3
+ },
+ {
+  "w": "is",
+  "start": 12.3,
+  "eind": 12.46
+ },
+ {
+  "w": "een",
+  "start": 12.46,
+  "eind": 12.56
+ },
+ {
+  "w": "netwerk",
+  "start": 12.56,
+  "eind": 12.98
+ },
+ {
+  "w": "waarmee",
+  "start": 12.98,
+  "eind": 13.44
+ },
+ {
+  "w": "facturen",
+  "start": 13.44,
+  "eind": 13.96
+ },
+ {
+  "w": "rechtstreeks",
+  "start": 13.96,
+  "eind": 14.44
+ },
+ {
+  "w": "van",
+  "start": 14.44,
+  "eind": 14.6
+ },
+ {
+  "w": "het",
+  "start": 14.6,
+  "eind": 14.76
+ },
+ {
+  "w": "ene",
+  "start": 14.76,
+  "eind": 15.0
+ },
+ {
+  "w": "boekhoudprogramma",
+  "start": 15.0,
+  "eind": 15.72
+ },
+ {
+  "w": "naar",
+  "start": 15.72,
+  "eind": 15.86
+ },
+ {
+  "w": "het",
+  "start": 15.86,
+  "eind": 16.08
+ },
+ {
+  "w": "andere",
+  "start": 16.08,
+  "eind": 16.28
+ },
+ {
+  "w": "gaan.",
+  "start": 16.28,
+  "eind": 16.42
+ },
+ {
+  "w": "Dus",
+  "start": 16.6,
+  "eind": 17.04
+ },
+ {
+  "w": "geen",
+  "start": 17.04,
+  "eind": 17.22
+ },
+ {
+  "w": "pdf",
+  "start": 17.22,
+  "eind": 17.52
+ },
+ {
+  "w": "in",
+  "start": 17.52,
+  "eind": 17.74
+ },
+ {
+  "w": "een",
+  "start": 17.74,
+  "eind": 17.88
+ },
+ {
+  "w": "mail.",
+  "start": 17.88,
+  "eind": 18.04
+ },
+ {
+  "w": "Maar",
+  "start": 18.22,
+  "eind": 18.58
+ },
+ {
+  "w": "een",
+  "start": 18.58,
+  "eind": 18.84
+ },
+ {
+  "w": "digitale",
+  "start": 18.84,
+  "eind": 19.22
+ },
+ {
+  "w": "factuur",
+  "start": 19.22,
+  "eind": 19.72
+ },
+ {
+  "w": "die",
+  "start": 19.72,
+  "eind": 19.96
+ },
+ {
+  "w": "het",
+  "start": 19.96,
+  "eind": 20.1
+ },
+ {
+  "w": "programma",
+  "start": 20.1,
+  "eind": 20.4
+ },
+ {
+  "w": "van",
+  "start": 20.4,
+  "eind": 20.54
+ },
+ {
+  "w": "je",
+  "start": 20.54,
+  "eind": 20.66
+ },
+ {
+  "w": "klant",
+  "start": 20.66,
+  "eind": 20.9
+ },
+ {
+  "w": "meteen",
+  "start": 20.9,
+  "eind": 21.28
+ },
+ {
+  "w": "inleest.",
+  "start": 21.28,
+  "eind": 21.72
+ },
+ {
+  "w": "Daar",
+  "start": 21.9,
+  "eind": 22.42
+ },
+ {
+  "w": "staat",
+  "start": 22.42,
+  "eind": 22.64
+ },
+ {
+  "w": "alles",
+  "start": 22.64,
+  "eind": 22.86
+ },
+ {
+  "w": "op",
+  "start": 22.86,
+  "eind": 23.1
+ },
+ {
+  "w": "wat",
+  "start": 23.1,
+  "eind": 23.26
+ },
+ {
+  "w": "moet.",
+  "start": 23.26,
+  "eind": 23.58
+ },
+ {
+  "w": "Mijn",
+  "start": 23.94,
+  "eind": 24.06
+ },
+ {
+  "w": "btw-nummer",
+  "start": 24.06,
+  "eind": 24.84
+ },
+ {
+  "w": "en",
+  "start": 24.84,
+  "eind": 25.14
+ },
+ {
+  "w": "dat",
+  "start": 25.14,
+  "eind": 25.26
+ },
+ {
+  "w": "van",
+  "start": 25.26,
+  "eind": 25.4
+ },
+ {
+  "w": "de",
+  "start": 25.4,
+  "eind": 25.6
+ },
+ {
+  "w": "klant,",
+  "start": 25.6,
+  "eind": 25.92
+ },
+ {
+  "w": "een",
+  "start": 26.24,
+  "eind": 26.4
+ },
+ {
+  "w": "factuurnummer,",
+  "start": 26.4,
+  "eind": 27.14
+ },
+ {
+  "w": "de",
+  "start": 27.38,
+  "eind": 27.52
+ },
+ {
+  "w": "datum,",
+  "start": 27.52,
+  "eind": 27.98
+ },
+ {
+  "w": "wat",
+  "start": 28.16,
+  "eind": 28.28
+ },
+ {
+  "w": "ik",
+  "start": 28.28,
+  "eind": 28.5
+ },
+ {
+  "w": "gedaan",
+  "start": 28.5,
+  "eind": 28.76
+ },
+ {
+  "w": "heb",
+  "start": 28.76,
+  "eind": 29.0
+ },
+ {
+  "w": "en",
+  "start": 29.0,
+  "eind": 29.44
+ },
+ {
+  "w": "21%",
+  "start": 29.44,
+  "eind": 30.28
+ },
+ {
+  "w": "btw.",
+  "start": 30.28,
+  "eind": 30.66
+ },
+ {
+  "w": "Is",
+  "start": 31.05,
+  "eind": 31.45
+ },
+ {
+  "w": "de",
+  "start": 31.45,
+  "eind": 31.59
+ },
+ {
+  "w": "klant",
+  "start": 31.59,
+  "eind": 31.87
+ },
+ {
+  "w": "een",
+  "start": 31.87,
+  "eind": 32.01
+ },
+ {
+  "w": "bedrijf,",
+  "start": 32.01,
+  "eind": 32.37
+ },
+ {
+  "w": "dan",
+  "start": 32.45,
+  "eind": 32.51
+ },
+ {
+  "w": "gaat",
+  "start": 32.51,
+  "eind": 32.63
+ },
+ {
+  "w": "de",
+  "start": 32.63,
+  "eind": 32.81
+ },
+ {
+  "w": "factuur",
+  "start": 32.81,
+  "eind": 33.09
+ },
+ {
+  "w": "met",
+  "start": 33.09,
+  "eind": 33.29
+ },
+ {
+  "w": "één",
+  "start": 33.29,
+  "eind": 33.49
+ },
+ {
+  "w": "klik",
+  "start": 33.49,
+  "eind": 33.67
+ },
+ {
+  "w": "via",
+  "start": 33.67,
+  "eind": 33.87
+ },
+ {
+  "w": "Peppol.",
+  "start": 33.87,
+  "eind": 34.41
+ },
+ {
+  "w": "Bij",
+  "start": 34.61,
+  "eind": 34.71
+ },
+ {
+  "w": "particulieren",
+  "start": 34.71,
+  "eind": 35.49
+ },
+ {
+  "w": "mag",
+  "start": 35.49,
+  "eind": 35.69
+ },
+ {
+  "w": "het",
+  "start": 35.69,
+  "eind": 35.81
+ },
+ {
+  "w": "nog",
+  "start": 35.81,
+  "eind": 35.99
+ },
+ {
+  "w": "gewoon",
+  "start": 35.99,
+  "eind": 36.13
+ },
+ {
+  "w": "als",
+  "start": 36.13,
+  "eind": 36.35
+ },
+ {
+  "w": "pdf",
+  "start": 36.35,
+  "eind": 36.65
+ },
+ {
+  "w": "per",
+  "start": 36.65,
+  "eind": 36.91
+ },
+ {
+  "w": "mail.",
+  "start": 36.91,
+  "eind": 37.11
+ },
+ {
+  "w": "En",
+  "start": 37.46,
+  "eind": 37.86
+ },
+ {
+  "w": "het",
+  "start": 37.86,
+  "eind": 38.0
+ },
+ {
+  "w": "werkt",
+  "start": 38.0,
+  "eind": 38.18
+ },
+ {
+  "w": "ook",
+  "start": 38.18,
+  "eind": 38.38
+ },
+ {
+  "w": "omgekeerd.",
+  "start": 38.38,
+  "eind": 39.02
+ },
+ {
+  "w": "Als",
+  "start": 39.14,
+  "eind": 39.34
+ },
+ {
+  "w": "bedrijf",
+  "start": 39.34,
+  "eind": 39.7
+ },
+ {
+  "w": "moet",
+  "start": 39.7,
+  "eind": 39.82
+ },
+ {
+  "w": "je",
+  "start": 39.82,
+  "eind": 39.94
+ },
+ {
+  "w": "ook",
+  "start": 39.94,
+  "eind": 40.1
+ },
+ {
+  "w": "Peppol",
+  "start": 40.1,
+  "eind": 40.44
+ },
+ {
+  "w": "facturen",
+  "start": 40.44,
+  "eind": 40.8
+ },
+ {
+  "w": "kunnen",
+  "start": 40.8,
+  "eind": 41.02
+ },
+ {
+  "w": "ontvangen.",
+  "start": 41.02,
+  "eind": 41.44
+ },
+ {
+  "w": "Bij",
+  "start": 41.62,
+  "eind": 41.94
+ },
+ {
+  "w": "mij",
+  "start": 41.94,
+  "eind": 42.08
+ },
+ {
+  "w": "komen",
+  "start": 42.08,
+  "eind": 42.3
+ },
+ {
+  "w": "die",
+  "start": 42.3,
+  "eind": 42.48
+ },
+ {
+  "w": "rechtstreeks",
+  "start": 42.48,
+  "eind": 42.92
+ },
+ {
+  "w": "in",
+  "start": 42.92,
+  "eind": 43.1
+ },
+ {
+  "w": "Accountable.",
+  "start": 43.1,
+  "eind": 43.52
+ },
+ {
+  "w": "Zo",
+  "start": 43.86,
+  "eind": 44.24
+ },
+ {
+  "w": "heb",
+  "start": 44.24,
+  "eind": 44.4
+ },
+ {
+  "w": "ik",
+  "start": 44.4,
+  "eind": 44.52
+ },
+ {
+  "w": "alles",
+  "start": 44.52,
+  "eind": 44.72
+ },
+ {
+  "w": "op",
+  "start": 44.72,
+  "eind": 44.9
+ },
+ {
+  "w": "één",
+  "start": 44.9,
+  "eind": 45.08
+ },
+ {
+  "w": "plek",
+  "start": 45.08,
+  "eind": 45.28
+ },
+ {
+  "w": "als",
+  "start": 45.28,
+  "eind": 45.44
+ },
+ {
+  "w": "ik",
+  "start": 45.44,
+  "eind": 45.56
+ },
+ {
+  "w": "mijn",
+  "start": 45.56,
+  "eind": 45.7
+ },
+ {
+  "w": "btw-aangifte",
+  "start": 45.7,
+  "eind": 46.54
+ },
+ {
+  "w": "invul.",
+  "start": 46.54,
+  "eind": 46.82
+ }
+]

@@ -58,6 +58,7 @@ Drive-pad: `07. MARKETING / 1. Social Media /`
     voor en meteen na, met **"Voor" en "Na"** bovenaan in beeld (pop). In **ondernemingsvideo's** mogen werkbeelden van verschillende klussen wel gemengd
     worden als illustratie bij wat er gezegd wordt.
   - Downloaden lukt alleen als de map gedeeld is als "Iedereen met de link · Kijker".
+    Yelte gaf toestemming (28/11/2026) om elke map `Video <n>` daarvoor zelf zo te delen, zonder het telkens te vragen.
 - Bestaande documenten in `1. Social Media/Content/`: "Ideeën ondernemingsvideo's"
   (uitgewerkte teksten voor de reeks), "Intro dat ik had", "01/2027 - Content planner",
   en in `1. Social Media/`: "SOCIAL MEDIA OVERZICHT MAGITS" (doelgroepen, contentpijlers, CTA's).

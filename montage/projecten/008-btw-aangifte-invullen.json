@@ -1,0 +1,111 @@
+{
+ "titel": "Ondernemingsvideo 8 · Aflevering 8",
+ "uitvoer": "output/008-btw-aangifte-invullen.mp4",
+ "overgang": 0,
+ "clips": [
+  {
+   "bestand": "media/a008/IMG_3157.mp4",
+   "van": 0.77,
+   "tot": 2.78
+  },
+  {
+   "bestand": "media/a008/IMG_3158.mp4",
+   "van": 0.25,
+   "tot": 4.0,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a008/IMG_3160.mp4",
+   "van": 0.62,
+   "tot": 4.81
+  },
+  {
+   "bestand": "media/a008/IMG_3163.mp4",
+   "van": 1.36,
+   "tot": 6.37,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a008/IMG_3166.mp4",
+   "van": 3.44,
+   "tot": 6.84
+  },
+  {
+   "bestand": "media/a008/IMG_3169.mp4",
+   "van": 0.41,
+   "tot": 10.47,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a008/IMG_3172.mp4",
+   "van": 0.3,
+   "tot": 3.65
+  },
+  {
+   "bestand": "media/a008/IMG_3174.mp4",
+   "van": 0.63,
+   "tot": 5.62,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a008/IMG_3175.mp4",
+   "van": 1.32,
+   "tot": 4.8
+  },
+  {
+   "bestand": "media/a008/IMG_3176.mp4",
+   "van": 1.1,
+   "tot": 3.93,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a008/IMG_3177.mp4",
+   "van": 0.4,
+   "tot": 3.73
+  },
+  {
+   "bestand": "media/a008/IMG_3181.mp4",
+   "van": 1.96,
+   "tot": 6.85,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a008/IMG_3182.mp4",
+   "van": 0.4,
+   "tot": 2.65
+  },
+  {
+   "bestand": "media/a008/IMG_3184.mp4",
+   "van": 2.58,
+   "tot": 6.93,
+   "zoom": 1.12
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/008-btw-aangifte-invullen.woorden.json",
+ "hook": {
+  "tekst": "Btw-aangifte | zo doe ik het",
+  "tot": 1.96
+ },
+ "teksten": [
+  {
+   "tekst": "Per kwartaal",
+   "van": 7.8,
+   "tot": 9.8,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "25 januari",
+   "van": 16.98,
+   "tot": 18.58,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Intervat",
+   "van": 30.94,
+   "tot": 32.74,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}

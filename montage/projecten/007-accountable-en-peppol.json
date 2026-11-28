@@ -1,0 +1,100 @@
+{
+ "titel": "Ondernemingsvideo 7 · Aflevering 7",
+ "uitvoer": "output/007-accountable-en-peppol.mp4",
+ "overgang": 0,
+ "clips": [
+  {
+   "bestand": "media/a007/IMG_3131.mp4",
+   "van": 0.45,
+   "tot": 2.8
+  },
+  {
+   "bestand": "media/a007/IMG_3132.mp4",
+   "van": 0.75,
+   "tot": 4.4,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a007/IMG_3135.mp4",
+   "van": 0.6,
+   "tot": 4.65
+  },
+  {
+   "bestand": "media/a007/IMG_3136.mp4",
+   "van": 1.0,
+   "tot": 2.65,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a007/IMG_3138.mp4",
+   "van": 0.8,
+   "tot": 5.7
+  },
+  {
+   "bestand": "media/a007/IMG_3139.mp4",
+   "van": 0.0,
+   "tot": 1.62,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a007/IMG_3142.mp4",
+   "van": 0.0,
+   "tot": 3.55
+  },
+  {
+   "bestand": "media/a007/IMG_3146.mp4",
+   "van": 1.25,
+   "tot": 10.4,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a007/IMG_3152.mp4",
+   "van": 0.55,
+   "tot": 6.95
+  },
+  {
+   "bestand": "media/a007/IMG_3153.mp4",
+   "van": 1.0,
+   "tot": 5.3,
+   "zoom": 1.12
+  },
+  {
+   "bestand": "media/a007/IMG_3154.mp4",
+   "van": 0.0,
+   "tot": 2.1
+  },
+  {
+   "bestand": "media/a007/IMG_3156.mp4",
+   "van": 1.4,
+   "tot": 4.7,
+   "zoom": 1.12
+  }
+ ],
+ "broll": [],
+ "ondertitels": "montage/projecten/007-accountable-en-peppol.woorden.json",
+ "hook": {
+  "tekst": "Facturen | en Peppol?",
+  "tot": 2.3
+ },
+ "teksten": [
+  {
+   "tekst": "Peppol",
+   "van": 11.84,
+   "tot": 14.04,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "1 klik",
+   "van": 33.49,
+   "tot": 35.49,
+   "stijl": "pop"
+  },
+  {
+   "tekst": "Accountable",
+   "van": 43.1,
+   "tot": 44.9,
+   "stijl": "pop"
+  }
+ ],
+ "eindbeeld": true
+}
