@@ -1,98 +1,106 @@
-# Ondernemingsvideo 6 · Aflevering 6: btw uitgelegd
+# Ondernemingsvideo 6 · Aflevering 6: btw als tuinbedrijf
 
 - **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 66 seconden (met eindbeeld)
-- **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, factuur zonder klantgegevens) en werkbeelden
-- **Bron:** Yelte is btw-plichtig, Acerta activeerde zijn btw-nummer (10/11/2026); regels 2026 opgezocht (zie onderaan)
-- **Status:** klaar om op te nemen
-- **Toon:** vertellend, in de ik-vorm: Yelte vertelt vanuit zijn eigen start, alsof hij het aan een vriend uitlegt.
-  Haakt in op aflevering 4 en elke stap volgt logisch op de vorige, zodat de kijker meegaat in het verhaal.
+- **Lengte:** ± 67 seconden (± 190 woorden + 4 s eindbeeld)
+- **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, facturatieprogramma zonder klantgegevens) en werkbeelden
+- **Bron:** Yelte wist van bij de start dat hij als tuinbedrijf btw-plichtig is, doet zijn btw-aangifte zelf via MyMinfin
+  en maakt facturen met een facturatieprogramma. Regels opgezocht op 28/11/2026 (zie onderaan).
+- **Rode draad:** btw is niet alleen een kost: als btw-plichtige trek je de btw op je aankopen af.
+- **Status:** klaar om op te nemen (eerst de twee vinkjes onderaan nakijken)
 
 ---
 
-## Hook (0–4 s)
-Kies er één:
+## Voorleestekst (in één keer inspreken, alinea per blok)
 
-1. "Aflevering 6. Ik ben btw-plichtig. Dit betekent dat in de praktijk."
-2. "Aflevering 6. Btw-plichtig of vrijgesteld: wat kies je?"
+Als tuinbedrijf kon ik niet kiezen: ik ben sowieso btw-plichtig.
+
+Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces.
+
+De meeste starters met minder dan 25.000 euro omzet per jaar mogen kiezen voor de btw-vrijstelling. Dan reken je geen btw aan en doe je geen btw-aangiftes. Maar wie werken aan gebouwen of grond doet, zoals bouw of tuinaanleg, is daarvan uitgesloten. Hoe klein je omzet ook is.
+
+Dus zet ik 21 procent btw op mijn facturen. Ook bij particulieren, want tuinwerk valt niet onder het lage tarief van 6 procent voor renovatie.
+
+Dat klinkt duur, maar er is ook een voordeel. De btw die ik betaal op materiaal en machines, mag ik aftrekken. Koop ik een machine van 121 euro, dan is 21 euro daarvan btw, en die krijg ik terug via mijn aangifte.
+
+Die aangifte doe ik zelf, per kwartaal, via MyMinfin. De btw die ik aanrekende, min de btw die ik betaalde. Het verschil stort ik door. Zet die btw dus meteen opzij, want dat geld is niet van jou.
+
+En sinds 2026 moeten facturen aan bedrijven elektronisch, via Peppol. Mijn facturatieprogramma doet dat automatisch.
+
+---
+
+## Regie per blok
+
+### Hook (0–4 s)
+Kies er één:
+1. "Als tuinbedrijf kon ik niet kiezen: ik ben sowieso btw-plichtig." (aanbevolen)
+2. "Onder 25.000 euro geen btw? Voor mij als tuinbedrijf niet."
+3. "Iedereen zegt: start met de btw-vrijstelling. Ik mocht niet."
 
 > Beeld: Yelte in de camera, dicht bij.
-> Groot in het midden als pop-up (nog geen ondertitels): **Btw: plichtig of vrijgesteld?**
+> Groot in het midden als pop-up (nog geen ondertitels): **Tuinbedrijf? | Altijd btw-plichtig**
 
-## Vaste intro (4–10 s)
+### Vaste intro (4–9 s)
 "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
 
-## Link met aflevering 4 (10–15 s)
-"In aflevering 4 vertelde ik dat Acerta mijn btw-nummer activeerde. Vandaag: wat dat betekent."
+### Blok 1 · De vrijstelling, en waarom niet voor mij (9–25 s)
+> Beeld: Yelte in de camera; bij "tuinaanleg" een werkbeeld (haag, tuin).
+> Tekst bovenaan (pop, getal): **€25.000**
 
-> Beeld: Yelte in de camera.
+### Blok 2 · 21 procent (25–33 s)
+> Beeld: laptop met het facturatieprogramma (klantgegevens en bedragen niet leesbaar).
+> Tekst bovenaan (pop, getal): **21%**
 
-## Blok 1 · Het btw-nummer (15–24 s)
-"Je btw-nummer activeer je gratis zelf via MyMinfin, of via je loket, zoals Acerta of Liantis, voor zo'n 60 euro.
-Ik liet het Acerta doen."
+### Blok 3 · Het voordeel: btw aftrekken (33–45 s)
+> Beeld: werkbeelden van materiaal en machines (bosmaaier, haagschaar, aanhangwagen).
 
-> Beeld: laptop met de site van Acerta of MyMinfin (zonder persoonlijke gegevens).
+### Blok 4 · Zelf aangifte doen (45–57 s)
+> Beeld: laptop met MyMinfin (startpagina, geen naam of nummers in beeld), daarna Yelte in de camera bij "Zet die btw dus meteen opzij".
 
-## Blok 2 · De vrijstelling (24–37 s)
-"Dan is er een keuze. Verdien je minder dan 25.000 euro per jaar, dan mag je vrijgesteld worden.
-Je rekent geen btw aan en doet geen aangiftes.
-Maar de btw op wat je koopt, krijg je ook niet terug."
-
-> Beeld: Yelte in de camera.
-> Groot in beeld (getal): **€25.000**
-
-## Blok 3 · Btw-plichtig (37–49 s)
-"Ik ben btw-plichtig. Dus zet ik btw op mijn facturen, meestal 21 procent.
-Die geef je meestal per kwartaal aan via MyMinfin.
-En de btw op mijn aankopen, zoals materiaal of brandstof, mag ik aftrekken."
-
-> Beeld: laptop met MyMinfin of een factuur (zonder klantgegevens).
-> Groot in beeld (getal): **21%**
-
-## Blok 4 · Wat kies je? (49–58 s)
-"Wat is voor jou het beste? Koop je veel materiaal of werk je vooral voor bedrijven, dan is btw-plichtig vaak interessanter.
-Anders is de vrijstelling eenvoudiger."
-
-> Beeld: werkbeelden (materiaal, camionette).
-
-## Blok 5 · Nieuw sinds 2026 (58–62 s)
-"En let op: sinds 2026 moeten facturen aan bedrijven elektronisch, via Peppol."
-
-> Beeld: Yelte in de camera, rustig en direct.
+### Blok 5 · Peppol (57–63 s)
+> Beeld: laptop met het facturatieprogramma, daarna Yelte in de camera.
+> Tekst bovenaan (pop): **Peppol**
 > Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
+
+## Even nakijken vóór de opname
+- [ ] Doe je je aangifte **per kwartaal**? (Standaard voor starters; als je maandelijks aangeeft, pas "per kwartaal" aan.)
+- [ ] Verstuurt je facturatieprogramma echt **via Peppol**? Zo niet, dan wordt de laatste zin: "Daar zorg ik dus voor met mijn facturatieprogramma."
 
 ## Opnamelijst (wat ik nodig heb in de map)
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
 - [ ] Hook (de gekozen versie)
 - [ ] Vaste intro ("Hallo, ik ben Yelte…")
-- [ ] Link met aflevering 4
-- [ ] Blok 1 · Het btw-nummer
-- [ ] Blok 2 · De vrijstelling
-- [ ] Blok 3 · Btw-plichtig
-- [ ] Blok 4 · Wat kies je?
-- [ ] Blok 5 · Nieuw sinds 2026
+- [ ] Blok 1 · De vrijstelling
+- [ ] Blok 2 · 21 procent
+- [ ] Blok 3 · Btw aftrekken
+- [ ] Blok 4 · Zelf aangifte doen
+- [ ] Blok 5 · Peppol
 
 **Beelden** (3 tot 5 seconden, geen praten nodig):
 - [ ] Laptop met MyMinfin (startpagina, zonder naam of nummers in beeld)
-- [ ] Een factuur op je laptop (klantgegevens en bedragen niet leesbaar)
+- [ ] Laptop met je facturatieprogramma (klantgegevens en bedragen niet leesbaar)
 
-Let op: camera altijd op jezelf, op ooghoogte, en het script buiten beeld. Werkbeelden zoek ik zelf in BEELDMATERIAAL.
+Let op: camera altijd op jezelf, op ooghoogte, en het script buiten beeld. Werkbeelden van materiaal en machines zoek ik zelf in BEELDMATERIAAL.
 
 ## Caption
-> Aflevering 6. Ik ben btw-plichtig. Wat betekent dat, en wat is de andere optie?
-> Btw-nummer: gratis zelf via MyMinfin, of via je ondernemingsloket (± €60).
-> Vrijstelling (onder €25.000 per jaar): geen btw aanrekenen, geen btw-aangiftes, maar ook geen btw terug op je aankopen.
-> Btw-plichtig: btw op je facturen (meestal 21%), aangifte meestal per kwartaal, en btw op aankopen mag je aftrekken.
-> Sinds 2026: facturen aan andere Belgische bedrijven elektronisch via Peppol.
-> Twijfel je? Vraag het na bij je ondernemingsloket of een boekhouder.
+> Aflevering 6. Als tuinbedrijf mocht ik niet kiezen voor de btw-vrijstelling.
+> De vrijstelling (onder €25.000 omzet per jaar) geldt niet voor wie werken aan gebouwen of grond doet, zoals bouw of tuinaanleg. Hoe klein je omzet ook is.
+> Btw-plichtig betekent: 21% op je facturen, maar ook de btw op je materiaal en machines aftrekken.
+> Sinds 2026: facturen aan bedrijven elektronisch via Peppol.
+> Twijfel je over jouw situatie? Vraag het na bij je ondernemingsloket of een boekhouder.
 >
 > #ondernemen #eigenzaak #jongeondernemer #btw #zelfstandige
 
 ---
 
-## Bronnen (opgezocht op 10/11/2026)
-- Vrijstellingsregeling kleine ondernemingen, grens €25.000: accountable.eu
-- Verplichte B2B-e-facturatie via Peppol sinds 1 januari 2026, ook voor de vrijstellingsregeling; facturen aan particulieren vallen er niet onder: unizo.be, accountable.eu
+## Bronnen (opgezocht op 28/11/2026)
+- Werken in onroerende staat (o.a. tuinaanleg) uitgesloten van de vrijstellingsregeling, ongeacht omzet:
+  [Certifisc](https://www.certifisc.be/nl/posts/kan-ik-kiezen-voor-de-vrijstellingsregeling-kleine-ondernemingen-indien-ik-geregeld-werken-in-onroerende-staat-verricht),
+  [Acerta](https://www.acerta.be/nl/starters/je-voorbereiding/btw-vrijstelling),
+  [Liantis](https://www.liantis.be/nl/zelfstandig-worden/btw-nummer/aanvragen/vrijstelling-btw-kleine-onderneming)
+- Grens €25.000 per jaar: zelfde bronnen
+- Tuinaanleg niet onder 6% voor renovatie: [Test-Aankoop](https://www.test-aankoop.be/geld/belastingen/dossier/btw-voor-werkzaamheden-aan-de-woning-belgie),
+  [FOD Financiën](https://fin.belgium.be/nl/particulieren/woning/bouwen-verbouwen/verbouwen/verbouwen-btw-tarief)
+- Verplichte B2B-e-facturatie via Peppol sinds 1 januari 2026; facturen aan particulieren vallen er niet onder: unizo.be, accountable.eu
