@@ -83,18 +83,6 @@
  ],
  "broll": [
   {
-   "bestand": "media/bm/20261030_080636.mp4",
-   "van": 0.0,
-   "op": 10.6,
-   "duur": 1.7
-  },
-  {
-   "bestand": "media/bm/20261102_155908.mp4",
-   "van": 0.0,
-   "op": 18.2,
-   "duur": 1.9
-  },
-  {
    "bestand": "media/bm/20261102_143513.mp4",
    "van": 0.0,
    "op": 23.02,
@@ -104,18 +92,6 @@
    "bestand": "media/bm/20261104_144817.mp4",
    "van": 0.3,
    "op": 34.61,
-   "duur": 2.4
-  },
-  {
-   "bestand": "media/bm/20261030_113149.mp4",
-   "van": 0.2,
-   "op": 38.87,
-   "duur": 2.2
-  },
-  {
-   "bestand": "media/bm/20261104_124611.mp4",
-   "van": 0.5,
-   "op": 42.3,
    "duur": 2.4
   }
  ],
