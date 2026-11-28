@@ -2,7 +2,7 @@
 
 - **Soort:** ondernemen (breed publiek), informatief, deel van de mini-reeks "zelf een zaak starten" (afl. 4 tot 7)
 - **Platforms:** TikTok, Instagram Reels, YouTube Shorts
-- **Lengte:** ± 67 seconden (± 190 woorden + 4 s eindbeeld)
+- **Lengte:** ± 68 seconden (± 192 woorden + 4 s eindbeeld)
 - **Vorm:** Yelte praat recht in de camera, met beelden van laptop (MyMinfin, Accountable zonder klantgegevens) en werkbeelden
 - **Bron:** Yelte wist van bij de start dat hij als tuinbedrijf btw-plichtig is, doet zijn btw-aangifte zelf per kwartaal via MyMinfin
   en maakt facturen met Accountable, dat ze rechtstreeks via Peppol verstuurt. Regels opgezocht op 28/11/2026 (zie onderaan).
@@ -17,6 +17,7 @@ Kies er één:
 1. "Als tuinbedrijf kon ik niet kiezen: ik ben sowieso btw-plichtig." (aanbevolen)
 2. "Onder 25.000 euro geen btw? Voor mij als tuinbedrijf niet."
 3. "Iedereen zegt: start met de btw-vrijstelling. Ik mocht niet."
+4. "In mijn vorige video activeerde ik mijn btw-nummer. Maar kiezen kon ik niet."
 
 > Beeld: Yelte in de camera, dicht bij.
 > Groot in het midden als pop-up (nog geen ondertitels): **Tuinbedrijf? | Altijd btw-plichtig**
@@ -26,30 +27,35 @@ Kies er één:
 
 > Beeld: Yelte in de camera.
 
-## Blok 1 · De vrijstelling, en waarom niet voor mij (9–25 s)
-"De meeste starters met minder dan 25.000 euro omzet per jaar mogen kiezen voor de btw-vrijstelling.
-Dan reken je geen btw aan en doe je geen btw-aangiftes.
+## Link met aflevering 4 (9–13 s)
+"In aflevering 4 was stap 4: je btw-nummer activeren. Nu wat dat betekent."
+
+> Beeld: Yelte in de camera; kort het schermbeeld van MyMinfin uit aflevering 4.
+
+## Blok 1 · De vrijstelling, en waarom niet voor mij (13–27 s)
+"Wie minder dan 25.000 euro omzet per jaar heeft, mag meestal kiezen voor de btw-vrijstelling.
+Dan reken je geen btw aan.
 Maar wie werken aan gebouwen of grond doet, zoals bouw of tuinaanleg, is daarvan uitgesloten.
 Hoe klein je omzet ook is."
 
 > Beeld: Yelte in de camera; bij "tuinaanleg" een werkbeeld (haag, tuin).
 > Groot in beeld (getal): **€25.000**
 
-## Blok 2 · 21 procent (25–33 s)
+## Blok 2 · 21 procent (27–35 s)
 "Dus zet ik 21 procent btw op mijn facturen.
 Ook bij particulieren, want tuinwerk valt niet onder het lage tarief van 6 procent voor renovatie."
 
 > Beeld: Yelte in de camera, daarna laptop met Accountable (klantgegevens en bedragen niet leesbaar).
 > Groot in beeld (getal): **21%**
 
-## Blok 3 · Het voordeel: btw aftrekken (33–45 s)
-"Dat klinkt duur, maar er is ook een voordeel.
+## Blok 3 · Het voordeel: btw aftrekken (35–46 s)
+"Maar er is ook een voordeel.
 De btw die ik betaal op materiaal en machines, mag ik aftrekken.
-Koop ik een machine van 121 euro, dan is 21 euro daarvan btw, en die krijg ik terug via mijn aangifte."
+Bij een machine van 121 euro krijg ik zo 21 euro btw terug."
 
 > Beeld: Yelte in de camera, daarna werkbeelden van materiaal en machines (bosmaaier, haagschaar, aanhangwagen).
 
-## Blok 4 · Zelf aangifte doen (45–57 s)
+## Blok 4 · Zelf aangifte doen (46–58 s)
 "Die aangifte doe ik zelf, per kwartaal, via MyMinfin.
 De btw die ik aanrekende, min de btw die ik betaalde. Het verschil stort ik door.
 Zet die btw dus meteen opzij, want dat geld is niet van jou."
@@ -57,9 +63,9 @@ Zet die btw dus meteen opzij, want dat geld is niet van jou."
 > Beeld: laptop met MyMinfin (startpagina, geen naam of nummers in beeld),
 > daarna Yelte in de camera bij "Zet die btw dus meteen opzij".
 
-## Blok 5 · Peppol (57–63 s)
+## Blok 5 · Peppol (58–65 s)
 "En sinds 2026 moeten facturen aan bedrijven elektronisch, via Peppol.
-Ik gebruik Accountable, en dat doet dat rechtstreeks."
+Accountable doet dat voor mij rechtstreeks."
 
 > Beeld: Yelte in de camera, kort laptop met Accountable.
 > Groot in beeld: **Peppol**
@@ -71,6 +77,7 @@ Ik gebruik Accountable, en dat doet dat rechtstreeks."
 **Praten in de camera** (verticaal, elk blok apart, gerust 2 à 3 takes per blok):
 - [ ] Hook (de gekozen versie)
 - [ ] Vaste intro ("Hallo, ik ben Yelte…")
+- [ ] Link met aflevering 4
 - [ ] Blok 1 · De vrijstelling
 - [ ] Blok 2 · 21 procent
 - [ ] Blok 3 · Btw aftrekken
