@@ -11,28 +11,9 @@
 
 ---
 
-## Voorleestekst (in één keer inspreken, alinea per blok)
-
-Als tuinbedrijf kon ik niet kiezen: ik ben sowieso btw-plichtig.
-
-Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces.
-
-De meeste starters met minder dan 25.000 euro omzet per jaar mogen kiezen voor de btw-vrijstelling. Dan reken je geen btw aan en doe je geen btw-aangiftes. Maar wie werken aan gebouwen of grond doet, zoals bouw of tuinaanleg, is daarvan uitgesloten. Hoe klein je omzet ook is.
-
-Dus zet ik 21 procent btw op mijn facturen. Ook bij particulieren, want tuinwerk valt niet onder het lage tarief van 6 procent voor renovatie.
-
-Dat klinkt duur, maar er is ook een voordeel. De btw die ik betaal op materiaal en machines, mag ik aftrekken. Koop ik een machine van 121 euro, dan is 21 euro daarvan btw, en die krijg ik terug via mijn aangifte.
-
-Die aangifte doe ik zelf, per kwartaal, via MyMinfin. De btw die ik aanrekende, min de btw die ik betaalde. Het verschil stort ik door. Zet die btw dus meteen opzij, want dat geld is niet van jou.
-
-En sinds 2026 moeten facturen aan bedrijven elektronisch, via Peppol. Ik gebruik Accountable, en dat doet dat rechtstreeks.
-
----
-
-## Regie per blok
-
-### Hook (0–4 s)
+## Hook (0–4 s)
 Kies er één:
+
 1. "Als tuinbedrijf kon ik niet kiezen: ik ben sowieso btw-plichtig." (aanbevolen)
 2. "Onder 25.000 euro geen btw? Voor mij als tuinbedrijf niet."
 3. "Iedereen zegt: start met de btw-vrijstelling. Ik mocht niet."
@@ -40,26 +21,48 @@ Kies er één:
 > Beeld: Yelte in de camera, dicht bij.
 > Groot in het midden als pop-up (nog geen ondertitels): **Tuinbedrijf? | Altijd btw-plichtig**
 
-### Vaste intro (4–9 s)
+## Vaste intro (4–9 s)
 "Hallo, ik ben Yelte. Ik ben een eigen bedrijf gestart en neem jullie mee in heel het proces."
 
-### Blok 1 · De vrijstelling, en waarom niet voor mij (9–25 s)
+> Beeld: Yelte in de camera.
+
+## Blok 1 · De vrijstelling, en waarom niet voor mij (9–25 s)
+"De meeste starters met minder dan 25.000 euro omzet per jaar mogen kiezen voor de btw-vrijstelling.
+Dan reken je geen btw aan en doe je geen btw-aangiftes.
+Maar wie werken aan gebouwen of grond doet, zoals bouw of tuinaanleg, is daarvan uitgesloten.
+Hoe klein je omzet ook is."
+
 > Beeld: Yelte in de camera; bij "tuinaanleg" een werkbeeld (haag, tuin).
-> Tekst bovenaan (pop, getal): **€25.000**
+> Groot in beeld (getal): **€25.000**
 
-### Blok 2 · 21 procent (25–33 s)
-> Beeld: laptop met Accountable (klantgegevens en bedragen niet leesbaar).
-> Tekst bovenaan (pop, getal): **21%**
+## Blok 2 · 21 procent (25–33 s)
+"Dus zet ik 21 procent btw op mijn facturen.
+Ook bij particulieren, want tuinwerk valt niet onder het lage tarief van 6 procent voor renovatie."
 
-### Blok 3 · Het voordeel: btw aftrekken (33–45 s)
-> Beeld: werkbeelden van materiaal en machines (bosmaaier, haagschaar, aanhangwagen).
+> Beeld: Yelte in de camera, daarna laptop met Accountable (klantgegevens en bedragen niet leesbaar).
+> Groot in beeld (getal): **21%**
 
-### Blok 4 · Zelf aangifte doen (45–57 s)
-> Beeld: laptop met MyMinfin (startpagina, geen naam of nummers in beeld), daarna Yelte in de camera bij "Zet die btw dus meteen opzij".
+## Blok 3 · Het voordeel: btw aftrekken (33–45 s)
+"Dat klinkt duur, maar er is ook een voordeel.
+De btw die ik betaal op materiaal en machines, mag ik aftrekken.
+Koop ik een machine van 121 euro, dan is 21 euro daarvan btw, en die krijg ik terug via mijn aangifte."
 
-### Blok 5 · Peppol (57–63 s)
-> Beeld: laptop met Accountable, daarna Yelte in de camera.
-> Tekst bovenaan (pop): **Peppol**
+> Beeld: Yelte in de camera, daarna werkbeelden van materiaal en machines (bosmaaier, haagschaar, aanhangwagen).
+
+## Blok 4 · Zelf aangifte doen (45–57 s)
+"Die aangifte doe ik zelf, per kwartaal, via MyMinfin.
+De btw die ik aanrekende, min de btw die ik betaalde. Het verschil stort ik door.
+Zet die btw dus meteen opzij, want dat geld is niet van jou."
+
+> Beeld: laptop met MyMinfin (startpagina, geen naam of nummers in beeld),
+> daarna Yelte in de camera bij "Zet die btw dus meteen opzij".
+
+## Blok 5 · Peppol (57–63 s)
+"En sinds 2026 moeten facturen aan bedrijven elektronisch, via Peppol.
+Ik gebruik Accountable, en dat doet dat rechtstreeks."
+
+> Beeld: Yelte in de camera, kort laptop met Accountable.
+> Groot in beeld: **Peppol**
 > Daarna meteen het standaard zwarte eindbeeld (geen call-to-action).
 
 ---
